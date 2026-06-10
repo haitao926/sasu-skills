@@ -1,0 +1,11 @@
+{
+  "api_token": "your_api_token_here",
+  "api_base_url": "https://mineru.net/api/v4",
+  "default_model": "vlm",
+  "default_language": "ch",
+  "enable_ocr": false,
+  "enable_formula": true,
+  "enable_table": true,
+  "extra_formats": [],
+  "output_dir": "~/Downloads/mineru_output"
+}

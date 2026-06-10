@@ -1,0 +1,7 @@
+skills/mineru-parser/config.json
+skills/sasu-image2/config.local.json
+skills/sasu-image2/.python-deps/
+skills/mineru-parser/__pycache__/
+skills/sasu-image2/__pycache__/
+__pycache__/
+*.pyc
