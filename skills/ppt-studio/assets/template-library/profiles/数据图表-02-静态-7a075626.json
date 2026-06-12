@@ -1,0 +1,5244 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:26.343824+00:00",
+  "template_id": "数据图表-02-静态-7a075626",
+  "template_profile_path": "assets/template-library/profiles/数据图表-02-静态-7a075626.json",
+  "source_template": {
+    "name": "数据图表(02)—静态.pptx",
+    "category": "数据图表（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(02)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 24,
+    "media_count": 35,
+    "image_media_count": 30,
+    "motion_hint": "static",
+    "tags": [
+      "数据图表",
+      "数据分析",
+      "图表汇报",
+      "统计说明",
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论",
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高",
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图",
+      "结论句",
+      "图表注释",
+      "指标标签",
+      "静态版",
+      "高",
+      "图片密度高",
+      "文字密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "数据图表",
+    "scenario": [
+      "数据分析",
+      "图表汇报",
+      "统计说明"
+    ],
+    "best_for": [
+      "数据分析",
+      "业绩汇报",
+      "统计展示"
+    ],
+    "avoid": [
+      "纯情绪海报",
+      "儿童活动风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论"
+    ],
+    "visual": [
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高"
+    ],
+    "image_strategy": [
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图"
+    ],
+    "text_strategy": [
+      "结论句",
+      "图表注释",
+      "指标标签"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "limitations-future",
+      "matrix-grid",
+      "cover-statement",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "chart",
+      "image",
+      "diagram-shapes"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "diagram-block",
+      "chart",
+      "image",
+      "footer",
+      "label"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "middle-right",
+      "bottom-center",
+      "top-center",
+      "bottom-left"
+    ],
+    "template_text_signature": "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年随着线下办公恢复常态,在线协同 活跃用户分布 202X年在线协同办公平台已形成较大规模的普及 35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大 Company Overview Company Overview 整体运营情况 整体运营情况 在线协同办公行业已经形成长期发展趋势 26~35岁占到43.1% 是职场上相对活跃的年龄层 主要产品介绍 集团营收连创新高 集团营收连创新",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "数据图表-02-静态-7a075626-s01",
+      "title_guess": "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年随着线下办公恢复常态,在线协同",
+      "layout_job": "cover-statement",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 24,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.2395,
+        "image_area": 0.0328,
+        "shape_area": 0.708,
+        "text_blob": "大规模发展 大规模发展 202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年随着线下办公恢复常态,在线协同办公平台的用户活跃度有所回落,但行业量级仍然巨大 在线协同办公行业并不只是短期内的爆发,而是已经形成了长期的发展趋势,在未来将会持续大规模地普及,与各行各业进行深度融合 在线协同办公平台整体运营情况 MAU (亿) 渗透率 202X年 202X年 形成较大规模普及 行业活跃用户规模及渗透率 行业渗透率 >60% 202X年行业MAU均值 3.47亿 202X年4月MAU达到峰值 4.68亿 202X年2月流量井喷增长↑66.5%",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 18",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3302,
+            "y": 0.2314,
+            "w": 0.6292,
+            "h": 0.5256
+          },
+          "area": 0.3307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3607,
+            "y": 0.2755,
+            "w": 0.5708,
+            "h": 0.4141
+          },
+          "area": 0.2364,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 15",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.2314,
+            "w": 0.2786,
+            "h": 0.6927
+          },
+          "area": 0.193,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0549,
+            "y": 0.403,
+            "w": 0.2458,
+            "h": 0.4381
+          },
+          "area": 0.1077,
+          "text": "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年随着线下办公恢复常态,在线协同办公平台的用户活跃度有所回落,但行业量级仍然巨大 在线协同办公行业并不只是短期内的爆发,而是已经形成了长期的发展趋势,在未来将会持续大规模地",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 37",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3302,
+            "y": 0.7685,
+            "w": 0.6292,
+            "h": 0.1556
+          },
+          "area": 0.0979,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.1256,
+            "w": 0.1358,
+            "h": 0.2415
+          },
+          "area": 0.0328,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4822,
+            "y": 0.046,
+            "w": 0.3044,
+            "h": 0.0626
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 44",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5189,
+            "y": 0.7897,
+            "w": 0.1678,
+            "h": 0.1132
+          },
+          "area": 0.019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3447,
+            "y": 0.7897,
+            "w": 0.1678,
+            "h": 0.1132
+          },
+          "area": 0.019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6932,
+            "y": 0.7896,
+            "w": 0.1531,
+            "h": 0.1132
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "title": 1,
+          "footer": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "数据图表-02-静态-7a075626-s02",
+      "title_guess": "活跃用户分布",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 14,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 24,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 1,
+        "text_area": 0.1773,
+        "image_area": 0,
+        "shape_area": 0.7862,
+        "text_blob": "活跃用户分布 活跃用户分布 在线协同办公平台整体运营情况 用户性别分布较均衡 男女比例接近 ≈ 1:1 性别分布 男性 女性 35岁及以下用户 占比接近 80% 职场活跃年龄层 26-35岁占比 43.1% 年龄分布 新一线及二三线城市占比约 20% 四线城市占比接近 16% 城市等级分布 下沉市场对于在线协同办公的需求在释放",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 15",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.575,
+            "y": 0.2271,
+            "w": 0.3844,
+            "h": 0.697
+          },
+          "area": 0.2679,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 44",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2616,
+            "y": 0.2271,
+            "w": 0.2986,
+            "h": 0.697
+          },
+          "area": 0.2081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 40",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0414,
+            "y": 0.2271,
+            "w": 0.2054,
+            "h": 0.697
+          },
+          "area": 0.1432,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 12",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5917,
+            "y": 0.5126,
+            "w": 0.3536,
+            "h": 0.3738
+          },
+          "area": 0.1322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 11",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2824,
+            "y": 0.5126,
+            "w": 0.257,
+            "h": 0.3737
+          },
+          "area": 0.096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.3725,
+            "w": 0.1825,
+            "h": 0.3624
+          },
+          "area": 0.0661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3386,
+            "y": 0.7964,
+            "w": 0.1786,
+            "h": 0.1547
+          },
+          "area": 0.0276,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3454,
+            "y": 0.7964,
+            "w": 0.127,
+            "h": 0.1549
+          },
+          "area": 0.0197,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4822,
+            "y": 0.046,
+            "w": 0.3044,
+            "h": 0.0626
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 48",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4822,
+            "y": 0.046,
+            "w": 0.3044,
+            "h": 0.0626
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "数据图表-02-静态-7a075626-s03",
+      "title_guess": "202X年在线协同办公平台已形成较大规模的普及",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-center:2,bottom-right:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 7,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 24,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 6,
+        "text_area": 0.2095,
+        "image_area": 0,
+        "shape_area": 2.2701,
+        "text_blob": "202X年在线协同办公平台已形成较大规模的普及 202X年行业已形成了长期的发展趋势,在未来将持续大规模普及,与各行各业进行深度融合 202X年行业渗透率及活跃用户规模 202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年行业渗透率及活跃用户规模 MAU(亿) 渗透率 MAU(亿) 渗透率 4.68 MAU均值 3.47亿 渗透率 >60% 202X年2月 开始大幅增长 202X年4月 达到峰值4.68亿 行业MAU",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 51",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1996,
+            "w": 0.8859,
+            "h": 0.7537
+          },
+          "area": 0.6677,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 48",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6526,
+            "w": 1.0,
+            "h": 0.3474
+          },
+          "area": 0.3474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 55",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7504,
+            "w": 1.0,
+            "h": 0.2496
+          },
+          "area": 0.2496,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 5",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5051,
+            "y": 0.5782,
+            "w": 0.4147,
+            "h": 0.3296
+          },
+          "area": 0.1367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 14",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.5782,
+            "w": 0.4147,
+            "h": 0.3296
+          },
+          "area": 0.1367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0578,
+            "y": 0.0619,
+            "w": 0.8358,
+            "h": 0.0756
+          },
+          "area": 0.0632,
+          "text": "202X年在线协同办公平台已形成较大规模的普及",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5172,
+            "y": 0.2364,
+            "w": 0.4026,
+            "h": 0.1077
+          },
+          "area": 0.0434,
+          "text": "202X年行业已形成了长期的发展趋势,在未来将持续大规模普及,与各行各业进行深度融合",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0778,
+            "y": 0.2364,
+            "w": 0.3325,
+            "h": 0.1077
+          },
+          "area": 0.0358,
+          "text": "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5209,
+            "y": 0.524,
+            "w": 0.2093,
+            "h": 0.0404
+          },
+          "area": 0.0085,
+          "text": "202X年行业渗透率及活跃用户规模",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0797,
+            "y": 0.524,
+            "w": 0.2093,
+            "h": 0.0404
+          },
+          "area": 0.0085,
+          "text": "202X年行业渗透率及活跃用户规模",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 2,
+          "footer": 13,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "数据图表-02-静态-7a075626-s04",
+      "title_guess": "35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 36,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 24,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 36,
+        "connector_count": 11,
+        "text_area": 0.2149,
+        "image_area": 0,
+        "shape_area": 2.807,
+        "text_blob": "35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大 男女比例接近1:1 用户性别分布较均衡 性别分布 52% 48% 下沉市场对于在线协同办公的需求在释放 用户主要分布在新一线及二三线及四线城市上 地域分布 以35岁及以下职场活跃用户为主,占比接近80% 年龄分布 一线 新一线 二线 三线 四线 五线及以下 19.6% 15.7% 10.7% 11.2% 22.0% 20.9%",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 222",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6919,
+            "w": 1.0,
+            "h": 0.3081
+          },
+          "area": 0.3081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 221",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7786,
+            "w": 1.0,
+            "h": 0.2214
+          },
+          "area": 0.2214,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 175",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2584,
+            "w": 0.2846,
+            "h": 0.6714
+          },
+          "area": 0.1911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 178",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6583,
+            "y": 0.2584,
+            "w": 0.2846,
+            "h": 0.6714
+          },
+          "area": 0.1911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 176",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3577,
+            "y": 0.2584,
+            "w": 0.2846,
+            "h": 0.6714
+          },
+          "area": 0.1911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0504,
+            "y": 0.0585,
+            "w": 0.7628,
+            "h": 0.1391
+          },
+          "area": 0.1061,
+          "text": "35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3752,
+            "y": 0.551,
+            "w": 0.2495,
+            "h": 0.3248
+          },
+          "area": 0.081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 223",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0716,
+            "y": 0.2861,
+            "w": 0.2576,
+            "h": 0.2027
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 247",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6719,
+            "y": 0.2861,
+            "w": 0.2576,
+            "h": 0.2027
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 246",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3712,
+            "y": 0.2861,
+            "w": 0.2576,
+            "h": 0.2027
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 3,
+          "footer": 18
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "数据图表-02-静态-7a075626-s05",
+      "title_guess": "Company Overview",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 9,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 24,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 6,
+        "text_area": 0.2097,
+        "image_area": 0,
+        "shape_area": 0.5963,
+        "text_blob": "Company Overview 在线协同办公平台整体运营情况 过去一年在线协同办公平台平均月活为3.47亿,已形成较大规模的普及 202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 行业 MAU 202X年02月 开始大幅增长 并在04月 达到峰值4.68亿 202X年已经形成了长期的发展趋势,在未来将会持续大规模地普及,与各行各业进行深度融合 202X年行业MAU均值3.47亿的量级 行业渗透率 60%以上 202X年行业渗透率及活跃用户规模 MAU(亿) 渗透率 202X年行业渗透率及活跃用户规模 MAU(亿) 渗透率",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 145",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0691,
+            "y": 0.2358,
+            "w": 0.8619,
+            "h": 0.2751
+          },
+          "area": 0.2371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 147",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0691,
+            "y": 0.5398,
+            "w": 0.4254,
+            "h": 0.3869
+          },
+          "area": 0.1646,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 148",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5055,
+            "y": 0.5398,
+            "w": 0.4254,
+            "h": 0.3869
+          },
+          "area": 0.1646,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 47",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0793,
+            "y": 0.6321,
+            "w": 0.4049,
+            "h": 0.284
+          },
+          "area": 0.115,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 48",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5158,
+            "y": 0.6321,
+            "w": 0.4049,
+            "h": 0.284
+          },
+          "area": 0.115,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0795,
+            "w": 0.5337,
+            "h": 0.0718
+          },
+          "area": 0.0383,
+          "text": "在线协同办公平台整体运营情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2005,
+            "y": 0.0734,
+            "w": 0.4639,
+            "h": 0.0673
+          },
+          "area": 0.0312,
+          "text": "Company Overview",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 128",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5289,
+            "y": 0.2654,
+            "w": 0.3676,
+            "h": 0.0845
+          },
+          "area": 0.0311,
+          "text": "202X年已经形成了长期的发展趋势,在未来将会持续大规模地普及,与各行各业进行深度融合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 111",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0802,
+            "y": 0.2654,
+            "w": 0.3476,
+            "h": 0.0845
+          },
+          "area": 0.0294,
+          "text": "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 99",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0696,
+            "y": 0.135,
+            "w": 0.8921,
+            "h": 0.027
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 7,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "数据图表-02-静态-7a075626-s06",
+      "title_guess": "Company Overview",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 24,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.2138,
+        "image_area": 0,
+        "shape_area": 0.6151,
+        "text_blob": "Company Overview 在线协同办公平台整体运营情况 35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大 性别分布 目前使用在线协同办公平台的用户性别分布较均衡,男女比例接近1:1: 年龄分布 主要以35岁及以下的用户为主,占比接近80%,其中26-35岁占到43.10%,是职场上相对活跃的年龄层 52% 男性 女性 48% 地域分布 主要分布在新一线及二、三线城市上,占比均在20%左右,而四线城市也有接近16%的占比,超过一线城市。说明下沉市场对于在线协同办公的需求在释放",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 20",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3091,
+            "y": 0.2375,
+            "w": 0.6204,
+            "h": 0.3332
+          },
+          "area": 0.2067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 51",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3091,
+            "y": 0.5912,
+            "w": 0.6204,
+            "h": 0.3332
+          },
+          "area": 0.2067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0706,
+            "y": 0.2375,
+            "w": 0.227,
+            "h": 0.6869
+          },
+          "area": 0.1559,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 61",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5915,
+            "y": 0.6063,
+            "w": 0.3818,
+            "h": 0.3031
+          },
+          "area": 0.1157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 60",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5915,
+            "y": 0.2526,
+            "w": 0.3495,
+            "h": 0.3031
+          },
+          "area": 0.1059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 26",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0768,
+            "y": 0.4816,
+            "w": 0.2146,
+            "h": 0.3027
+          },
+          "area": 0.065,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 55",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3297,
+            "y": 0.7067,
+            "w": 0.2199,
+            "h": 0.1833
+          },
+          "area": 0.0403,
+          "text": "主要分布在新一线及二、三线城市上,占比均在20%左右,而四线城市也有接近16%的占比,超过一线城市。说明下沉市场对于在线协同办公的需求在释放",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0795,
+            "w": 0.5337,
+            "h": 0.0718
+          },
+          "area": 0.0383,
+          "text": "在线协同办公平台整体运营情况",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 101",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1852,
+            "w": 0.8865,
+            "h": 0.0404
+          },
+          "area": 0.0358,
+          "text": "35岁及以下用户为在线办公的中坚力量,新一线及二三线城市人群对移动办公应用需求大",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3297,
+            "y": 0.353,
+            "w": 0.2199,
+            "h": 0.1462
+          },
+          "area": 0.0321,
+          "text": "主要以35岁及以下的用户为主,占比接近80%,其中26-35岁占到43.10%,是职场上相对活跃的年龄层",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 8,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "数据图表-02-静态-7a075626-s07",
+      "title_guess": "整体运营情况",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,bottom-center:2,top-center:2",
+      "counts": {
+        "text": 15,
+        "image": 5,
+        "chart": 1,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 24,
+        "text_count": 15,
+        "image_count": 5,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.1346,
+        "image_area": 2.3536,
+        "shape_area": 1.6457,
+        "text_blob": "整体运营情况 64.4% 峰值 渗透率 4.68亿 202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势 202X年2月 在线协同办公行业渗透率及活跃用户规模 MAU 开始大幅增长 202X年4月 达到峰值4.68亿 202X年,在线协同办公平台的用户活跃度有所回落 202X年行业形成了长期的发展趋势,在未来将持续大规模普及,与各行各业进行深度融合 MAU均值3.47亿的量级 渗透率保持在60%以上",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0039,
+            "w": 0.9996,
+            "h": 1.0
+          },
+          "area": 0.9996,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 38",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5103,
+            "y": -0.0712,
+            "w": 0.6285,
+            "h": 1.0778
+          },
+          "area": 0.6774,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0224,
+            "y": 0.0557,
+            "w": 0.5429,
+            "h": 0.9652
+          },
+          "area": 0.524,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0449,
+            "y": 0.2154,
+            "w": 0.9098,
+            "h": 0.4283
+          },
+          "area": 0.3897,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 14",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0743,
+            "y": 0.2081,
+            "w": 0.8641,
+            "h": 0.4386
+          },
+          "area": 0.379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 41",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0451,
+            "y": 0.6736,
+            "w": 0.9098,
+            "h": 0.2444
+          },
+          "area": 0.2224,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 45",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0763,
+            "y": 0.6888,
+            "w": 0.257,
+            "h": 0.5227
+          },
+          "area": 0.1343,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 3582",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2872,
+            "y": 0.2454,
+            "w": 0.4259,
+            "h": 0.0785
+          },
+          "area": 0.0334,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 47",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4947,
+            "y": 0.6985,
+            "w": 0.3248,
+            "h": 0.0756
+          },
+          "area": 0.0246,
+          "text": "202X年行业形成了长期的发展趋势,在未来将持续大规模普及,与各行各业进行深度融合",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 35",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3168,
+            "y": 0.2575,
+            "w": 0.3725,
+            "h": 0.0552
+          },
+          "area": 0.0206,
+          "text": "在线协同办公行业渗透率及活跃用户规模",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 12
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "数据图表-02-静态-7a075626-s08",
+      "title_guess": "整体运营情况",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 13,
+        "image": 5,
+        "chart": 2,
+        "table": 0,
+        "shape": 15,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 24,
+        "text_count": 13,
+        "image_count": 5,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 3,
+        "text_area": 0.1066,
+        "image_area": 1.826,
+        "shape_area": 1.9671,
+        "text_blob": "整体运营情况 性别分布 性别分布较均衡,男女比例接近1:1 男性 女性 52% 48% 年龄分布 35岁及以下的用户为主,占比接近80% 26-35岁占到43.1%,是职场上相对活跃的年龄层 下沉市场对于在线协同办公的需求在释放 用户主要分布在新一线及二三线城市上 地域分布",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 50",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0039,
+            "w": 0.9996,
+            "h": 1.0
+          },
+          "area": 0.9996,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4228,
+            "y": 0.0986,
+            "w": 0.5333,
+            "h": 0.9209
+          },
+          "area": 0.4911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 59",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0796,
+            "y": 0.5826,
+            "w": 0.2936,
+            "h": 0.7213
+          },
+          "area": 0.2118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 23",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0565,
+            "y": 0.2167,
+            "w": 0.2953,
+            "h": 0.704
+          },
+          "area": 0.2079,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 19",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3637,
+            "y": 0.2196,
+            "w": 0.2953,
+            "h": 0.7003
+          },
+          "area": 0.2068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 31",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6673,
+            "y": 0.2252,
+            "w": 0.2953,
+            "h": 0.7003
+          },
+          "area": 0.2068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 16",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0646,
+            "y": 0.5052,
+            "w": 0.2747,
+            "h": 0.4119
+          },
+          "area": 0.1131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8447,
+            "y": 0.6821,
+            "w": 0.2104,
+            "h": 0.5169
+          },
+          "area": 0.1088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.545,
+            "w": 0.2508,
+            "h": 0.3398
+          },
+          "area": 0.0852,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3637,
+            "y": 0.2159,
+            "w": 0.2953,
+            "h": 0.2615
+          },
+          "area": 0.0772,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 11
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "数据图表-02-静态-7a075626-s09",
+      "title_guess": "在线协同办公行业已经形成长期发展趋势",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 7,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 24,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 1,
+        "text_area": 0.2197,
+        "image_area": 0,
+        "shape_area": 0.7728,
+        "text_blob": "在线协同办公行业已经形成长期发展趋势 202X年,疫情爆发期间 202X年,疫情好转以及线下办公恢复常态 用户活跃度有所回落 行业MAU均值仍有3.47亿的量级 行业渗透率保持在60%以上 202X 202X 行业MAU(亿) 行业渗透率(%) 呈现流量井喷的增长态势 行业MAU在2月开始大幅增长 在4月达到峰值4.68亿",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 31",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0708,
+            "y": 0.1774,
+            "w": 0.8573,
+            "h": 0.7759
+          },
+          "area": 0.6652,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 14",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0877,
+            "y": 0.5201,
+            "w": 0.8235,
+            "h": 0.4661
+          },
+          "area": 0.3838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 23",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0877,
+            "y": 0.6323,
+            "w": 0.8235,
+            "h": 0.3082
+          },
+          "area": 0.2538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4909,
+            "y": 0.2583,
+            "w": 0.3663,
+            "h": 0.1495
+          },
+          "area": 0.0548,
+          "text": "用户活跃度有所回落 行业MAU均值仍有3.47亿的量级 行业渗透率保持在60%以上",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0908,
+            "y": 0.2583,
+            "w": 0.3663,
+            "h": 0.1495
+          },
+          "area": 0.0548,
+          "text": "呈现流量井喷的增长态势 行业MAU在2月开始大幅增长 在4月达到峰值4.68亿",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 9",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0622,
+            "y": 0.0684,
+            "w": 0.621,
+            "h": 0.0853
+          },
+          "area": 0.053,
+          "text": "在线协同办公行业已经形成长期发展趋势",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.4463,
+            "w": 0.4283,
+            "h": 0.0618
+          },
+          "area": 0.0265,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 33",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.4316,
+            "w": 0.4283,
+            "h": 0.0618
+          },
+          "area": 0.0265,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 36",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.4463,
+            "w": 0.4283,
+            "h": 0.0618
+          },
+          "area": 0.0265,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.4316,
+            "w": 0.4283,
+            "h": 0.0618
+          },
+          "area": 0.0265,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 6,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "数据图表-02-静态-7a075626-s10",
+      "title_guess": "26~35岁占到43.1% 是职场上相对活跃的年龄层",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 33,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 22,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 24,
+        "text_count": 33,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 22,
+        "connector_count": 7,
+        "text_area": 0.1786,
+        "image_area": 0,
+        "shape_area": 1.165,
+        "text_blob": "26~35岁占到43.1% 是职场上相对活跃的年龄层 Age 年龄分布 25 岁以下 26 ~ 35岁 36 ~ 45岁 46 岁以上 36.0% 43.1% 12.6% 8.3% 以 35 岁及以下的用户为主 占比接近 80% 性别分布 Gender 52% 48% 男女比例接近 1 : 1 较均衡 City 地域分布 用户主要分布在新一线及二三线城市上 下沉市场对于在线协同办公的需求在释放 一线 11.2% 新一线 22.0% 二线 20.9% 五线及以下 10.7% 三线 19.6% 四线 15.7%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 33",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6182,
+            "y": 0.2615,
+            "w": 0.31,
+            "h": 0.6714
+          },
+          "area": 0.2081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 35",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.313,
+            "y": 0.2584,
+            "w": 0.2846,
+            "h": 0.6714
+          },
+          "area": 0.1911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0705,
+            "y": 0.2584,
+            "w": 0.2221,
+            "h": 0.6714
+          },
+          "area": 0.1491,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 30",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0704,
+            "y": 0.0919,
+            "w": 0.7004,
+            "h": 0.1276
+          },
+          "area": 0.0894,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 86",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.618,
+            "y": 0.2584,
+            "w": 0.31,
+            "h": 0.229
+          },
+          "area": 0.071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.313,
+            "y": 0.2584,
+            "w": 0.2846,
+            "h": 0.229
+          },
+          "area": 0.0652,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "不完整圆 112",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0708,
+            "y": 0.5597,
+            "w": 0.1877,
+            "h": 0.3337
+          },
+          "area": 0.0626,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "不完整圆 113",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0708,
+            "y": 0.5597,
+            "w": 0.1877,
+            "h": 0.3337
+          },
+          "area": 0.0626,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 164",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5325,
+            "y": 0.5037,
+            "w": 0.1758,
+            "h": 0.2992
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3265,
+            "y": 0.2861,
+            "w": 0.2576,
+            "h": 0.2027
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 23,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "数据图表-02-静态-7a075626-s11",
+      "title_guess": "主要产品介绍",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:5,top-left:2,top-right:1",
+      "counts": {
+        "text": 23,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 4,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 24,
+        "text_count": 23,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 5,
+        "text_area": 0.1776,
+        "image_area": 0.3375,
+        "shape_area": 3.5113,
+        "text_blob": "主要产品介绍 202X年财报数据 其他产品 米果类 休闲食品类 乳品及饮料类 128.74亿元 53.67% 营收占比 55.92亿元 营业收入 23.32% 营收占比 53.97亿元 营业收入 22.50% 营收占比 1.22亿元 营业收入 0.51% 营收占比 营业收入 四大类 主营产品",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 3283",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1897,
+            "y": -0.029,
+            "w": 0.6205,
+            "h": 1.1032
+          },
+          "area": 0.6845,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.233,
+            "y": 0.2646,
+            "w": 0.534,
+            "h": 0.6321
+          },
+          "area": 0.3375,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2332,
+            "y": 0.2063,
+            "w": 0.5336,
+            "h": 0.6324
+          },
+          "area": 0.3374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.417,
+            "y": 0.375,
+            "w": 0.166,
+            "h": 0.2952
+          },
+          "area": 0.049,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0633,
+            "y": 0.0808,
+            "w": 0.3536,
+            "h": 0.0808
+          },
+          "area": 0.0286,
+          "text": "主要产品介绍",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 3228",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4333,
+            "y": 0.4886,
+            "w": 0.1333,
+            "h": 0.0942
+          },
+          "area": 0.0126,
+          "text": "四大类 主营产品",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0617,
+            "y": 0.2821,
+            "w": 0.1715,
+            "h": 0.0628
+          },
+          "area": 0.0108,
+          "text": "乳品及饮料类",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7735,
+            "y": 0.2821,
+            "w": 0.1614,
+            "h": 0.0628
+          },
+          "area": 0.0101,
+          "text": "米果类",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0625,
+            "y": 0.4237,
+            "w": 0.149,
+            "h": 0.0673
+          },
+          "area": 0.01,
+          "text": "128.74亿元",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7886,
+            "y": 0.6575,
+            "w": 0.1464,
+            "h": 0.0628
+          },
+          "area": 0.0092,
+          "text": "休闲食品类",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 14,
+          "footer": 9
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "数据图表-02-静态-7a075626-s12",
+      "title_guess": "集团营收连创新高",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 24,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1867,
+        "image_area": 0.8742,
+        "shape_area": 0.8515,
+        "text_blob": "1.50 0.30 0.80 1.00 1.10 202X 202X 202X 202X 202X 尽管面对疫情的压力,基于疫情下公共卫生意识提高的推动,柔扇集团的业务在各地市场继续稳步推进,通过精准高效的品牌宣传,深化客户及大众对 “呵护每一个美好瞬间”品牌理念的了解。 集团营收连创新高",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 87",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.7816,
+            "h": 0.8848
+          },
+          "area": 0.6916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0695,
+            "y": 0.4098,
+            "w": 0.8611,
+            "h": 0.4604
+          },
+          "area": 0.3965,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 28",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0722,
+            "y": 0.4121,
+            "w": 0.8557,
+            "h": 0.3648
+          },
+          "area": 0.3122,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 84",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.2169,
+            "y": 0.053,
+            "w": 0.3225,
+            "h": 0.5663
+          },
+          "area": 0.1826,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8702,
+            "w": 1.0,
+            "h": 0.1355
+          },
+          "area": 0.1355,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 83",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0695,
+            "y": 0.2164,
+            "w": 0.8611,
+            "h": 0.1005
+          },
+          "area": 0.0865,
+          "text": "尽管面对疫情的压力,基于疫情下公共卫生意识提高的推动,柔扇集团的业务在各地市场继续稳步推进,通过精准高效的品牌宣传,深化客户及大众对 “呵护每一个美好瞬间”品牌理念的了解。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 16",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0782,
+            "y": 0.0831,
+            "w": 0.7205,
+            "h": 0.0808
+          },
+          "area": 0.0582,
+          "text": "集团营收连创新高",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 66",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8904,
+            "y": 0.3056,
+            "w": 0.0782,
+            "h": 0.0628
+          },
+          "area": 0.0049,
+          "text": "1.50",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 44",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0313,
+            "y": 0.6774,
+            "w": 0.0782,
+            "h": 0.0628
+          },
+          "area": 0.0049,
+          "text": "0.30",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 51",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2461,
+            "y": 0.5221,
+            "w": 0.0782,
+            "h": 0.0628
+          },
+          "area": 0.0049,
+          "text": "0.80",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5,
+          "body": 1,
+          "title": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "数据图表-02-静态-7a075626-s13",
+      "title_guess": "集团营收连创新高",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-right:2,bottom-right:2",
+      "counts": {
+        "text": 13,
+        "image": 14,
+        "chart": 0,
+        "table": 0,
+        "shape": 21,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 24,
+        "text_count": 13,
+        "image_count": 14,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 1,
+        "text_area": 0.2043,
+        "image_area": 1.2599,
+        "shape_area": 0.7256,
+        "text_blob": "集团营收连创新高 尽管面对疫情的压力,基于疫情下公共卫生意识提高的推动,柔扇集团的业务在各地市场继续稳步推进。 通过精准高效的品牌宣传,深化客户及大众对 “呵护每一个美好瞬间”品牌理念的了解。 0.3亿元 202X年 0.8亿元 202X年 1.0亿元 202X年 1.1亿元 202X年 1.5亿元 202X年 业务在各地市场稳步推进",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 41",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4561,
+            "y": 0.2297,
+            "w": 0.4897,
+            "h": 0.6903
+          },
+          "area": 0.338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 42",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0542,
+            "y": 0.2297,
+            "w": 0.3884,
+            "h": 0.6903
+          },
+          "area": 0.2681,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0818,
+            "y": 0.3962,
+            "w": 0.3332,
+            "h": 0.4181
+          },
+          "area": 0.1393,
+          "text": "尽管面对疫情的压力,基于疫情下公共卫生意识提高的推动,柔扇集团的业务在各地市场继续稳步推进。 通过精准高效的品牌宣传,深化客户及大众对 “呵护每一个美好瞬间”品牌理念的了解。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "PA-图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1857,
+            "y": 0.2998,
+            "w": 0.343,
+            "h": 0.3903
+          },
+          "area": 0.1339,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-图片 5",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7948,
+            "y": 0.1614,
+            "w": 0.343,
+            "h": 0.3903
+          },
+          "area": 0.1339,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 85",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0397,
+            "y": 0.2206,
+            "w": 0.3562,
+            "h": 0.3049
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 268",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8503,
+            "y": 0.816,
+            "w": 0.3562,
+            "h": 0.3049
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 269",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6762,
+            "y": 0.8223,
+            "w": 0.3562,
+            "h": 0.3049
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 271",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.5925,
+            "w": 0.3562,
+            "h": 0.3049
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 272",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2474,
+            "y": 0.6662,
+            "w": 0.3562,
+            "h": 0.3049
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 10
+        },
+        "image": {
+          "image": 14
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "数据图表-02-静态-7a075626-s14",
+      "title_guess": "目前在建项目涉及14个单位,92个项目,各级施工方案共1492个",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 7,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 24,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 6,
+        "text_area": 0.1814,
+        "image_area": 0,
+        "shape_area": 2.1859,
+        "text_blob": "IV级方案 1044个 69.97% 各级施工方案 分布情况 III级方案 397个 26.61% I级方案 1个 0.07% II级方案 50个 3.35% IV级方案数量最多 占比接近70% 施工方案数量前三的公司为 建筑公司、六公司、九公司 目前在建项目涉及14个单位,92个项目,各级施工方案共1492个",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 33",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.2304,
+            "y": 0.6337,
+            "w": 1.4608,
+            "h": 0.435
+          },
+          "area": 0.6354,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 34",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5222,
+            "w": 1.0,
+            "h": 0.4778
+          },
+          "area": 0.4778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 3",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.185,
+            "w": 0.4207,
+            "h": 0.7258
+          },
+          "area": 0.3053,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 28",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5076,
+            "y": 0.185,
+            "w": 0.4207,
+            "h": 0.7258
+          },
+          "area": 0.3053,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.3511,
+            "w": 0.4069,
+            "h": 0.5476
+          },
+          "area": 0.2228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 29",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5145,
+            "y": 0.3511,
+            "w": 0.4069,
+            "h": 0.5476
+          },
+          "area": 0.2228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 31",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5274,
+            "y": 0.3742,
+            "w": 0.381,
+            "h": 0.5221
+          },
+          "area": 0.1989,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 5",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0783,
+            "y": 0.4848,
+            "w": 0.4073,
+            "h": 0.3835
+          },
+          "area": 0.1562,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 32",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "目前在建项目涉及14个单位,92个项目,各级施工方案共1492个",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0921,
+            "y": 0.2164,
+            "w": 0.3477,
+            "h": 0.1212
+          },
+          "area": 0.0421,
+          "text": "IV级方案数量最多 占比接近70%",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 12,
+          "label": 2,
+          "body": 1,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "数据图表-02-静态-7a075626-s15",
+      "title_guess": "东南亚电商高速增长,2025年市场潜力1720亿美金",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 3,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 24,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 3,
+        "text_area": 0.1788,
+        "image_area": 0,
+        "shape_area": 0.7872,
+        "text_blob": "东南亚电商高速增长,2025年市场潜力1720亿美金 近5年复合增长率为35%, 远超全球23%复合增长率的大盘水平, 预计2025年达到1720亿美元 电商渗透率不足5%, 相较中国20%+的渗透率水平 还要4倍+的增长空间 东南亚电商总交易额(亿美元) 63% 电商渗透率",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 2",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.1852,
+            "w": 0.4193,
+            "h": 0.8889
+          },
+          "area": 0.3727,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 9",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.509,
+            "y": 0.1852,
+            "w": 0.4193,
+            "h": 0.8889
+          },
+          "area": 0.3727,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 3",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0909,
+            "y": 0.4632,
+            "w": 0.3809,
+            "h": 0.4759
+          },
+          "area": 0.1813,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5282,
+            "y": 0.4632,
+            "w": 0.3809,
+            "h": 0.4759
+          },
+          "area": 0.1813,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "东南亚电商高速增长,2025年市场潜力1720亿美金",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0949,
+            "y": 0.2214,
+            "w": 0.3704,
+            "h": 0.1481
+          },
+          "area": 0.0549,
+          "text": "近5年复合增长率为35%, 远超全球23%复合增长率的大盘水平, 预计2025年达到1720亿美元",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5391,
+            "y": 0.7289,
+            "w": 0.2567,
+            "h": 0.1627
+          },
+          "area": 0.0418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5321,
+            "y": 0.2214,
+            "w": 0.2767,
+            "h": 0.1481
+          },
+          "area": 0.041,
+          "text": "电商渗透率不足5%, 相较中国20%+的渗透率水平 还要4倍+的增长空间",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接箭头连接符 5",
+          "role": "connector",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1482,
+            "y": 0.6149,
+            "w": 0.2044,
+            "h": 0.1657
+          },
+          "area": 0.0339,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0949,
+            "y": 0.4039,
+            "w": 0.2213,
+            "h": 0.0449
+          },
+          "area": 0.0099,
+          "text": "东南亚电商总交易额(亿美元)",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 2,
+          "footer": 2,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "数据图表-02-静态-7a075626-s16",
+      "title_guess": "下半年市场部费用预算",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 47,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 24,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 47,
+        "connector_count": 0,
+        "text_area": 0.111,
+        "image_area": 0,
+        "shape_area": 7.2869,
+        "text_blob": "总费用预计 150 万元 活动费用 60 万元 广告费用 90 万元 下半年市场部费用预算",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 110",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2044,
+            "y": 0.0201,
+            "w": 0.5911,
+            "h": 1.0509
+          },
+          "area": 0.6212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 111",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2044,
+            "y": 0.0201,
+            "w": 0.5911,
+            "h": 1.0509
+          },
+          "area": 0.6212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 26",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2688,
+            "y": 0.1346,
+            "w": 0.4623,
+            "h": 0.8219
+          },
+          "area": 0.38,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 8",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3156,
+            "y": 0.1508,
+            "w": 0.3688,
+            "h": 0.7896
+          },
+          "area": 0.2912,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆: 空心 10",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3269,
+            "y": 0.2378,
+            "w": 0.3463,
+            "h": 0.6156
+          },
+          "area": 0.2132,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0683,
+            "y": 0.3943,
+            "w": 0.2058,
+            "h": 0.3659
+          },
+          "area": 0.0753,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7691,
+            "y": 0.3943,
+            "w": 0.2058,
+            "h": 0.3659
+          },
+          "area": 0.0753,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "下半年市场部费用预算",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.368,
+            "w": 0.1779,
+            "h": 0.3163
+          },
+          "area": 0.0563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7614,
+            "y": 0.368,
+            "w": 0.1779,
+            "h": 0.3163
+          },
+          "area": 0.0563,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 3,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "数据图表-02-静态-7a075626-s17",
+      "title_guess": "二级存储全球市场规模已达51亿美金,年增长率达到15%",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 11,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 24,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 3,
+        "text_area": 0.2287,
+        "image_area": 0,
+        "shape_area": 1.8099,
+        "text_blob": "主存储全球市场规模($M) -5% 二级存储全球市场规模($M) +15% Backup and Recovery Appliences Secondary Storage Arrays 全球容量趋势(M) Primary Storage Terabytes Secondary Storage Terabytes 二级存储全球市场规模已达51亿美金,年增长率达到15% 大多数存储供应商都专注于满足生产应用需求的主存储,但是用户已意识到大部分的存储容量是由二级工作负载消耗 由于业务数据爆炸式增长,二级存储变得更加重要,已成为存储整体领域的单独类别,促进组织的效率和生产力的提高",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆顶角 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7089,
+            "w": 1.0,
+            "h": 0.3259
+          },
+          "area": 0.3259,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.1866,
+            "w": 0.2746,
+            "h": 0.5827
+          },
+          "area": 0.16,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3629,
+            "y": 0.1866,
+            "w": 0.2746,
+            "h": 0.5827
+          },
+          "area": 0.16,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6541,
+            "y": 0.1866,
+            "w": 0.2746,
+            "h": 0.5827
+          },
+          "area": 0.16,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 42",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6559,
+            "y": 0.3504,
+            "w": 0.271,
+            "h": 0.3936
+          },
+          "area": 0.1067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 35",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3643,
+            "y": 0.3504,
+            "w": 0.271,
+            "h": 0.3936
+          },
+          "area": 0.1067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 9",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0736,
+            "y": 0.3504,
+            "w": 0.271,
+            "h": 0.3936
+          },
+          "area": 0.1067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "二级存储全球市场规模已达51亿美金,年增长率达到15%",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0624,
+            "y": 0.7943,
+            "w": 0.397,
+            "h": 0.1397
+          },
+          "area": 0.0555,
+          "text": "大多数存储供应商都专注于满足生产应用需求的主存储,但是用户已意识到大部分的存储容量是由二级工作负载消耗",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5406,
+            "y": 0.7943,
+            "w": 0.397,
+            "h": 0.1397
+          },
+          "area": 0.0555,
+          "text": "由于业务数据爆炸式增长,二级存储变得更加重要,已成为存储整体领域的单独类别,促进组织的效率和生产力的提高",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "title": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "数据图表-02-静态-7a075626-s18",
+      "title_guess": "杭州进入老年型时期,舒适型养老机构市场空缺较大",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:2,middle-left:1,middle-center:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 4,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 24,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 6,
+        "text_area": 0.2542,
+        "image_area": 0,
+        "shape_area": 0.4058,
+        "text_blob": "2008-2011年 杭州人均可支配收入发展趋势 杭州人口比例结构完全进入老年型时期 老年人口增长速度大于平均人口增长速度 比重迅猛上升 社会财富的增加和购买力的上升使得对 舒适型老年公寓产品的关注增强 人均可支配收入接近富裕国家水平 1982-2012年 杭州老龄人口发展趋势及占比 老龄人口数量(亿元) 老龄人口占比(%) 2008-2011年 杭州国民生产总值发展趋势 单位:元 单位:亿元 杭州进入老年型时期,舒适型养老机构市场空缺较大",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 6",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0725,
+            "y": 0.403,
+            "w": 0.3858,
+            "h": 0.5012
+          },
+          "area": 0.1934,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 38",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.5894,
+            "w": 0.3865,
+            "h": 0.3092
+          },
+          "area": 0.1195,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 7",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.5334,
+            "w": 0.3865,
+            "h": 0.2829
+          },
+          "area": 0.1093,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5013,
+            "y": 0.403,
+            "w": 0.2116,
+            "h": 0.5012
+          },
+          "area": 0.1061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7185,
+            "y": 0.403,
+            "w": 0.2116,
+            "h": 0.5012
+          },
+          "area": 0.1061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 47",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7184,
+            "y": 0.525,
+            "w": 0.2117,
+            "h": 0.3736
+          },
+          "area": 0.0791,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 50",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "杭州进入老年型时期,舒适型养老机构市场空缺较大",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "图表 45",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5012,
+            "y": 0.6043,
+            "w": 0.2117,
+            "h": 0.2943
+          },
+          "area": 0.0623,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4945,
+            "y": 0.21,
+            "w": 0.4227,
+            "h": 0.0942
+          },
+          "area": 0.0398,
+          "text": "社会财富的增加和购买力的上升使得对 舒适型老年公寓产品的关注增强",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0649,
+            "y": 0.21,
+            "w": 0.4116,
+            "h": 0.0942
+          },
+          "area": 0.0388,
+          "text": "老年人口增长速度大于平均人口增长速度 比重迅猛上升",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 6,
+          "body": 2,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "数据图表-02-静态-7a075626-s19",
+      "title_guess": "医疗数据沉淀有限,信息化发展任重道远",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,bottom-center:2,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 24,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1779,
+        "image_area": 0,
+        "shape_area": 1.485,
+        "text_blob": "医疗数据沉淀有限,信息化发展任重道远 大多数医院信息化发展规划 不清晰,信息化进展缓慢 56% 医院规划不清晰 或不全面 医疗数据沉淀有限 医院信息化发展任重道远 25% 通过信息平台 参与数据共享 电子病历与居民健康档案 的互动非常有限 60% 医院电子病历处于 初级阶段",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 292",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.2135,
+            "y": 0.543,
+            "w": 1.4269,
+            "h": 0.4567
+          },
+          "area": 0.6517,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 293",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5154,
+            "w": 1.0,
+            "h": 0.4103
+          },
+          "area": 0.4103,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 11",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0217,
+            "y": 0.2247,
+            "w": 0.4228,
+            "h": 0.4937
+          },
+          "area": 0.2087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 276",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2886,
+            "y": 0.2247,
+            "w": 0.4228,
+            "h": 0.4937
+          },
+          "area": 0.2087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 284",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5989,
+            "y": 0.2247,
+            "w": 0.4228,
+            "h": 0.4937
+          },
+          "area": 0.2087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 269",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0785,
+            "y": 0.2738,
+            "w": 0.2225,
+            "h": 0.3955
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 277",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3888,
+            "y": 0.2738,
+            "w": 0.2225,
+            "h": 0.3955
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 285",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6991,
+            "y": 0.2738,
+            "w": 0.2225,
+            "h": 0.3955
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.0855,
+            "w": 0.8769,
+            "h": 0.0763
+          },
+          "area": 0.0669,
+          "text": "医疗数据沉淀有限,信息化发展任重道远",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 270",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1133,
+            "y": 0.3358,
+            "w": 0.1528,
+            "h": 0.2717
+          },
+          "area": 0.0415,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "数据图表-02-静态-7a075626-s20",
+      "title_guess": "原材料价格",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,middle-center:2,bottom-right:1",
+      "counts": {
+        "text": 19,
+        "image": 1,
+        "chart": 2,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 24,
+        "text_count": 19,
+        "image_count": 1,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.1012,
+        "image_area": 0.0087,
+        "shape_area": 1.2298,
+        "text_blob": "原材料价格 产品销售价格 产品毛利率 同向变化 反向变化 行业分析:轮胎业绩出现好转 产品销售价格 主要原材料采购价格 变动幅度 85% 轮胎行业原材料成本 总成本 橡胶 50% 炭黑 15% 钢帘线 10% <",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 33",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.054,
+            "y": 0.1896,
+            "w": 0.8919,
+            "h": 0.7199
+          },
+          "area": 0.6421,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 36",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4668,
+            "y": 0.1467,
+            "w": 0.5096,
+            "h": 0.8059
+          },
+          "area": 0.4107,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 65",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4917,
+            "y": 0.295,
+            "w": 0.5387,
+            "h": 0.2968
+          },
+          "area": 0.1599,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 68",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4923,
+            "y": 0.6145,
+            "w": 0.4495,
+            "h": 0.2843
+          },
+          "area": 0.1278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.054,
+            "y": 0.6459,
+            "w": 0.4383,
+            "h": 0.2636
+          },
+          "area": 0.1155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.5587,
+            "w": 0.446,
+            "h": 0.0681
+          },
+          "area": 0.0304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 56",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0462,
+            "y": 0.0794,
+            "w": 0.3433,
+            "h": 0.0673
+          },
+          "area": 0.0231,
+          "text": "行业分析:轮胎业绩出现好转",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.291,
+            "w": 0.446,
+            "h": 0.0238
+          },
+          "area": 0.0106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 29",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0995,
+            "y": 0.3633,
+            "w": 0.079,
+            "h": 0.1323
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 60",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3689,
+            "y": 0.3673,
+            "w": 0.07,
+            "h": 0.1244
+          },
+          "area": 0.0087,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 17,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "数据图表-02-静态-7a075626-s21",
+      "title_guess": "市场空间",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:2,middle-right:2,top-left:2",
+      "counts": {
+        "text": 18,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 43,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 24,
+        "text_count": 18,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 43,
+        "connector_count": 4,
+        "text_area": 0.1958,
+        "image_area": 1.0,
+        "shape_area": 1.1092,
+        "text_blob": "市场空间 2014年全国电动车销售量3000万辆,预计到202X年中国电动自行车保有量将超3亿辆 20000 30000 40000 电动车低碳环保、轻便灵活、性价比高,是中小城市、农村不可缺少的代步工具。近几年,市场增长速度每年超20% 市场增速 市场状况 2014-202X年中国电动自行车保有量统计及预测 2014年我国电动车市场趋向饱和,产业急需整合升级 市场现状 10000 2014 2015 202X 202X 202X 单位:万辆",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 357",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "object 336",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5358,
+            "y": 0.3217,
+            "w": 0.4008,
+            "h": 0.147
+          },
+          "area": 0.0589,
+          "text": "电动车低碳环保、轻便灵活、性价比高,是中小城市、农村不可缺少的代步工具。近几年,市场增长速度每年超20%",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 360",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.9496,
+            "w": 1.0,
+            "h": 0.0504
+          },
+          "area": 0.0504,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "object 9",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5358,
+            "y": 0.5714,
+            "w": 0.4073,
+            "h": 0.1049
+          },
+          "area": 0.0427,
+          "text": "2014年全国电动车销售量3000万辆,预计到202X年中国电动自行车保有量将超3亿辆",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 346",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5358,
+            "y": 0.7837,
+            "w": 0.4101,
+            "h": 0.0608
+          },
+          "area": 0.0249,
+          "text": "2014年我国电动车市场趋向饱和,产业急需整合升级",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 343",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0901,
+            "y": 0.2042,
+            "w": 0.4187,
+            "h": 0.0533
+          },
+          "area": 0.0223,
+          "text": "2014-202X年中国电动自行车保有量统计及预测",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 359",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2032,
+            "y": 0.1007,
+            "w": 0.7427,
+            "h": 0.0253
+          },
+          "area": 0.0188,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "object 337",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5358,
+            "y": 0.2712,
+            "w": 0.1021,
+            "h": 0.0571
+          },
+          "area": 0.0058,
+          "text": "市场增速",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "object 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0524,
+            "y": 0.0825,
+            "w": 0.1021,
+            "h": 0.057
+          },
+          "area": 0.0058,
+          "text": "市场状况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "object 8",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5358,
+            "y": 0.5204,
+            "w": 0.0951,
+            "h": 0.0571
+          },
+          "area": 0.0054,
+          "text": "市场空间",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 14,
+          "body": 2,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "数据图表-02-静态-7a075626-s22",
+      "title_guess": "排名首位的互联网旅游平台,拥有极高品牌知名度",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,top-center:2,bottom-left:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 2,
+        "table": 0,
+        "shape": 4,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 24,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 1,
+        "text_area": 0.098,
+        "image_area": 1.0,
+        "shape_area": 1.5911,
+        "text_blob": "排名首位的互联网旅游平台,拥有极高品牌知名度 互联网用户总量 中国排名首位旅游网站 单位/百万 数据来源: 中国互联网信息中心;艾瑞网;根据艾瑞网2010年起对所有非国有在线旅游公司的统计 流量来源 购买流量占比 自然流量占比 2012 2013上半年",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 33",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.054,
+            "y": 0.2859,
+            "w": 0.8919,
+            "h": 0.6607
+          },
+          "area": 0.5893,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 5",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0574,
+            "y": 0.4267,
+            "w": 0.4167,
+            "h": 0.4934
+          },
+          "area": 0.2056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 15",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.521,
+            "y": 0.4773,
+            "w": 0.4026,
+            "h": 0.4115
+          },
+          "area": 0.1657,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "object 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0524,
+            "y": 0.0825,
+            "w": 0.6109,
+            "h": 0.0557
+          },
+          "area": 0.034,
+          "text": "排名首位的互联网旅游平台,拥有极高品牌知名度",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 20",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1033,
+            "y": 0.2133,
+            "w": 0.4574,
+            "h": 0.0381
+          },
+          "area": 0.0174,
+          "text": "中国互联网信息中心;艾瑞网;根据艾瑞网2010年起对所有非国有在线旅游公司的统计",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "object 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0518,
+            "y": 0.164,
+            "w": 0.2211,
+            "h": 0.0467
+          },
+          "area": 0.0103,
+          "text": "中国排名首位旅游网站",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1991,
+            "y": 0.3401,
+            "w": 0.1477,
+            "h": 0.0539
+          },
+          "area": 0.008,
+          "text": "互联网用户总量",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5846,
+            "y": 0.4067,
+            "w": 0.135,
+            "h": 0.0449
+          },
+          "area": 0.0061,
+          "text": "购买流量占比",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7229,
+            "y": 0.4067,
+            "w": 0.135,
+            "h": 0.0449
+          },
+          "area": 0.0061,
+          "text": "自然流量占比",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "数据图表-02-静态-7a075626-s23",
+      "title_guess": "行业发展空间巨大 政策环境利好",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-right:3,bottom-left:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 24,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.116,
+        "image_area": 0.5,
+        "shape_area": 0.5,
+        "text_blob": "行业发展空间巨大 政策环境利好 模板办公厅关于进一步促进旅游投资和消费的若干意见等 市场改革 《旅游景区质量等级划分与评定》 行业标准改革 《关于支持旅游业发展用地政策的意见》 用地改革 《<模板关于促进旅游业唐峰的若干意见>任务分解表》 产业改革",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 100",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 101",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 105",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5479,
+            "y": 0.1049,
+            "w": 0.4042,
+            "h": 0.7901
+          },
+          "area": 0.3194,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 71",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0488,
+            "y": 0.0789,
+            "w": 0.2171,
+            "h": 0.1212
+          },
+          "area": 0.0263,
+          "text": "行业发展空间巨大 政策环境利好",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 88",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0417,
+            "y": 0.7872,
+            "w": 0.4151,
+            "h": 0.0518
+          },
+          "area": 0.0215,
+          "text": "《<模板关于促进旅游业唐峰的若干意见>任务分解表》",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 72",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0488,
+            "y": 0.3643,
+            "w": 0.3968,
+            "h": 0.0518
+          },
+          "area": 0.0206,
+          "text": "模板办公厅关于进一步促进旅游投资和消费的若干意见等",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 85",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0417,
+            "y": 0.6462,
+            "w": 0.2802,
+            "h": 0.0504
+          },
+          "area": 0.0141,
+          "text": "《关于支持旅游业发展用地政策的意见》",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 82",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0417,
+            "y": 0.5053,
+            "w": 0.236,
+            "h": 0.0504
+          },
+          "area": 0.0119,
+          "text": "《旅游景区质量等级划分与评定》",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 83",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0492,
+            "y": 0.4578,
+            "w": 0.1287,
+            "h": 0.0539
+          },
+          "area": 0.0069,
+          "text": "行业标准改革",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 79",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0488,
+            "y": 0.3168,
+            "w": 0.0909,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "市场改革",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "数据图表-02-静态-7a075626-s24",
+      "title_guess": "融资计划与收入预期 出让股权20%,融资500万元",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:2,top-left:2,bottom-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 8,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 24,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 10,
+        "text_area": 0.1474,
+        "image_area": 0,
+        "shape_area": 0.6155,
+        "text_blob": "融资计划与收入预期 出让股权20%,融资500万元 期望占据行业No.1 研发 智能调度、语音应用、功能扩展 市场 网络营销、各配送团队业务培训 商务 开放平台、配送服务的行业应用 单位:万元 开支计划 技术研发 200万元 40% 市场推广 150万元 30% 其他 50万元 10% 商务合作 100万元 20%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4014,
+            "w": 1.0,
+            "h": 0.5986
+          },
+          "area": 0.5986,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 66",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5255,
+            "y": 0.5095,
+            "w": 0.3919,
+            "h": 0.4197
+          },
+          "area": 0.1645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 28",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1043,
+            "y": 0.5324,
+            "w": 0.3356,
+            "h": 0.3977
+          },
+          "area": 0.1335,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 9",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.047,
+            "y": 0.0789,
+            "w": 0.3517,
+            "h": 0.1139
+          },
+          "area": 0.0401,
+          "text": "融资计划与收入预期 出让股权20%,融资500万元",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 33",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1076,
+            "y": 0.2515,
+            "w": 0.2213,
+            "h": 0.0912
+          },
+          "area": 0.0202,
+          "text": "研发 智能调度、语音应用、功能扩展",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 34",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4202,
+            "y": 0.2515,
+            "w": 0.2213,
+            "h": 0.0912
+          },
+          "area": 0.0202,
+          "text": "市场 网络营销、各配送团队业务培训",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 35",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7329,
+            "y": 0.2515,
+            "w": 0.2213,
+            "h": 0.0912
+          },
+          "area": 0.0202,
+          "text": "商务 开放平台、配送服务的行业应用",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 26",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6371,
+            "y": 0.4502,
+            "w": 0.1687,
+            "h": 0.0539
+          },
+          "area": 0.0091,
+          "text": "期望占据行业No.1",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 71",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3832,
+            "y": 0.5914,
+            "w": 0.074,
+            "h": 0.1077
+          },
+          "area": 0.008,
+          "text": "技术研发 200万元 40%",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 77",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3832,
+            "y": 0.7634,
+            "w": 0.074,
+            "h": 0.1077
+          },
+          "area": 0.008,
+          "text": "市场推广 150万元 30%",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 3,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 24,
+    "layout_job_counts": {
+      "kpi-grid": 15,
+      "limitations-future": 4,
+      "matrix-grid": 2,
+      "cover-statement": 1,
+      "duo-compare": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "chart": 21,
+      "image": 2,
+      "diagram-shapes": 1
+    },
+    "density_counts": {
+      "medium-high": 11,
+      "high": 11,
+      "medium": 2
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "limitations-future",
+      "matrix-grid",
+      "cover-statement",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "chart",
+      "image",
+      "diagram-shapes"
+    ]
+  }
+}

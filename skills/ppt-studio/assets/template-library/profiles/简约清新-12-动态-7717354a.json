@@ -1,0 +1,6426 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:30.234639+00:00",
+  "template_id": "简约清新-12-动态-7717354a",
+  "template_profile_path": "assets/template-library/profiles/简约清新-12-动态-7717354a.json",
+  "source_template": {
+    "name": "简约清新(12)—动态.pptx",
+    "category": "简约清新（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(12)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 30,
+    "media_count": 34,
+    "image_media_count": 33,
+    "motion_hint": "dynamic",
+    "tags": [
+      "简约清新",
+      "通用介绍",
+      "轻量汇报",
+      "清爽展示",
+      "封面",
+      "概览",
+      "要点",
+      "总结",
+      "留白",
+      "清爽",
+      "柔和",
+      "通用",
+      "简洁插画",
+      "截图",
+      "小图",
+      "短句",
+      "轻量标题",
+      "动态版",
+      "可动效",
+      "中",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "简约清新",
+    "scenario": [
+      "通用介绍",
+      "轻量汇报",
+      "清爽展示"
+    ],
+    "best_for": [
+      "轻量汇报",
+      "通用介绍"
+    ],
+    "avoid": [
+      "高密度科研",
+      "重数据报告"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "概览",
+      "要点",
+      "总结"
+    ],
+    "visual": [
+      "留白",
+      "清爽",
+      "柔和",
+      "通用"
+    ],
+    "image_strategy": [
+      "简洁插画",
+      "截图",
+      "小图"
+    ],
+    "text_strategy": [
+      "短句",
+      "轻量标题"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "flow-diagram",
+      "duo-compare",
+      "claim-evidence",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "label",
+      "decorative-shape",
+      "footer",
+      "body",
+      "image",
+      "claim"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "bottom-center",
+      "middle-right",
+      "bottom-left",
+      "top-left"
+    ],
+    "template_text_signature": "清新简约产品介绍PPT 目录/ 企业简介 在这里我很荣幸赶上了公司改革的机遇,面对了一个崭新挑战自我的时机。感谢公司领导为我们创造了这次公平竞 B 单击此处添加您的文字内容。均可自由编辑替换和移动。 在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。 点击此处添加内容 点击此处添加内容 某某企业荣誉证书 某某企业先进企业荣誉证书 某某企业创新事业积极进取荣誉证书 某某企业荣誉证书 团结 产品介绍 添加标题 单击输入您的文字内容,语言精练、言简意赅,尽量",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "简约清新-12-动态-7717354a-s01",
+      "title_guess": "清新简约产品介绍PPT",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1688,
+        "image_area": 0.851,
+        "shape_area": 0.0055,
+        "text_blob": "清新简约产品介绍PPT 策划人:某某某 A dream need to work out a summary report dream need to work out a need to work out a summary report summary 产品介绍 / 产品推广 / 项目介绍 / 营销策划 / 企业宣传 LOGO 企业标志 PRODUCT / 202X",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 18",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4657,
+            "y": 0.0353,
+            "w": 0.5621,
+            "h": 0.9288
+          },
+          "area": 0.5221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.2076,
+            "y": 0.2054,
+            "w": 0.5685,
+            "h": 0.5785
+          },
+          "area": 0.3289,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.119,
+            "y": 0.3729,
+            "w": 0.5481,
+            "h": 0.1212
+          },
+          "area": 0.0664,
+          "text": "清新简约产品介绍PPT",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 23",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1212,
+            "y": 0.2735,
+            "w": 0.4248,
+            "h": 0.1032
+          },
+          "area": 0.0438,
+          "text": "PRODUCT / 202X",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.124,
+            "y": 0.5422,
+            "w": 0.3846,
+            "h": 0.0768
+          },
+          "area": 0.0295,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summary",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1232,
+            "y": 0.4946,
+            "w": 0.4345,
+            "h": 0.0471
+          },
+          "area": 0.0205,
+          "text": "产品介绍 / 产品推广 / 项目介绍 / 营销策划 / 企业宣传",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 58",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.436,
+            "y": 0.7413,
+            "w": 0.1299,
+            "h": 0.0425
+          },
+          "area": 0.0055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.436,
+            "y": 0.7459,
+            "w": 0.1299,
+            "h": 0.032
+          },
+          "area": 0.0042,
+          "text": "策划人:某某某",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5022,
+            "y": 0.2511,
+            "w": 0.0607,
+            "h": 0.0424
+          },
+          "area": 0.0026,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5544,
+            "y": 0.2563,
+            "w": 0.0538,
+            "h": 0.0326
+          },
+          "area": 0.0018,
+          "text": "企业标志",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "简约清新-12-动态-7717354a-s02",
+      "title_guess": "目录/",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:9,middle-right:1",
+      "counts": {
+        "text": 14,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 30,
+        "text_count": 14,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.1591,
+        "image_area": 0.851,
+        "shape_area": 1.4286,
+        "text_blob": "目录/ CONTENTS 企业简介 Fresh and simple line style enterprise product publicity introduction 01 产品介绍 Fresh and simple line style enterprise product publicity introduction 02 市场分析 Fresh and simple line style enterprise product publicity introduction 03 展望未来 Fresh and simple line style enterprise product publicity introduction 04",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4657,
+            "y": 0.0353,
+            "w": 0.5621,
+            "h": 0.9288
+          },
+          "area": 0.5221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.2075,
+            "y": 0.2047,
+            "w": 0.5685,
+            "h": 0.5785
+          },
+          "area": 0.3289,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1109,
+            "y": 0.3781,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1038,
+            "y": 0.3666,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 45",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1109,
+            "y": 0.3781,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 46",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1038,
+            "y": 0.3666,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 52",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1109,
+            "y": 0.3781,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 53",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1038,
+            "y": 0.3666,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 59",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1109,
+            "y": 0.3781,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 60",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1038,
+            "y": 0.3666,
+            "w": 0.1658,
+            "h": 0.4201
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 2,
+          "label": 12
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "简约清新-12-动态-7717354a-s03",
+      "title_guess": "企业简介",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.1448,
+        "image_area": 0.8587,
+        "shape_area": 0.0239,
+        "text_blob": "企业简介 A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need to work out a summary 公司介绍 企业文化 经营理念 企业资质 PART 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1032,
+            "y": 0.0537,
+            "w": 0.5621,
+            "h": 0.892
+          },
+          "area": 0.5014,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6321,
+            "y": 0.1804,
+            "w": 0.5685,
+            "h": 0.6285
+          },
+          "area": 0.3573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2373,
+            "y": 0.4086,
+            "w": 0.532,
+            "h": 0.1481
+          },
+          "area": 0.0788,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2485,
+            "y": 0.5659,
+            "w": 0.5094,
+            "h": 0.069
+          },
+          "area": 0.0351,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3632,
+            "y": 0.2515,
+            "w": 0.2548,
+            "h": 0.0905
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2543,
+            "w": 0.2165,
+            "h": 0.0942
+          },
+          "area": 0.0204,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 14",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4394,
+            "y": 0.7076,
+            "w": 0.0881,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "企业文化",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6304,
+            "y": 0.7076,
+            "w": 0.0712,
+            "h": 0.0359
+          },
+          "area": 0.0026,
+          "text": "企业资质",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5373,
+            "y": 0.7076,
+            "w": 0.0666,
+            "h": 0.0359
+          },
+          "area": 0.0024,
+          "text": "经营理念",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3431,
+            "y": 0.7076,
+            "w": 0.065,
+            "h": 0.0359
+          },
+          "area": 0.0023,
+          "text": "公司介绍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "简约清新-12-动态-7717354a-s04",
+      "title_guess": "在这里我很荣幸赶上了公司改革的机遇,面对了一个崭新挑战自我的时机。感谢公司领导为我们创造了这次公平竞",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:2,bottom-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.2018,
+        "image_area": 0,
+        "shape_area": 0.7657,
+        "text_blob": "在这里我很荣幸赶上了公司改革的机遇,面对了一个崭新挑战自我的时机。感谢公司领导为我们创造了这次公平竞争的机会。我非常自豪地看到我们公司改革前进的步伐,以这种公平、公正、公开的方式选拔优秀的企业人才。 公司领导为我们创造了这次公平竞争的机会。在这里我很荣幸赶上了公司改革的机遇,面对了一个崭新挑战自我的时机。 公司概述 梦想 诚信 品质 务实 COMPANY PROFILE 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0729,
+            "y": 0.2737,
+            "w": 0.8646,
+            "h": 0.4381
+          },
+          "area": 0.3788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0729,
+            "y": 0.2737,
+            "w": 0.8646,
+            "h": 0.4381
+          },
+          "area": 0.3788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1208,
+            "y": 0.5103,
+            "w": 0.6001,
+            "h": 0.1346
+          },
+          "area": 0.0808,
+          "text": "在这里我很荣幸赶上了公司改革的机遇,面对了一个崭新挑战自我的时机。感谢公司领导为我们创造了这次公平竞争的机会。我非常自豪地看到我们公司改革前进的步伐,以这种公平、公正、公开的方式选拔优秀的企业人才。 公司领导为我们创造了这次公平竞争的机会。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1145,
+            "y": 0.319,
+            "w": 0.6869,
+            "h": 0.0853
+          },
+          "area": 0.0586,
+          "text": "COMPANY PROFILE",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Subtitle 2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1173,
+            "y": 0.3906,
+            "w": 0.2923,
+            "h": 0.0845
+          },
+          "area": 0.0247,
+          "text": "公司概述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 32",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 33",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1774,
+            "w": 0.207,
+            "h": 0.0314
+          },
+          "area": 0.0065,
+          "text": "Enterprise product introduction and publicity",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "前言",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1177,
+            "y": 0.7593,
+            "w": 0.0433,
+            "h": 0.05
+          },
+          "area": 0.0022,
+          "text": "梦想",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "前言",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.179,
+            "y": 0.7593,
+            "w": 0.0433,
+            "h": 0.05
+          },
+          "area": 0.0022,
+          "text": "诚信",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 4,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "简约清新-12-动态-7717354a-s05",
+      "title_guess": "B",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:7,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.2588,
+        "image_area": 0,
+        "shape_area": 0.1765,
+        "text_blob": "B 用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 投影仪或者计算机上进行演示也在投影仪或者计算机上进行演示也可以将演示 项目宣传介绍 USINESS 用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 企业营销理念 用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 企业营销理念 用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 企业营销理念 用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 企业营销理念 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3943,
+            "y": 0.2942,
+            "w": 0.2236,
+            "h": 0.1968
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3943,
+            "y": 0.2942,
+            "w": 0.2236,
+            "h": 0.1968
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3943,
+            "y": 0.2942,
+            "w": 0.2236,
+            "h": 0.1968
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3943,
+            "y": 0.2942,
+            "w": 0.2236,
+            "h": 0.1968
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 7",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0931,
+            "y": 0.6604,
+            "w": 0.2181,
+            "h": 0.1818
+          },
+          "area": 0.0397,
+          "text": "用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在 投影仪或者计算机上进行演示也在投影仪或者计算机上进行演示也可以将演示",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 8",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.094,
+            "y": 0.577,
+            "w": 0.3442,
+            "h": 0.0872
+          },
+          "area": 0.03,
+          "text": "项目宣传介绍",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0999,
+            "y": 0.3057,
+            "w": 0.0802,
+            "h": 0.3097
+          },
+          "area": 0.0248,
+          "text": "B",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4026,
+            "y": 0.3771,
+            "w": 0.2129,
+            "h": 0.0942
+          },
+          "area": 0.0201,
+          "text": "用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4026,
+            "y": 0.3771,
+            "w": 0.2129,
+            "h": 0.0942
+          },
+          "area": 0.0201,
+          "text": "用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4026,
+            "y": 0.3771,
+            "w": 0.2129,
+            "h": 0.0942
+          },
+          "area": 0.0201,
+          "text": "用户可以在投影仪或者计算机上进行演示也可以将演示文稿打印出来制作成胶片以便应用到更广泛的领域中用户可以在",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "简约清新-12-动态-7717354a-s06",
+      "title_guess": "单击此处添加您的文字内容。均可自由编辑替换和移动。",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 11,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1165,
+        "image_area": 0.1135,
+        "shape_area": 0.1357,
+        "text_blob": "单击此处添加您的文字内容。均可自由编辑替换和移动。 成员姓名 成员姓名 成员姓名 成员姓名 单击此处添加您的文字内容。均可自由编辑替换和移动。 单击此处添加您的文字内容。均可自由编辑替换和移动。 单击此处添加您的文字内容。均可自由编辑替换和移动。 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.757,
+            "y": 0.3305,
+            "w": 0.1379,
+            "h": 0.2451
+          },
+          "area": 0.0338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5398,
+            "y": 0.3294,
+            "w": 0.1379,
+            "h": 0.2451
+          },
+          "area": 0.0338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3202,
+            "y": 0.3252,
+            "w": 0.1379,
+            "h": 0.2451
+          },
+          "area": 0.0338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1031,
+            "y": 0.3265,
+            "w": 0.1379,
+            "h": 0.2451
+          },
+          "area": 0.0338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.339,
+            "w": 0.1271,
+            "h": 0.226
+          },
+          "area": 0.0287,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1084,
+            "y": 0.3353,
+            "w": 0.1263,
+            "h": 0.226
+          },
+          "area": 0.0285,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3265,
+            "y": 0.3353,
+            "w": 0.1263,
+            "h": 0.226
+          },
+          "area": 0.0285,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 13",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.3427,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0878,
+            "y": 0.6991,
+            "w": 0.1766,
+            "h": 0.0808
+          },
+          "area": 0.0143,
+          "text": "单击此处添加您的文字内容。均可自由编辑替换和移动。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 5
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "简约清新-12-动态-7717354a-s07",
+      "title_guess": "在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:3,bottom-left:2,top-right:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 4,
+        "text_area": 0.1345,
+        "image_area": 0.187,
+        "shape_area": 0.0381,
+        "text_blob": "在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。 2005-2008 在此录入图表的描在此录入上述图表的描述说明,在此录入上述图表的描述说明。 2011-2014 在此录入图表的描在此录入上述图表的描述说明,在此录入上述图表的描述说明。 2015-2018 在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。 2019-2025 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6382,
+            "y": 0.5021,
+            "w": 0.3449,
+            "h": 0.5422
+          },
+          "area": 0.187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0543,
+            "y": 0.2285,
+            "w": 0.8908,
+            "h": 0.0238
+          },
+          "area": 0.0212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 23",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2313,
+            "y": 0.6827,
+            "w": 0.1633,
+            "h": 0.1144
+          },
+          "area": 0.0187,
+          "text": "在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 23",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3567,
+            "y": 0.2592,
+            "w": 0.1633,
+            "h": 0.1144
+          },
+          "area": 0.0187,
+          "text": "在此录入图表的描在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 23",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4805,
+            "y": 0.6827,
+            "w": 0.1633,
+            "h": 0.1144
+          },
+          "area": 0.0187,
+          "text": "在此录入图表的描在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 23",
+          "role": "claim",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6048,
+            "y": 0.2592,
+            "w": 0.1633,
+            "h": 0.1144
+          },
+          "area": 0.0187,
+          "text": "在此录入图表的描述在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 49",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 61",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2352,
+            "y": 0.6409,
+            "w": 0.1556,
+            "h": 0.0494
+          },
+          "area": 0.0077,
+          "text": "2005-2008",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 64",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.2174,
+            "w": 0.1556,
+            "h": 0.0494
+          },
+          "area": 0.0077,
+          "text": "2011-2014",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 4,
+          "footer": 5,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "简约清新-12-动态-7717354a-s08",
+      "title_guess": "点击此处添加内容 点击此处添加内容",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:2,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 3,
+        "text_area": 0.2135,
+        "image_area": 0,
+        "shape_area": 0.1095,
+        "text_blob": "点击此处添加内容 点击此处添加内容 项目的深刻理解 点击此处添加内容 点击此处添加内容 精准的营销能力 点击此处添加内容 点击此处添加内容 强大的执行力 点击填写公司的优势,公司自成立以来,以“策略先行,经营致胜,管理为本”的商业推广理念,一步一个脚印发展成为东莞同类企业中经营范围最广、在行业内颇具影响力的企业。 关键词 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 54",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1325,
+            "y": 0.2636,
+            "w": 0.7927,
+            "h": 0.1257
+          },
+          "area": 0.0996,
+          "text": "点击填写公司的优势,公司自成立以来,以“策略先行,经营致胜,管理为本”的商业推广理念,一步一个脚印发展成为东莞同类企业中经营范围最广、在行业内颇具影响力的企业。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "íṩḻïḍè",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0872,
+            "y": 0.746,
+            "w": 0.8124,
+            "h": 0.0964
+          },
+          "area": 0.0783,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 43",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6062,
+            "y": 0.5427,
+            "w": 0.175,
+            "h": 0.0883
+          },
+          "area": 0.0155,
+          "text": "点击此处添加内容 点击此处添加内容",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 46",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1079,
+            "y": 0.5446,
+            "w": 0.175,
+            "h": 0.0883
+          },
+          "area": 0.0155,
+          "text": "点击此处添加内容 点击此处添加内容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 49",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3623,
+            "y": 0.5458,
+            "w": 0.175,
+            "h": 0.0883
+          },
+          "area": 0.0155,
+          "text": "点击此处添加内容 点击此处添加内容",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 45",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6014,
+            "y": 0.4943,
+            "w": 0.2032,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "项目的深刻理解",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 48",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.104,
+            "y": 0.4943,
+            "w": 0.2032,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "精准的营销能力",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 51",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3606,
+            "y": 0.4974,
+            "w": 0.2032,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "强大的执行力",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 41",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "企业简介",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "简约清新-12-动态-7717354a-s09",
+      "title_guess": "某某企业荣誉证书 某某企业先进企业荣誉证书 某某企业创新事业积极进取荣誉证书 某某企业荣誉证书",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:9,middle-center:1",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.1885,
+        "image_area": 0.1516,
+        "shape_area": 0.5923,
+        "text_blob": "某某企业荣誉证书 某某企业先进企业荣誉证书 某某企业创新事业积极进取荣誉证书 某某企业荣誉证书 您的内容打在这里或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。 荣获国家技术奖 荣获国家技术奖 荣获国家技术奖 荣获国家技术奖 荣获国家技术奖 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0316,
+            "y": 0.2681,
+            "w": 0.9395,
+            "h": 0.3604
+          },
+          "area": 0.3386,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "MH_Desc_1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0933,
+            "y": 0.2962,
+            "w": 0.4276,
+            "h": 0.2034
+          },
+          "area": 0.087,
+          "text": "某某企业荣誉证书 某某企业先进企业荣誉证书 某某企业创新事业积极进取荣誉证书 某某企业荣誉证书",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.3875,
+            "w": 0.1612,
+            "h": 0.365
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.3875,
+            "w": 0.1612,
+            "h": 0.365
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.3875,
+            "w": 0.1612,
+            "h": 0.365
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.3875,
+            "w": 0.1612,
+            "h": 0.365
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "MH_Desc_1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0922,
+            "y": 0.5129,
+            "w": 0.4072,
+            "h": 0.1266
+          },
+          "area": 0.0516,
+          "text": "您的内容打在这里或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1277,
+            "y": 0.4153,
+            "w": 0.1225,
+            "h": 0.3093
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1277,
+            "y": 0.4153,
+            "w": 0.1225,
+            "h": 0.3093
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1277,
+            "y": 0.4153,
+            "w": 0.1225,
+            "h": 0.3093
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 6,
+          "label": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "简约清新-12-动态-7717354a-s10",
+      "title_guess": "团结",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:6,bottom-center:1,top-right:1",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 30,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 5,
+        "text_area": 0.1373,
+        "image_area": 0.1265,
+        "shape_area": 0.153,
+        "text_blob": "团结 凝聚 拼搏 智慧 合作 传播公司良好形象和品牌知名度,促进企业健康发展; 通过活动邀请知名企业家为广大员工讲授工作能力提升方面的知识,为员工自身发展,提升员工素质; 表彰先进,鼓舞士气,展示宏图,构筑梦想,再创佳绩; 团队合作精神,内部凝聚力,调动员工积极性,使其充分感受企业的关怀与关爱,使公司员工有一种家的感觉; 打造多层次激励制度,激发员工工作中的斗志,共同参与公司未来的发展携手共进,再创辉煌。 企业简介 Enterprise product introduction and publicity PART 01",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 77",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0921,
+            "y": 0.8043,
+            "w": 0.8161,
+            "h": 0.155
+          },
+          "area": 0.1265,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6742,
+            "y": 0.2318,
+            "w": 0.2096,
+            "h": 0.1144
+          },
+          "area": 0.024,
+          "text": "团队合作精神,内部凝聚力,调动员工积极性,使其充分感受企业的关怀与关爱,使公司员工有一种家的感觉;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1786,
+            "y": 0.2707,
+            "w": 0.1902,
+            "h": 0.1144
+          },
+          "area": 0.0218,
+          "text": "通过活动邀请知名企业家为广大员工讲授工作能力提升方面的知识,为员工自身发展,提升员工素质;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.5339,
+            "w": 0.1852,
+            "h": 0.1144
+          },
+          "area": 0.0212,
+          "text": "打造多层次激励制度,激发员工工作中的斗志,共同参与公司未来的发展携手共进,再创辉煌。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Freeform 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.1658,
+            "w": 0.0954,
+            "h": 0.1959
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.1658,
+            "w": 0.0954,
+            "h": 0.1959
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.1658,
+            "w": 0.0954,
+            "h": 0.1959
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.1658,
+            "w": 0.0954,
+            "h": 0.1959
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.1658,
+            "w": 0.0954,
+            "h": 0.1959
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4427,
+            "y": 0.3864,
+            "w": 0.1272,
+            "h": 0.1144
+          },
+          "area": 0.0146,
+          "text": "表彰先进,鼓舞士气,展示宏图,构筑梦想,再创佳绩;",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "简约清新-12-动态-7717354a-s11",
+      "title_guess": "产品介绍",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.1448,
+        "image_area": 0.8587,
+        "shape_area": 0.0239,
+        "text_blob": "产品介绍 A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need to work out a summary 公司介绍 企业文化 经营理念 企业资质 PART 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1032,
+            "y": 0.0537,
+            "w": 0.5621,
+            "h": 0.892
+          },
+          "area": 0.5014,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6321,
+            "y": 0.1804,
+            "w": 0.5685,
+            "h": 0.6285
+          },
+          "area": 0.3573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2373,
+            "y": 0.4086,
+            "w": 0.532,
+            "h": 0.1481
+          },
+          "area": 0.0788,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2485,
+            "y": 0.5659,
+            "w": 0.5094,
+            "h": 0.069
+          },
+          "area": 0.0351,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3632,
+            "y": 0.2515,
+            "w": 0.2548,
+            "h": 0.0905
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2543,
+            "w": 0.2165,
+            "h": 0.0942
+          },
+          "area": 0.0204,
+          "text": "PART 02",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 14",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4394,
+            "y": 0.7076,
+            "w": 0.0881,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "企业文化",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6304,
+            "y": 0.7076,
+            "w": 0.0712,
+            "h": 0.0359
+          },
+          "area": 0.0026,
+          "text": "企业资质",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5373,
+            "y": 0.7076,
+            "w": 0.0666,
+            "h": 0.0359
+          },
+          "area": 0.0024,
+          "text": "经营理念",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3431,
+            "y": 0.7076,
+            "w": 0.065,
+            "h": 0.0359
+          },
+          "area": 0.0023,
+          "text": "公司介绍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "简约清新-12-动态-7717354a-s12",
+      "title_guess": "添加标题",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:3,top-right:2,middle-left:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 30,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2018,
+        "image_area": 0,
+        "shape_area": 0.159,
+        "text_blob": "添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 合计 320800 元 产品介绍 Enterprise product introduction and publicity PART 02",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Shape 10159",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3979,
+            "y": 0.4225,
+            "w": 0.1904,
+            "h": 0.3385
+          },
+          "area": 0.0645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4244,
+            "y": 0.4978,
+            "w": 0.1343,
+            "h": 0.202
+          },
+          "area": 0.0271,
+          "text": "合计 320800 元",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 02",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6659,
+            "y": 0.2949,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7174,
+            "y": 0.4862,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0693,
+            "y": 0.4831,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1284,
+            "y": 0.3151,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6627,
+            "y": 0.6906,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1307,
+            "y": 0.696,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Shape 10198",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2928,
+            "y": 0.511,
+            "w": 0.0885,
+            "h": 0.1573
+          },
+          "area": 0.0139,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "claim": 6,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "简约清新-12-动态-7717354a-s13",
+      "title_guess": "单击输入您的文字内容,语言精练、言简意赅,尽量简化所要书写的文案;单击输入您的文字内容,语言精练、言",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 30,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.0566,
+        "image_area": 0,
+        "shape_area": 0.3941,
+        "text_blob": "单击输入您的文字内容,语言精练、言简意赅,尽量简化所要书写的文案;单击输入您的文字内容,语言精练、言简意赅 产品介绍 Enterprise product introduction and publicity PART 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图示 47",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1275,
+            "y": 0.3772,
+            "w": 0.7409,
+            "h": 0.5312
+          },
+          "area": 0.3936,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1275,
+            "y": 0.3011,
+            "w": 0.3648,
+            "h": 0.076
+          },
+          "area": 0.0277,
+          "text": "单击输入您的文字内容,语言精练、言简意赅,尽量简化所要书写的文案;单击输入您的文字内容,语言精练、言简意赅",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 02",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1774,
+            "w": 0.207,
+            "h": 0.0314
+          },
+          "area": 0.0065,
+          "text": "Enterprise product introduction and publicity",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0817,
+            "y": 0.1322,
+            "w": 0.0081,
+            "h": 0.0674
+          },
+          "area": 0.0005,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 2,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "简约清新-12-动态-7717354a-s14",
+      "title_guess": "添加标题",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:5,top-left:2,middle-right:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 30,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1454,
+        "image_area": 0.2202,
+        "shape_area": 0.0705,
+        "text_blob": "添加标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 添加标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 标题文字 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 产品介绍 Enterprise product introduction and publicity PART 02",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4721,
+            "y": 0.2495,
+            "w": 0.4453,
+            "h": 0.4944
+          },
+          "area": 0.2202,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5368,
+            "y": 0.3708,
+            "w": 0.2179,
+            "h": 0.3035
+          },
+          "area": 0.0661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 49",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.716,
+            "w": 0.2378,
+            "h": 0.1441
+          },
+          "area": 0.0343,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 44",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7139,
+            "w": 0.2378,
+            "h": 0.1441
+          },
+          "area": 0.0343,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 30",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0765,
+            "y": 0.6695,
+            "w": 0.1869,
+            "h": 0.1778
+          },
+          "area": 0.0332,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 02",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 21",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 22",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1774,
+            "w": 0.207,
+            "h": 0.0314
+          },
+          "area": 0.0065,
+          "text": "Enterprise product introduction and publicity",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 9",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.6606,
+            "w": 0.0909,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 9",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.6606,
+            "w": 0.0909,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "body": 3,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "简约清新-12-动态-7717354a-s15",
+      "title_guess": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,middle-left:2,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1529,
+        "image_area": 0,
+        "shape_area": 0.3268,
+        "text_blob": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里 项目策划 在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里 项目分析 在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里 营销管理 在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里 业务合作 产品介绍 Enterprise product introduction and publicity PART 02",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.4423,
+            "w": 0.1641,
+            "h": 0.36
+          },
+          "area": 0.0591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3117,
+            "y": 0.4423,
+            "w": 0.1641,
+            "h": 0.36
+          },
+          "area": 0.0591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5242,
+            "y": 0.4423,
+            "w": 0.1641,
+            "h": 0.36
+          },
+          "area": 0.0591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7367,
+            "y": 0.4423,
+            "w": 0.1641,
+            "h": 0.36
+          },
+          "area": 0.0591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5838,
+            "y": 0.2985,
+            "w": 0.1487,
+            "h": 0.1548
+          },
+          "area": 0.023,
+          "text": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5838,
+            "y": 0.2985,
+            "w": 0.1487,
+            "h": 0.1549
+          },
+          "area": 0.023,
+          "text": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5838,
+            "y": 0.2985,
+            "w": 0.1487,
+            "h": 0.1549
+          },
+          "area": 0.023,
+          "text": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5838,
+            "y": 0.2985,
+            "w": 0.1487,
+            "h": 0.1549
+          },
+          "area": 0.023,
+          "text": "在这里输入描述性文字或者复制您的文字到这里在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1296,
+            "y": 0.3532,
+            "w": 0.1033,
+            "h": 0.1837
+          },
+          "area": 0.019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3421,
+            "y": 0.3532,
+            "w": 0.1033,
+            "h": 0.1837
+          },
+          "area": 0.019,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "简约清新-12-动态-7717354a-s16",
+      "title_guess": "市场分析",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.1448,
+        "image_area": 0.8587,
+        "shape_area": 0.0239,
+        "text_blob": "市场分析 A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need to work out a summary 公司介绍 企业文化 经营理念 企业资质 PART 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1032,
+            "y": 0.0537,
+            "w": 0.5621,
+            "h": 0.892
+          },
+          "area": 0.5014,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6321,
+            "y": 0.1804,
+            "w": 0.5685,
+            "h": 0.6285
+          },
+          "area": 0.3573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2373,
+            "y": 0.4086,
+            "w": 0.532,
+            "h": 0.1481
+          },
+          "area": 0.0788,
+          "text": "市场分析",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2485,
+            "y": 0.5659,
+            "w": 0.5094,
+            "h": 0.069
+          },
+          "area": 0.0351,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3632,
+            "y": 0.2515,
+            "w": 0.2548,
+            "h": 0.0905
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2543,
+            "w": 0.2165,
+            "h": 0.0942
+          },
+          "area": 0.0204,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 14",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4394,
+            "y": 0.7076,
+            "w": 0.0881,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "企业文化",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6304,
+            "y": 0.7076,
+            "w": 0.0712,
+            "h": 0.0359
+          },
+          "area": 0.0026,
+          "text": "企业资质",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5373,
+            "y": 0.7076,
+            "w": 0.0666,
+            "h": 0.0359
+          },
+          "area": 0.0024,
+          "text": "经营理念",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3431,
+            "y": 0.7076,
+            "w": 0.065,
+            "h": 0.0359
+          },
+          "area": 0.0023,
+          "text": "公司介绍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "简约清新-12-动态-7717354a-s17",
+      "title_guess": "标题文字添加",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1107,
+        "image_area": 0,
+        "shape_area": 0.3075,
+        "text_blob": "标题文字添加 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。 标题文字添加 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里或者通过复制您的文本后 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "îṧľïḓé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0893,
+            "y": 0.2985,
+            "w": 0.4107,
+            "h": 0.3275
+          },
+          "area": 0.1345,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "iṡ1ïḓé",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.2985,
+            "w": 0.4107,
+            "h": 0.3275
+          },
+          "area": 0.1345,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1265,
+            "y": 0.3919,
+            "w": 0.275,
+            "h": 0.1144
+          },
+          "area": 0.0315,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1265,
+            "y": 0.3919,
+            "w": 0.275,
+            "h": 0.1144
+          },
+          "area": 0.0315,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里或者通过复制您的文本后",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "íšļîďé",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4342,
+            "y": 0.4667,
+            "w": 0.1315,
+            "h": 0.2338
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1265,
+            "y": 0.3425,
+            "w": 0.175,
+            "h": 0.0539
+          },
+          "area": 0.0094,
+          "text": "标题文字添加",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2265,
+            "y": 0.3425,
+            "w": 0.175,
+            "h": 0.0539
+          },
+          "area": 0.0094,
+          "text": "标题文字添加",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "市场分析",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "íšļîďé",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4676,
+            "y": 0.5271,
+            "w": 0.0649,
+            "h": 0.1131
+          },
+          "area": 0.0073,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 2,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "简约清新-12-动态-7717354a-s18",
+      "title_guess": "Mon",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-left:4,middle-left:1,top-right:1",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 30,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.2027,
+        "image_area": 0,
+        "shape_area": 0.176,
+        "text_blob": "Mon Tue Wed Thu Fri Sat Sun 输入标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 1. 输入标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 2. 输入标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 3. 输入标题 在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1184,
+            "y": 0.2666,
+            "w": 0.2468,
+            "h": 0.6265
+          },
+          "area": 0.1546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 34",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.68,
+            "w": 0.1917,
+            "h": 0.1778
+          },
+          "area": 0.0341,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 47",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3272,
+            "h": 0.0768
+          },
+          "area": 0.0251,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 39",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3192,
+            "h": 0.0768
+          },
+          "area": 0.0245,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 43",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3192,
+            "h": 0.0768
+          },
+          "area": 0.0245,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 40",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.4058,
+            "w": 0.0813,
+            "h": 0.1616
+          },
+          "area": 0.0131,
+          "text": "2.",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 44",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4566,
+            "y": 0.592,
+            "w": 0.0787,
+            "h": 0.1616
+          },
+          "area": 0.0127,
+          "text": "3.",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 36",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4566,
+            "y": 0.2167,
+            "w": 0.0732,
+            "h": 0.1616
+          },
+          "area": 0.0118,
+          "text": "1.",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 58",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "市场分析",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 12,
+          "body": 2,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "简约清新-12-动态-7717354a-s19",
+      "title_guess": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里,或者通过",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:2,middle-right:2",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 30,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1188,
+        "image_area": 0.0092,
+        "shape_area": 0.2751,
+        "text_blob": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 85% 73% 78% 添加标题 您的内容打在这里或者通过复制您的文本后在此框中选择 添加标题 您的内容打在这里或者通过复制您的文本后在此框中选择 添加标题 您的内容打在这里或者通过复制您的文本后在此框中选择 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2626,
+            "y": 0.6626,
+            "w": 0.7085,
+            "h": 0.1888
+          },
+          "area": 0.1338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 34",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3742,
+            "y": 0.7076,
+            "w": 0.3973,
+            "h": 0.074
+          },
+          "area": 0.0294,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Arc 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3525,
+            "y": 0.2583,
+            "w": 0.1268,
+            "h": 0.2253
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Arc 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5581,
+            "y": 0.2578,
+            "w": 0.1268,
+            "h": 0.2253
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Arc 22",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7715,
+            "y": 0.2578,
+            "w": 0.1268,
+            "h": 0.2253
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Oval 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3679,
+            "y": 0.2834,
+            "w": 0.0958,
+            "h": 0.1703
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Oval 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5912,
+            "y": 0.2834,
+            "w": 0.0958,
+            "h": 0.1703
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 18",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8145,
+            "y": 0.2834,
+            "w": 0.0958,
+            "h": 0.1703
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 23",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0904,
+            "y": 0.664,
+            "w": 0.1614,
+            "h": 0.074
+          },
+          "area": 0.0119,
+          "text": "您的内容打在这里或者通过复制您的文本后在此框中选择",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 8,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "简约清新-12-动态-7717354a-s20",
+      "title_guess": "企业名称",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:2,bottom-left:1,middle-left:1",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1271,
+        "image_area": 0.1601,
+        "shape_area": 0.0005,
+        "text_blob": "企业名称 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 企业名称 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 关键词 | 关键词 产品特点 关键词 | 关键词 产品特点 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1367,
+            "y": 0.6247,
+            "w": 0.2975,
+            "h": 0.2697
+          },
+          "area": 0.0802,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 13",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1367,
+            "y": 0.2749,
+            "w": 0.2968,
+            "h": 0.2691
+          },
+          "area": 0.0799,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 11",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5047,
+            "y": 0.3647,
+            "w": 0.3785,
+            "h": 0.101
+          },
+          "area": 0.0382,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 11",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5047,
+            "y": 0.7217,
+            "w": 0.3785,
+            "h": 0.101
+          },
+          "area": 0.0382,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 16",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "市场分析",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 17",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1774,
+            "w": 0.207,
+            "h": 0.0314
+          },
+          "area": 0.0065,
+          "text": "Enterprise product introduction and publicity",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5047,
+            "y": 0.2907,
+            "w": 0.0841,
+            "h": 0.0449
+          },
+          "area": 0.0038,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5047,
+            "y": 0.6476,
+            "w": 0.0841,
+            "h": 0.0449
+          },
+          "area": 0.0038,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 10",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5047,
+            "y": 0.4966,
+            "w": 0.099,
+            "h": 0.0381
+          },
+          "area": 0.0038,
+          "text": "产品特点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 2,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "简约清新-12-动态-7717354a-s21",
+      "title_guess": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2069,
+        "image_area": 0,
+        "shape_area": 0.1834,
+        "text_blob": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3505,
+            "w": 0.2562,
+            "h": 0.4556
+          },
+          "area": 0.1167,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 8",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1022,
+            "y": 0.3196,
+            "w": 0.2428,
+            "h": 0.1833
+          },
+          "area": 0.0445,
+          "text": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 8",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6617,
+            "y": 0.3196,
+            "w": 0.2428,
+            "h": 0.1833
+          },
+          "area": 0.0445,
+          "text": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 8",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1022,
+            "y": 0.6437,
+            "w": 0.2428,
+            "h": 0.1833
+          },
+          "area": 0.0445,
+          "text": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 8",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6617,
+            "y": 0.6437,
+            "w": 0.2428,
+            "h": 0.1833
+          },
+          "area": 0.0445,
+          "text": "填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1036,
+            "y": 0.3578,
+            "w": 0.3023,
+            "h": 0.0702
+          },
+          "area": 0.0212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.601,
+            "y": 0.3578,
+            "w": 0.3023,
+            "h": 0.0702
+          },
+          "area": 0.0212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1022,
+            "y": 0.6446,
+            "w": 0.279,
+            "h": 0.0426
+          },
+          "area": 0.0119,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 8",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6256,
+            "y": 0.6446,
+            "w": 0.279,
+            "h": 0.0426
+          },
+          "area": 0.0119,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 4,
+          "label": 2,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "简约清新-12-动态-7717354a-s22",
+      "title_guess": "添加标题内容",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:2,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 15,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1315,
+        "image_area": 0.3487,
+        "shape_area": 0.1269,
+        "text_blob": "添加标题内容 您的内容打在这里,或者通过复制您的文本后, 添加标题内容 您的内容打在这里,或者通过复制您的文本后, 添加标题内容 您的内容打在这里,或者通过复制您的文本后, 添加标题内容 您的内容打在这里,或者通过复制您的文本后, 添加标题内容 您的内容打在这里,或者通过复制您的文本后, 添加标题内容 您的内容打在这里,或者通过复制您的文本后, 市场分析 Enterprise product introduction and publicity PART 03",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5589,
+            "y": 0.214,
+            "w": 0.4429,
+            "h": 0.7873
+          },
+          "area": 0.3487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 27",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6601,
+            "y": 0.3108,
+            "w": 0.2209,
+            "h": 0.5071
+          },
+          "area": 0.112,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 8",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1432,
+            "y": 0.3606,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.367,
+            "y": 0.3606,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1432,
+            "y": 0.5627,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3678,
+            "y": 0.5577,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1432,
+            "y": 0.7738,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 18",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3678,
+            "y": 0.7687,
+            "w": 0.1688,
+            "h": 0.0673
+          },
+          "area": 0.0114,
+          "text": "您的内容打在这里,或者通过复制您的文本后,",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 26",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "市场分析",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "label": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "简约清新-12-动态-7717354a-s23",
+      "title_guess": "展望未来",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.1448,
+        "image_area": 0.8587,
+        "shape_area": 0.0239,
+        "text_blob": "展望未来 A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need to work out a summary 公司介绍 企业文化 经营理念 企业资质 PART 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1032,
+            "y": 0.0537,
+            "w": 0.5621,
+            "h": 0.892
+          },
+          "area": 0.5014,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6321,
+            "y": 0.1804,
+            "w": 0.5685,
+            "h": 0.6285
+          },
+          "area": 0.3573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2373,
+            "y": 0.4086,
+            "w": 0.532,
+            "h": 0.1481
+          },
+          "area": 0.0788,
+          "text": "展望未来",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2485,
+            "y": 0.5659,
+            "w": 0.5094,
+            "h": 0.069
+          },
+          "area": 0.0351,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summaryA dream need",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3632,
+            "y": 0.2515,
+            "w": 0.2548,
+            "h": 0.0905
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2543,
+            "w": 0.2165,
+            "h": 0.0942
+          },
+          "area": 0.0204,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 14",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4394,
+            "y": 0.7076,
+            "w": 0.0881,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "企业文化",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6304,
+            "y": 0.7076,
+            "w": 0.0712,
+            "h": 0.0359
+          },
+          "area": 0.0026,
+          "text": "企业资质",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5373,
+            "y": 0.7076,
+            "w": 0.0666,
+            "h": 0.0359
+          },
+          "area": 0.0024,
+          "text": "经营理念",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3431,
+            "y": 0.7076,
+            "w": 0.065,
+            "h": 0.0359
+          },
+          "area": 0.0023,
+          "text": "公司介绍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "简约清新-12-动态-7717354a-s24",
+      "title_guess": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入字或者复制您的文字到这里。在这里输入描述性文",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:6,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 30,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1887,
+        "image_area": 0,
+        "shape_area": 0.0635,
+        "text_blob": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入字或者复制您的文字到这里。在这里输入描述性文或者复制您的文字到这里。在这里输入描述性或者复制您的文字到这里。在这里输入描述性文字,制您的文字到这里。在这里输入描述性文字,或者复制您的文字到这里。 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 在这里输入描述性文字或者复制您的文字到这里 输入标题 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3808,
+            "y": 0.2989,
+            "w": 0.1705,
+            "h": 0.3168
+          },
+          "area": 0.054,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0916,
+            "y": 0.508,
+            "w": 0.2484,
+            "h": 0.2154
+          },
+          "area": 0.0535,
+          "text": "在这里输入描述性文字,或者复制您的文字到这里。在这里输入字或者复制您的文字到这里。在这里输入描述性文或者复制您的文字到这里。在这里输入描述性或者复制您的文字到这里。在这里输入描述性文字,制您的文字到这里。在这里输入描述性文字,或者复制您的文",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 63",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6794,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 67",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6689,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 70",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6689,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 73",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6689,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 76",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6689,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 79",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2753,
+            "y": 0.6689,
+            "w": 0.1431,
+            "h": 0.0841
+          },
+          "area": 0.012,
+          "text": "在这里输入描述性文字或者复制您的文字到这里",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "展望未来",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 8,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "简约清新-12-动态-7717354a-s25",
+      "title_guess": "标题文字添加",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:5,top-center:2,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1689,
+        "image_area": 0,
+        "shape_area": 0.2778,
+        "text_blob": "标题文字添加 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。 标题文字添加 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。 01 您的内容打在这里,或者通过复制您的文本后,在此您的内容打者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 “ 02 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6063,
+            "y": 0.2327,
+            "w": 0.2973,
+            "h": 0.6427
+          },
+          "area": 0.1911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4937,
+            "y": 0.2947,
+            "w": 0.2971,
+            "h": 0.2901
+          },
+          "area": 0.0862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 11",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.548,
+            "y": 0.3618,
+            "w": 0.2214,
+            "h": 0.187
+          },
+          "area": 0.0414,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此您的内容打者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5221,
+            "y": 0.3416,
+            "w": 0.2344,
+            "h": 0.1144
+          },
+          "area": 0.0268,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5221,
+            "y": 0.3416,
+            "w": 0.2344,
+            "h": 0.1144
+          },
+          "area": 0.0268,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4595,
+            "y": 0.2974,
+            "w": 0.0845,
+            "h": 0.1795
+          },
+          "area": 0.0152,
+          "text": "“",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5221,
+            "y": 0.2859,
+            "w": 0.1839,
+            "h": 0.0585
+          },
+          "area": 0.0108,
+          "text": "标题文字添加",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5221,
+            "y": 0.2859,
+            "w": 0.1839,
+            "h": 0.0585
+          },
+          "area": 0.0108,
+          "text": "标题文字添加",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "展望未来",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 3,
+          "label": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "简约清新-12-动态-7717354a-s26",
+      "title_guess": "添加标题内容",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,top-left:2,middle-center:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1591,
+        "image_area": 0,
+        "shape_area": 0.0327,
+        "text_blob": "添加标题内容 添加标题内容 添加标题内容 添加标题内容 添加标题内容 添加标题内容 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 23",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1031,
+            "y": 0.4485,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3799,
+            "y": 0.4485,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 25",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6533,
+            "y": 0.448,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 26",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1031,
+            "y": 0.7143,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 27",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3799,
+            "y": 0.7143,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 28",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6533,
+            "y": 0.7139,
+            "w": 0.2372,
+            "h": 0.0673
+          },
+          "area": 0.016,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 33",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0974,
+            "y": 0.1221,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "展望未来",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 34",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1774,
+            "w": 0.207,
+            "h": 0.0314
+          },
+          "area": 0.0065,
+          "text": "Enterprise product introduction and publicity",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1627,
+            "y": 0.3625,
+            "w": 0.1161,
+            "h": 0.0494
+          },
+          "area": 0.0057,
+          "text": "添加标题内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "简约清新-12-动态-7717354a-s27",
+      "title_guess": "本地市场",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 4,
+        "text_area": 0.1691,
+        "image_area": 0,
+        "shape_area": 0.3993,
+        "text_blob": "本地市场 周边市场 细分市场 高端市场 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 在此添加标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 在此添加标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 在此添加标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 在此添加标题 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "右箭头 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1133,
+            "y": 0.2601,
+            "w": 0.7863,
+            "h": 0.364
+          },
+          "area": 0.2862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0823,
+            "y": 0.3735,
+            "w": 0.1663,
+            "h": 0.137
+          },
+          "area": 0.0228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2999,
+            "y": 0.3735,
+            "w": 0.1663,
+            "h": 0.137
+          },
+          "area": 0.0228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5174,
+            "y": 0.3735,
+            "w": 0.1663,
+            "h": 0.137
+          },
+          "area": 0.0228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.735,
+            "y": 0.3735,
+            "w": 0.1663,
+            "h": 0.137
+          },
+          "area": 0.0228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 56",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1153,
+            "y": 0.6429,
+            "w": 0.184,
+            "h": 0.101
+          },
+          "area": 0.0186,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1153,
+            "y": 0.6408,
+            "w": 0.184,
+            "h": 0.101
+          },
+          "area": 0.0186,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 62",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1153,
+            "y": 0.6408,
+            "w": 0.184,
+            "h": 0.101
+          },
+          "area": 0.0186,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 65",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1153,
+            "y": 0.6408,
+            "w": 0.184,
+            "h": 0.101
+          },
+          "area": 0.0186,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 04",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "简约清新-12-动态-7717354a-s28",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼不用多余的文字修饰,简洁精准的 解说所提炼的核心概念。点击",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:2,top-left:1",
+      "counts": {
+        "text": 4,
+        "image": 12,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 30,
+        "text_count": 4,
+        "image_count": 12,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.0623,
+        "image_area": 0.0799,
+        "shape_area": 0.4978,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼不用多余的文字修饰,简洁精准的 解说所提炼的核心概念。点击输入简要文字解说 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 71",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0296,
+            "y": 0.766,
+            "w": 0.9414,
+            "h": 0.1229
+          },
+          "area": 0.1157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 69",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0802,
+            "y": 0.2593,
+            "w": 0.2683,
+            "h": 0.1245
+          },
+          "area": 0.0334,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼不用多余的文字修饰,简洁精准的 解说所提炼的核心概念。点击输入简要文字解说",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "六边形 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1071,
+            "y": 0.5517,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "六边形 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2238,
+            "y": 0.4413,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "六边形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3405,
+            "y": 0.331,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "六边形 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4571,
+            "y": 0.2206,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "六边形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3393,
+            "y": 0.5581,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "六边形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.456,
+            "y": 0.4477,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "六边形 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5726,
+            "y": 0.3373,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "六边形 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6893,
+            "y": 0.2269,
+            "w": 0.144,
+            "h": 0.2208
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 2,
+          "footer": 1
+        },
+        "image": {
+          "image": 12
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "简约清新-12-动态-7717354a-s29",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准。点击输入简要文字解说,解说文",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:4,middle-right:3,bottom-right:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 30,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.2314,
+        "image_area": 0,
+        "shape_area": 0.2822,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰, 让我们撸起袖子加油干! 未来 拼搏 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准。点击输入简要文字解说 共赢 您的内容打在这或者通过复制您的文本后在此框中选择粘择只保留文字。 科技 您的内容打在这或者通过复制您的文本后在此框中选择粘贴并选择只保留文字。 服务 您的内容打在这或者通过复制您的文本后在此框中选择选择只保留文字。 展望未来 Enterprise product introduction and publicity PART 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5625,
+            "y": 0.2228,
+            "w": 0.3582,
+            "h": 0.6649
+          },
+          "area": 0.2382,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5874,
+            "y": 0.6421,
+            "w": 0.3253,
+            "h": 0.1144
+          },
+          "area": 0.0372,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰,",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5874,
+            "y": 0.7614,
+            "w": 0.3253,
+            "h": 0.0768
+          },
+          "area": 0.025,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准。点击输入简要文字解说",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2527,
+            "y": 0.3213,
+            "w": 0.218,
+            "h": 0.0808
+          },
+          "area": 0.0176,
+          "text": "您的内容打在这或者通过复制您的文本后在此框中选择粘择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2527,
+            "y": 0.3213,
+            "w": 0.218,
+            "h": 0.0808
+          },
+          "area": 0.0176,
+          "text": "您的内容打在这或者通过复制您的文本后在此框中选择粘贴并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2527,
+            "y": 0.3213,
+            "w": 0.218,
+            "h": 0.0808
+          },
+          "area": 0.0176,
+          "text": "您的内容打在这或者通过复制您的文本后在此框中选择选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 7",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5877,
+            "y": 0.5225,
+            "w": 0.2262,
+            "h": 0.0661
+          },
+          "area": 0.015,
+          "text": "让我们撸起袖子加油干!",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7769,
+            "y": 0.1093,
+            "w": 0.2165,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5901,
+            "y": 0.2916,
+            "w": 0.0903,
+            "h": 0.1606
+          },
+          "area": 0.0145,
+          "text": "未来",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7236,
+            "y": 0.2916,
+            "w": 0.0903,
+            "h": 0.1606
+          },
+          "area": 0.0145,
+          "text": "拼搏",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 12,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "简约清新-12-动态-7717354a-s30",
+      "title_guess": "谢谢您的观看",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1975,
+        "image_area": 0.851,
+        "shape_area": 0.0055,
+        "text_blob": "谢谢您的观看 策划人:某某某 A dream need to work out a summary report dream need to work out a need to work out a summary report summary 产品介绍 / 产品推广 / 项目介绍 / 营销策划 / 企业宣传 LOGO 企业标志 THANK . YOU",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 18",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4657,
+            "y": 0.0353,
+            "w": 0.5621,
+            "h": 0.9288
+          },
+          "area": 0.5221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.2076,
+            "y": 0.2054,
+            "w": 0.5685,
+            "h": 0.5785
+          },
+          "area": 0.3289,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 23",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1183,
+            "y": 0.2735,
+            "w": 0.4896,
+            "h": 0.1481
+          },
+          "area": 0.0725,
+          "text": "THANK . YOU",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.119,
+            "y": 0.3948,
+            "w": 0.5481,
+            "h": 0.1212
+          },
+          "area": 0.0664,
+          "text": "谢谢您的观看",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "PA_文本框 57",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.124,
+            "y": 0.5475,
+            "w": 0.3846,
+            "h": 0.0768
+          },
+          "area": 0.0295,
+          "text": "A dream need to work out a summary report dream need to work out a need to work out a summary report summary",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1232,
+            "y": 0.5104,
+            "w": 0.4345,
+            "h": 0.0471
+          },
+          "area": 0.0205,
+          "text": "产品介绍 / 产品推广 / 项目介绍 / 营销策划 / 企业宣传",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 58",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.436,
+            "y": 0.7413,
+            "w": 0.1299,
+            "h": 0.0425
+          },
+          "area": 0.0055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.436,
+            "y": 0.7459,
+            "w": 0.1299,
+            "h": 0.032
+          },
+          "area": 0.0042,
+          "text": "策划人:某某某",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5022,
+            "y": 0.2511,
+            "w": 0.0607,
+            "h": 0.0424
+          },
+          "area": 0.0026,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5544,
+            "y": 0.2563,
+            "w": 0.0538,
+            "h": 0.0326
+          },
+          "area": 0.0018,
+          "text": "企业标志",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 30,
+    "layout_job_counts": {
+      "limitations-future": 8,
+      "flow-diagram": 6,
+      "duo-compare": 4,
+      "claim-evidence": 3,
+      "two-column": 3,
+      "matrix-grid": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "table": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 14,
+      "image": 8,
+      "mixed": 5,
+      "text": 3
+    },
+    "density_counts": {
+      "medium-high": 21,
+      "high": 6,
+      "medium": 2,
+      "low": 1
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "flow-diagram",
+      "duo-compare",
+      "claim-evidence",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ]
+  }
+}

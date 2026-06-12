@@ -1,6 +1,10 @@
 skills/mineru-parser/config.json
 skills/sasu-image2/config.local.json
 skills/sasu-image2/.python-deps/
+skills/ppt-studio/assets/template-library/originals/*
+!skills/ppt-studio/assets/template-library/originals/README.md
+skills/ppt-studio/.understand-anything/
+skills/ppt-studio/scripts/__pycache__/
 skills/mineru-parser/__pycache__/
 skills/sasu-image2/__pycache__/
 __pycache__/

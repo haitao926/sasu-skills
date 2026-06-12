@@ -1,0 +1,4411 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:27.263884+00:00",
+  "template_id": "毕业答辩-02-动态-17b42abc",
+  "template_profile_path": "assets/template-library/profiles/毕业答辩-02-动态-17b42abc.json",
+  "source_template": {
+    "name": "毕业答辩(02)—动态.pptx",
+    "category": "毕业答辩（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(02)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 20,
+    "media_count": 48,
+    "image_media_count": 48,
+    "motion_hint": "dynamic",
+    "tags": [
+      "学术答辩",
+      "毕业答辩",
+      "论文汇报",
+      "学术展示",
+      "封面",
+      "目录",
+      "研究背景",
+      "方法",
+      "实验结果",
+      "总结",
+      "正式",
+      "学术",
+      "蓝白",
+      "清晰编号",
+      "论文图",
+      "流程图",
+      "实验图",
+      "结果图",
+      "表格",
+      "标题+结论",
+      "少量正文",
+      "高可编辑",
+      "动态版",
+      "可动效",
+      "高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "学术答辩",
+    "scenario": [
+      "毕业答辩",
+      "论文汇报",
+      "学术展示"
+    ],
+    "best_for": [
+      "毕业论文答辩",
+      "开题/中期/结题答辩"
+    ],
+    "avoid": [
+      "活动海报",
+      "娱乐风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "目录",
+      "研究背景",
+      "方法",
+      "结果",
+      "致谢"
+    ],
+    "visual": [
+      "正式",
+      "学术",
+      "蓝白",
+      "清晰编号"
+    ],
+    "image_strategy": [
+      "论文图",
+      "流程图",
+      "实验图",
+      "结果图",
+      "表格"
+    ],
+    "text_strategy": [
+      "标题+结论",
+      "少量正文",
+      "高可编辑"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 10.0,
+      "h": 5.625
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "matrix-grid",
+      "flow-diagram",
+      "table",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "body",
+      "label",
+      "footer",
+      "diagram-block",
+      "image"
+    ],
+    "common_zones": [
+      "bottom-left",
+      "middle-left",
+      "middle-center",
+      "middle-right",
+      "bottom-center",
+      "top-center"
+    ],
+    "template_text_signature": "答辩人:锐小旗 CONTENTS DEFENSE 选题的背景 选题的意义 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 VS DEFENSE 研究的思路 01 研究的方法 第一步 DEFENSE 研究结果展示 研究结果展示及应用 研究结果展示及应用 DEFENSE 论文总结 论文总结 答辩人:锐小旗",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s01",
+      "title_guess": "答辩人:锐小旗",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:6,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 20,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2471,
+        "image_area": 0,
+        "shape_area": 0.1989,
+        "text_blob": "答辩人:锐小旗 DEFENSE 毕业答辩模版 Graduate Thesis Defense 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4444,
+            "y": 0.0123,
+            "w": 0.1112,
+            "h": 1.7778
+          },
+          "area": 0.1977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.035,
+            "y": 0.3287,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "毕业答辩模版",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0385,
+            "y": 0.2403,
+            "w": 0.588,
+            "h": 0.0778
+          },
+          "area": 0.0457,
+          "text": "Graduate Thesis Defense",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0394,
+            "y": 0.5039,
+            "w": 0.44,
+            "h": 0.0961
+          },
+          "area": 0.0423,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 18",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0476,
+            "y": 0.6575,
+            "w": 0.1995,
+            "h": 0.0575
+          },
+          "area": 0.0115,
+          "text": "答辩人:锐小旗",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0901,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 20,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 7,
+        "text_area": 0.3544,
+        "image_area": 0,
+        "shape_area": 0.5069,
+        "text_blob": "DEFENSE CONTENTS 目录 01 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼 02 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼 03 研究结果展示及应用 单击此处输入你的正文,文字是您思想的提炼 04 论文总结 单击此处输入你的正文,文字是您思想的提炼",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4444,
+            "y": 0.0123,
+            "w": 0.1112,
+            "h": 1.7778
+          },
+          "area": 0.1977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4371,
+            "y": 0.1789,
+            "w": 0.4844,
+            "h": 0.1589
+          },
+          "area": 0.077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4371,
+            "y": 0.3628,
+            "w": 0.4844,
+            "h": 0.1589
+          },
+          "area": 0.077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 30",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4371,
+            "y": 0.5467,
+            "w": 0.4844,
+            "h": 0.1589
+          },
+          "area": 0.077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4371,
+            "y": 0.7305,
+            "w": 0.4844,
+            "h": 0.1589
+          },
+          "area": 0.077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 42",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0154,
+            "y": 0.4402,
+            "w": 0.3783,
+            "h": 0.1376
+          },
+          "area": 0.0521,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.2994,
+            "w": 0.166,
+            "h": 0.1616
+          },
+          "area": 0.0268,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.542,
+            "y": 0.3916,
+            "w": 0.3327,
+            "h": 0.0718
+          },
+          "area": 0.0239,
+          "text": "研究的方法和过程",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.542,
+            "y": 0.5719,
+            "w": 0.3327,
+            "h": 0.0718
+          },
+          "area": 0.0239,
+          "text": "研究结果展示及应用",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "section_label": 2,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s03",
+      "title_guess": "DEFENSE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,middle-left:3",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 20,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2436,
+        "image_area": 0,
+        "shape_area": 0.5345,
+        "text_blob": "DEFENSE 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 第一单元 01 PART ONE",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": -0.3889,
+            "w": 0.3,
+            "h": 1.7778
+          },
+          "area": 0.5333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.3464,
+            "w": 0.4609,
+            "h": 0.1257
+          },
+          "area": 0.0579,
+          "text": "选题的背景与意义",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.4836,
+            "w": 0.4577,
+            "h": 0.0961
+          },
+          "area": 0.044,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.2963,
+            "w": 0.1647,
+            "h": 0.2573
+          },
+          "area": 0.0424,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.5192,
+            "w": 0.2509,
+            "h": 0.0718
+          },
+          "area": 0.018,
+          "text": "PART ONE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2303,
+            "y": 0.6269,
+            "w": 0.1313,
+            "h": 0.0575
+          },
+          "area": 0.0075,
+          "text": "第一单元",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s04",
+      "title_guess": "选题的背景",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:3,middle-right:2,top-left:2",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.3056,
+        "image_area": 0.1392,
+        "shape_area": 0.4151,
+        "text_blob": "选题的背景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 5",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0254,
+            "y": 0.2309,
+            "w": 0.4196,
+            "h": 0.5622
+          },
+          "area": 0.2359,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0254,
+            "y": 0.2325,
+            "w": 0.4197,
+            "h": 0.322
+          },
+          "area": 0.1351,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0254,
+            "y": 0.71,
+            "w": 0.4085,
+            "h": 0.1542
+          },
+          "area": 0.063,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5449,
+            "y": 0.3011,
+            "w": 0.3873,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 29",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5449,
+            "y": 0.558,
+            "w": 0.3873,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 31",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5449,
+            "y": 0.8065,
+            "w": 0.3873,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0254,
+            "y": 0.6137,
+            "w": 0.3746,
+            "h": 0.0898
+          },
+          "area": 0.0336,
+          "text": "选题的背景",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "选题的背景与意义",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0946,
+            "w": 0.312,
+            "h": 0.0494
+          },
+          "area": 0.0154,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s05",
+      "title_guess": "选题的意义",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,top-left:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 2,
+        "text_area": 0.1977,
+        "image_area": 0.098,
+        "shape_area": 0.3083,
+        "text_blob": "选题的意义 单击此处输入你的正文,文字是您思想的提炼、 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼 选题的意义 单击此处输入你的正文,文字是您思想的提炼、 选题的意义 单击此处输入你的正文,文字是您思想的提炼、 选题的意义 单击此处输入你的正文,文字是您思想的提炼、",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3765,
+            "y": 0.2988,
+            "w": 0.2471,
+            "h": 0.4393
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.389,
+            "y": 0.3204,
+            "w": 0.222,
+            "h": 0.3947
+          },
+          "area": 0.0876,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "选题的背景与意义",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0543,
+            "y": 0.4299,
+            "w": 0.2116,
+            "h": 0.1113
+          },
+          "area": 0.0236,
+          "text": "单击此处输入你的正文,文字是您思想的提炼、",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1758,
+            "y": 0.8152,
+            "w": 0.2116,
+            "h": 0.1113
+          },
+          "area": 0.0236,
+          "text": "单击此处输入你的正文,文字是您思想的提炼、",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6125,
+            "y": 0.8152,
+            "w": 0.2116,
+            "h": 0.1113
+          },
+          "area": 0.0236,
+          "text": "单击此处输入你的正文,文字是您思想的提炼、",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7389,
+            "y": 0.4299,
+            "w": 0.2116,
+            "h": 0.1113
+          },
+          "area": 0.0236,
+          "text": "单击此处输入你的正文,文字是您思想的提炼、",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0946,
+            "w": 0.312,
+            "h": 0.0494
+          },
+          "area": 0.0154,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0495,
+            "y": 0.364,
+            "w": 0.2212,
+            "h": 0.0658
+          },
+          "area": 0.0146,
+          "text": "选题的意义",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s06",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:3,bottom-right:3,middle-left:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 20,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.3165,
+        "image_area": 0.1762,
+        "shape_area": 0.5613,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 关键词 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 关键词 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼 选题的意义 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 关键词 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 关键词",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 30",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.6396,
+            "w": 0.5,
+            "h": 0.3604
+          },
+          "area": 0.1802,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 31",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.6396,
+            "w": 0.5,
+            "h": 0.3604
+          },
+          "area": 0.1802,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.2721,
+            "w": 0.479,
+            "h": 0.3679
+          },
+          "area": 0.1762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8118,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0206,
+            "y": 0.3822,
+            "w": 0.4465,
+            "h": 0.1542
+          },
+          "area": 0.0689,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0206,
+            "y": 0.2859,
+            "w": 0.4465,
+            "h": 0.0898
+          },
+          "area": 0.0401,
+          "text": "选题的意义",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6551,
+            "y": 0.6932,
+            "w": 0.3199,
+            "h": 0.1113
+          },
+          "area": 0.0356,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 17",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6551,
+            "y": 0.8349,
+            "w": 0.3199,
+            "h": 0.1113
+          },
+          "area": 0.0356,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 32",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1618,
+            "y": 0.6955,
+            "w": 0.3199,
+            "h": 0.0942
+          },
+          "area": 0.0301,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 36",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1618,
+            "y": 0.8373,
+            "w": 0.3199,
+            "h": 0.0942
+          },
+          "area": 0.0301,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 3,
+          "label": 6,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s07",
+      "title_guess": "VS",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 20,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 2,
+        "text_area": 0.3123,
+        "image_area": 0,
+        "shape_area": 0.9382,
+        "text_blob": "VS 关键词 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 关键词 选题的背景与意义 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 8",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2794,
+            "y": 0.1719,
+            "w": 0.4508,
+            "h": 0.8014
+          },
+          "area": 0.3613,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3409,
+            "y": 0.2813,
+            "w": 0.3278,
+            "h": 0.5827
+          },
+          "area": 0.191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3997,
+            "y": 0.3856,
+            "w": 0.21,
+            "h": 0.3734
+          },
+          "area": 0.0784,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3251,
+            "y": 0.4331,
+            "w": 0.3497,
+            "h": 0.2109
+          },
+          "area": 0.0738,
+          "text": "VS",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 42",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.3689,
+            "w": 0.2888,
+            "h": 0.154
+          },
+          "area": 0.0445,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 43",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.5304,
+            "w": 0.2888,
+            "h": 0.154
+          },
+          "area": 0.0445,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6815,
+            "y": 0.3689,
+            "w": 0.2888,
+            "h": 0.154
+          },
+          "area": 0.0445,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 12",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6815,
+            "y": 0.5304,
+            "w": 0.2888,
+            "h": 0.154
+          },
+          "area": 0.0445,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图片占位符 32",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0514,
+            "y": 0.7071,
+            "w": 0.1318,
+            "h": 0.2343
+          },
+          "area": 0.0309,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s08",
+      "title_guess": "DEFENSE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,middle-left:3",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 20,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2436,
+        "image_area": 0,
+        "shape_area": 0.5345,
+        "text_blob": "DEFENSE 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 第二单元 02 PART TWO",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": -0.3889,
+            "w": 0.3,
+            "h": 1.7778
+          },
+          "area": 0.5333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.3464,
+            "w": 0.4609,
+            "h": 0.1257
+          },
+          "area": 0.0579,
+          "text": "研究的方法和过程",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.4836,
+            "w": 0.4577,
+            "h": 0.0961
+          },
+          "area": 0.044,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.2963,
+            "w": 0.1647,
+            "h": 0.2573
+          },
+          "area": 0.0424,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.5192,
+            "w": 0.2509,
+            "h": 0.0718
+          },
+          "area": 0.018,
+          "text": "PART TWO",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2303,
+            "y": 0.6269,
+            "w": 0.1313,
+            "h": 0.0575
+          },
+          "area": 0.0075,
+          "text": "第二单元",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s09",
+      "title_guess": "研究的思路",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,top-center:1,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 20,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 2,
+        "text_area": 0.2864,
+        "image_area": 0,
+        "shape_area": 0.597,
+        "text_blob": "研究的思路 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 研究的思路 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 研究的思路 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0589,
+            "y": 0.2361,
+            "w": 0.4552,
+            "h": 0.3244
+          },
+          "area": 0.1477,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1975,
+            "y": 0.608,
+            "w": 0.7488,
+            "h": 0.155
+          },
+          "area": 0.1161,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1975,
+            "y": 0.7931,
+            "w": 0.7488,
+            "h": 0.155
+          },
+          "area": 0.1161,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5333,
+            "y": 0.3644,
+            "w": 0.4202,
+            "h": 0.1542
+          },
+          "area": 0.0648,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2349,
+            "y": 0.8151,
+            "w": 0.5872,
+            "h": 0.1071
+          },
+          "area": 0.0629,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2349,
+            "y": 0.6297,
+            "w": 0.5677,
+            "h": 0.1071
+          },
+          "area": 0.0608,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5333,
+            "y": 0.2716,
+            "w": 0.3497,
+            "h": 0.0898
+          },
+          "area": 0.0314,
+          "text": "研究的思路",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "研究的方法和过程",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆顶角 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0912,
+            "y": 0.5417,
+            "w": 0.0872,
+            "h": 0.2877
+          },
+          "area": 0.0251,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 3,
+          "footer": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s10",
+      "title_guess": "01",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,bottom-left:2,top-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 2,
+        "text_area": 0.2598,
+        "image_area": 0,
+        "shape_area": 0.4145,
+        "text_blob": "01 03 02 04 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 51",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.2235,
+            "w": 0.1818,
+            "h": 0.2761
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片占位符 53",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2182,
+            "y": 0.2235,
+            "w": 0.1818,
+            "h": 0.2761
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片占位符 55",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.5629,
+            "w": 0.1818,
+            "h": 0.2761
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片占位符 57",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2182,
+            "y": 0.5629,
+            "w": 0.1818,
+            "h": 0.2761
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4825,
+            "y": 0.3016,
+            "w": 0.2159,
+            "h": 0.1542
+          },
+          "area": 0.0333,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7677,
+            "y": 0.3016,
+            "w": 0.2159,
+            "h": 0.1542
+          },
+          "area": 0.0333,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4825,
+            "y": 0.6774,
+            "w": 0.2159,
+            "h": 0.1542
+          },
+          "area": 0.0333,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7677,
+            "y": 0.6718,
+            "w": 0.2159,
+            "h": 0.1542
+          },
+          "area": 0.0333,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "研究的方法和过程",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s11",
+      "title_guess": "研究的方法",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "top-right:2,middle-right:2,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 20,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 4,
+        "text_area": 0.2294,
+        "image_area": 0,
+        "shape_area": 0.4656,
+        "text_blob": "研究的方法 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 01 02 03 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼 研究的方法 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 研究的方法 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0421,
+            "y": 0.2099,
+            "w": 0.4331,
+            "h": 0.3272
+          },
+          "area": 0.1417,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片占位符 9",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0421,
+            "y": 0.5757,
+            "w": 0.4331,
+            "h": 0.3272
+          },
+          "area": 0.1417,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5702,
+            "y": 0.2516,
+            "w": 0.4138,
+            "h": 0.1111
+          },
+          "area": 0.046,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5702,
+            "y": 0.5,
+            "w": 0.4138,
+            "h": 0.1111
+          },
+          "area": 0.046,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5702,
+            "y": 0.7573,
+            "w": 0.4138,
+            "h": 0.1111
+          },
+          "area": 0.046,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "研究的方法和过程",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0946,
+            "w": 0.312,
+            "h": 0.0494
+          },
+          "area": 0.0154,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5702,
+            "y": 0.1968,
+            "w": 0.1918,
+            "h": 0.0658
+          },
+          "area": 0.0126,
+          "text": "研究的方法",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5702,
+            "y": 0.4452,
+            "w": 0.1918,
+            "h": 0.0658
+          },
+          "area": 0.0126,
+          "text": "研究的方法",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s12",
+      "title_guess": "第一步",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,middle-right:2,middle-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 6,
+        "text_area": 0.2957,
+        "image_area": 0,
+        "shape_area": 0.1915,
+        "text_blob": "第一步 第二步 第三步 第四步 研究的方法和过程 单击此处输入你的正文,文字是您思想的提炼 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "研究的方法和过程",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1587,
+            "y": 0.286,
+            "w": 0.2707,
+            "h": 0.1071
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5422,
+            "y": 0.28,
+            "w": 0.2707,
+            "h": 0.1071
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.353,
+            "y": 0.7802,
+            "w": 0.2707,
+            "h": 0.1071
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7117,
+            "y": 0.7792,
+            "w": 0.2707,
+            "h": 0.1071
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.4825,
+            "w": 0.1802,
+            "h": 0.1137
+          },
+          "area": 0.0205,
+          "text": "第一步",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3164,
+            "y": 0.4825,
+            "w": 0.1802,
+            "h": 0.1137
+          },
+          "area": 0.0205,
+          "text": "第二步",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5082,
+            "y": 0.4825,
+            "w": 0.1802,
+            "h": 0.1137
+          },
+          "area": 0.0205,
+          "text": "第三步",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 21",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7,
+            "y": 0.4825,
+            "w": 0.1802,
+            "h": 0.1137
+          },
+          "area": 0.0205,
+          "text": "第四步",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s13",
+      "title_guess": "DEFENSE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,middle-left:3",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 20,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2909,
+        "image_area": 0,
+        "shape_area": 0.5345,
+        "text_blob": "DEFENSE 研究结果展示及应用 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 第三单元 03 PART THREE",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": -0.3889,
+            "w": 0.3,
+            "h": 1.7778
+          },
+          "area": 0.5333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.3464,
+            "w": 0.7766,
+            "h": 0.1257
+          },
+          "area": 0.0976,
+          "text": "研究结果展示及应用",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.2963,
+            "w": 0.1942,
+            "h": 0.2573
+          },
+          "area": 0.05,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.4836,
+            "w": 0.4577,
+            "h": 0.0961
+          },
+          "area": 0.044,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.5192,
+            "w": 0.2509,
+            "h": 0.0718
+          },
+          "area": 0.018,
+          "text": "PART THREE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2303,
+            "y": 0.6269,
+            "w": 0.1313,
+            "h": 0.0575
+          },
+          "area": 0.0075,
+          "text": "第三单元",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s14",
+      "title_guess": "研究结果展示",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 2,
+        "text_area": 0.2565,
+        "image_area": 0,
+        "shape_area": 0.5982,
+        "text_blob": "研究结果展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 研究结果展示及应用 单击此处输入你的正文,文字是您思想的提炼 研究结果展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 研究结果展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 研究结果展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4385,
+            "w": 1.0,
+            "h": 0.1625
+          },
+          "area": 0.1625,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片占位符 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.2776,
+            "w": 0.2264,
+            "h": 0.2968
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片占位符 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2662,
+            "y": 0.2776,
+            "w": 0.2264,
+            "h": 0.2968
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片占位符 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7486,
+            "y": 0.2776,
+            "w": 0.2264,
+            "h": 0.2968
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片占位符 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5074,
+            "y": 0.2776,
+            "w": 0.2264,
+            "h": 0.2968
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0423,
+            "y": 0.7124,
+            "w": 0.1918,
+            "h": 0.2101
+          },
+          "area": 0.0403,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2835,
+            "y": 0.713,
+            "w": 0.1918,
+            "h": 0.2101
+          },
+          "area": 0.0403,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5247,
+            "y": 0.7187,
+            "w": 0.1918,
+            "h": 0.2101
+          },
+          "area": 0.0403,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7659,
+            "y": 0.7251,
+            "w": 0.1918,
+            "h": 0.2101
+          },
+          "area": 0.0403,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s15",
+      "title_guess": "研究结果展示及应用",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 20,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 2,
+        "text_area": 0.2075,
+        "image_area": 0,
+        "shape_area": 0.7483,
+        "text_blob": "研究结果展示及应用 单击此处输入你的正文,文字是您思想的提炼 01 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 02 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 03 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 52",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0335,
+            "y": 0.3003,
+            "w": 0.4537,
+            "h": 0.638
+          },
+          "area": 0.2895,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4989,
+            "y": 0.2998,
+            "w": 0.475,
+            "h": 0.2002
+          },
+          "area": 0.0951,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4989,
+            "y": 0.5189,
+            "w": 0.475,
+            "h": 0.2002
+          },
+          "area": 0.0951,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4989,
+            "y": 0.7381,
+            "w": 0.475,
+            "h": 0.2002
+          },
+          "area": 0.0951,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.3716,
+            "w": 0.3485,
+            "h": 0.1071
+          },
+          "area": 0.0373,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.5903,
+            "w": 0.3485,
+            "h": 0.1071
+          },
+          "area": 0.0373,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.8098,
+            "w": 0.3485,
+            "h": 0.1071
+          },
+          "area": 0.0373,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "研究结果展示及应用",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0946,
+            "w": 0.312,
+            "h": 0.0494
+          },
+          "area": 0.0154,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s16",
+      "title_guess": "研究结果展示及应用",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,top-center:1,bottom-center:1",
+      "counts": {
+        "text": 10,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 2,
+        "text_area": 0.2549,
+        "image_area": 0.029,
+        "shape_area": 0.6189,
+        "text_blob": "研究结果展示及应用 单击此处输入你的正文,文字是您思想的提炼 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3418,
+            "y": 0.3071,
+            "w": 0.3164,
+            "h": 0.5625
+          },
+          "area": 0.178,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4148,
+            "y": 0.4461,
+            "w": 0.1704,
+            "h": 0.3029
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 22",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4217,
+            "y": 0.3841,
+            "w": 0.1566,
+            "h": 0.2783
+          },
+          "area": 0.0436,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 24",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4217,
+            "y": 0.5601,
+            "w": 0.1566,
+            "h": 0.2783
+          },
+          "area": 0.0436,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4763,
+            "y": 0.4515,
+            "w": 0.1551,
+            "h": 0.2783
+          },
+          "area": 0.0432,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 25",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3692,
+            "y": 0.4515,
+            "w": 0.1551,
+            "h": 0.2783
+          },
+          "area": 0.0432,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6874,
+            "y": 0.3477,
+            "w": 0.2455,
+            "h": 0.1542
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6874,
+            "y": 0.7296,
+            "w": 0.2455,
+            "h": 0.1542
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0671,
+            "y": 0.3477,
+            "w": 0.2455,
+            "h": 0.1542
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s17",
+      "title_guess": "DEFENSE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,middle-left:3",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 20,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2973,
+        "image_area": 0,
+        "shape_area": 0.5345,
+        "text_blob": "DEFENSE 论文总结 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 第四单元 04 PART FOUR",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": -0.3889,
+            "w": 0.3,
+            "h": 1.7778
+          },
+          "area": 0.5333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.3464,
+            "w": 0.7766,
+            "h": 0.1257
+          },
+          "area": 0.0976,
+          "text": "论文总结",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.2963,
+            "w": 0.2192,
+            "h": 0.2573
+          },
+          "area": 0.0564,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2234,
+            "y": 0.4836,
+            "w": 0.4577,
+            "h": 0.0961
+          },
+          "area": 0.044,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.5192,
+            "w": 0.2509,
+            "h": 0.0718
+          },
+          "area": 0.018,
+          "text": "PART FOUR",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2303,
+            "y": 0.6269,
+            "w": 0.1313,
+            "h": 0.0575
+          },
+          "area": 0.0075,
+          "text": "第四单元",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s18",
+      "title_guess": "论文总结",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,top-left:3,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 20,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.3133,
+        "image_area": 0.2041,
+        "shape_area": 0.4199,
+        "text_blob": "论文总结 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 论文总结 单击此处输入你的正文,文字是您思想的提炼 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加您的标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 41",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6553,
+            "y": 0.2428,
+            "w": 0.2934,
+            "h": 0.6955
+          },
+          "area": 0.2041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0495,
+            "y": 0.4927,
+            "w": 0.5633,
+            "h": 0.2177
+          },
+          "area": 0.1226,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0495,
+            "y": 0.7206,
+            "w": 0.5633,
+            "h": 0.2177
+          },
+          "area": 0.1226,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0418,
+            "y": 0.3191,
+            "w": 0.5973,
+            "h": 0.1607
+          },
+          "area": 0.096,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0795,
+            "y": 0.5876,
+            "w": 0.5221,
+            "h": 0.1071
+          },
+          "area": 0.0559,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0795,
+            "y": 0.8119,
+            "w": 0.5221,
+            "h": 0.1071
+          },
+          "area": 0.0559,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0418,
+            "y": 0.2416,
+            "w": 0.3497,
+            "h": 0.0898
+          },
+          "area": 0.0314,
+          "text": "论文总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "论文总结",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0946,
+            "w": 0.312,
+            "h": 0.0494
+          },
+          "area": 0.0154,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s19",
+      "title_guess": "论文总结",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-right:2,middle-center:1",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 20,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.2635,
+        "image_area": 0,
+        "shape_area": 1.3306,
+        "text_blob": "论文总结 单击此处输入你的正文,文字是您思想的提炼 论文总结 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 论文总结 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.025,
+            "y": 0.2399,
+            "w": 0.95,
+            "h": 0.6984
+          },
+          "area": 0.6635,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7474,
+            "w": 1.0,
+            "h": 0.2526
+          },
+          "area": 0.2526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4531,
+            "y": -0.8054,
+            "w": 0.0939,
+            "h": 1.7778
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片占位符 24",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2735,
+            "w": 0.404,
+            "h": 0.3064
+          },
+          "area": 0.1238,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片占位符 32",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5193,
+            "y": 0.2735,
+            "w": 0.404,
+            "h": 0.3064
+          },
+          "area": 0.1238,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0667,
+            "y": 0.6762,
+            "w": 0.391,
+            "h": 0.2101
+          },
+          "area": 0.0821,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5193,
+            "y": 0.6762,
+            "w": 0.391,
+            "h": 0.2101
+          },
+          "area": 0.0821,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0205,
+            "y": 0.0177,
+            "w": 0.3287,
+            "h": 0.0898
+          },
+          "area": 0.0295,
+          "text": "论文总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0667,
+            "y": 0.5987,
+            "w": 0.3497,
+            "h": 0.0778
+          },
+          "area": 0.0272,
+          "text": "论文总结",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5193,
+            "y": 0.5987,
+            "w": 0.3497,
+            "h": 0.0778
+          },
+          "area": 0.0272,
+          "text": "论文总结",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "毕业答辩-02-动态-17b42abc-s20",
+      "title_guess": "答辩人:锐小旗",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:6,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 20,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 3,
+        "text_area": 0.2471,
+        "image_area": 0,
+        "shape_area": 0.1989,
+        "text_blob": "答辩人:锐小旗 DEFENSE 感谢大家观看 Thank You For Watching 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4444,
+            "y": 0.0123,
+            "w": 0.1112,
+            "h": 1.7778
+          },
+          "area": 0.1977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0115,
+            "y": 0.8384,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "DEFENSE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.035,
+            "y": 0.3287,
+            "w": 0.4569,
+            "h": 0.1616
+          },
+          "area": 0.0738,
+          "text": "感谢大家观看",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0385,
+            "y": 0.2403,
+            "w": 0.588,
+            "h": 0.0778
+          },
+          "area": 0.0457,
+          "text": "Thank You For Watching",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0394,
+            "y": 0.5039,
+            "w": 0.44,
+            "h": 0.0961
+          },
+          "area": 0.0423,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 18",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0476,
+            "y": 0.6575,
+            "w": 0.1995,
+            "h": 0.0575
+          },
+          "area": 0.0115,
+          "text": "答辩人:锐小旗",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0684,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0901,
+            "y": 0.9349,
+            "w": 0.0139,
+            "h": 0.0247
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 20,
+    "layout_job_counts": {
+      "process-strip": 4,
+      "matrix-grid": 3,
+      "flow-diagram": 3,
+      "table": 3,
+      "two-column": 2,
+      "claim-evidence": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 20
+    },
+    "density_counts": {
+      "medium-high": 10,
+      "medium": 8,
+      "high": 2
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "matrix-grid",
+      "flow-diagram",
+      "table",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes"
+    ]
+  }
+}

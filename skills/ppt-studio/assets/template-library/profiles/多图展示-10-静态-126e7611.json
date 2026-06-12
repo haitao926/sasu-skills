@@ -1,0 +1,5857 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:20.800223+00:00",
+  "template_id": "多图展示-10-静态-126e7611",
+  "template_profile_path": "assets/template-library/profiles/多图展示-10-静态-126e7611.json",
+  "source_template": {
+    "name": "多图展示(10)—静态.pptx",
+    "category": "多图排版（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(10)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 27,
+    "media_count": 184,
+    "image_media_count": 180,
+    "motion_hint": "static",
+    "tags": [
+      "多图展示",
+      "图片展示",
+      "作品集",
+      "图像陈列",
+      "封面",
+      "多图网格",
+      "大图展示",
+      "结尾",
+      "图片密集",
+      "陈列型",
+      "留白适中",
+      "多图拼贴",
+      "大图",
+      "图片对比",
+      "少量标题",
+      "图片说明短句",
+      "静态版",
+      "高图片",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "多图展示",
+    "scenario": [
+      "图片展示",
+      "作品集",
+      "图像陈列"
+    ],
+    "best_for": [
+      "作品集",
+      "图片展示",
+      "案例陈列"
+    ],
+    "avoid": [
+      "长文报告",
+      "强数据说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "网格页",
+      "大图页",
+      "结尾"
+    ],
+    "visual": [
+      "图片密集",
+      "陈列型",
+      "留白适中"
+    ],
+    "image_strategy": [
+      "多图拼贴",
+      "大图",
+      "图片对比"
+    ],
+    "text_strategy": [
+      "少量标题",
+      "图片说明短句"
+    ],
+    "density": "高图片"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "image-hero",
+      "cover-statement",
+      "process-strip",
+      "closing-takeaway"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "image",
+      "decorative-shape",
+      "diagram-block",
+      "label",
+      "body",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-center",
+      "bottom-center",
+      "top-center",
+      "middle-left",
+      "middle-right",
+      "bottom-left"
+    ],
+    "template_text_signature": "合作伙伴 合作 伙伴 单击此处输入你的正文,文字是您思想的提炼 企业资质荣誉展示 已经服务超30,000家知名企业 我们的合作伙伴 国央企 层层检测 严苛品质 用权威说话 品质值得信赖 更高的标准 更安心的保障 更高的标准 更安心的保障 某某专利 HONOR 全方位实现模式闭环 成功案例(项) 实用创新新型企业 企业资质荣誉展示 无论在工作中还是生活中,我们的员工都能够彼此倾听和理解,在困难时互相支持,在成功时共同庆祝。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "多图展示-10-静态-126e7611-s01",
+      "title_guess": "合作伙伴",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-center:3,top-right:1",
+      "counts": {
+        "text": 6,
+        "image": 10,
+        "chart": 0,
+        "table": 0,
+        "shape": 45,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 27,
+        "text_count": 6,
+        "image_count": 10,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 45,
+        "connector_count": 3,
+        "text_area": 0.096,
+        "image_area": 1.1175,
+        "shape_area": 2.4479,
+        "text_blob": "合作伙伴 Cooperative Partner 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字 点击输入标题 点击输入标题 点击输入标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 2192",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3902,
+            "y": 0.1807,
+            "w": 0.2197,
+            "h": 0.3905
+          },
+          "area": 0.0858,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3902,
+            "y": 0.1807,
+            "w": 0.2197,
+            "h": 0.3905
+          },
+          "area": 0.0858,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 3116_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.5618,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.449,
+            "y": -0.2349,
+            "w": 0.4207,
+            "h": 0.0971
+          },
+          "area": 0.0408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 30",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6312,
+            "y": -0.2349,
+            "w": 0.2385,
+            "h": 0.1705
+          },
+          "area": 0.0407,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 28",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.475,
+            "y": -0.1377,
+            "w": 0.3226,
+            "h": 0.1191
+          },
+          "area": 0.0384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 25",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.449,
+            "y": -0.2265,
+            "w": 0.1822,
+            "h": 0.2078
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0635,
+            "y": 0.267,
+            "w": 0.1387,
+            "h": 0.2466
+          },
+          "area": 0.0342,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7998,
+            "y": 0.2866,
+            "w": 0.1367,
+            "h": 0.243
+          },
+          "area": 0.0332,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 10
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "多图展示-10-静态-126e7611-s02",
+      "title_guess": "合作 伙伴",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:5,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 4,
+        "image": 13,
+        "chart": 0,
+        "table": 0,
+        "shape": 37,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 13,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 37,
+        "connector_count": 2,
+        "text_area": 0.0848,
+        "image_area": 0.0658,
+        "shape_area": 4.9835,
+        "text_blob": "合作 伙伴 300+ 品牌的选择 单击此处输入你的正文,文字是您思想的提炼。单击此处输入你的正文。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Group 5-mask",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5254,
+            "y": -0.0317,
+            "w": 0.5993,
+            "h": 1.0654
+          },
+          "area": 0.6385,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 53",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.7113,
+            "h": 0.7467
+          },
+          "area": 0.5311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 47",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5797,
+            "w": 1.0,
+            "h": 0.4203
+          },
+          "area": 0.4203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Group 5-mask",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6156,
+            "y": 0.1287,
+            "w": 0.4188,
+            "h": 0.7445
+          },
+          "area": 0.3118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Group 5-mask_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7059,
+            "y": 0.2892,
+            "w": 0.2382,
+            "h": 0.4235
+          },
+          "area": 0.1009,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7603,
+            "y": 0.3857,
+            "w": 0.1294,
+            "h": 0.2306
+          },
+          "area": 0.0298,
+          "text": "合作 伙伴",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 40",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.465,
+            "y": 0.3934,
+            "w": 0.1272,
+            "h": 0.2261
+          },
+          "area": 0.0288,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7622,
+            "y": 0.3894,
+            "w": 0.1255,
+            "h": 0.2231
+          },
+          "area": 0.028,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0452,
+            "y": 0.6307,
+            "w": 0.2173,
+            "h": 0.1263
+          },
+          "area": 0.0274,
+          "text": "单击此处输入你的正文,文字是您思想的提炼。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5433,
+            "y": 0.7424,
+            "w": 0.118,
+            "h": 0.2099
+          },
+          "area": 0.0248,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 13
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "多图展示-10-静态-126e7611-s03",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-center:2,top-center:2",
+      "counts": {
+        "text": 3,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 27,
+        "text_count": 3,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1165,
+        "image_area": 0.9335,
+        "shape_area": 1.205,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼 300+品牌的选择 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Group 1_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0377,
+            "y": 0.0575,
+            "w": 0.9247,
+            "h": 0.9247
+          },
+          "area": 0.8551,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.7113,
+            "h": 0.7467
+          },
+          "area": 0.5311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 5",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5797,
+            "w": 1.0,
+            "h": 0.4203
+          },
+          "area": 0.4203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8005,
+            "w": 1.0,
+            "h": 0.2015
+          },
+          "area": 0.2015,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.8578,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 9_小红书@A_PPT设计宝玉",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3474,
+            "y": 0.0397,
+            "w": 0.3053,
+            "h": 0.0986
+          },
+          "area": 0.0301,
+          "text": "300+品牌的选择",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 7_小红书@A_PPT设计宝玉",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2581,
+            "y": 0.1485,
+            "w": 0.4838,
+            "h": 0.0493
+          },
+          "area": 0.0239,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Oval 51_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0979,
+            "y": 0.2456,
+            "w": 0.1117,
+            "h": 0.1986
+          },
+          "area": 0.0222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 75_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8106,
+            "y": 0.135,
+            "w": 0.0934,
+            "h": 0.1661
+          },
+          "area": 0.0155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 20_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5708,
+            "y": 0.6178,
+            "w": 0.0823,
+            "h": 0.1464
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "多图展示-10-静态-126e7611-s04",
+      "title_guess": "企业资质荣誉展示",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:4,top-center:2,middle-center:2",
+      "counts": {
+        "text": 2,
+        "image": 15,
+        "chart": 0,
+        "table": 0,
+        "shape": 45,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 27,
+        "text_count": 2,
+        "image_count": 15,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 45,
+        "connector_count": 0,
+        "text_area": 0.0957,
+        "image_area": 1.338,
+        "shape_area": 2.492,
+        "text_blob": "企业资质荣誉展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0095,
+            "y": 0.6613,
+            "w": 1.019,
+            "h": 0.3626
+          },
+          "area": 0.3695,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 7",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6602,
+            "w": 1.0,
+            "h": 0.3559
+          },
+          "area": 0.3559,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Group 1-mask_小红书@A_PPT设计宝玉",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.9997,
+            "h": 0.2882
+          },
+          "area": 0.2881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Oval 179_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.365,
+            "y": 0.2288,
+            "w": 0.2857,
+            "h": 0.5078
+          },
+          "area": 0.1451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 86_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3788,
+            "y": 0.2519,
+            "w": 0.2365,
+            "h": 0.3954
+          },
+          "area": 0.0935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "TextBox 254_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.1572,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 57",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 60",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 15
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "多图展示-10-静态-126e7611-s05",
+      "title_guess": "已经服务超30,000家知名企业",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,top-center:2,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 25,
+        "chart": 0,
+        "table": 0,
+        "shape": 63,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 25,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 63,
+        "connector_count": 2,
+        "text_area": 0.0828,
+        "image_area": 1.0985,
+        "shape_area": 2.7205,
+        "text_blob": "已经服务超30,000家知名企业 截至2022年 我们的合作伙伴 合作共赢",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Donut 12+",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.143,
+            "y": 0.3866,
+            "w": 0.7141,
+            "h": 1.0807
+          },
+          "area": 0.7717,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.5,
+            "h": 1.0
+          },
+          "area": 0.5,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 6",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2399,
+            "y": 0.5502,
+            "w": 0.5202,
+            "h": 0.8187
+          },
+          "area": 0.4259,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "梯形 44",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3004,
+            "y": 0.826,
+            "w": 0.3992,
+            "h": 0.174
+          },
+          "area": 0.0695,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 253_小红书@A_PPT设计宝玉",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3527,
+            "y": 0.0397,
+            "w": 0.2945,
+            "h": 0.0986
+          },
+          "area": 0.029,
+          "text": "我们的合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2793,
+            "y": 0.2313,
+            "w": 0.4414,
+            "h": 0.0628
+          },
+          "area": 0.0277,
+          "text": "已经服务超30,000家知名企业",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 162",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4074,
+            "y": 0.7423,
+            "w": 0.1851,
+            "h": 0.1084
+          },
+          "area": 0.0201,
+          "text": "合作共赢",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform 158_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7389,
+            "y": 0.1112,
+            "w": 0.2627,
+            "h": 0.067
+          },
+          "area": 0.0176,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 159_小红书@A_PPT设计宝玉",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0011,
+            "y": 0.1102,
+            "w": 0.2627,
+            "h": 0.067
+          },
+          "area": 0.0176,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 25
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "多图展示-10-静态-126e7611-s06",
+      "title_guess": "我们的合作伙伴",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:4,top-center:3,middle-center:1",
+      "counts": {
+        "text": 1,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 37,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 27,
+        "text_count": 1,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 37,
+        "connector_count": 0,
+        "text_area": 0.029,
+        "image_area": 0.983,
+        "shape_area": 2.7181,
+        "text_blob": "我们的合作伙伴",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 82",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1399,
+            "y": 0.0,
+            "w": 0.8601,
+            "h": 1.0
+          },
+          "area": 0.8601,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 83",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.615,
+            "h": 1.0
+          },
+          "area": 0.615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 2",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4159,
+            "w": 1.0,
+            "h": 0.5841
+          },
+          "area": 0.5841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 3",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1548,
+            "y": 0.1901,
+            "w": 0.7121,
+            "h": 0.7527
+          },
+          "area": 0.536,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0996,
+            "y": 0.1901,
+            "w": 0.6496,
+            "h": 0.7527
+          },
+          "area": 0.489,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 84",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.2551
+          },
+          "area": 0.2551,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 36_小红书@A_PPT设计宝玉",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3527,
+            "y": 0.0397,
+            "w": 0.2945,
+            "h": 0.0986
+          },
+          "area": 0.029,
+          "text": "我们的合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0732,
+            "y": 0.2347,
+            "w": 0.209,
+            "h": 0.113
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3007,
+            "y": 0.2347,
+            "w": 0.209,
+            "h": 0.113
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0733,
+            "y": 0.3695,
+            "w": 0.2089,
+            "h": 0.113
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "多图展示-10-静态-126e7611-s07",
+      "title_guess": "国央企",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 19,
+        "image": 29,
+        "chart": 0,
+        "table": 0,
+        "shape": 60,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 27,
+        "text_count": 19,
+        "image_count": 29,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 60,
+        "connector_count": 2,
+        "text_area": 0.1408,
+        "image_area": 1.1485,
+        "shape_area": 1.8893,
+        "text_blob": "国央企 156家 上市公司 698家 已服务知名企业 截至2023年10月 合作伙伴 600家 我们的合作伙伴 此处输入你的正文 您思想的提炼 输入标题文本 此处输入你的正文 您思想的提炼 输入标题文本 此处输入你的正文 您思想的提炼 输入标题文本 此处输入你的正文 您思想的提炼 输入标题文本 此处输入你的正文 您思想的提炼 输入标题文本",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 347_小红书@A_PPT设计宝玉",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7212,
+            "w": 1.0,
+            "h": 0.2788
+          },
+          "area": 0.2788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 131-mask",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3172,
+            "y": 0.3723,
+            "w": 0.3656,
+            "h": 0.3739
+          },
+          "area": 0.1367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 44",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.7065,
+            "y": 0.3919,
+            "w": 0.3442,
+            "h": 0.3347
+          },
+          "area": 0.1152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 225_小红书@A_PPT设计宝玉",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3527,
+            "y": 0.0397,
+            "w": 0.2945,
+            "h": 0.0986
+          },
+          "area": 0.029,
+          "text": "我们的合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 185",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1519,
+            "y": 0.9639,
+            "w": 0.6963,
+            "h": 0.0361
+          },
+          "area": 0.0251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 348",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1607,
+            "y": 0.9649,
+            "w": 0.6787,
+            "h": 0.0351
+          },
+          "area": 0.0238,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 125",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.6522,
+            "y": 0.4317,
+            "w": 0.2356,
+            "h": 0.0669
+          },
+          "area": 0.0158,
+          "text": "已服务知名企业",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 154",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5737,
+            "y": 0.1558,
+            "w": 0.123,
+            "h": 0.0933
+          },
+          "area": 0.0115,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 66",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7112,
+            "y": 0.1547,
+            "w": 0.1231,
+            "h": 0.0934
+          },
+          "area": 0.0115,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 17,
+          "label": 2
+        },
+        "image": {
+          "image": 29
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "多图展示-10-静态-126e7611-s08",
+      "title_guess": "层层检测 严苛品质",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:5,middle-right:3,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 22,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 22,
+        "connector_count": 0,
+        "text_area": 0.0722,
+        "image_area": 1.3369,
+        "shape_area": 1.0926,
+        "text_blob": "层层检测 严苛品质 某某专利 某某专利 某某专利 某某专利 某某专利 某某专利 某某专利",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 7218_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 6",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5974,
+            "w": 1.0,
+            "h": 0.4026
+          },
+          "area": 0.4026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 7",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.9276,
+            "w": 1.0,
+            "h": 0.2051
+          },
+          "area": 0.2051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 4120",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.4604,
+            "w": 1.0,
+            "h": 0.137
+          },
+          "area": 0.137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "梯形 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.8051,
+            "w": 1.002,
+            "h": 0.1225
+          },
+          "area": 0.1227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 7249",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 7182",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 7244",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7735,
+            "y": 0.261,
+            "w": 0.1403,
+            "h": 0.3413
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 7241",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7735,
+            "y": 0.261,
+            "w": 0.1403,
+            "h": 0.3413
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 7238",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7735,
+            "y": 0.261,
+            "w": 0.1403,
+            "h": 0.3413
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 7
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "多图展示-10-静态-126e7611-s09",
+      "title_guess": "用权威说话 品质值得信赖",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:9,middle-center:1",
+      "counts": {
+        "text": 5,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 43,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 27,
+        "text_count": 5,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 43,
+        "connector_count": 1,
+        "text_area": 0.0983,
+        "image_area": 1.4164,
+        "shape_area": 1.8989,
+        "text_blob": "用权威说话 品质值得信赖 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文,文字是您思想的提炼。 点击输入标题 点击输入标题 点击输入标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 4096_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 7184_小红书@A_PPT设计宝玉",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.512,
+            "w": 1.0,
+            "h": 0.488
+          },
+          "area": 0.488,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5837,
+            "w": 1.0,
+            "h": 0.2261
+          },
+          "area": 0.2261,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 4107",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.9276,
+            "w": 1.0,
+            "h": 0.2051
+          },
+          "area": 0.2051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 4103",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.9276,
+            "w": 1.0,
+            "h": 0.2051
+          },
+          "area": 0.2051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 4110",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.9276,
+            "w": 1.0,
+            "h": 0.2051
+          },
+          "area": 0.2051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "梯形 4108",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.8051,
+            "w": 1.002,
+            "h": 0.1225
+          },
+          "area": 0.1227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "梯形 4104",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.8051,
+            "w": 1.002,
+            "h": 0.1225
+          },
+          "area": 0.1227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "梯形 4111",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.8051,
+            "w": 1.002,
+            "h": 0.1225
+          },
+          "area": 0.1227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 4116",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "多图展示-10-静态-126e7611-s10",
+      "title_guess": "更高的标准 更安心的保障",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:5,bottom-center:3,middle-center:2",
+      "counts": {
+        "text": 12,
+        "image": 17,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 27,
+        "text_count": 12,
+        "image_count": 17,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.0677,
+        "image_area": 1.5239,
+        "shape_area": 0.6719,
+        "text_blob": "更高的标准 更安心的保障 某某级奖项 6项 某某级奖项 11项 某某级奖项 56项 某某级奖项 12项 某某级奖项 8项 层层检测 严苛品质",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 2_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 4122",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1071,
+            "y": 0.6039,
+            "w": 0.8929,
+            "h": 0.3961
+          },
+          "area": 0.3537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 4118",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8496,
+            "w": 0.7586,
+            "h": 0.1358
+          },
+          "area": 0.103,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 4124",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1071,
+            "y": 0.5132,
+            "w": 0.8929,
+            "h": 0.0908
+          },
+          "area": 0.0811,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 4120",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7589,
+            "w": 0.7614,
+            "h": 0.0908
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2169,
+            "y": 0.2651,
+            "w": 0.1271,
+            "h": 0.3115
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2169,
+            "y": 0.2651,
+            "w": 0.1271,
+            "h": 0.3115
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2169,
+            "y": 0.2651,
+            "w": 0.1271,
+            "h": 0.3115
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2169,
+            "y": 0.2651,
+            "w": 0.1271,
+            "h": 0.3115
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2169,
+            "y": 0.2651,
+            "w": 0.1271,
+            "h": 0.3115
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "label": 1
+        },
+        "image": {
+          "image": 17
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "多图展示-10-静态-126e7611-s11",
+      "title_guess": "更高的标准 更安心的保障",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:9,bottom-center:1",
+      "counts": {
+        "text": 10,
+        "image": 16,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 27,
+        "text_count": 10,
+        "image_count": 16,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.0711,
+        "image_area": 2.5421,
+        "shape_area": 0.0128,
+        "text_blob": "更高的标准 更安心的保障 某某专利 56项 某某专利 12项 某某专利 8项 某某专利 10项 层层检测 严苛品质",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 9327_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 2_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.7983,
+            "w": 1.0,
+            "h": 0.2017
+          },
+          "area": 0.2017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9281",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 9284",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 9287",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 9246",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 9290",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 9293",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 9296",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5446,
+            "y": 0.328,
+            "w": 0.2067,
+            "h": 0.5059
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 9282",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5566,
+            "y": 0.3435,
+            "w": 0.1829,
+            "h": 0.475
+          },
+          "area": 0.0869,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 5
+        },
+        "image": {
+          "image": 16
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "多图展示-10-静态-126e7611-s12",
+      "title_guess": "某某专利",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:6,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 12,
+        "image": 9,
+        "chart": 0,
+        "table": 0,
+        "shape": 45,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 27,
+        "text_count": 12,
+        "image_count": 9,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 45,
+        "connector_count": 1,
+        "text_area": 0.1091,
+        "image_area": 2.2235,
+        "shape_area": 0.3751,
+        "text_blob": "某某专利 某某专利 某某专利 某某专利 某某专利 某某专利 某某专利 添加相关标题 添加相关标题 添加相关标题 用心把关 持证更安心 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文,文字是您思想的提炼。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 9231_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 9352_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 9308",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0657,
+            "y": 0.3777,
+            "w": 0.3409,
+            "h": 0.1264
+          },
+          "area": 0.0431,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文,文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 9307",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0657,
+            "y": 0.152,
+            "w": 0.2261,
+            "h": 0.1795
+          },
+          "area": 0.0406,
+          "text": "用心把关 持证更安心",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图文框 9239",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图文框 26",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图文框 9218",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图文框 9295",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图文框 9288",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图文框 9281",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5252,
+            "y": 0.1731,
+            "w": 0.1209,
+            "h": 0.305
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10,
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 9
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "多图展示-10-静态-126e7611-s13",
+      "title_guess": "HONOR",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:3,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 12,
+        "image": 16,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 27,
+        "text_count": 12,
+        "image_count": 16,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 4,
+        "text_area": 0.1184,
+        "image_area": 1.588,
+        "shape_area": 0.1653,
+        "text_blob": "HONOR 荣誉资质 96项 发明专利 92项 新型专利 99项 设计专利 15项 实用专利 300+ 品牌的选择",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 86_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.047,
+            "y": 0.6611,
+            "w": 0.4648,
+            "h": 0.1931
+          },
+          "area": 0.0898,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 17",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.6771,
+            "w": 0.4521,
+            "h": 0.1667
+          },
+          "area": 0.0754,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 9_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2434,
+            "y": -0.1245,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 13_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3769,
+            "y": 0.117,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 14_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5103,
+            "y": 0.3585,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 15_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6438,
+            "y": 0.6,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 16_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7772,
+            "y": 0.8416,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 19_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4025,
+            "y": -0.2251,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 20_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5359,
+            "y": 0.0164,
+            "w": 0.1228,
+            "h": 0.3196
+          },
+          "area": 0.0392,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 4
+        },
+        "image": {
+          "image": 16
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "多图展示-10-静态-126e7611-s14",
+      "title_guess": "全方位实现模式闭环",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,middle-right:3,middle-left:2",
+      "counts": {
+        "text": 11,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 27,
+        "text_count": 11,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.1257,
+        "image_area": 2.3803,
+        "shape_area": 2.1558,
+        "text_blob": "全方位实现模式闭环 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字 某某级奖项 12项 某某级奖项 6项 某某级奖项 11项 某某级奖项 8项 层层检测 严苛品质",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 235",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0747,
+            "y": -0.3089,
+            "w": 1.1441,
+            "h": 1.6375
+          },
+          "area": 1.8735,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 1",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6039,
+            "y": -0.1482,
+            "w": 0.1273,
+            "h": 1.5194
+          },
+          "area": 0.1934,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.747,
+            "y": 0.3622,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 35",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6369,
+            "y": 0.3272,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5267,
+            "y": 0.3074,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4166,
+            "y": 0.2924,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 38",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3064,
+            "y": 0.3074,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 39",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1963,
+            "y": 0.3272,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 40",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0861,
+            "y": 0.3622,
+            "w": 0.1669,
+            "h": 0.4335
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 169_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.1572,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "body": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "多图展示-10-静态-126e7611-s15",
+      "title_guess": "成功案例(项)",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 21,
+        "image": 7,
+        "chart": 0,
+        "table": 0,
+        "shape": 42,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 27,
+        "text_count": 21,
+        "image_count": 7,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 42,
+        "connector_count": 3,
+        "text_area": 0.1822,
+        "image_area": 2.1481,
+        "shape_area": 2.9437,
+        "text_blob": "成功案例(项) 1600+ 全国销售网点(个) 13000+ 研发人员(人) 100+ 国家专利(项) 12535+ 输入标题文本 单击此处输入正文内容文字是您思想的提炼,为了最终演示发布的良好效果 点击输入标题 点击输入标题 输入文字是您思想的提炼为了最终演示效果 点击输入标题 输入文字是您思想的提炼为了最终演示效果 输入文字是您思想的提炼为了最终演示效果 300+ 品牌的选择 某某专利 某某专利 某某专利",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 229",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0922,
+            "w": 1.0,
+            "h": 0.9078
+          },
+          "area": 0.9078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 231",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 232",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 223",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0438,
+            "y": 0.2519,
+            "w": 0.9138,
+            "h": 0.4264
+          },
+          "area": 0.3896,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 23",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0414,
+            "y": 0.7069,
+            "w": 0.9161,
+            "h": 0.2417
+          },
+          "area": 0.2214,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 11_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0439,
+            "y": 0.291,
+            "w": 0.2391,
+            "h": 0.3997
+          },
+          "area": 0.0956,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 202",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7565,
+            "y": 0.0299,
+            "w": 0.2016,
+            "h": 0.2492
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 259",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 267",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 219",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7735,
+            "y": 0.261,
+            "w": 0.1403,
+            "h": 0.3413
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 14,
+          "label": 7
+        },
+        "image": {
+          "image": 7
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "多图展示-10-静态-126e7611-s16",
+      "title_guess": "实用创新新型企业",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,top-center:3,bottom-center:3",
+      "counts": {
+        "text": 11,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 37,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 27,
+        "text_count": 11,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 37,
+        "connector_count": 11,
+        "text_area": 1.2995,
+        "image_area": 1.2628,
+        "shape_area": 2.301,
+        "text_blob": "实用创新新型企业 十佳三A诚信企业 企业荣誉证书展示 单击此处输入你的正文,文字是您思想的提炼。 国际认证 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼。 专业团队 单击此处输入你的正文,文字是您思想的提炼。 专利技术",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 75",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 159",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.1297,
+            "y": 0.2314,
+            "w": 1.2595,
+            "h": 0.4391
+          },
+          "area": 0.553,
+          "text": "实用创新新型企业",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 160",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.1297,
+            "y": 0.2314,
+            "w": 1.2595,
+            "h": 0.4391
+          },
+          "area": 0.553,
+          "text": "十佳三A诚信企业",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 14",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.3641
+          },
+          "area": 0.3641,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 12",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.3641
+          },
+          "area": 0.3641,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 77",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7524,
+            "w": 1.0,
+            "h": 0.2476
+          },
+          "area": 0.2476,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.278,
+            "w": 1.0,
+            "h": 0.1318
+          },
+          "area": 0.1318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 3_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3948,
+            "y": 0.1157,
+            "w": 0.2103,
+            "h": 0.3234
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 47",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 3
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "多图展示-10-静态-126e7611-s17",
+      "title_guess": "企业资质荣誉展示",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,bottom-center:3,middle-right:2",
+      "counts": {
+        "text": 15,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 283,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 27,
+        "text_count": 15,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 283,
+        "connector_count": 5,
+        "text_area": 0.2331,
+        "image_area": 2.1695,
+        "shape_area": 2.9167,
+        "text_blob": "企业资质荣誉展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字 测量管理体系认证证书 2007 《输入标题》 能源管理体系认证证书 2007 《输入标题》 全国质量检验稳定合格产品 2007 《输入标题》 全国百佳质量诚信标杆 2007 《输入标题》 匠心智造品牌百强奖牌 2007 《输入标题》 中国成长最快的100快公司 2007 《输入标题》 荣获多项志愿奖项,贡献青春力量",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0922,
+            "w": 1.0,
+            "h": 0.9078
+          },
+          "area": 0.9078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 26",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 5",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0423,
+            "y": 0.264,
+            "w": 0.9154,
+            "h": 0.377
+          },
+          "area": 0.3451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0423,
+            "y": 0.65,
+            "w": 0.9154,
+            "h": 0.2993
+          },
+          "area": 0.274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.727,
+            "y": 0.2893,
+            "w": 0.2009,
+            "h": 0.3359
+          },
+          "area": 0.0675,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 32_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.1572,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "梯形 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0423,
+            "y": 0.5889,
+            "w": 0.9154,
+            "h": 0.0611
+          },
+          "area": 0.0559,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5115,
+            "y": 0.5978,
+            "w": 0.1936,
+            "h": 0.2514
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 1,
+          "footer": 7
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "多图展示-10-静态-126e7611-s18",
+      "title_guess": "无论在工作中还是生活中,我们的员工都能够彼此倾听和理解,在困难时互相支持,在成功时共同庆祝。",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:2,bottom-right:2,top-left:1",
+      "counts": {
+        "text": 2,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 38,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 27,
+        "text_count": 2,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 38,
+        "connector_count": 1,
+        "text_area": 0.1048,
+        "image_area": 0.1092,
+        "shape_area": 1.2766,
+        "text_blob": "无论在工作中还是生活中,我们的员工都能够彼此倾听和理解,在困难时互相支持,在成功时共同庆祝。 We are family",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 2097_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2954,
+            "h": 0.2374
+          },
+          "area": 0.0701,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5857,
+            "y": 0.3643,
+            "w": 0.1841,
+            "h": 0.3194
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 2054",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.063,
+            "y": 0.3095,
+            "w": 0.2083,
+            "h": 0.2779
+          },
+          "area": 0.0579,
+          "text": "We are family",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 2053",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.063,
+            "y": 0.6617,
+            "w": 0.3301,
+            "h": 0.1422
+          },
+          "area": 0.0469,
+          "text": "无论在工作中还是生活中,我们的员工都能够彼此倾听和理解,在困难时互相支持,在成功时共同庆祝。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4012,
+            "y": 0.2877,
+            "w": 0.176,
+            "h": 0.2282
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7803,
+            "y": 0.2877,
+            "w": 0.176,
+            "h": 0.2282
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 2100_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7593,
+            "y": 0.8529,
+            "w": 0.2429,
+            "h": 0.1608
+          },
+          "area": 0.0391,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5857,
+            "y": 0.6983,
+            "w": 0.1841,
+            "h": 0.1585
+          },
+          "area": 0.0292,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4872,
+            "y": 0.1021,
+            "w": 0.0907,
+            "h": 0.1673
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7796,
+            "y": 0.1021,
+            "w": 0.0907,
+            "h": 0.1673
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "多图展示-10-静态-126e7611-s19",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-left:4,middle-right:2,top-center:1",
+      "counts": {
+        "text": 2,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 27,
+        "text_count": 2,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 1,
+        "text_area": 0.1475,
+        "image_area": 0.0363,
+        "shape_area": 1.5796,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。 聚焦主责主业 推动绿色高质量发展",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 1103_小红书@A_PPT设计宝玉",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.5657
+          },
+          "area": 0.5657,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 1038",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5594,
+            "y": 0.1084,
+            "w": 0.4344,
+            "h": 0.7357
+          },
+          "area": 0.3196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 28",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5656,
+            "y": 0.1084,
+            "w": 0.4344,
+            "h": 0.7357
+          },
+          "area": 0.3196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 1037_小红书@A_PPT设计宝玉",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6164,
+            "w": 0.8025,
+            "h": 0.3836
+          },
+          "area": 0.3078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.1729,
+            "w": 0.426,
+            "h": 0.2163
+          },
+          "area": 0.0921,
+          "text": "聚焦主责主业 推动绿色高质量发展",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 8_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.4634,
+            "w": 0.4379,
+            "h": 0.1264
+          },
+          "area": 0.0554,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 1075",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 1080",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1691,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 1084",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2761,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0748,
+            "y": 0.7344,
+            "w": 0.0663,
+            "h": 0.1178
+          },
+          "area": 0.0078,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "多图展示-10-静态-126e7611-s20",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 27,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 2,
+        "text_area": 0.1865,
+        "image_area": 1.0,
+        "shape_area": 2.497,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 研发人员(人) 100+ 成功案例(项) 16,000+ 现代化厂房(m2) 30,000 COMPANY PROFILE 某某设计有限公司",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 8_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.7113,
+            "h": 0.7467
+          },
+          "area": 0.5311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 11",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5797,
+            "w": 1.0,
+            "h": 0.4203
+          },
+          "area": 0.4203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 73",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5594,
+            "y": 0.092,
+            "w": 0.3587,
+            "h": 0.7916
+          },
+          "area": 0.2839,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 5",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5594,
+            "y": 0.092,
+            "w": 0.3306,
+            "h": 0.7916
+          },
+          "area": 0.2617,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 16_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0746,
+            "y": 0.3441,
+            "w": 0.3992,
+            "h": 0.1264
+          },
+          "area": 0.0505,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0746,
+            "y": 0.204,
+            "w": 0.4039,
+            "h": 0.1102
+          },
+          "area": 0.0445,
+          "text": "某某设计有限公司",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 17_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0746,
+            "y": 0.5041,
+            "w": 0.3992,
+            "h": 0.0833
+          },
+          "area": 0.0333,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0746,
+            "y": 0.1522,
+            "w": 0.3205,
+            "h": 0.0782
+          },
+          "area": 0.0251,
+          "text": "COMPANY PROFILE",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0882,
+            "y": 0.7684,
+            "w": 0.1198,
+            "h": 0.0765
+          },
+          "area": 0.0092,
+          "text": "16,000+",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 3,
+          "label": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "多图展示-10-静态-126e7611-s21",
+      "title_guess": "新能源产业潜力分析",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:1",
+      "counts": {
+        "text": 11,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 37,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 27,
+        "text_count": 11,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 37,
+        "connector_count": 10,
+        "text_area": 0.228,
+        "image_area": 1.9708,
+        "shape_area": 1.3268,
+        "text_blob": "新能源产业潜力分析 文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点根据需要可酌情增减文字 输入标题 文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点根据需要可酌情增减文字 输入标题 文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点根据需要可酌情增减文字 输入标题 文字是您思想的提炼,为了最终演示发布的良好效果 输入标题 文字是您思想的提炼,为了最终演示发布的良好效果 输入标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 35",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.9997,
+            "h": 0.5
+          },
+          "area": 0.4999,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 111",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0003,
+            "y": 0.8108,
+            "w": 1.0011,
+            "h": 0.2047
+          },
+          "area": 0.2049,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 25",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.04,
+            "y": 0.6497,
+            "w": 1.0799,
+            "h": 0.1574
+          },
+          "area": 0.17,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 112",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.845,
+            "w": 1.0,
+            "h": 0.155
+          },
+          "area": 0.155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3119,
+            "y": 0.3512,
+            "w": 0.3762,
+            "h": 0.2729
+          },
+          "area": 0.1027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 98",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.3989,
+            "w": 0.3644,
+            "h": 0.2815
+          },
+          "area": 0.1026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 82",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6294,
+            "y": 0.3506,
+            "w": 0.3677,
+            "h": 0.2674
+          },
+          "area": 0.0983,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0244,
+            "y": 0.6144,
+            "w": 0.7061,
+            "h": 0.1228
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 4",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6071,
+            "y": 0.604,
+            "w": 0.4484,
+            "h": 0.1616
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 3,
+          "footer": 5
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "多图展示-10-静态-126e7611-s22",
+      "title_guess": "COMPANY PROFILE",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:3,middle-right:3,middle-center:2",
+      "counts": {
+        "text": 6,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 27,
+        "text_count": 6,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.118,
+        "image_area": 1.962,
+        "shape_area": 2.3749,
+        "text_blob": "COMPANY PROFILE 某某设计有限公司 单击此处输入你的正文,文字是您思想的提炼。为了最终演示发布的良好效果。 标题文字 标题文字 标题文字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.1252,
+            "w": 0.9996,
+            "h": 0.7531
+          },
+          "area": 0.7528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4605,
+            "w": 0.9991,
+            "h": 0.7371
+          },
+          "area": 0.7364,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.2011,
+            "y": 0.3667,
+            "w": 1.2634,
+            "h": 0.5348
+          },
+          "area": 0.6757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 43",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0452,
+            "y": 0.3236,
+            "w": 0.4084,
+            "h": 0.4147
+          },
+          "area": 0.1694,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 47",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.535,
+            "w": 0.5072,
+            "h": 0.2033
+          },
+          "area": 0.1031,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7422,
+            "y": 0.2976,
+            "w": 0.2263,
+            "h": 0.4023
+          },
+          "area": 0.091,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 68",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7468,
+            "y": 0.2976,
+            "w": 0.2208,
+            "h": 0.3926
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 95",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7468,
+            "y": 0.2976,
+            "w": 0.2208,
+            "h": 0.3926
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5502,
+            "y": 0.5081,
+            "w": 0.1757,
+            "h": 0.3123
+          },
+          "area": 0.0549,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 65",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5502,
+            "y": 0.5081,
+            "w": 0.1714,
+            "h": 0.3048
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "多图展示-10-静态-126e7611-s23",
+      "title_guess": "丰富的旅游资源",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:3,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 36,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 36,
+        "connector_count": 0,
+        "text_area": 0.1013,
+        "image_area": 1.613,
+        "shape_area": 3.1063,
+        "text_blob": "丰富的旅游资源 单击此处输入你的正文,文字是您思想的提炼为了最终演示发布的良好效果 康养旅居 彩云之南 点击输入相关标题 点击输入相关标题 点击输入相关标题 古香古色",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1573,
+            "y": 0.0,
+            "w": 0.8427,
+            "h": 1.0
+          },
+          "area": 0.8427,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.7435,
+            "h": 1.0
+          },
+          "area": 0.7435,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 16",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3312,
+            "y": -0.0,
+            "w": 0.6688,
+            "h": 1.0
+          },
+          "area": 0.6688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 27",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4588,
+            "w": 1.0,
+            "h": 0.5412
+          },
+          "area": 0.5412,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 25",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.4588
+          },
+          "area": 0.4588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 161",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4789,
+            "y": 0.6181,
+            "w": 0.5312,
+            "h": 0.3442
+          },
+          "area": 0.1828,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 12",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4789,
+            "y": 0.6181,
+            "w": 0.5312,
+            "h": 0.3442
+          },
+          "area": 0.1828,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4931,
+            "y": 0.6262,
+            "w": 0.5006,
+            "h": 0.3086
+          },
+          "area": 0.1545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 159",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4781,
+            "y": 0.0722,
+            "w": 0.5094,
+            "h": 0.2924
+          },
+          "area": 0.1489,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 9",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4781,
+            "y": 0.0722,
+            "w": 0.5094,
+            "h": 0.2924
+          },
+          "area": 0.1489,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "多图展示-10-静态-126e7611-s24",
+      "title_guess": "跨境电商空海 进出口运输物流",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,bottom-right:3,middle-right:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 43,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 27,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 43,
+        "connector_count": 4,
+        "text_area": 0.1819,
+        "image_area": 0.4279,
+        "shape_area": 4.2953,
+        "text_blob": "跨境电商空海 进出口运输物流 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。 专业物流 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 电商业务 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3312,
+            "y": -0.0,
+            "w": 0.6688,
+            "h": 1.0
+          },
+          "area": 0.6688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 12",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4172,
+            "w": 1.0,
+            "h": 0.5828
+          },
+          "area": 0.5828,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 11",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.4588
+          },
+          "area": 0.4588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 45_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0,
+            "w": 0.6484,
+            "h": 0.6599
+          },
+          "area": 0.4279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 69",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6673,
+            "y": 0.4954,
+            "w": 0.3148,
+            "h": 0.5173
+          },
+          "area": 0.1628,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 66",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6713,
+            "y": 0.5055,
+            "w": 0.3068,
+            "h": 0.5007
+          },
+          "area": 0.1536,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 17",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6752,
+            "y": 0.5169,
+            "w": 0.299,
+            "h": 0.4831
+          },
+          "area": 0.1444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 68",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3411,
+            "y": 0.5701,
+            "w": 0.3148,
+            "h": 0.4407
+          },
+          "area": 0.1387,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 65",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3451,
+            "y": 0.5787,
+            "w": 0.3068,
+            "h": 0.4266
+          },
+          "area": 0.1309,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.349,
+            "y": 0.5884,
+            "w": 0.299,
+            "h": 0.4116
+          },
+          "area": 0.1231,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "多图展示-10-静态-126e7611-s25",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-left:6,middle-left:2,middle-center:1",
+      "counts": {
+        "text": 2,
+        "image": 7,
+        "chart": 0,
+        "table": 0,
+        "shape": 22,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 27,
+        "text_count": 2,
+        "image_count": 7,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 22,
+        "connector_count": 1,
+        "text_area": 0.1475,
+        "image_area": 1.0407,
+        "shape_area": 0.6475,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。 聚焦主责主业 推动绿色高质量发展",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 17",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5806,
+            "h": 1.0
+          },
+          "area": 0.5806,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.1729,
+            "w": 0.426,
+            "h": 0.2163
+          },
+          "area": 0.0921,
+          "text": "聚焦主责主业 推动绿色高质量发展",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 18_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.4634,
+            "w": 0.4379,
+            "h": 0.1264
+          },
+          "area": 0.0554,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 43",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1691,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 47",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2761,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.7119,
+            "w": 0.0916,
+            "h": 0.1628
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1818,
+            "y": 0.7344,
+            "w": 0.0663,
+            "h": 0.1178
+          },
+          "area": 0.0078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2888,
+            "y": 0.7344,
+            "w": 0.0663,
+            "h": 0.1178
+          },
+          "area": 0.0078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0748,
+            "y": 0.7344,
+            "w": 0.0663,
+            "h": 0.1178
+          },
+          "area": 0.0078,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 7
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "多图展示-10-静态-126e7611-s26",
+      "title_guess": "物资供应 打造长期影响力",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:3,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 27,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 2,
+        "text_area": 0.1576,
+        "image_area": 1.0,
+        "shape_area": 0.6207,
+        "text_blob": "02 输入 标题 输入内容文字是您思想的提炼,为了最终演示发布的良好效果 物资供应 打造长期影响力 01 输入 标题 输入内容文字是您思想的提炼,为了最终演示发布的良好效果 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 专注系统管理供应链全闭环",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 3_小红书@A_PPT设计宝玉",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 20",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5264,
+            "y": -0.0,
+            "w": 0.4271,
+            "h": 0.7537
+          },
+          "area": 0.3219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 48",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5489,
+            "y": 0.1703,
+            "w": 0.3779,
+            "h": 0.1483
+          },
+          "area": 0.056,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1145,
+            "y": 0.0962,
+            "w": 0.2945,
+            "h": 0.1795
+          },
+          "area": 0.0529,
+          "text": "物资供应 打造长期影响力",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0097,
+            "y": 0.2236,
+            "w": 0.1531,
+            "h": 0.2723
+          },
+          "area": 0.0417,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0097,
+            "y": 0.2236,
+            "w": 0.1531,
+            "h": 0.2723
+          },
+          "area": 0.0417,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 31",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0571,
+            "y": 0.7465,
+            "w": 0.328,
+            "h": 0.1136
+          },
+          "area": 0.0373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0571,
+            "y": 0.4725,
+            "w": 0.328,
+            "h": 0.1136
+          },
+          "area": 0.0373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 46",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5543,
+            "y": 0.4142,
+            "w": 0.1694,
+            "h": 0.2104
+          },
+          "area": 0.0356,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 42",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7493,
+            "y": 0.4142,
+            "w": 0.1694,
+            "h": 0.2104
+          },
+          "area": 0.0356,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "title": 1,
+          "footer": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "多图展示-10-静态-126e7611-s27",
+      "title_guess": "国际综合物流服务",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:2,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 53,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 27,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 53,
+        "connector_count": 0,
+        "text_area": 0.1068,
+        "image_area": 1.9072,
+        "shape_area": 5.5124,
+        "text_blob": "国际综合物流服务 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字 标题文本 标题文本 标题文本",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 135",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0922,
+            "w": 1.0,
+            "h": 0.9078
+          },
+          "area": 0.9078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 115",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 116",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.0,
+            "w": 0.4998,
+            "h": 0.9997
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 22",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5743,
+            "y": 0.2863,
+            "w": 0.2043,
+            "h": 0.4131
+          },
+          "area": 0.0844,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2215,
+            "y": 0.2863,
+            "w": 0.2043,
+            "h": 0.4131
+          },
+          "area": 0.0844,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "六边形 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3866,
+            "y": 0.3191,
+            "w": 0.2268,
+            "h": 0.3475
+          },
+          "area": 0.0788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 45_小红书@A_PPT设计宝玉",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1664,
+            "y": 0.1572,
+            "w": 0.6673,
+            "h": 0.0937
+          },
+          "area": 0.0625,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 132",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6802,
+            "y": 0.7296,
+            "w": 0.3198,
+            "h": 0.1131
+          },
+          "area": 0.0362,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 133",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.7296,
+            "w": 0.3198,
+            "h": 0.1131
+          },
+          "area": 0.0362,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 40_小红书@A_PPT设计宝玉",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3317,
+            "y": 0.0397,
+            "w": 0.3366,
+            "h": 0.0986
+          },
+          "area": 0.0332,
+          "text": "国际综合物流服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "网格页",
+        "大图页",
+        "结尾"
+      ],
+      "avoid_for": [
+        "长文报告",
+        "强数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 27,
+    "layout_job_counts": {
+      "matrix-grid": 21,
+      "image-hero": 3,
+      "cover-statement": 1,
+      "process-strip": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "image": 21,
+      "diagram-shapes": 6
+    },
+    "density_counts": {
+      "high": 26,
+      "medium-high": 1
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "image-hero",
+      "cover-statement",
+      "process-strip",
+      "closing-takeaway"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes"
+    ]
+  }
+}

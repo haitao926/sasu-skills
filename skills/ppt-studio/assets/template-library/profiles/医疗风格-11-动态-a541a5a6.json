@@ -1,0 +1,5860 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:16.519292+00:00",
+  "template_id": "医疗风格-11-动态-a541a5a6",
+  "template_profile_path": "assets/template-library/profiles/医疗风格-11-动态-a541a5a6.json",
+  "source_template": {
+    "name": "医疗风格(11)—动态.pptx",
+    "category": "医疗风格（1套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/医疗风格（1套）/医疗风格(11)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 27,
+    "media_count": 19,
+    "image_media_count": 17,
+    "motion_hint": "dynamic",
+    "tags": [
+      "医疗汇报",
+      "医院介绍",
+      "临床/健康相关展示",
+      "封面",
+      "问题",
+      "方案",
+      "流程",
+      "结果",
+      "医疗蓝",
+      "洁净",
+      "专业",
+      "克制",
+      "流程图",
+      "示意图",
+      "病例/设备图",
+      "数据图",
+      "短结论",
+      "专业术语短句",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "医疗汇报",
+    "scenario": [
+      "医疗汇报",
+      "医院介绍",
+      "临床/健康相关展示"
+    ],
+    "best_for": [
+      "医疗相关汇报",
+      "健康/临床展示"
+    ],
+    "avoid": [
+      "庆典",
+      "儿童风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "问题",
+      "方案",
+      "流程",
+      "结果"
+    ],
+    "visual": [
+      "医疗蓝",
+      "洁净",
+      "专业",
+      "克制"
+    ],
+    "image_strategy": [
+      "流程图",
+      "示意图",
+      "病例/设备图",
+      "数据图"
+    ],
+    "text_strategy": [
+      "短结论",
+      "专业术语短句"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "process-strip",
+      "claim-evidence",
+      "two-column",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "chart",
+      "image"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "footer",
+      "body",
+      "diagram-block",
+      "image"
+    ],
+    "common_zones": [
+      "middle-center",
+      "bottom-center",
+      "middle-left",
+      "bottom-left",
+      "top-left",
+      "middle-right"
+    ],
+    "template_text_signature": "简约医学答辩 CONTENTS 01 01 02 03 04 05 02 01 02 03 04 填写段落标题 03 01 02 03 04 05 06 04 01 02 03 04 汇报完毕 请专家评审",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s01",
+      "title_guess": "简约医学答辩",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 27,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.1594,
+        "image_area": 0,
+        "shape_area": 0.0477,
+        "text_blob": "简约医学答辩 |论文答辩|毕业答辩|答辩报告|医学生答辩| Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture 答辩人:某某某 学 号:20XXXXXXX 系 所:外科 导 师:某某某教授",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0444,
+            "y": 0.2574,
+            "w": 0.4663,
+            "h": 0.175
+          },
+          "area": 0.0816,
+          "text": "简约医学答辩",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 7",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0475,
+            "y": 0.4937,
+            "w": 0.424,
+            "h": 0.0741
+          },
+          "area": 0.0314,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0399,
+            "y": 0.4325,
+            "w": 0.4811,
+            "h": 0.0494
+          },
+          "area": 0.0238,
+          "text": "|论文答辩|毕业答辩|答辩报告|医学生答辩|",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Round Diagonal Corner Rectangle 6",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.1271,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Round Diagonal Corner Rectangle 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.3559,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Round Diagonal Corner Rectangle 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5076,
+            "y": 0.582,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Round Diagonal Corner Rectangle 6",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.1271,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 27",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.7348,
+            "w": 0.1444,
+            "h": 0.0449
+          },
+          "area": 0.0065,
+          "text": "学 号:20XXXXXXX",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 29",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.8204,
+            "w": 0.1428,
+            "h": 0.0449
+          },
+          "area": 0.0064,
+          "text": "导 师:某某某教授",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 26",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.091,
+            "y": 0.7348,
+            "w": 0.1182,
+            "h": 0.0449
+          },
+          "area": 0.0053,
+          "text": "答辩人:某某某",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-center:2,middle-right:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 27,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.1181,
+        "image_area": 0,
+        "shape_area": 0.1366,
+        "text_blob": "01 研究背景及意义 02 研究方法与思路 03 研究成果与应用 04 建议及论文总结 CONTENTS Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3117,
+            "y": 0.1109,
+            "w": 0.3766,
+            "h": 0.1346
+          },
+          "area": 0.0507,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 43",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1376,
+            "y": 0.4502,
+            "w": 0.0737,
+            "h": 0.3202
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3523,
+            "y": 0.4502,
+            "w": 0.0737,
+            "h": 0.3202
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 45",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5669,
+            "y": 0.4502,
+            "w": 0.0737,
+            "h": 0.3202
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 46",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7816,
+            "y": 0.4502,
+            "w": 0.0737,
+            "h": 0.3202
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 5",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3573,
+            "y": 0.2296,
+            "w": 0.2854,
+            "h": 0.0539
+          },
+          "area": 0.0154,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 48",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7822,
+            "y": 0.3493,
+            "w": 0.0568,
+            "h": 0.242
+          },
+          "area": 0.0137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "同侧圆角矩形 51",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5678,
+            "y": 0.3896,
+            "w": 0.0568,
+            "h": 0.2017
+          },
+          "area": 0.0115,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 22",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.7997,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究背景及意义",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.4232,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s03",
+      "title_guess": "01",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1005,
+        "image_area": 0,
+        "shape_area": 0.0244,
+        "text_blob": "01 研究背景及意义 Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture The part one",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0194,
+            "y": 0.4746,
+            "w": 0.4663,
+            "h": 0.1346
+          },
+          "area": 0.0628,
+          "text": "研究背景及意义",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6092,
+            "w": 0.366,
+            "h": 0.0606
+          },
+          "area": 0.0222,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2251,
+            "y": 0.2081,
+            "w": 0.0549,
+            "h": 0.2386
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1489,
+            "y": 0.7957,
+            "w": 0.2074,
+            "h": 0.0494
+          },
+          "area": 0.0102,
+          "text": "The part one",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.4232,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3529,
+            "y": 0.4898,
+            "w": 0.0581,
+            "h": 0.0904
+          },
+          "area": 0.0053,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Oval 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4558,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4713,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4865,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Oval 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5019,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s04",
+      "title_guess": "01",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-left:3,middle-right:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 27,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1295,
+        "image_area": 0,
+        "shape_area": 0.5656,
+        "text_blob": "01 研究背景及意义 替换文字内容 点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述...... 替换文字内容",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Speech Bubble: Oval 7",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4867,
+            "y": 0.1638,
+            "w": 0.4096,
+            "h": 0.7282
+          },
+          "area": 0.2983,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 1",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5121,
+            "y": 0.2033,
+            "w": 0.3651,
+            "h": 0.649
+          },
+          "area": 0.2369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 19",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1018,
+            "y": 0.598,
+            "w": 0.311,
+            "h": 0.2751
+          },
+          "area": 0.0856,
+          "text": "点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述......",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.3533,
+            "w": 0.2344,
+            "h": 0.0853
+          },
+          "area": 0.02,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究背景及意义",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 20",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1018,
+            "y": 0.2923,
+            "w": 0.1347,
+            "h": 0.0494
+          },
+          "area": 0.0067,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform: Shape 32",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4857,
+            "y": 0.4608,
+            "w": 0.0531,
+            "h": 0.1222
+          },
+          "area": 0.0065,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0308,
+            "y": 0.0368,
+            "w": 0.0397,
+            "h": 0.119
+          },
+          "area": 0.0047,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s05",
+      "title_guess": "02",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:6,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 27,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 1,
+        "text_area": 0.0887,
+        "image_area": 0,
+        "shape_area": 1.1636,
+        "text_blob": "02 研究背景及意义 请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容 替换文字内容 请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容 替换文字内容",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 18",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0869,
+            "y": 0.2025,
+            "w": 0.8262,
+            "h": 0.4927
+          },
+          "area": 0.4071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 22",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.198,
+            "y": 0.4753,
+            "w": 0.604,
+            "h": 0.3656
+          },
+          "area": 0.2208,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 19",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1708,
+            "y": 0.5907,
+            "w": 0.6583,
+            "h": 0.2895
+          },
+          "area": 0.1906,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 21",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1469,
+            "y": 0.6194,
+            "w": 0.7062,
+            "h": 0.2321
+          },
+          "area": 0.1639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform 26",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.647,
+            "y": 0.5678,
+            "w": 0.2046,
+            "h": 0.363
+          },
+          "area": 0.0743,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 63",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6488,
+            "y": 0.5704,
+            "w": 0.2026,
+            "h": 0.359
+          },
+          "area": 0.0727,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 59",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5187,
+            "y": 0.7112,
+            "w": 0.2647,
+            "h": 0.0837
+          },
+          "area": 0.0222,
+          "text": "请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 61",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2165,
+            "y": 0.7112,
+            "w": 0.2647,
+            "h": 0.0836
+          },
+          "area": 0.0221,
+          "text": "请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 60",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5185,
+            "y": 0.662,
+            "w": 0.265,
+            "h": 0.0513
+          },
+          "area": 0.0136,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 62",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2163,
+            "y": 0.662,
+            "w": 0.265,
+            "h": 0.0513
+          },
+          "area": 0.0136,
+          "text": "替换文字内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s06",
+      "title_guess": "03",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,bottom-right:2,middle-center:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 26,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 27,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 26,
+        "connector_count": 0,
+        "text_area": 0.1538,
+        "image_area": 0,
+        "shape_area": 0.1919,
+        "text_blob": "03 研究背景及意义 100+ 请替换文字内容修改文字内容 90+ 请替换文字内容修改文字内容 34+ 医美是具有医疗属性的消费行 请替换文字内容 请替换文字内容 填写段落标题 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容也可以直接复制你的内容到此请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 24",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6926,
+            "y": 0.5413,
+            "w": 0.2322,
+            "h": 0.2683
+          },
+          "area": 0.0623,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容也可以直接复制你的内容到此请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6318,
+            "y": 0.2263,
+            "w": 0.2946,
+            "h": 0.1813
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6318,
+            "y": 0.4309,
+            "w": 0.2946,
+            "h": 0.1813
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6318,
+            "y": 0.6356,
+            "w": 0.2946,
+            "h": 0.1813
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 68",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6926,
+            "y": 0.3271,
+            "w": 0.1917,
+            "h": 0.1436
+          },
+          "area": 0.0275,
+          "text": "请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究背景及意义",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 23",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6926,
+            "y": 0.4862,
+            "w": 0.1287,
+            "h": 0.0539
+          },
+          "area": 0.0069,
+          "text": "填写段落标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "医美是具有医疗属性的消费行为",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6542,
+            "y": 0.3419,
+            "w": 0.1683,
+            "h": 0.0395
+          },
+          "area": 0.0066,
+          "text": "请替换文字内容修改文字内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 6,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s07",
+      "title_guess": "04",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,bottom-left:2,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 39,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 27,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 39,
+        "connector_count": 0,
+        "text_area": 0.1237,
+        "image_area": 0,
+        "shape_area": 0.0887,
+        "text_blob": "04 研究背景及意义 替换文字内容 您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字 替换文字内容 您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字 替换文字内容 您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字 替换文字内容 您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0691,
+            "y": 0.3156,
+            "w": 0.1631,
+            "h": 0.1206
+          },
+          "area": 0.0197,
+          "text": "您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0691,
+            "y": 0.7198,
+            "w": 0.1631,
+            "h": 0.1206
+          },
+          "area": 0.0197,
+          "text": "您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7569,
+            "y": 0.3169,
+            "w": 0.1604,
+            "h": 0.1206
+          },
+          "area": 0.0193,
+          "text": "您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7569,
+            "y": 0.7198,
+            "w": 0.1604,
+            "h": 0.1206
+          },
+          "area": 0.0193,
+          "text": "您的内容打在这里者通过复制您的文本后在此框中选择粘贴并选择只保留文字",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Oval 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1715,
+            "y": 0.5151,
+            "w": 0.0816,
+            "h": 0.1451
+          },
+          "area": 0.0118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Oval 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1715,
+            "y": 0.7479,
+            "w": 0.0816,
+            "h": 0.1451
+          },
+          "area": 0.0118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Oval 29",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5487,
+            "y": 0.5151,
+            "w": 0.0816,
+            "h": 0.1451
+          },
+          "area": 0.0118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 32",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5487,
+            "y": 0.7479,
+            "w": 0.0816,
+            "h": 0.1451
+          },
+          "area": 0.0118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究背景及意义",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s08",
+      "title_guess": "05",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:4,bottom-center:4,middle-right:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1794,
+        "image_area": 0.2202,
+        "shape_area": 0.2975,
+        "text_blob": "05 研究背景及意义 替换文字内容 请替换文字内容,修改文字内容,也可以 2720 请替换文字内容,修改文字内容,也可以 300+ 单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字 单击添加详细文字说明或复制文本黏贴自此右键只保留文字单击添加详细文字说明或复制文本黏贴 文字说明或复制文本黏贴自此右键只保留文字单击添加详细文字说明或复制文本黏贴",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 13",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0799,
+            "y": 0.2967,
+            "w": 0.5238,
+            "h": 0.5409
+          },
+          "area": 0.2833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 20",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0793,
+            "y": 0.2533,
+            "w": 0.5238,
+            "h": 0.4203
+          },
+          "area": 0.2202,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 99",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6687,
+            "y": 0.3278,
+            "w": 0.2605,
+            "h": 0.4792
+          },
+          "area": 0.1248,
+          "text": "单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字 单击添加详细文字说明或复制文本黏贴自此右键只保留文字单击添加详细文字说明或复制文本黏贴 文字说明或复制文本黏贴自此右键只保留文字单",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究背景及意义",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 29",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4256,
+            "y": 0.7006,
+            "w": 0.1344,
+            "h": 0.0628
+          },
+          "area": 0.0084,
+          "text": "请替换文字内容,修改文字内容,也可以",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 31",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5903,
+            "y": 0.7006,
+            "w": 0.1344,
+            "h": 0.0628
+          },
+          "area": 0.0084,
+          "text": "请替换文字内容,修改文字内容,也可以",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "05",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 30",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4256,
+            "y": 0.6542,
+            "w": 0.1344,
+            "h": 0.0529
+          },
+          "area": 0.0071,
+          "text": "2720",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 32",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5903,
+            "y": 0.6542,
+            "w": 0.1344,
+            "h": 0.0529
+          },
+          "area": 0.0071,
+          "text": "300+",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s09",
+      "title_guess": "02",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1005,
+        "image_area": 0,
+        "shape_area": 0.0244,
+        "text_blob": "02 研究方法与思路 Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture The part two",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0194,
+            "y": 0.4746,
+            "w": 0.4663,
+            "h": 0.1346
+          },
+          "area": 0.0628,
+          "text": "研究方法与思路",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6092,
+            "w": 0.366,
+            "h": 0.0606
+          },
+          "area": 0.0222,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2251,
+            "y": 0.2081,
+            "w": 0.0549,
+            "h": 0.2386
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1489,
+            "y": 0.7957,
+            "w": 0.2074,
+            "h": 0.0494
+          },
+          "area": 0.0102,
+          "text": "The part two",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.4232,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3529,
+            "y": 0.4898,
+            "w": 0.0581,
+            "h": 0.0904
+          },
+          "area": 0.0053,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Oval 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4558,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4713,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4865,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Oval 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5019,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s10",
+      "title_guess": "01",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:4,middle-center:2,top-right:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.103,
+        "image_area": 0,
+        "shape_area": 0.6089,
+        "text_blob": "01 研究方法与思路 请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容 替换文字内容 24/7 请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容 替换文字内容 202X",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "形状",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1267,
+            "y": 0.1946,
+            "w": 0.4196,
+            "h": 0.6872
+          },
+          "area": 0.2883,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 9",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7381,
+            "y": 0.1333,
+            "w": 0.2309,
+            "h": 0.3574
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 8",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7381,
+            "y": 0.5092,
+            "w": 0.2309,
+            "h": 0.3574
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 111",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6345,
+            "y": 0.5785,
+            "w": 0.1965,
+            "h": 0.344
+          },
+          "area": 0.0676,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform 193",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5526,
+            "y": 1.0106,
+            "w": 0.2064,
+            "h": 0.1847
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 20",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7516,
+            "y": 0.3512,
+            "w": 0.2038,
+            "h": 0.1206
+          },
+          "area": 0.0246,
+          "text": "请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 18",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7516,
+            "y": 0.7271,
+            "w": 0.2038,
+            "h": 0.1207
+          },
+          "area": 0.0246,
+          "text": "请替换文字内容修改文字内容也可以直接复制你的内容到此请替换文字内容请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0984,
+            "y": 0.4045,
+            "w": 0.0546,
+            "h": 0.1958
+          },
+          "area": 0.0107,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 109",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8031,
+            "y": 0.7132,
+            "w": 0.0621,
+            "h": 0.1551
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s11",
+      "title_guess": "02",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,bottom-right:2,top-right:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 27,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.1705,
+        "image_area": 0,
+        "shape_area": 0.2229,
+        "text_blob": "02 研究方法与思路 请替换文字内容 123,654.10M + 10K 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。您的内容打在这里,或者通过通过复制您的文本。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。您的内容打在这里,或者通过通过复 点击添加您的标题 点击添加您的标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 125",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.598,
+            "y": 0.1243,
+            "w": 0.277,
+            "h": 0.6329
+          },
+          "area": 0.1753,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 127",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6125,
+            "y": 0.2177,
+            "w": 0.2481,
+            "h": 0.5093
+          },
+          "area": 0.1264,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 8",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.4095,
+            "w": 0.3351,
+            "h": 0.3253
+          },
+          "area": 0.109,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。您的内容打在这里,或者通过通过复制您的文本。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle: Rounded Corners 129",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6011,
+            "y": 0.7826,
+            "w": 0.2739,
+            "h": 0.1174
+          },
+          "area": 0.0322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 9",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.2835,
+            "w": 0.3509,
+            "h": 0.0583
+          },
+          "area": 0.0205,
+          "text": "点击添加您的标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 130",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6692,
+            "y": 0.8144,
+            "w": 0.2002,
+            "h": 0.0539
+          },
+          "area": 0.0108,
+          "text": "123,654.10M + 10K",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究方法与思路",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 126",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6521,
+            "y": 0.1596,
+            "w": 0.1689,
+            "h": 0.0539
+          },
+          "area": 0.0091,
+          "text": "请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "02",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s12",
+      "title_guess": "03",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1147,
+        "image_area": 0,
+        "shape_area": 0.1384,
+        "text_blob": "03 研究方法与思路 单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑 点击添加标题 单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑 点击添加标题 单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑 点击添加标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "4",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1274,
+            "y": 0.665,
+            "w": 0.1663,
+            "h": 0.1576
+          },
+          "area": 0.0262,
+          "text": "单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "4",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3916,
+            "y": 0.665,
+            "w": 0.1663,
+            "h": 0.1576
+          },
+          "area": 0.0262,
+          "text": "单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.6656,
+            "w": 0.1663,
+            "h": 0.1576
+          },
+          "area": 0.0262,
+          "text": "单击此处编辑您要的内容建议您在展示时采用微软雅黑字体本模版所有图形线条及其相应素材均可自由编辑",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Oval 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1116,
+            "y": 0.2976,
+            "w": 0.1169,
+            "h": 0.2019
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Oval 33",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3322,
+            "y": 0.2976,
+            "w": 0.1169,
+            "h": 0.2019
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Oval 47",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5509,
+            "y": 0.2976,
+            "w": 0.1169,
+            "h": 0.2019
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1358,
+            "y": 0.5698,
+            "w": 0.1495,
+            "h": 0.0674
+          },
+          "area": 0.0101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4061,
+            "y": 0.5698,
+            "w": 0.1495,
+            "h": 0.0674
+          },
+          "area": 0.0101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6764,
+            "y": 0.5698,
+            "w": 0.1495,
+            "h": 0.0674
+          },
+          "area": 0.0101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s13",
+      "title_guess": "04",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-center:2,middle-left:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 23,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 27,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 23,
+        "connector_count": 1,
+        "text_area": 0.1158,
+        "image_area": 0,
+        "shape_area": 0.5835,
+        "text_blob": "04 研究方法与思路 请替换文字内容 $ 7,529.00 请替换文字内容 $ 4,529.00 40-60%请替换文字内容 请替换文字内容 $4,685,500.00 请替换文字内容 单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Graphic 44",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2231,
+            "w": 0.2892,
+            "h": 0.6856
+          },
+          "area": 0.1983,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 184",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3888,
+            "y": 0.3432,
+            "w": 0.4862,
+            "h": 0.385
+          },
+          "area": 0.1872,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle: Rounded Corners 185",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3888,
+            "y": 0.7574,
+            "w": 0.4862,
+            "h": 0.1426
+          },
+          "area": 0.0693,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle: Rounded Corners 206",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6381,
+            "y": 0.139,
+            "w": 0.2369,
+            "h": 0.175
+          },
+          "area": 0.0415,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle: Rounded Corners 207",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3888,
+            "y": 0.139,
+            "w": 0.2369,
+            "h": 0.175
+          },
+          "area": 0.0415,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 186",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4822,
+            "y": 0.782,
+            "w": 0.3724,
+            "h": 0.0917
+          },
+          "area": 0.0341,
+          "text": "单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Speech Bubble: Rectangle with Corners Rounded 205",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7164,
+            "y": 0.3565,
+            "w": 0.1395,
+            "h": 0.1347
+          },
+          "area": 0.0188,
+          "text": "$4,685,500.00 请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 191",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4922,
+            "y": 0.6709,
+            "w": 0.2795,
+            "h": 0.0461
+          },
+          "area": 0.0129,
+          "text": "40-60%请替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究方法与思路",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 7,
+          "claim": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s14",
+      "title_guess": "填写段落标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-center:3,bottom-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1006,
+        "image_area": 0.7869,
+        "shape_area": 0.6896,
+        "text_blob": "填写段落标题 请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换 填写段落标题 请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换 填写段落标题 请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换 05 研究方法与思路",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2131,
+            "y": 0.0,
+            "w": 0.7869,
+            "h": 1.0
+          },
+          "area": 0.7869,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3158,
+            "y": 0.0,
+            "w": 0.6418,
+            "h": 1.0
+          },
+          "area": 0.6418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 24",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.3147,
+            "w": 0.2462,
+            "h": 0.0899
+          },
+          "area": 0.0221,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 26",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.5256,
+            "w": 0.2462,
+            "h": 0.0899
+          },
+          "area": 0.0221,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 28",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.7366,
+            "w": 0.2462,
+            "h": 0.0899
+          },
+          "area": 0.0221,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此请替换",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Oval 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0952,
+            "y": 0.334,
+            "w": 0.0735,
+            "h": 0.1306
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Oval 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0952,
+            "y": 0.5237,
+            "w": 0.0735,
+            "h": 0.1306
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0952,
+            "y": 0.7133,
+            "w": 0.0735,
+            "h": 0.1306
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究方法与思路",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s15",
+      "title_guess": "03",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1027,
+        "image_area": 0,
+        "shape_area": 0.0244,
+        "text_blob": "03 研究成果与应用 Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture The part three",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0194,
+            "y": 0.4746,
+            "w": 0.4663,
+            "h": 0.1346
+          },
+          "area": 0.0628,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6092,
+            "w": 0.366,
+            "h": 0.0606
+          },
+          "area": 0.0222,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2251,
+            "y": 0.2081,
+            "w": 0.0549,
+            "h": 0.2386
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1267,
+            "y": 0.7957,
+            "w": 0.2517,
+            "h": 0.0494
+          },
+          "area": 0.0124,
+          "text": "The part three",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.4232,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3529,
+            "y": 0.4898,
+            "w": 0.0581,
+            "h": 0.0904
+          },
+          "area": 0.0053,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Oval 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4558,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4713,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4865,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Oval 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5019,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s16",
+      "title_guess": "01",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:3,bottom-center:3,middle-center:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 4,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 27,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.0954,
+        "image_area": 0.1532,
+        "shape_area": 0.2709,
+        "text_blob": "01 研究成果与应用 20% 请替换文字内容 40% 请替换文字内容 50% 请替换文字内容 80% 请替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1117,
+            "y": 0.2293,
+            "w": 0.295,
+            "h": 0.5194
+          },
+          "area": 0.1532,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 3",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.317,
+            "y": 0.5718,
+            "w": 0.1724,
+            "h": 0.3065
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0954,
+            "y": 0.2809,
+            "w": 0.1605,
+            "h": 0.2624
+          },
+          "area": 0.0421,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 50",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2699,
+            "y": 0.2809,
+            "w": 0.1605,
+            "h": 0.2624
+          },
+          "area": 0.0421,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 55",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0954,
+            "y": 0.567,
+            "w": 0.1605,
+            "h": 0.2624
+          },
+          "area": 0.0421,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 60",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2699,
+            "y": 0.567,
+            "w": 0.1605,
+            "h": 0.2624
+          },
+          "area": 0.0421,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 46",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0889,
+            "y": 0.2906,
+            "w": 0.1736,
+            "h": 0.2057
+          },
+          "area": 0.0357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 51",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2622,
+            "y": 0.2906,
+            "w": 0.1736,
+            "h": 0.2057
+          },
+          "area": 0.0357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 56",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0889,
+            "y": 0.5733,
+            "w": 0.1736,
+            "h": 0.2057
+          },
+          "area": 0.0357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图表 62",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2622,
+            "y": 0.5733,
+            "w": 0.1736,
+            "h": 0.2057
+          },
+          "area": 0.0357,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s17",
+      "title_guess": "02",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,top-left:2,bottom-left:1",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 38,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 27,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 38,
+        "connector_count": 0,
+        "text_area": 0.0498,
+        "image_area": 0,
+        "shape_area": 0.1448,
+        "text_blob": "02 研究成果与应用 790,000 单击添加详细文字说明,或复制文本黏 12,500 单击添加详细文字说明,或复制文本黏",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 66",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4226,
+            "y": 0.3197,
+            "w": 0.1549,
+            "h": 0.2163
+          },
+          "area": 0.0335,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 79",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1428,
+            "y": 0.6538,
+            "w": 0.1549,
+            "h": 0.2163
+          },
+          "area": 0.0335,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 75",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4312,
+            "y": 0.3603,
+            "w": 0.1375,
+            "h": 0.0606
+          },
+          "area": 0.0083,
+          "text": "单击添加详细文字说明,或复制文本黏",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 82",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4312,
+            "y": 0.3603,
+            "w": 0.1375,
+            "h": 0.0606
+          },
+          "area": 0.0083,
+          "text": "单击添加详细文字说明,或复制文本黏",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 74",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4312,
+            "y": 0.3116,
+            "w": 0.1375,
+            "h": 0.0583
+          },
+          "area": 0.008,
+          "text": "790,000",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 81",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4312,
+            "y": 0.3116,
+            "w": 0.1375,
+            "h": 0.0583
+          },
+          "area": 0.008,
+          "text": "12,500",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0308,
+            "y": 0.0368,
+            "w": 0.0397,
+            "h": 0.119
+          },
+          "area": 0.0047,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 3,
+          "claim": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s18",
+      "title_guess": "03",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-right:4,middle-right:1,middle-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 19,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 27,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 6,
+        "text_area": 0.4702,
+        "image_area": 0,
+        "shape_area": 0.02,
+        "text_blob": "03 研究成果与应用 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 01 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 02 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 03 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 06 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 05 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 4",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.0885,
+            "y": 0.3359,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 7",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.1679,
+            "y": 0.8041,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 10",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.0885,
+            "y": 1.3001,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 13",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1897,
+            "y": 0.3388,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 16",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1024,
+            "y": 0.8093,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 19",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1897,
+            "y": 1.2958,
+            "w": 0.3273,
+            "h": 0.193
+          },
+          "area": 0.0632,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保留文字您的内容打在这里",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 5",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 1.0885,
+            "y": 0.2022,
+            "w": 0.0927,
+            "h": 0.1331
+          },
+          "area": 0.0123,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 8",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.1679,
+            "y": 0.6687,
+            "w": 0.0927,
+            "h": 0.1331
+          },
+          "area": 0.0123,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 11",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.0885,
+            "y": 1.1619,
+            "w": 0.0927,
+            "h": 0.1331
+          },
+          "area": 0.0123,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 14",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4242,
+            "y": 0.2022,
+            "w": 0.0927,
+            "h": 0.1331
+          },
+          "area": 0.0123,
+          "text": "06",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s19",
+      "title_guess": "04",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1639,
+        "image_area": 0.1992,
+        "shape_area": 0.0142,
+        "text_blob": "04 研究成果与应用 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 替换文字内容",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 38",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6475,
+            "y": 0.2664,
+            "w": 0.2348,
+            "h": 0.285
+          },
+          "area": 0.0669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 46",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1187,
+            "y": 0.2664,
+            "w": 0.2348,
+            "h": 0.285
+          },
+          "area": 0.0669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片占位符 34",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3831,
+            "y": 0.5545,
+            "w": 0.2348,
+            "h": 0.2787
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 8",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1187,
+            "y": 0.6464,
+            "w": 0.2348,
+            "h": 0.1703
+          },
+          "area": 0.04,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 10",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3831,
+            "y": 0.3491,
+            "w": 0.2348,
+            "h": 0.1703
+          },
+          "area": 0.04,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 14",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6475,
+            "y": 0.6464,
+            "w": 0.2348,
+            "h": 0.1703
+          },
+          "area": 0.04,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 9",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1187,
+            "y": 0.6012,
+            "w": 0.1802,
+            "h": 0.0494
+          },
+          "area": 0.0089,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 11",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3831,
+            "y": 0.3038,
+            "w": 0.1802,
+            "h": 0.0494
+          },
+          "area": 0.0089,
+          "text": "替换文字内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s20",
+      "title_guess": "05",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:3,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 27,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1429,
+        "image_area": 0,
+        "shape_area": 0.2079,
+        "text_blob": "05 研究成果与应用 替换文字内容 请替换文字内容修改文字内容也可以直接复制 替换文字内容 请替换文字内容修改文字内容也可以直接复制 替换文字内容 请替换文字内容修改文字内容也可以直接复制 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容也可以直接复制你的内容到此请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 24",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4106,
+            "y": 0.707,
+            "w": 0.5142,
+            "h": 0.1202
+          },
+          "area": 0.0618,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容也可以直接复制你的内容到此请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4078,
+            "y": 0.1757,
+            "w": 0.1671,
+            "h": 0.3391
+          },
+          "area": 0.0567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 18",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5891,
+            "y": 0.1757,
+            "w": 0.1671,
+            "h": 0.3391
+          },
+          "area": 0.0567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7703,
+            "y": 0.1757,
+            "w": 0.1671,
+            "h": 0.3391
+          },
+          "area": 0.0567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 28",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.395,
+            "y": 0.6224,
+            "w": 0.1453,
+            "h": 0.0836
+          },
+          "area": 0.0121,
+          "text": "请替换文字内容修改文字内容也可以直接复制",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 28",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.395,
+            "y": 0.6224,
+            "w": 0.1453,
+            "h": 0.0836
+          },
+          "area": 0.0121,
+          "text": "请替换文字内容修改文字内容也可以直接复制",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 28",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.395,
+            "y": 0.6224,
+            "w": 0.1453,
+            "h": 0.0836
+          },
+          "area": 0.0121,
+          "text": "请替换文字内容修改文字内容也可以直接复制",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 27",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.373,
+            "y": 0.574,
+            "w": 0.1902,
+            "h": 0.0485
+          },
+          "area": 0.0092,
+          "text": "替换文字内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s21",
+      "title_guess": "06",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:3,bottom-center:1",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.09,
+        "image_area": 0,
+        "shape_area": 0.3118,
+        "text_blob": "06 研究成果与应用 填写段落标题 单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.125,
+            "y": 0.3457,
+            "w": 0.5253,
+            "h": 0.5543
+          },
+          "area": 0.2912,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 8",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1434,
+            "y": 0.4394,
+            "w": 0.4885,
+            "h": 0.455
+          },
+          "area": 0.2223,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 5",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4398,
+            "y": 0.2249,
+            "w": 0.475,
+            "h": 0.1303
+          },
+          "area": 0.0619,
+          "text": "单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只保留文字单击添加详细文字说明,或复制文本黏贴自此右键只",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2989,
+            "y": 0.3729,
+            "w": 0.1774,
+            "h": 0.0617
+          },
+          "area": 0.0109,
+          "text": "填写段落标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "06",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0308,
+            "y": 0.0368,
+            "w": 0.0397,
+            "h": 0.119
+          },
+          "area": 0.0047,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Google Shape;599;p43",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1976,
+            "y": 0.2754,
+            "w": 0.0379,
+            "h": 0.1199
+          },
+          "area": 0.0045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Google Shape;602;p43",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1806,
+            "y": 0.2792,
+            "w": 0.0253,
+            "h": 0.0449
+          },
+          "area": 0.0011,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s22",
+      "title_guess": "04",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 27,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1027,
+        "image_area": 0,
+        "shape_area": 0.0244,
+        "text_blob": "04 建议及论文总结 Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain in the hard stage and they are also wang ling yan a culture The part four",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0194,
+            "y": 0.4746,
+            "w": 0.4663,
+            "h": 0.1346
+          },
+          "area": 0.0628,
+          "text": "建议及论文总结",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6092,
+            "w": 0.366,
+            "h": 0.0606
+          },
+          "area": 0.0222,
+          "text": "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will n",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2251,
+            "y": 0.2081,
+            "w": 0.0549,
+            "h": 0.2386
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1267,
+            "y": 0.7957,
+            "w": 0.2517,
+            "h": 0.0494
+          },
+          "area": 0.0124,
+          "text": "The part four",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.4232,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3529,
+            "y": 0.4898,
+            "w": 0.0581,
+            "h": 0.0904
+          },
+          "area": 0.0053,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Oval 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4558,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Oval 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4713,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Oval 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4865,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Oval 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5019,
+            "y": 0.7193,
+            "w": 0.0125,
+            "h": 0.0222
+          },
+          "area": 0.0003,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s23",
+      "title_guess": "01",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1487,
+        "image_area": 0.2211,
+        "shape_area": 0.2496,
+        "text_blob": "01 建议及论文总结 点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字 修改文字内容也可以直接复制你的内容到此请替换 段落标题 修改文字内容也可以直接复制你的内容到此请替换 段落标题 替换文字内容",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0746,
+            "y": 0.4021,
+            "w": 0.4862,
+            "h": 0.4795
+          },
+          "area": 0.2331,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 5",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5233,
+            "y": 0.2348,
+            "w": 0.4086,
+            "h": 0.5412
+          },
+          "area": 0.2211,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 21",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1134,
+            "y": 0.4538,
+            "w": 0.4086,
+            "h": 0.1707
+          },
+          "area": 0.0697,
+          "text": "点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.113,
+            "y": 0.2783,
+            "w": 0.2344,
+            "h": 0.0853
+          },
+          "area": 0.02,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 24",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1021,
+            "y": 0.6179,
+            "w": 0.158,
+            "h": 0.0836
+          },
+          "area": 0.0132,
+          "text": "修改文字内容也可以直接复制你的内容到此请替换",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1021,
+            "y": 0.6179,
+            "w": 0.158,
+            "h": 0.0836
+          },
+          "area": 0.0132,
+          "text": "修改文字内容也可以直接复制你的内容到此请替换",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "建议及论文总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 25",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1021,
+            "y": 0.5706,
+            "w": 0.158,
+            "h": 0.0486
+          },
+          "area": 0.0077,
+          "text": "段落标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s24",
+      "title_guess": "02",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 27,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.2443,
+        "image_area": 0,
+        "shape_area": 0.2697,
+        "text_blob": "02 建议及论文总结 Mon Tue Wed Thu Fri Sat Sun 2024/01 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 1. 替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 2. 替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。 3. 替换文字内容 请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1185,
+            "y": 0.2251,
+            "w": 0.2468,
+            "h": 0.6265
+          },
+          "area": 0.1546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 52",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4462,
+            "y": 0.2348,
+            "w": 0.402,
+            "h": 0.1991
+          },
+          "area": 0.08,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 39",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3127,
+            "h": 0.1077
+          },
+          "area": 0.0337,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 43",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3127,
+            "h": 0.1077
+          },
+          "area": 0.0337,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 47",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.7076,
+            "w": 0.3127,
+            "h": 0.1077
+          },
+          "area": 0.0337,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 34",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.7012,
+            "w": 0.1783,
+            "h": 0.1723
+          },
+          "area": 0.0307,
+          "text": "请替换文字内容,修改文字内容,也可以直接复制你的内容到此。请替换文字内容,修改文字内容,也可以直接复制你的内容到此。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 9",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.6606,
+            "w": 0.23,
+            "h": 0.0602
+          },
+          "area": 0.0138,
+          "text": "替换文字内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 36",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4621,
+            "y": 0.2167,
+            "w": 0.0848,
+            "h": 0.1616
+          },
+          "area": 0.0137,
+          "text": "1.",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 40",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.4058,
+            "w": 0.0813,
+            "h": 0.1616
+          },
+          "area": 0.0131,
+          "text": "2.",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 44",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4566,
+            "y": 0.592,
+            "w": 0.0787,
+            "h": 0.1616
+          },
+          "area": 0.0127,
+          "text": "3.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 8,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s25",
+      "title_guess": "03",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 26,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 27,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 26,
+        "connector_count": 0,
+        "text_area": 0.1405,
+        "image_area": 0,
+        "shape_area": 0.3034,
+        "text_blob": "03 建议及论文总结 点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述...... 填写段落标题 点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述...... 填写段落标题 点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述...... 填写段落标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 11",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.712,
+            "y": 0.3021,
+            "w": 0.2878,
+            "h": 0.3366
+          },
+          "area": 0.0969,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0999,
+            "y": 0.3021,
+            "w": 0.2555,
+            "h": 0.3366
+          },
+          "area": 0.086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.406,
+            "y": 0.3021,
+            "w": 0.2555,
+            "h": 0.3366
+          },
+          "area": 0.086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 25",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0912,
+            "y": 0.7018,
+            "w": 0.1956,
+            "h": 0.163
+          },
+          "area": 0.0319,
+          "text": "点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述......",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 27",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4046,
+            "y": 0.7018,
+            "w": 0.1956,
+            "h": 0.163
+          },
+          "area": 0.0319,
+          "text": "点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述......",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 29",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.718,
+            "y": 0.7018,
+            "w": 0.1956,
+            "h": 0.163
+          },
+          "area": 0.0319,
+          "text": "点击输入您的文字内容或复制粘贴具体文本、用简明扼要的文字说明此项内容,精准的词汇表达胜过长篇大论的文字表述......",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "建议及论文总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 26",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0996,
+            "y": 0.6531,
+            "w": 0.1857,
+            "h": 0.0494
+          },
+          "area": 0.0092,
+          "text": "填写段落标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 28",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.413,
+            "y": 0.6531,
+            "w": 0.1857,
+            "h": 0.0494
+          },
+          "area": 0.0092,
+          "text": "填写段落标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s26",
+      "title_guess": "04",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,middle-left:1,middle-right:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 27,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1256,
+        "image_area": 0,
+        "shape_area": 0.2639,
+        "text_blob": "04 建议及论文总结 98 % 80 % 标题 标题 填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。 填写段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 40",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.2578,
+            "w": 0.3475,
+            "h": 0.5677
+          },
+          "area": 0.1973,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 44",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6518,
+            "y": 0.3846,
+            "w": 0.2875,
+            "h": 0.1206
+          },
+          "area": 0.0347,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 44",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6518,
+            "y": 0.6878,
+            "w": 0.2875,
+            "h": 0.1206
+          },
+          "area": 0.0347,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过通过复制您的文本。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle: Rounded Corners 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4734,
+            "y": 0.3591,
+            "w": 0.1095,
+            "h": 0.1942
+          },
+          "area": 0.0213,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle: Rounded Corners 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4734,
+            "y": 0.3591,
+            "w": 0.1095,
+            "h": 0.1942
+          },
+          "area": 0.0213,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "同侧圆角矩形 54",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3524,
+            "y": 0.4288,
+            "w": 0.0568,
+            "h": 0.1681
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.0782,
+            "w": 0.1624,
+            "h": 0.0583
+          },
+          "area": 0.0095,
+          "text": "建议及论文总结",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4867,
+            "y": 0.4226,
+            "w": 0.0829,
+            "h": 0.1023
+          },
+          "area": 0.0085,
+          "text": "98",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4867,
+            "y": 0.4226,
+            "w": 0.0829,
+            "h": 0.1023
+          },
+          "area": 0.0085,
+          "text": "80",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.4639,
+            "w": 0.072,
+            "h": 0.1071
+          },
+          "area": 0.0077,
+          "text": "04",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "医疗风格-11-动态-a541a5a6-s27",
+      "title_guess": "汇报完毕 请专家评审",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 27,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.1796,
+        "image_area": 0,
+        "shape_area": 0.0477,
+        "text_blob": "汇报完毕 请专家评审 答辩人:某某某 学 号:20XXXXXXX 系 所:外科 导 师:某某某教授",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0444,
+            "y": 0.23,
+            "w": 0.4663,
+            "h": 0.3366
+          },
+          "area": 0.157,
+          "text": "汇报完毕 请专家评审",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Round Diagonal Corner Rectangle 6",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.1271,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Round Diagonal Corner Rectangle 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.3559,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Round Diagonal Corner Rectangle 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5076,
+            "y": 0.582,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Round Diagonal Corner Rectangle 6",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5108,
+            "y": 0.1271,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 27",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.7348,
+            "w": 0.1444,
+            "h": 0.0449
+          },
+          "area": 0.0065,
+          "text": "学 号:20XXXXXXX",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 29",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.8204,
+            "w": 0.1428,
+            "h": 0.0449
+          },
+          "area": 0.0064,
+          "text": "导 师:某某某教授",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 26",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.091,
+            "y": 0.7348,
+            "w": 0.1182,
+            "h": 0.0449
+          },
+          "area": 0.0053,
+          "text": "答辩人:某某某",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 28",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.091,
+            "y": 0.8204,
+            "w": 0.0986,
+            "h": 0.0449
+          },
+          "area": 0.0044,
+          "text": "系 所:外科",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Freeform 217",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3122,
+            "y": 0.6471,
+            "w": 0.0241,
+            "h": 0.0595
+          },
+          "area": 0.0014,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "问题",
+        "方案",
+        "流程",
+        "结果"
+      ],
+      "avoid_for": [
+        "庆典",
+        "儿童风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 27,
+    "layout_job_counts": {
+      "flow-diagram": 7,
+      "process-strip": 6,
+      "claim-evidence": 4,
+      "two-column": 3,
+      "kpi-grid": 3,
+      "cover-statement": 1,
+      "image-hero": 1,
+      "table": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 21,
+      "chart": 3,
+      "image": 1,
+      "mixed": 1,
+      "text": 1
+    },
+    "density_counts": {
+      "medium-high": 14,
+      "medium": 8,
+      "high": 5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "process-strip",
+      "claim-evidence",
+      "two-column",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "chart",
+      "image"
+    ]
+  }
+}

@@ -1,0 +1,4185 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:26.892549+00:00",
+  "template_id": "数据图表-07-流程图-04a3fca0",
+  "template_profile_path": "assets/template-library/profiles/数据图表-07-流程图-04a3fca0.json",
+  "source_template": {
+    "name": "数据图表(07)—流程图.pptx",
+    "category": "数据图表（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(07)—流程图.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 19,
+    "media_count": 6,
+    "image_media_count": 6,
+    "motion_hint": "pptx",
+    "tags": [
+      "数据图表",
+      "数据分析",
+      "图表汇报",
+      "统计说明",
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论",
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高",
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图",
+      "结论句",
+      "图表注释",
+      "指标标签",
+      "静态版",
+      "原始文件",
+      "高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "数据图表",
+    "scenario": [
+      "数据分析",
+      "图表汇报",
+      "统计说明"
+    ],
+    "best_for": [
+      "数据分析",
+      "业绩汇报",
+      "统计展示"
+    ],
+    "avoid": [
+      "纯情绪海报",
+      "儿童活动风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论"
+    ],
+    "visual": [
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高"
+    ],
+    "image_strategy": [
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图"
+    ],
+    "text_strategy": [
+      "结论句",
+      "图表注释",
+      "指标标签"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "research-question",
+      "process-strip",
+      "claim-evidence",
+      "architecture-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "chart"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "claim",
+      "label",
+      "body",
+      "diagram-block",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-right",
+      "bottom-right",
+      "top-left",
+      "middle-left",
+      "bottom-left"
+    ],
+    "template_text_signature": "工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图 Powerpoint Template 工作汇报-流程图",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s01",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,bottom-left:2,middle-right:1",
+      "counts": {
+        "text": 27,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 26,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 19,
+        "text_count": 27,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 26,
+        "connector_count": 5,
+        "text_area": 0.3793,
+        "image_area": 0,
+        "shape_area": 0.2838,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 项目活动策划执行流程 通过系统性的方法和过程,规划和组织项目的各个阶段和活动,以达到预期的目标和成果。它涉及到对项目进行全面分析、明确目标、设计详细的执行计划,并有效地分配资源和管理风险的过程。 01 启动阶段 Project initiation 02 策划阶段 Event Planning 03 筹备阶段 Event Preparation 04 执行阶段 Activity Execution 05 收尾阶段 Event Conclusion 收集信息与需求分析:了解项目的背景、范围、参与者需求以及预期成果。 设定明确的目标与目标:确立项目的具体目标和预期成果,包括时间、预算和资源限制等。 需求分析 根据需求分析,制定实施计划,包括活动内容、时间安排、场地选择、人员安排和预算计划。 活动策划 确保必要资源,如资金、场地、设备和人力资源等。 资源配置 按照方案进行活动执行,负责人员需要进行现场协调,处理可能出现的问题和调整计划。 活动执行 汇总活动的经验教训,以备将来类似项目的参考。 总结复盘 88% 管理项目所需的各种资源,以最大程度地优化资源利用效率。 项目活动策划需要细致的规划和有效的执行,以应对可能出现的各种挑战。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 79",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7756,
+            "y": 0.291,
+            "w": 0.1329,
+            "h": 0.4291
+          },
+          "area": 0.057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 58",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.2306,
+            "w": 0.5202,
+            "h": 0.084
+          },
+          "area": 0.0437,
+          "text": "通过系统性的方法和过程,规划和组织项目的各个阶段和活动,以达到预期的目标和成果。它涉及到对项目进行全面分析、明确目标、设计详细的执行计划,并有效地分配资源和管理风险的过程。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 124",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0453,
+            "y": 0.5062,
+            "w": 0.1413,
+            "h": 0.2451
+          },
+          "area": 0.0346,
+          "text": "收集信息与需求分析:了解项目的背景、范围、参与者需求以及预期成果。 设定明确的目标与目标:确立项目的具体目标和预期成果,包括时间、预算和资源限制等。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7403,
+            "y": 0.7511,
+            "w": 0.1734,
+            "h": 0.1992
+          },
+          "area": 0.0345,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 59",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.7926,
+            "w": 0.1934,
+            "h": 0.1585
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 67",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2083,
+            "y": 0.7011,
+            "w": 0.1934,
+            "h": 0.1585
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 68",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3793,
+            "y": 0.6097,
+            "w": 0.1934,
+            "h": 0.1585
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 69",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5503,
+            "y": 0.5183,
+            "w": 0.1934,
+            "h": 0.1585
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.1569,
+            "w": 0.3097,
+            "h": 0.0763
+          },
+          "area": 0.0236,
+          "text": "项目活动策划执行流程",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 3,
+          "footer": 2,
+          "label": 22
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s02",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:3,middle-right:2,middle-center:2",
+      "counts": {
+        "text": 24,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 7,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 19,
+        "text_count": 24,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 1,
+        "text_area": 0.3989,
+        "image_area": 0,
+        "shape_area": 0.4054,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 项目进度流程规划 项目进度流程规划是指在项目管理中,为了确保项目按时完成并达到预期目标,对项目进行详细的时间安排和进度计划,确保项目能够按时完成和达到预期的目标和交付成果的工作。 01 市场调研 Market research 02 品牌策划 BRAND PLANNING 03 品牌设计 BRAND design 04 产品投放 Product Launch 05 项目复盘 Project Review 了解市场上消费者对产品的需求和期望,包括市场的规模、增长趋势、市场细分等。分析市场的变化趋势、未来的发展方向,以及可能影响市场的因素。 确定品牌在目标市场中的独特定位和核心竞争优势。建立品牌的核心价值观和定位,包括品牌的使命、愿景和价值主张。制定品牌传播战略,选择合适的传播渠道和工具。 通过视觉和感官元素来创造和表达一个品牌的核心理念、价值观和个性特征的过程。它不仅限于品牌的标志设计,还包括整体视觉识别系统的开发和管理,以确保品牌在市场中的一致性和识别性。 选择适当的销售渠道,确保产品能够迅速、高效地达到消费者手中。通过各种营销手段向目标消费者进行推广和销售。 在项目结束后进行系统性回顾和总结过程。从项目中学习经验教训,识别成功因素和问题,并为未来项目提供改进建议和指导。 2024年3月 2024年4月 2024年5月 2024年6月 2024年7月",
+        "title_like": 0,
+        "body_like": 7
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 29",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7858,
+            "y": 0.3474,
+            "w": 0.1767,
+            "h": 0.4989
+          },
+          "area": 0.0882,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 28",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5987,
+            "y": 0.4023,
+            "w": 0.1767,
+            "h": 0.444
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 27",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4116,
+            "y": 0.4572,
+            "w": 0.177,
+            "h": 0.3891
+          },
+          "area": 0.0689,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意形状 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2244,
+            "y": 0.5121,
+            "w": 0.1767,
+            "h": 0.3342
+          },
+          "area": 0.0591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.565,
+            "w": 0.1767,
+            "h": 0.2812
+          },
+          "area": 0.0497,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.2306,
+            "w": 0.5718,
+            "h": 0.084
+          },
+          "area": 0.048,
+          "text": "项目进度流程规划是指在项目管理中,为了确保项目按时完成并达到预期目标,对项目进行详细的时间安排和进度计划,确保项目能够按时完成和达到预期的目标和交付成果的工作。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 66",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4293,
+            "y": 0.4823,
+            "w": 0.1413,
+            "h": 0.3053
+          },
+          "area": 0.0431,
+          "text": "通过视觉和感官元素来创造和表达一个品牌的核心理念、价值观和个性特征的过程。它不仅限于品牌的标志设计,还包括整体视觉识别系统的开发和管理,以确保品牌在市场中的一致性和识别性。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图示 78",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7855,
+            "y": 0.5986,
+            "w": 0.177,
+            "h": 0.2185
+          },
+          "area": 0.0387,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 65",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2418,
+            "y": 0.5341,
+            "w": 0.1413,
+            "h": 0.2683
+          },
+          "area": 0.0379,
+          "text": "确定品牌在目标市场中的独特定位和核心竞争优势。建立品牌的核心价值观和定位,包括品牌的使命、愿景和价值主张。制定品牌传播战略,选择合适的传播渠道和工具。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 5,
+          "footer": 6,
+          "label": 11,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s03",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-left:3,bottom-right:3,top-left:2",
+      "counts": {
+        "text": 20,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 19,
+        "text_count": 20,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 5,
+        "text_area": 0.4021,
+        "image_area": 0.007,
+        "shape_area": 0.268,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 筹备阶段 执行阶段 01 02 03 04 05 市场调研 项目活动策划执行流程 收集信息与需求分析:通过系统性的方法和技术来获取、整理项目的背景、范围、参与者需求以及预期成果。 设定明确的目标与目标:确立项目的具体目标和预期成果,包括时间、预算和资源限制等。 制定详细的策划方案:根据需求分析,制定实施计划,包括活动内容、时间安排、场地选择、人员安排和预算计划。 获取和配置资源:确保获得必要资源,如资金、设备和人力资源,以支持项目顺利实施。 采购和招标:进行项目相关物资和设备的采购,执行相关的招标文件和投标过程,签订合同和准备开工前物资供应。 安装和施工:进行活动现场施工,管理施工质量和进度控制。协调施工团队和承包商的工作。 活动执行:根据制定的策略和计划执行项目活动。确保各项活动按照预期进行,并与团队成员保持有效的沟通和协作。 协调与管理:负责人员需要进行活动现场的协调管理,处理可能出现的问题和调整计划。 收尾:完成项目的最终验收和客户交付。确保项目交付的成果符合合同约定和客户要求。解决最后的法律、财务问题。 复盘:在项目结束后进行系统性回顾和总结过程。从项目中学习经验教训。 策划设计 采购安装 现场执行 后续跟进",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "右箭头 1",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2068,
+            "w": 0.9254,
+            "h": 0.2286
+          },
+          "area": 0.2115,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 32",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.056,
+            "y": 0.5657,
+            "w": 0.1528,
+            "h": 0.2983
+          },
+          "area": 0.0456,
+          "text": "收集信息与需求分析:通过系统性的方法和技术来获取、整理项目的背景、范围、参与者需求以及预期成果。 设定明确的目标与目标:确立项目的具体目标和预期成果,包括时间、预算和资源限制等。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 36",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7937,
+            "y": 0.5657,
+            "w": 0.1528,
+            "h": 0.2983
+          },
+          "area": 0.0456,
+          "text": "收尾:完成项目的最终验收和客户交付。确保项目交付的成果符合合同约定和客户要求。解决最后的法律、财务问题。 复盘:在项目结束后进行系统性回顾和总结过程。从项目中学习经验教训。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2392,
+            "y": 0.5657,
+            "w": 0.1528,
+            "h": 0.2553
+          },
+          "area": 0.039,
+          "text": "制定详细的策划方案:根据需求分析,制定实施计划,包括活动内容、时间安排、场地选择、人员安排和预算计划。 获取和配置资源:确保获得必要资源,如资金、设备和人力资源,以支持项目顺利实施。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4234,
+            "y": 0.5657,
+            "w": 0.1528,
+            "h": 0.2553
+          },
+          "area": 0.039,
+          "text": "采购和招标:进行项目相关物资和设备的采购,执行相关的招标文件和投标过程,签订合同和准备开工前物资供应。 安装和施工:进行活动现场施工,管理施工质量和进度控制。协调施工团队和承包商的工作。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 35",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6095,
+            "y": 0.5657,
+            "w": 0.1528,
+            "h": 0.2553
+          },
+          "area": 0.039,
+          "text": "活动执行:根据制定的策略和计划执行项目活动。确保各项活动按照预期进行,并与团队成员保持有效的沟通和协作。 协调与管理:负责人员需要进行活动现场的协调管理,处理可能出现的问题和调整计划。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 4",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.407,
+            "y": 0.8858,
+            "w": 0.5557,
+            "h": 0.0654
+          },
+          "area": 0.0363,
+          "text": "执行阶段",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 2",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.8858,
+            "w": 0.3697,
+            "h": 0.0654
+          },
+          "area": 0.0242,
+          "text": "筹备阶段",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.1569,
+            "w": 0.3097,
+            "h": 0.0763
+          },
+          "area": 0.0236,
+          "text": "项目活动策划执行流程",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 4,
+          "footer": 8,
+          "label": 6,
+          "body": 2
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s04",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-right:3,middle-center:2",
+      "counts": {
+        "text": 23,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 19,
+        "text_count": 23,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 1,
+        "text_area": 0.3811,
+        "image_area": 0,
+        "shape_area": 0.6596,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 用户调研 产品开发设计基本流程 2024年3月 2024年4月 2024年5月 2024年6月 2024年7月 1 产品策划 2 产品设计 3 产品开发 4 产品投放 5 通过系统化的方法和工具来收集、分析和理解目标用户的需求、偏好、行为以及反馈意见的过程。帮助团队更好地理解产品的最终用户,以便有效地设计、开发和改进产品。获取用户的观点、反馈和行为数据,更精确地定位市场需求、发现问题和机会,并为用户提供更符合其需求的产品。 在产品开发过程中制定和规划产品的整体方向、功能特性、市场定位和商业化策略。确保产品能够有效地满足市场需求并实现商业成功。 产品功能设计注重的是产品的性能和质量,要求在产品设计中充分考虑顾客要求,体现产品的经济价值,并以此为原则,保证高品质设计,包括:配合度精确、性能优良而稳定、耐用性能以及售后维护的便利程度。技术手段:价值工程、装配过程模拟、装配设计、质量功能选择和计算机辅助设计等。 根据设计和规划指导,开始实际构建产品。包括软件开发、硬件制造、系统集成和测试等工作,确保产品的功能和性能符合预期。 利用广告、社交媒体、公关活动等手段,向目标市场传播产品信息,引起关注。确保产品在各种销售渠道上的准备工作,如零售店、在线商店等。通过反馈和数据分析,优化产品和服务,以提升用户满意度和忠诚度。强化品牌形象和价值主张,使产品在市场上的认知度和影响力提升。",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 121",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0411,
+            "y": 0.3281,
+            "w": 0.1711,
+            "h": 0.5352
+          },
+          "area": 0.0916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 120",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2243,
+            "y": 0.3281,
+            "w": 0.1711,
+            "h": 0.5352
+          },
+          "area": 0.0916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 119",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4075,
+            "y": 0.3281,
+            "w": 0.1711,
+            "h": 0.5352
+          },
+          "area": 0.0916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意形状 118",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5908,
+            "y": 0.3281,
+            "w": 0.1711,
+            "h": 0.5352
+          },
+          "area": 0.0916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意形状 117",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.774,
+            "y": 0.3281,
+            "w": 0.1711,
+            "h": 0.5352
+          },
+          "area": 0.0916,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图示 150",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5529,
+            "y": 0.5763,
+            "w": 0.2467,
+            "h": 0.2514
+          },
+          "area": 0.062,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 132",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0474,
+            "y": 0.3862,
+            "w": 0.1585,
+            "h": 0.3461
+          },
+          "area": 0.0549,
+          "text": "通过系统化的方法和工具来收集、分析和理解目标用户的需求、偏好、行为以及反馈意见的过程。帮助团队更好地理解产品的最终用户,以便有效地设计、开发和改进产品。获取用户的观点、反馈和行为数据,更精确地定位市场需求、发现问题和机会,并为用户提供更符合",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 137",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4133,
+            "y": 0.3862,
+            "w": 0.1585,
+            "h": 0.3461
+          },
+          "area": 0.0549,
+          "text": "产品功能设计注重的是产品的性能和质量,要求在产品设计中充分考虑顾客要求,体现产品的经济价值,并以此为原则,保证高品质设计,包括:配合度精确、性能优良而稳定、耐用性能以及售后维护的便利程度。技术手段:价值工程、装配过程模拟、装配设计、质量功能",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 145",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.78,
+            "y": 0.3862,
+            "w": 0.1585,
+            "h": 0.3461
+          },
+          "area": 0.0549,
+          "text": "利用广告、社交媒体、公关活动等手段,向目标市场传播产品信息,引起关注。确保产品在各种销售渠道上的准备工作,如零售店、在线商店等。通过反馈和数据分析,优化产品和服务,以提升用户满意度和忠诚度。强化品牌形象和价值主张,使产品在市场上的认知度和影",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 3,
+          "footer": 16,
+          "label": 1,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s05",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 47,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 19,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 47,
+        "connector_count": 1,
+        "text_area": 0.313,
+        "image_area": 0,
+        "shape_area": 0.5994,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 空间设计 平面设计 插画设计 制作安装 文案策划 制定内容策略,确定文案核心逻辑和传达方式,进行创意构思,确保文案既有创新性又符合品牌形象或传播目的。保证文案的语法、拼写和逻辑性无误,符合传播要求和标准。 文案策划工作重点 项目进度基本流程 设计有效的空间布局,确保各功能区合理分布和用户行动线路。考虑空间的品牌形象展示,确保展览陈列面与客户需求相契合,根据布局结合灯光、展陈提供空间效果图。 空间设计工作重点 在确保设计与客户的品牌形象一致的基础上设计标志,然后根据品牌风格确定色系,进一步开发相关标准,确定页面排版,确保信息层次清晰、易于理解和引导视线。 平面设计工作重点 提出创新和符合要求的插画IP。根据客户需求和品牌文化选择合适的人文信息,可以是物品、人物等文化符号。设计和优化插画元素,确保视觉层次和信息传递清晰明了。 插画设计工作重点 确定所需的人力、材料和工具,确保安装过程顺利进行。确定安装项目的具体要求和时间表。安装过程中进行质量控制,确保安装完成后产品的正常运行和符合客户期望。 制作安装工作重点",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0436,
+            "y": 0.5677,
+            "w": 0.1731,
+            "h": 0.3781
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2291,
+            "y": 0.5681,
+            "w": 0.1731,
+            "h": 0.3781
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4149,
+            "y": 0.5677,
+            "w": 0.1731,
+            "h": 0.3781
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5994,
+            "y": 0.5681,
+            "w": 0.1731,
+            "h": 0.3781
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7849,
+            "y": 0.5681,
+            "w": 0.1731,
+            "h": 0.3781
+          },
+          "area": 0.0654,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3226,
+            "h": 0.1058
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3226,
+            "h": 0.1058
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3226,
+            "h": 0.1058
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3226,
+            "h": 0.1058
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 6,
+          "label": 6,
+          "body": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s06",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 23,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 58,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 19,
+        "text_count": 23,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 58,
+        "connector_count": 1,
+        "text_area": 0.3614,
+        "image_area": 0,
+        "shape_area": 0.9532,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 项目进度基本流程 任务分配 项目规划 项目启动: 1、确定项目目标、范围和关键要求。 2、成立项目团队并分配角色和责任。 3、制定项目计划和时间表。 项目启动 进度监控 资源管理 变更管理 质量管理 项目总结 风险管理 沟通管理 项目规划: 1、定义项目详细范围和可交付成果。 2、制定详细项目进度计划。 3、确定资源需求和预算限制。 任务分配与调度: 1、将项目工作分解为具体任务。 2、分配任务给项目团队成员。 3、创建项目进度表和日程安排。 资源管理: 1、管理项目所需的人力、物力、设备和资金资源。 2、确保资源的有效利用和优化。 进度监控与更新: 1、定期监控项目工作进度。 2、识别和解决任何延迟或问题。 3、更新进度计划和时间表。 项目闭环与总结: 1、完成项目的交付和验收过程。 2、进行项目总结和评估。 3、归档项目文档和数据。 质量管理: 1、确保项目交付的质量符合预期标准和客户要求。 2、实施质量控制和质量保证措施。 变更管理: 1、管理和控制项目范围内变更请求。 2、评估变更的影响并制定相应的变更控制措施,确保项目目标不受影响。 沟通管理: 1、确保与项目团队、关键利益相关者和管理层的有效沟通。 2、保持所有相关方的信息同步。 风险管理: 1、识别、评估和管理项目可能面临的风险和问题。 2、制定风险应对策略和计划。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4094,
+            "y": 0.2588,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2233,
+            "y": 0.2588,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2588,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7814,
+            "y": 0.2588,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5954,
+            "y": 0.2588,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4094,
+            "y": 0.6066,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2233,
+            "y": 0.6066,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6066,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7814,
+            "y": 0.6066,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5954,
+            "y": 0.6066,
+            "w": 0.1813,
+            "h": 0.3393
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 11,
+          "label": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s07",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,bottom-center:2,middle-center:2",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 19,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 5,
+        "text_area": 0.3658,
+        "image_area": 0,
+        "shape_area": 0.3256,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 03 01 目标设定与规划 确定活动的主要目标,如提高品牌知名度、增加销售额或促进用户参与。设定具体、可衡量的指标。 04 02 目标 市场 活动 评估 营销活动的4大流程 活动营销的四大步骤:首先,设定目标与规划,确定目标和预算;其次,推广与宣传,通过合适渠道吸引受众;然后,执行与管理,确保活动顺利进行;最后,评估与总结,分析数据,总结经验。这样可以确保活动成功并提升品牌影响力。 市场推广与宣传 选择合适的推广渠道,如社交媒体、电子邮件营销、线上广告或传统媒体。设计吸引人的宣传内容和素材。 活动执行与管理 确保活动当天所有安排按计划进行,包括场地布置、设备调试和工作人员分工。处理突发问题,确保活动顺利进行。 评估与总结 收集活动的关键数据,如参与人数、反馈意见、销售数据或其他相关指标。分析这些数据以评估活动效果是否达到了预期目标。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 88",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.037,
+            "y": 0.2306,
+            "w": 0.9257,
+            "h": 0.084
+          },
+          "area": 0.0778,
+          "text": "活动营销的四大步骤:首先,设定目标与规划,确定目标和预算;其次,推广与宣传,通过合适渠道吸引受众;然后,执行与管理,确保活动顺利进行;最后,评估与总结,分析数据,总结经验。这样可以确保活动成功并提升品牌影响力。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 59",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.651,
+            "y": 0.4038,
+            "w": 0.3123,
+            "h": 0.1683
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 63",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0367,
+            "y": 0.4038,
+            "w": 0.3123,
+            "h": 0.1683
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 67",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.651,
+            "y": 0.6336,
+            "w": 0.3123,
+            "h": 0.1683
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 71",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0367,
+            "y": 0.6336,
+            "w": 0.3123,
+            "h": 0.1683
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.6408,
+            "h": 0.0763
+          },
+          "area": 0.0489,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意形状 78",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5056,
+            "y": 0.6124,
+            "w": 0.1308,
+            "h": 0.2268
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意形状 77",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3635,
+            "y": 0.6127,
+            "w": 0.1308,
+            "h": 0.2262
+          },
+          "area": 0.0296,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意形状 75",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.509,
+            "y": 0.3604,
+            "w": 0.1237,
+            "h": 0.2261
+          },
+          "area": 0.028,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意形状 76",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3672,
+            "y": 0.3607,
+            "w": 0.1236,
+            "h": 0.2256
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 2,
+          "footer": 5,
+          "label": 13
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s08",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:2,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 36,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 19,
+        "text_count": 36,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 9,
+        "text_area": 0.3358,
+        "image_area": 0,
+        "shape_area": 0.1878,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 2024.3-2024.4 2024.5-2024.6 2024.7-2024.8 2024.9-2024.10 2024.11-2024.12 01 市场调研 Market research 02 品牌策划 BRAND PLANNING 03 品牌设计 Brand design 04 市场投放 Market launch 05 用户反馈 User feedback 企业或组织为了了解市场环境、市场需求和消费者行为而进行的系统性数据收集、分析和解释的过程。它是企业制定市场的战略和决策的重要依据之一。 市场调研 Market research 品牌设计 Brand design 用户反馈指的是用户对产品、服务或品牌的意见、建议、评价或体验反馈。有效管理和利用用户反馈可以帮助企业更好地理解市场需求,提升产品和服务的质量和竞争力,增强品牌在市场中的地位和影响力。 用户反馈 User feedback 品牌的标志Logo是品牌设计的核心,它是品牌视觉识别的基础。 选择适合品牌风格和目标市场的色彩,建立品牌的视觉识别特征。 选择适合品牌的字体和排版,确保在不同媒介的一致性和可读性。 设计和使用适当图形元素和图案,以丰富品牌的视觉语言和风格。 品牌策划就是使企业形象和产品品牌在消费者脑海中形成一种个性化的区隔,并使消费者与企业品牌和产品品牌之间形成统一的价值观,注重意识形态和心理描述,即对消费者的心理市场进行规划、引导和激发,通过科学手段把人们对品牌的模糊认识清晰化的过程。 品牌策划 Brand planning 品牌定位 视觉风格 品牌推广 市场投放是指企业或品牌将其产品或服务推向市场,通过各种营销手段和渠道向目标消费者进行推广和销售的过程。市场投放是营销战略的一个重要组成部分,旨在将产品或服务有效地推向消费者,并促使他们进行购买或采取其他所需的行动。 市场投放 Market launch 广告促销 渠道管理 品牌传播",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1989,
+            "y": 0.7759,
+            "w": 0.2701,
+            "h": 0.112
+          },
+          "area": 0.0303,
+          "text": "品牌策划就是使企业形象和产品品牌在消费者脑海中形成一种个性化的区隔,并使消费者与企业品牌和产品品牌之间形成统一的价值观,注重意识形态和心理描述,即对消费者的心理市场进行规划、引导和激发,通过科学手段把人们对品牌的模糊认识清晰化的过程。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5151,
+            "y": 0.7759,
+            "w": 0.2701,
+            "h": 0.112
+          },
+          "area": 0.0303,
+          "text": "市场投放是指企业或品牌将其产品或服务推向市场,通过各种营销手段和渠道向目标消费者进行推广和销售的过程。市场投放是营销战略的一个重要组成部分,旨在将产品或服务有效地推向消费者,并促使他们进行购买或采取其他所需的行动。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意形状 155",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.4764,
+            "w": 0.1951,
+            "h": 0.1204
+          },
+          "area": 0.0235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意形状 154",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2184,
+            "y": 0.4764,
+            "w": 0.1951,
+            "h": 0.1204
+          },
+          "area": 0.0235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意形状 153",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4018,
+            "y": 0.4764,
+            "w": 0.1951,
+            "h": 0.1204
+          },
+          "area": 0.0235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意形状 152",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5847,
+            "y": 0.4764,
+            "w": 0.1951,
+            "h": 0.1204
+          },
+          "area": 0.0235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意形状 151",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7676,
+            "y": 0.4764,
+            "w": 0.1951,
+            "h": 0.1204
+          },
+          "area": 0.0235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0495,
+            "y": 0.2184,
+            "w": 0.2701,
+            "h": 0.0851
+          },
+          "area": 0.023,
+          "text": "企业或组织为了了解市场环境、市场需求和消费者行为而进行的系统性数据收集、分析和解释的过程。它是企业制定市场的战略和决策的重要依据之一。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6846,
+            "y": 0.2184,
+            "w": 0.2701,
+            "h": 0.0851
+          },
+          "area": 0.023,
+          "text": "用户反馈指的是用户对产品、服务或品牌的意见、建议、评价或体验反馈。有效管理和利用用户反馈可以帮助企业更好地理解市场需求,提升产品和服务的质量和竞争力,增强品牌在市场中的地位和影响力。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 2,
+          "footer": 17,
+          "label": 16,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s09",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:2,top-left:1",
+      "counts": {
+        "text": 23,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 19,
+        "text_count": 23,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 1,
+        "text_area": 0.3673,
+        "image_area": 0.0056,
+        "shape_area": 0.9249,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 项目活动 策划流程 02 03 01 04 工作重点-质量把控 在活动策划阶段,明确活动的目标、参与者的期望以及活动成功的标准。制定详细的活动计划,包括时间表、资源分配、活动流程、责任分工等。确保所有参与者都清楚他们的角色和活动执行的步骤。 工作重点-成本管理 通过设定预算、成本标准和控制措施,以确保实际成本与预算成本保持在合理的范围内。分析成本结构和成本行为,通过提高效率、降低不必要的浪费和优化资源配置,实现成本的最小化。 2024年3月 2024年6月 2024年5月 2024年4月 团队确定项目的目标、范围、资源需求和时间表,同时还需制定项目计划和确定团队成员的角色和责任。 项目第一阶段-规划 团队按照计划实施活动任务,确保按照预算和时间表推进工作。项目经理和团队成员密切合作,监督进度并解决风险。 项目第二阶段-执行 团队定期监测项目进度、资源使用情况和成本开支,并采取必要的措施来调整和控制风险,以确保项目能按计划达成。 项目第三阶段-把控 确保活动顺利完成,并且为项目的结束提供结论和反思。制定最终报告、整理文件、进行知识转移和培训等。 项目第四阶段-收尾",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 67",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1218,
+            "y": -0.044,
+            "w": 0.2035,
+            "h": 0.697
+          },
+          "area": 0.1418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 68",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6743,
+            "y": -0.044,
+            "w": 0.2035,
+            "h": 0.697
+          },
+          "area": 0.1418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0379,
+            "y": 0.3744,
+            "w": 0.448,
+            "h": 0.2599
+          },
+          "area": 0.1164,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5147,
+            "y": 0.3744,
+            "w": 0.448,
+            "h": 0.2598
+          },
+          "area": 0.1164,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Oval 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4038,
+            "y": 0.1704,
+            "w": 0.1925,
+            "h": 0.3422
+          },
+          "area": 0.0659,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5053,
+            "y": 0.3713,
+            "w": 0.2209,
+            "h": 0.2625
+          },
+          "area": 0.058,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2739,
+            "y": 0.3713,
+            "w": 0.2201,
+            "h": 0.2625
+          },
+          "area": 0.0578,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5096,
+            "y": 0.6332,
+            "w": 0.217,
+            "h": 0.2473
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2734,
+            "y": 0.6332,
+            "w": 0.2172,
+            "h": 0.2473
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 12",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6332,
+            "w": 0.217,
+            "h": 0.2472
+          },
+          "area": 0.0536,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 2,
+          "footer": 5,
+          "label": 15,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s10",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 24,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 19,
+        "text_count": 24,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 1,
+        "text_area": 0.3775,
+        "image_area": 0,
+        "shape_area": 0.2103,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 成本估算 预算制定 成本控制 成本管理 效益分析 成本估算 预算制定 成本控制 成本管理 效益分析 需求分析 可行评估 项目计划 团队组建 正式立项 需求分析 可行评估 项目计划 团队组建 正式立项 资源分配 团队分工 进度计划 沟通计划 质量管理 资源分配 团队分工 进度计划 沟通计划 质量管理 资源调配 施工安排 质量控制 安全管理 沟通协调 资源调配 施工安排 质量控制 安全管理 沟通协调 验收准备 功能测试 文档完善 内部审查 最终交付 验收准备 功能测试 文档完善 内部审查 最终交付 指成立项目,执行实施。特别是大中型创业项目或行政收费项目。 成本预算是把估算的总成本分配到各个工作细目,以建立预算、标准和检测系统的过程。 平面设计,也称为视觉传达设计,是以“视觉”作为沟通和表现的方式。 安装,汉语词汇,就是按照一定的方法、程序、规格把机械或器材固定在一定的位置。 验收,按照一定标准进行检验而后收下或认可逐项验收。 项目立项 成本预算 策划设计 落地安装 项目验收 公司项目A 公司项目B",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Line",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1194,
+            "y": 0.2442,
+            "w": 0.8433,
+            "h": 0.0742
+          },
+          "area": 0.0626,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7964,
+            "y": 0.2696,
+            "w": 0.1625,
+            "h": 0.1931
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6276,
+            "y": 0.2845,
+            "w": 0.1632,
+            "h": 0.1782
+          },
+          "area": 0.0291,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4741,
+            "y": 0.7339,
+            "w": 0.1332,
+            "h": 0.2055
+          },
+          "area": 0.0274,
+          "text": "资源分配 团队分工 进度计划 沟通计划 质量管理",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6421,
+            "y": 0.7339,
+            "w": 0.1332,
+            "h": 0.2055
+          },
+          "area": 0.0274,
+          "text": "资源调配 施工安排 质量控制 安全管理 沟通协调",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.459,
+            "y": 0.2995,
+            "w": 0.1631,
+            "h": 0.1632
+          },
+          "area": 0.0266,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.291,
+            "y": 0.3145,
+            "w": 0.1625,
+            "h": 0.1482
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.306,
+            "y": 0.7339,
+            "w": 0.1332,
+            "h": 0.1718
+          },
+          "area": 0.0229,
+          "text": "成本估算 预算制定 成本控制 成本管理 效益分析",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has s",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.306,
+            "y": 0.4914,
+            "w": 0.1332,
+            "h": 0.1718
+          },
+          "area": 0.0229,
+          "text": "成本估算 预算制定 成本控制 成本管理 效益分析",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 8,
+          "label": 13,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s11",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 29,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 29,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 19,
+        "text_count": 29,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 29,
+        "connector_count": 1,
+        "text_area": 0.4138,
+        "image_area": 0,
+        "shape_area": 0.8698,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 2024年3月 2024年3月 2024年3月 2024年3月 2024年3月 78% 分析成本结构和成本行为,通过提高效率、降低不必要的浪费和优化资源配置,实现成本的最小化。 68% 管理和评估供应链中的关键供应商,确保他们符合质量要求,并积极参与共同的质量保证目标。 01 02 03 04 05 通过系统性的方法和技术来获取、整理项目的背景、范围、参与者需求以及预期成果。确定项目的背景、目标和范围。 项目第一阶段 确立项目时间、预算和资源限制等。制定项目章程、确定项目经理和项目团队,明确项目的初步资源需求和时间表。 制定项目的详细工作计划。这包括定义项目的具体工作内容、制定详细的项目进度计划、资源分配、风险管理计划、质量标准和沟通计划等。 项目第二阶段 实际执行项目计划中的工作任务,协调资源、分配任务、实施质量控制、解决问题和变更管理等活动,以确保项目按时交付预期的成果。 项目第三阶段 持续监控项目的进度和绩效,跟踪项目进度、比较实际进度与计划进度的差异、识别和解决问题、调整资源分配以及确保质量标准的达成。 在项目执行过程中实施质量控制措施,包括监控关键活动节点、执行现场检查、对关键环节进行抽样检查等。确保项目符合预期的质量标准。 项目第四阶段 确保项目交付的所有成果符合质量标准和客户要求、制定培训和转移知识的计划、收集项目团队的反馈、编制项目报告和总结经验教训等。 项目第五阶段 项目收尾阶段的目标是确保项目顺利结束,所有项目资料的完整归档,交付结果,并为未来项目的执行提供宝贵的经验。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform: Shape 60",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7776,
+            "y": 0.2445,
+            "w": 0.1851,
+            "h": 0.3815
+          },
+          "area": 0.0706,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform: Shape 54",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5925,
+            "y": 0.2445,
+            "w": 0.1851,
+            "h": 0.3815
+          },
+          "area": 0.0706,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform: Shape 48",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4075,
+            "y": 0.2445,
+            "w": 0.1851,
+            "h": 0.3815
+          },
+          "area": 0.0706,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform: Shape 42",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2224,
+            "y": 0.2445,
+            "w": 0.1851,
+            "h": 0.3815
+          },
+          "area": 0.0706,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform: Shape 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2445,
+            "w": 0.1851,
+            "h": 0.3815
+          },
+          "area": 0.0706,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意形状 33",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6842,
+            "w": 0.2496,
+            "h": 0.2692
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意形状 35",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7131,
+            "y": 0.6842,
+            "w": 0.2496,
+            "h": 0.2692
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform: Shape 62",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6136,
+            "y": 0.6261,
+            "w": 0.3491,
+            "h": 0.1211
+          },
+          "area": 0.0423,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform: Shape 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6261,
+            "w": 0.3491,
+            "h": 0.1211
+          },
+          "area": 0.0423,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 11,
+          "label": 17
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s12",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 31,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 19,
+        "text_count": 31,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 1,
+        "text_area": 0.3259,
+        "image_area": 0,
+        "shape_area": 0.7303,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement LOGO设计 标识系统设计 品牌包装 品牌LOGO VI应用手册 设计效果图 第一阶段(2024.3-2024.6) 第二阶段(2024.3-2024.6) 第三阶段(2024.3-2024.6) 项目复盘 立项 了解目标市场的需求、竞争环境以及消费者行为,然后确定品牌在市场中的定位。定位决策涉及到品牌的核心竞争优势、独特卖点以及与目标消费者的情感连接。 需求分析 通过多种渠道和一体化的营销策略来提升品牌曝光度和影响力。包括整合传播、数字营销等多种手段,以确保品牌信息在多个平台上广泛传播,并与目标受众建立有效的沟通和互动。 市场调研 通过讲述品牌的起源、核心价值观、传奇人物或关键里程碑等故事元素,利用情感和情感触发器来影响消费者的购买决策,通过情感联系建立忠诚度和品牌认同感。 用户分析 标志(Logo)是品牌身份的视觉象征,能有效传达品牌的核心价值和个性特征。一个成功的标志设计可以帮助消费者迅速识别和记住品牌,建立品牌的视觉认知。 元素设计 品牌视觉风格是指通过设计语言和视觉元素来表达品牌的特定风格和个性。视觉风格可以根据品牌的定位和目标受众进行调整,以确保品牌形象的一致性和吸引力。 应用场景 视觉识别系统是指在标志设计的基础上,进一步开发品牌的视觉元素和标准。确保在不同应用场景中保持一致性和专业性。视觉识别系统的建立有助于加强品牌的整体形象和市场表现。 系统分类 将项目分解为多个阶段或阶段,并按顺序逐一执行。每个阶段都有明确的目标、可衡量的成果和时间表。阶段性执行有助于控制项目的复杂性和风险,同时更易进行监控和评估。 LOGO设计 通过反复循环进行项目工作,逐步完善和改进项目结果。每个迭代周期都可以根据反馈进行调整和改进。这种方式特别适合需要灵活应对变化和不断优化的项目。 空间设计 项目的不同组成部分或任务可以同时进行,而不是按照线性的顺序依次执行。这种方式可以加快项目的进度,并在紧迫时间表下实现更高的效率。 应用设计",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1125,
+            "y": 0.7281,
+            "w": 0.2582,
+            "h": 0.2176
+          },
+          "area": 0.0562,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3436,
+            "y": 0.728,
+            "w": 0.2576,
+            "h": 0.2176
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.574,
+            "y": 0.7278,
+            "w": 0.2576,
+            "h": 0.2176
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1164,
+            "y": 0.2769,
+            "w": 0.2552,
+            "h": 0.2081
+          },
+          "area": 0.0531,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.347,
+            "y": 0.2768,
+            "w": 0.2554,
+            "h": 0.208
+          },
+          "area": 0.0531,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5774,
+            "y": 0.2767,
+            "w": 0.2554,
+            "h": 0.208
+          },
+          "area": 0.0531,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1518,
+            "y": 0.5002,
+            "w": 0.2394,
+            "h": 0.2129
+          },
+          "area": 0.051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3826,
+            "y": 0.5001,
+            "w": 0.2394,
+            "h": 0.2127
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.613,
+            "y": 0.5,
+            "w": 0.2394,
+            "h": 0.2127
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 21,
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s13",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 31,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 19,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 31,
+        "connector_count": 1,
+        "text_area": 0.3755,
+        "image_area": 0,
+        "shape_area": 0.7746,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 01 02 03 04 05 目标定位 BRAND PLANNING 市场调研 BRAND PLANNING 数据分析 BRAND PLANNING 市场战略 BRAND PLANNING 环境评估 BRAND PLANNING 高端定制化用户 定义要分析的市场,包括行业特征、产品类别等。确定目标群体,包括潜在顾客特征和行为习惯,更精确了解市场需求和趋势。 9,597,000 目标群同类竞品 收集关于市场的各种数据,包括市场规模、增长率、竞争对手等。数据可以来源于市场调研报告、竞争对手分析等多种渠道。 1,200 行业年均营业额 对收集到的市场数据进行分析和解释,定量数据分析和定性数据分析。识别市场的机会和威胁,评估竞争环境和市场动态。 3,356,600 新细分蓝海市场 详细评估竞争对手的策略、产品特点、市场份额及其优势劣势。制定差异化策略,找到市场定位的空白点。 556,600 68% 基于市场分析的结果,制定有效的市场战略和营销策略。包括产品定位、定价策略、促销活动、渠道选择等,确保你的产品或服务能够满足市场需求,并在竞争激烈的市场中获得优势地位。根据市场需求和竞争环境,持续改进产品或服务的特性和功能,以保持市场竞争力并满足消费者的变化需求。",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 82",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6066,
+            "y": 0.6139,
+            "w": 0.3248,
+            "h": 0.3426
+          },
+          "area": 0.1113,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 79",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7795,
+            "y": 0.1716,
+            "w": 0.1519,
+            "h": 0.3831
+          },
+          "area": 0.0582,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 50",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6066,
+            "y": 0.1716,
+            "w": 0.1519,
+            "h": 0.3623
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意形状 81",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4337,
+            "y": 0.5886,
+            "w": 0.1519,
+            "h": 0.3619
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 103",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.7522,
+            "w": 0.2949,
+            "h": 0.1778
+          },
+          "area": 0.0524,
+          "text": "基于市场分析的结果,制定有效的市场战略和营销策略。包括产品定位、定价策略、促销活动、渠道选择等,确保你的产品或服务能够满足市场需求,并在竞争激烈的市场中获得优势地位。根据市场需求和竞争环境,持续改进产品或服务的特性和功能,以保持市场竞争力并",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意形状 49",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4337,
+            "y": 0.1716,
+            "w": 0.1519,
+            "h": 0.3417
+          },
+          "area": 0.0519,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3121,
+            "y": 0.5949,
+            "w": 0.1216,
+            "h": 0.3561
+          },
+          "area": 0.0433,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 44",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3121,
+            "y": 0.1704,
+            "w": 0.1216,
+            "h": 0.3556
+          },
+          "area": 0.0432,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Freeform 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.331,
+            "w": 0.2748,
+            "h": 0.1378
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 4,
+          "footer": 10,
+          "label": 6,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s14",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,top-center:2,bottom-right:2",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 19,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.3533,
+        "image_area": 0,
+        "shape_area": 0.5829,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 项目活动 策划流程 筹备 执行 收尾 68% 定期检查和评估项目的进展,确保项目按时完成。 跟踪项目的预算执行情况,及时调整和管理项目成本。确保项目交付的成果符合质量标准和客户要求。识别、评估和应对项目可能面临的风险,采取预防和应急措施。 流程管理 成本管理 质量管理 团队按照计划实施活动任务,确保按照预算和时间表推进工作。项目经理和团队成员密切合作,监督进度并解决风险。定期评估流程效果和成果,与预期目标进行对比。根据评估结果,持续优化和调整流程,适应变化的需求和环境。 01 02 03 确定项目的整体目标和期望结果。界定项目范围,包括确定活动的类型、规模和关键要求。制定详细的项目计划,包括时间表、资源分配和预算。确认项目执行的主要责任人和团队成员。 第一阶段 确定所需的人力资源、物资和设备。分配任务和责任,确保每个团队成员理解其角色和职责。制定应急预案,以应对风险。根据项目计划和时间表执行各项活动,及时调整和优化执行策略。 第二阶段 确保项目所有活动和任务完成,并达到预期的结果。 编制项目总结报告,总结项目成功和教训。进行项目的正式结算和文件归档,以便未来参考和复用经验。 第三阶段",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 8",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5841,
+            "y": 0.2797,
+            "w": 0.4392,
+            "h": 0.5622
+          },
+          "area": 0.2469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.3886,
+            "w": 0.1932,
+            "h": 0.3435
+          },
+          "area": 0.0664,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3875,
+            "y": 0.1704,
+            "w": 0.2735,
+            "h": 0.2365
+          },
+          "area": 0.0647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3875,
+            "y": 0.4426,
+            "w": 0.2735,
+            "h": 0.2365
+          },
+          "area": 0.0647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3875,
+            "y": 0.7147,
+            "w": 0.2735,
+            "h": 0.2365
+          },
+          "area": 0.0647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 82",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.703,
+            "y": 0.5567,
+            "w": 0.2385,
+            "h": 0.2115
+          },
+          "area": 0.0504,
+          "text": "团队按照计划实施活动任务,确保按照预算和时间表推进工作。项目经理和团队成员密切合作,监督进度并解决风险。定期评估流程效果和成果,与预期目标进行对比。根据评估结果,持续优化和调整流程,适应变化的需求和环境。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图表 81",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7035,
+            "y": 0.7481,
+            "w": 0.238,
+            "h": 0.1838
+          },
+          "area": 0.0437,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 49",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.703,
+            "y": 0.295,
+            "w": 0.2385,
+            "h": 0.1778
+          },
+          "area": 0.0424,
+          "text": "定期检查和评估项目的进展,确保项目按时完成。 跟踪项目的预算执行情况,及时调整和管理项目成本。确保项目交付的成果符合质量标准和客户要求。识别、评估和应对项目可能面临的风险,采取预防和应急措施。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 87",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3982,
+            "y": 0.2349,
+            "w": 0.252,
+            "h": 0.1441
+          },
+          "area": 0.0363,
+          "text": "确定项目的整体目标和期望结果。界定项目范围,包括确定活动的类型、规模和关键要求。制定详细的项目计划,包括时间表、资源分配和预算。确认项目执行的主要责任人和团队成员。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 4,
+          "footer": 4,
+          "label": 11,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s15",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 19,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 3,
+        "text_area": 0.3036,
+        "image_area": 0,
+        "shape_area": 1.2206,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 01-市场调研 对市场数据进行分析和解释,定量数据分析和定性数据分析。识别市场的机会和威胁,评估竞争环境和市场动态。 02-品牌推广 制定综合品牌推广策略,在社交媒体、广告平台、传统媒体等线上线下渠道发布品牌内容和宣传信息。 03-策划设计 制定详细策略,包括时间表、资源分配和责任分工。创造有吸引力和独特性的创意内容,提升品牌认知度和影响力。 04-产品投放 确定产品的销售渠道,建立与渠道合作伙伴的关系,确保产品能够在合适的时间和地点面向消费者。 01-市场调研 02-品牌推广 03-策划设计 04-产品投放 成本控制工作 制定年度或项目成本预算,规划各项成本的支出额度和分配方式。根据业务发展和需求,制定长期和短期的成本管理计划。 66% 质量控制工作 对组织内部的各种业务流程进行优化改进,如简化步骤、优化资源分配、消除非必要环节。以提高效率、降低成本、提升质量。 16%",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0046,
+            "y": 0.1717,
+            "w": 0.6452,
+            "h": 0.8283
+          },
+          "area": 0.5344,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "三角形 67",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1717,
+            "w": 0.226,
+            "h": 0.6077
+          },
+          "area": 0.1373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "三角形 70",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3907,
+            "y": 0.1717,
+            "w": 0.226,
+            "h": 0.6077
+          },
+          "area": 0.1373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2332,
+            "y": 0.6016,
+            "w": 0.5327,
+            "h": 0.1047
+          },
+          "area": 0.0558,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6544,
+            "y": 0.1717,
+            "w": 0.3082,
+            "h": 0.18
+          },
+          "area": 0.0555,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6544,
+            "y": 0.3716,
+            "w": 0.3082,
+            "h": 0.18
+          },
+          "area": 0.0555,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6544,
+            "y": 0.5714,
+            "w": 0.3082,
+            "h": 0.18
+          },
+          "area": 0.0555,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 30",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6544,
+            "y": 0.7712,
+            "w": 0.3082,
+            "h": 0.18
+          },
+          "area": 0.0555,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图示 79",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0901,
+            "y": 0.8618,
+            "w": 0.4719,
+            "h": 0.0894
+          },
+          "area": 0.0422,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 2,
+          "footer": 12,
+          "label": 5,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s16",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-center:2,top-left:2",
+      "counts": {
+        "text": 27,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 19,
+        "text_count": 27,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 1,
+        "text_area": 0.3198,
+        "image_area": 0,
+        "shape_area": 0.4409,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 品牌设计策划执行流程 01 品牌调研 Brand research 02 品牌策划 BRAND PLANNING 03 品牌设计 Brand design 06 品牌升级 Brand update 05 用户反馈 User feedback 04 市场投放 Product Launch 了解市场上消费者对产品的需求和期望,包括市场的规模、增长趋势、市场细分等。分析市场的变化趋势、未来的发展方向,以及可能影响市场的因素。 品牌调研 Brand research 确定品牌在目标市场中的独特定位和核心竞争优势。建立品牌的核心价值观和定位,包括品牌的使命、愿景和价值主张。制定品牌传播战略,选择合适的传播渠道和工具。 品牌策划 Brand planning 通过视觉和感官元素来创造和表达品牌的核心理念、价值观和个性特征的过程。不仅限于品牌的标志设计,还包括整体视觉识别系统的开发管理,确保品牌在市场中的一致性和识别性。 品牌设计 Brand design 基于收集到的用户反馈和市场数据,持续优化产品,以适应市场和用户需求的变化。将优化后产品发布到市场,监测用户使用情况和反馈,解决新版本可能存在的问题。 品牌升级 Brand update 用户反馈指的是用户对品牌的意见、建议、评价或体验反馈。有效管理和利用用户反馈可以帮助企业更好地理解市场需求,提升产品质量和竞争力,增强品牌在市场中的地位和影响力。 用户反馈 User feedback 通过各种营销手段和渠道向目标消费者进行推广品牌。市场投放是营销战略的一个重要组成部分,旨在将产品或服务有效地推向消费者,并促使他们进行购买或采取其他所需的行动。 市场投放 Product Launch",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0372,
+            "y": 0.4815,
+            "w": 0.2573,
+            "h": 0.3015
+          },
+          "area": 0.0776,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7063,
+            "y": 0.3154,
+            "w": 0.2564,
+            "h": 0.2836
+          },
+          "area": 0.0727,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6583,
+            "y": 0.5502,
+            "w": 0.3044,
+            "h": 0.2328
+          },
+          "area": 0.0709,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0372,
+            "y": 0.3154,
+            "w": 0.3038,
+            "h": 0.2148
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意形状 98",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2695,
+            "y": 0.6517,
+            "w": 0.414,
+            "h": 0.1301
+          },
+          "area": 0.0539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意形状 97",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3167,
+            "y": 0.3163,
+            "w": 0.414,
+            "h": 0.1301
+          },
+          "area": 0.0539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5589,
+            "h": 0.0763
+          },
+          "area": 0.0426,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Venn diagram",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1565,
+            "y": 0.5191,
+            "w": 0.678,
+            "h": 0.0613
+          },
+          "area": 0.0416,
+          "text": "品牌设计策划执行流程",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0939,
+            "y": 0.2123,
+            "w": 0.2299,
+            "h": 0.0851
+          },
+          "area": 0.0196,
+          "text": "了解市场上消费者对产品的需求和期望,包括市场的规模、增长趋势、市场细分等。分析市场的变化趋势、未来的发展方向,以及可能影响市场的因素。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "This is a sample text. Insert your description here.",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3941,
+            "y": 0.2123,
+            "w": 0.2299,
+            "h": 0.0851
+          },
+          "area": 0.0196,
+          "text": "确定品牌在目标市场中的独特定位和核心竞争优势。建立品牌的核心价值观和定位,包括品牌的使命、愿景和价值主张。制定品牌传播战略,选择合适的传播渠道和工具。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 10,
+          "label": 16
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s17",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 19,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 1,
+        "text_area": 0.2884,
+        "image_area": 0,
+        "shape_area": 0.5806,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 01 02 04 03 第一阶段:计划 定义目标,制定详细的行动计划和时间表。 第二阶段:执行 第四阶段:调整 第三阶段:检查 按照计划实施各项任务,确保按时完成。 评估执行过程和结果,识别问题和改进点。 根据检查结果调整计划和策略,准备进入下一个循环。 通用的四步循环工作法 有助于不断优化工作流程",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1051,
+            "y": 0.1898,
+            "w": 0.3616,
+            "h": 0.3142
+          },
+          "area": 0.1136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1051,
+            "y": 0.6044,
+            "w": 0.3616,
+            "h": 0.3142
+          },
+          "area": 0.1136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 5",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5373,
+            "y": 0.6044,
+            "w": 0.3616,
+            "h": 0.3142
+          },
+          "area": 0.1136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5373,
+            "y": 0.1898,
+            "w": 0.3616,
+            "h": 0.3142
+          },
+          "area": 0.1136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.6408,
+            "h": 0.0763
+          },
+          "area": 0.0489,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "小李PPT22",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5006,
+            "y": 0.2356,
+            "w": 0.3211,
+            "h": 0.0763
+          },
+          "area": 0.0245,
+          "text": "第二阶段:执行",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "小李PPT22",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1926,
+            "y": 0.3369,
+            "w": 0.2349,
+            "h": 0.1033
+          },
+          "area": 0.0243,
+          "text": "定义目标,制定详细的行动计划和时间表。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "小李PPT22",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6094,
+            "y": 0.3369,
+            "w": 0.2349,
+            "h": 0.1033
+          },
+          "area": 0.0243,
+          "text": "按照计划实施各项任务,确保按时完成。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "小李PPT22",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6094,
+            "y": 0.6726,
+            "w": 0.2349,
+            "h": 0.1033
+          },
+          "area": 0.0243,
+          "text": "评估执行过程和结果,识别问题和改进点。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "小李PPT22",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1918,
+            "y": 0.6726,
+            "w": 0.2349,
+            "h": 0.1033
+          },
+          "area": 0.0243,
+          "text": "根据检查结果调整计划和策略,准备进入下一个循环。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 1,
+          "label": 14
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s18",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-left:1,middle-right:1",
+      "counts": {
+        "text": 19,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 19,
+        "text_count": 19,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.2044,
+        "image_area": 0.0136,
+        "shape_area": 1.0342,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 01 02 03 04 品牌升级 四步循环 01 02 04 03 确定升级目标,制定详细的品牌升级计划,包括视觉设计、品牌声音和市场策略。 执行品牌升级计划,包括重新设计品牌标识、更新营销材料和调整市场沟通方式。 分析当前品牌形象、市场定位和目标受众,识别需要改进的领域。 收集反馈,评估品牌升级的效果,检测市场反应和品牌认知度,必要时进行进一步调整。 评估现状 制定策略 评估效果 实施改进",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 39",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3002,
+            "y": 0.1898,
+            "w": 0.4001,
+            "h": 0.7114
+          },
+          "area": 0.2846,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 40",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3247,
+            "y": 0.2333,
+            "w": 0.3511,
+            "h": 0.6243
+          },
+          "area": 0.2192,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.039,
+            "y": 0.1898,
+            "w": 0.3363,
+            "h": 0.318
+          },
+          "area": 0.1069,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意形状 36",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6248,
+            "y": 0.1898,
+            "w": 0.3363,
+            "h": 0.318
+          },
+          "area": 0.1069,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意形状 37",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6248,
+            "y": 0.5831,
+            "w": 0.3363,
+            "h": 0.318
+          },
+          "area": 0.1069,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意形状 38",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.039,
+            "y": 0.5827,
+            "w": 0.3363,
+            "h": 0.318
+          },
+          "area": 0.1069,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.6408,
+            "h": 0.0763
+          },
+          "area": 0.0489,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 30",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": 0.3777,
+            "w": 0.0725,
+            "h": 0.3551
+          },
+          "area": 0.0257,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3945,
+            "y": 0.2783,
+            "w": 0.1998,
+            "h": 0.1288
+          },
+          "area": 0.0257,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5777,
+            "y": 0.3573,
+            "w": 0.0725,
+            "h": 0.3551
+          },
+          "area": 0.0257,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 9,
+          "label": 9
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "数据图表-07-流程图-04a3fca0-s19",
+      "title_guess": "工作汇报-流程图 Powerpoint Template",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-right:2,bottom-right:2",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 19,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 1,
+        "text_area": 0.2831,
+        "image_area": 0,
+        "shape_area": 0.478,
+        "text_blob": "工作汇报-流程图 Powerpoint Template Work Arrangement 第一阶段 第二阶段 第三阶段 第四阶段 02 03 01 04 研究与分析 了解市场趋势、目标受众和竞争对手,进行品牌定位分析。 概念设计 设计品牌的Logo、标志和其他视觉元素。选择合适的色彩方案、字体和图形,确保它们能够传达品牌的个性和价值观。 设计应用 将品牌视觉元素应用到各种品牌资产中,如名片、信纸、包装、网站和社交媒体平台。确保这些应用能够在不同的媒介上有效地展示品牌形象。 用户反馈 通过焦点小组、市场测试或用户调查收集反馈,评估品牌设计在实际应用中的效果。 调整和完善 根据反馈进行必要的调整和优化,改进品牌设计的细节,确保其在实际使用中达到最佳效果。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意形状 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.206,
+            "y": 0.78,
+            "w": 0.7516,
+            "h": 0.1769
+          },
+          "area": 0.133,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意形状 6",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3211,
+            "y": 0.5804,
+            "w": 0.6365,
+            "h": 0.1769
+          },
+          "area": 0.1126,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4363,
+            "y": 0.3808,
+            "w": 0.5214,
+            "h": 0.1769
+          },
+          "area": 0.0922,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意形状 4",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5514,
+            "y": 0.1816,
+            "w": 0.4065,
+            "h": 0.1769
+          },
+          "area": 0.0719,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意形状 12",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5882,
+            "y": 0.78,
+            "w": 0.3694,
+            "h": 0.1769
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "小李PPT1",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.6408,
+            "h": 0.0763
+          },
+          "area": 0.0489,
+          "text": "工作汇报-流程图 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 32",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3922,
+            "y": 0.6458,
+            "w": 0.5084,
+            "h": 0.0776
+          },
+          "area": 0.0395,
+          "text": "将品牌视觉元素应用到各种品牌资产中,如名片、信纸、包装、网站和社交媒体平台。确保这些应用能够在不同的媒介上有效地展示品牌形象。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 30",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5119,
+            "y": 0.4466,
+            "w": 0.3888,
+            "h": 0.0776
+          },
+          "area": 0.0302,
+          "text": "设计品牌的Logo、标志和其他视觉元素。选择合适的色彩方案、字体和图形,确保它们能够传达品牌的个性和价值观。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6039,
+            "y": 0.8472,
+            "w": 0.2967,
+            "h": 0.0776
+          },
+          "area": 0.023,
+          "text": "根据反馈进行必要的调整和优化,改进品牌设计的细节,确保其在实际使用中达到最佳效果。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 34",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2802,
+            "y": 0.8472,
+            "w": 0.2749,
+            "h": 0.0776
+          },
+          "area": 0.0213,
+          "text": "通过焦点小组、市场测试或用户调查收集反馈,评估品牌设计在实际应用中的效果。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 1,
+          "footer": 10,
+          "label": 7,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 19,
+    "layout_job_counts": {
+      "limitations-future": 6,
+      "research-question": 3,
+      "process-strip": 3,
+      "claim-evidence": 3,
+      "architecture-diagram": 2,
+      "cover-statement": 1,
+      "matrix-grid": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 17,
+      "chart": 2
+    },
+    "density_counts": {
+      "high": 19
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "research-question",
+      "process-strip",
+      "claim-evidence",
+      "architecture-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "chart"
+    ]
+  }
+}

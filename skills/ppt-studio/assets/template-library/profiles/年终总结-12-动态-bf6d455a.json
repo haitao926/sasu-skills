@@ -1,0 +1,6278 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:23.257582+00:00",
+  "template_id": "年终总结-12-动态-bf6d455a",
+  "template_profile_path": "assets/template-library/profiles/年终总结-12-动态-bf6d455a.json",
+  "source_template": {
+    "name": "年终总结(12)—动态.pptx",
+    "category": "年终总结（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(12)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 29,
+    "media_count": 14,
+    "image_media_count": 12,
+    "motion_hint": "dynamic",
+    "tags": [
+      "年度总结",
+      "年终总结",
+      "年度复盘",
+      "成果盘点",
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划",
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰",
+      "图表",
+      "成果图",
+      "事件时间线",
+      "总结句",
+      "要点列表",
+      "数据块",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "年度总结",
+    "scenario": [
+      "年终总结",
+      "年度复盘",
+      "成果盘点"
+    ],
+    "best_for": [
+      "年终述职",
+      "年度复盘",
+      "部门总结"
+    ],
+    "avoid": [
+      "活动庆典",
+      "课堂教学风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰"
+    ],
+    "image_strategy": [
+      "图表",
+      "成果图",
+      "事件时间线"
+    ],
+    "text_strategy": [
+      "总结句",
+      "要点列表",
+      "数据块"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "flow-diagram",
+      "kpi-grid",
+      "image-hero",
+      "process-strip"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "diagram-block",
+      "body",
+      "footer",
+      "image"
+    ],
+    "common_zones": [
+      "middle-left",
+      "middle-center",
+      "middle-right",
+      "bottom-center",
+      "top-center",
+      "bottom-right"
+    ],
+    "template_text_signature": "年终总结 / 述职报告 / 采购报告 / 工作计划 目录 工作总结 年度工作总结 202X年主要物料采购数额和分布 工作总结 工作总结 工作总结 采购部组织架构图 工作总结 工作总结 工作总结 工作总结 工作总结 存在问题 存在问题 改正措施 改正措施 改正措施 未来展望 未来展望 未来展望 未来展望 未来展望 未来展望 未来展望 未来展望 未来展望 演示完毕",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年终总结-12-动态-bf6d455a-s01",
+      "title_guess": "年终总结 / 述职报告 / 采购报告 / 工作计划",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 29,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1695,
+        "image_area": 0.2196,
+        "shape_area": 2.2185,
+        "text_blob": "年终总结 / 述职报告 / 采购报告 / 工作计划 年终总结 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam amet magna aliquam 汇报部门:采购部 汇报人:某某某 Work Report 采 购",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0664,
+            "y": 0.1258,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 11",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 8",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6143,
+            "y": 0.4455,
+            "w": 0.4464,
+            "h": 0.7937
+          },
+          "area": 0.3543,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "top-left",
+          "box": {
+            "x": -0.1596,
+            "y": -0.3006,
+            "w": 0.3982,
+            "h": 0.7079
+          },
+          "area": 0.2819,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 35",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.555,
+            "y": 0.1936,
+            "w": 0.3515,
+            "h": 0.6248
+          },
+          "area": 0.2196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6037,
+            "y": 0.2788,
+            "w": 0.2676,
+            "h": 0.4758
+          },
+          "area": 0.1273,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7146,
+            "y": 0.6239,
+            "w": 0.2457,
+            "h": 0.4369
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 26",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0951,
+            "y": 0.2277,
+            "w": 0.4101,
+            "h": 0.1122
+          },
+          "area": 0.046,
+          "text": "Work Report",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1075,
+            "y": 0.5762,
+            "w": 0.4351,
+            "h": 0.0862
+          },
+          "area": 0.0375,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2438,
+            "y": 0.3513,
+            "w": 0.2423,
+            "h": 0.1346
+          },
+          "area": 0.0326,
+          "text": "年终总结",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年终总结-12-动态-bf6d455a-s02",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:10",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.145,
+        "image_area": 0,
+        "shape_area": 1.0532,
+        "text_blob": "工作总结 Work Report -01- 存在问题 Work Report -02- 改正措施 Work Report -03- 未来展望 Work Report -04- 目录",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3607,
+            "h": 1.0
+          },
+          "area": 0.3607,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 42",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0,
+            "w": 0.3607,
+            "h": 1.0
+          },
+          "area": 0.3607,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1759,
+            "y": 0.2939,
+            "w": 0.1741,
+            "h": 0.4375
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1759,
+            "y": 0.2939,
+            "w": 0.1741,
+            "h": 0.4375
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1759,
+            "y": 0.2939,
+            "w": 0.1741,
+            "h": 0.4375
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 38",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1759,
+            "y": 0.2939,
+            "w": 0.1741,
+            "h": 0.4375
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 16",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0489,
+            "y": 0.3002,
+            "w": 0.0897,
+            "h": 0.4084
+          },
+          "area": 0.0366,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 22",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2096,
+            "y": 0.3567,
+            "w": 0.1067,
+            "h": 0.1294
+          },
+          "area": 0.0138,
+          "text": "-01-",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2096,
+            "y": 0.3567,
+            "w": 0.1067,
+            "h": 0.1294
+          },
+          "area": 0.0138,
+          "text": "-02-",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 36",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2096,
+            "y": 0.3567,
+            "w": 0.1067,
+            "h": 0.1294
+          },
+          "area": 0.0138,
+          "text": "-03-",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 4,
+          "section_label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年终总结-12-动态-bf6d455a-s03",
+      "title_guess": "工作总结",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 29,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1531,
+        "image_area": 0.4691,
+        "shape_area": 1.7241,
+        "text_blob": "工作总结 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna PART 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0708,
+            "y": 0.1289,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5926,
+            "y": 0.3706,
+            "w": 0.5137,
+            "h": 0.9132
+          },
+          "area": 0.4691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6641,
+            "y": 0.4791,
+            "w": 0.4091,
+            "h": 0.7273
+          },
+          "area": 0.2975,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8595,
+            "y": -0.1951,
+            "w": 0.2171,
+            "h": 0.386
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.3912,
+            "w": 0.3582,
+            "h": 0.2235
+          },
+          "area": 0.0801,
+          "text": "工作总结",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1164,
+            "y": 0.6188,
+            "w": 0.3514,
+            "h": 0.1104
+          },
+          "area": 0.0388,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.3117,
+            "w": 0.3626,
+            "h": 0.0942
+          },
+          "area": 0.0342,
+          "text": "PART 01",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1173,
+            "y": 0.5418,
+            "w": 0.3106,
+            "h": 0.0349
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6885,
+            "y": 0.2196,
+            "w": 0.0419,
+            "h": 0.0745
+          },
+          "area": 0.0031,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年终总结-12-动态-bf6d455a-s04",
+      "title_guess": "年度工作总结",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 35,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 35,
+        "connector_count": 0,
+        "text_area": 0.3133,
+        "image_area": 0,
+        "shape_area": 1.1141,
+        "text_blob": "年度工作总结 采购部年度工作回顾 单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼单击此处输入思想的提炼单击此处输入字是您思想的提炼单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼 单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入正文字是您思想的提炼 供应商筛选 单击此处输入正是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入正文字是您思想的提炼 维护公司利益 5830 公司样本 280 回复 个 个",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 28",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2036,
+            "w": 1.0,
+            "h": 0.3746
+          },
+          "area": 0.3746,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 54",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2036,
+            "w": 1.0,
+            "h": 0.3746
+          },
+          "area": 0.3746,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0845,
+            "y": 0.522,
+            "w": 0.3909,
+            "h": 0.391
+          },
+          "area": 0.1528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5189,
+            "y": 0.522,
+            "w": 0.3909,
+            "h": 0.391
+          },
+          "area": 0.1528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 37",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0642,
+            "y": 0.3339,
+            "w": 0.4969,
+            "h": 0.2491
+          },
+          "area": 0.1238,
+          "text": "单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼单击此处输入思想的提炼单击此处输入字是您思想的提炼单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "图表 47",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5418,
+            "y": 0.2353,
+            "w": 0.271,
+            "h": 0.2683
+          },
+          "area": 0.0727,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.7495,
+            "w": 0.3363,
+            "h": 0.175
+          },
+          "area": 0.0589,
+          "text": "单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入正文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 45",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5423,
+            "y": 0.7495,
+            "w": 0.3363,
+            "h": 0.175
+          },
+          "area": 0.0589,
+          "text": "单击此处输入正是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入正文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 29",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8029,
+            "y": 0.2577,
+            "w": 0.128,
+            "h": 0.2275
+          },
+          "area": 0.0291,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "梯形 30",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7338,
+            "y": 0.2737,
+            "w": 0.123,
+            "h": 0.1946
+          },
+          "area": 0.0239,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3,
+          "footer": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年终总结-12-动态-bf6d455a-s05",
+      "title_guess": "202X年主要物料采购数额和分布",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 1,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 29,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 2,
+        "text_area": 0.1398,
+        "image_area": 0,
+        "shape_area": 0.4718,
+        "text_blob": "202X年主要物料采购数额和分布 202X年主要物料采购数额和分布 主要物料采购数额和分布 64 65 81 05 06 07 08 09 10 11 12 13 202X年工作业绩 主要物料采购数额和分布 2011 2012 2013 2014 2015 2016 2017 202X年主要物料采购数额和分布",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2333,
+            "w": 0.8565,
+            "h": 0.5509
+          },
+          "area": 0.4718,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0891,
+            "y": 0.3955,
+            "w": 0.4013,
+            "h": 0.3234
+          },
+          "area": 0.1298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 26",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5138,
+            "y": 0.3955,
+            "w": 0.4013,
+            "h": 0.3234
+          },
+          "area": 0.1298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 5",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2445,
+            "y": 0.013,
+            "w": 0.5132,
+            "h": 0.0825
+          },
+          "area": 0.0423,
+          "text": "202X年主要物料采购数额和分布",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 35",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3393,
+            "y": 0.8574,
+            "w": 0.3214,
+            "h": 0.0583
+          },
+          "area": 0.0187,
+          "text": "202X年主要物料采购数额和分布",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0851,
+            "y": 0.3547,
+            "w": 0.4053,
+            "h": 0.0404
+          },
+          "area": 0.0164,
+          "text": "主要物料采购数额和分布",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 25",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5167,
+            "y": 0.3547,
+            "w": 0.4053,
+            "h": 0.0404
+          },
+          "area": 0.0164,
+          "text": "主要物料采购数额和分布",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0851,
+            "y": 0.282,
+            "w": 0.291,
+            "h": 0.0539
+          },
+          "area": 0.0157,
+          "text": "202X年主要物料采购数额和分布",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5167,
+            "y": 0.282,
+            "w": 0.1585,
+            "h": 0.0539
+          },
+          "area": 0.0085,
+          "text": "202X年工作业绩",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5601,
+            "y": 0.6996,
+            "w": 0.0399,
+            "h": 0.0359
+          },
+          "area": 0.0014,
+          "text": "2011",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 24
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年终总结-12-动态-bf6d455a-s06",
+      "title_guess": "工作总结",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 29,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.0194,
+        "image_area": 0.0,
+        "shape_area": 0.4033,
+        "text_blob": "工作总结 项目工作内容回顾 项目工作内容回顾 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的文本内容在此处添加您的文本内容添加文本内容在此处添加您的文本内容在此处添加您的文本内容 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的文本内容在此处添加您的文本内容添加文本内容在此处添加您的文本内容在此处添加您的文本内容",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3319,
+            "y": 0.2287,
+            "w": 0.3267,
+            "h": 0.5809
+          },
+          "area": 0.1898,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图形",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.332,
+            "y": 0.2287,
+            "w": 0.3267,
+            "h": 0.5809
+          },
+          "area": 0.1898,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 8",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0175,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0933,
+            "y": 0.2137,
+            "w": 0.1666,
+            "h": 0.0942
+          },
+          "area": 0.0157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3309,
+            "y": 0.6523,
+            "w": 0.0539,
+            "h": 0.0539
+          },
+          "area": 0.0029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3309,
+            "y": 0.6523,
+            "w": 0.0539,
+            "h": 0.0539
+          },
+          "area": 0.0029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 187",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2868,
+            "y": 0.7738,
+            "w": 0.0172,
+            "h": 0.0233
+          },
+          "area": 0.0004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 188",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2965,
+            "y": 0.7967,
+            "w": 0.0142,
+            "h": 0.0258
+          },
+          "area": 0.0004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 189",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2973,
+            "y": 0.7726,
+            "w": 0.0176,
+            "h": 0.0248
+          },
+          "area": 0.0004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 191",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2897,
+            "y": 0.8032,
+            "w": 0.0124,
+            "h": 0.0306
+          },
+          "area": 0.0004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年终总结-12-动态-bf6d455a-s07",
+      "title_guess": "工作总结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:5,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1384,
+        "image_area": 0.1191,
+        "shape_area": 1.435,
+        "text_blob": "工作总结 在此处添加您的文本内容在此处添加您的文本内容在此处添您的 01 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 02 在此处添加您的文本内容在此处添加您的文本内容在此处添您的 03 在此处添加您的文本内容在此处添加您的文本内容在此处添您的 04",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0333,
+            "y": 0.7345,
+            "w": 1.0667,
+            "h": 0.3833
+          },
+          "area": 0.4089,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0748,
+            "y": 0.7439,
+            "w": 0.8504,
+            "h": 0.311
+          },
+          "area": 0.2645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1608,
+            "y": 0.7518,
+            "w": 0.6784,
+            "h": 0.2334
+          },
+          "area": 0.1583,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0654,
+            "y": 0.2185,
+            "w": 0.2177,
+            "h": 0.6196
+          },
+          "area": 0.1349,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7144,
+            "y": 0.2185,
+            "w": 0.2177,
+            "h": 0.6196
+          },
+          "area": 0.1349,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.28,
+            "y": 0.2357,
+            "w": 0.2177,
+            "h": 0.5853
+          },
+          "area": 0.1274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4999,
+            "y": 0.2357,
+            "w": 0.2177,
+            "h": 0.5853
+          },
+          "area": 0.1274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3962,
+            "y": 0.5207,
+            "w": 0.2588,
+            "h": 0.4602
+          },
+          "area": 0.1191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2494,
+            "y": 0.7759,
+            "w": 0.5012,
+            "h": 0.1398
+          },
+          "area": 0.0701,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3,
+            "y": 0.3512,
+            "w": 0.1778,
+            "h": 0.132
+          },
+          "area": 0.0235,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年终总结-12-动态-bf6d455a-s08",
+      "title_guess": "工作总结",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,top-center:3,middle-center:2",
+      "counts": {
+        "text": 24,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 29,
+        "text_count": 24,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 7,
+        "text_area": 0.2224,
+        "image_area": 0,
+        "shape_area": 0.5175,
+        "text_blob": "工作总结 理论依据 采购经济学 供应商经济学 资源利用 资源配置 解决问题 基本假设 分析方法 分析对象 研究中心 主要目标 供应商考核 供应商管理 资源稀缺、充分就业 需求不足、存在失业 个量分析 总量分析 家庭、企业、市场 国民经济总体 市场价格 国民收入 个体利益最大 社会福利最大",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 20",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2481,
+            "y": 0.2483,
+            "w": 0.3176,
+            "h": 0.6532
+          },
+          "area": 0.2075,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 21",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6106,
+            "y": 0.2483,
+            "w": 0.3176,
+            "h": 0.6532
+          },
+          "area": 0.2075,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2481,
+            "y": 0.2054,
+            "w": 0.3176,
+            "h": 0.0853
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6106,
+            "y": 0.2054,
+            "w": 0.3176,
+            "h": 0.0853
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 19",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0131,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 49",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3241,
+            "y": 0.2144,
+            "w": 0.1657,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "供应商考核",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6866,
+            "y": 0.2144,
+            "w": 0.1657,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "供应商管理",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 26",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3241,
+            "y": 0.3372,
+            "w": 0.2007,
+            "h": 0.0539
+          },
+          "area": 0.0108,
+          "text": "采购经济学",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6866,
+            "y": 0.3372,
+            "w": 0.2007,
+            "h": 0.0539
+          },
+          "area": 0.0108,
+          "text": "供应商经济学",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 28",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6866,
+            "y": 0.4205,
+            "w": 0.2007,
+            "h": 0.0539
+          },
+          "area": 0.0108,
+          "text": "资源利用",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 21
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年终总结-12-动态-bf6d455a-s09",
+      "title_guess": "采购部组织架构图",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:6,middle-center:3,bottom-center:1",
+      "counts": {
+        "text": 43,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 36
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 29,
+        "text_count": 43,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 36,
+        "text_area": 0.1972,
+        "image_area": 0,
+        "shape_area": 0.5997,
+        "text_blob": "采购部组织架构图 国内物流 国际物流 进出口报关 保税物流 仓库管理 增值服务 一站式物流运输 供应商客户 供应商客户 采购销售 采购销售 信息集成 国内空运 国内快递 监管运输 仓储配 专线运输 转 厂 国际空运 国际快递 海 运 中港运输 多式联运 国外仓储配送 快件报关 一般贸易报关 展品报关 税仓储 进口分拨 保税加工 分拨配送 仓 储 库存管理 维修检验 简单加工 售后服务 订单处理 订单查询 报价查询 资金结算 财务对账 物流运输查询",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 40",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0567,
+            "y": 0.6028,
+            "w": 0.8867,
+            "h": 0.3492
+          },
+          "area": 0.3096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "梯形 49",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.2045,
+            "w": 0.8859,
+            "h": 0.1029
+          },
+          "area": 0.0912,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 42",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0567,
+            "y": 0.4208,
+            "w": 0.8867,
+            "h": 0.0741
+          },
+          "area": 0.0657,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "梯形 39",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.558,
+            "w": 0.8859,
+            "h": 0.0449
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "梯形 41",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.376,
+            "w": 0.8859,
+            "h": 0.0449
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 37",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3389,
+            "y": 0.0131,
+            "w": 0.3245,
+            "h": 0.0889
+          },
+          "area": 0.0288,
+          "text": "采购部组织架构图",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3953,
+            "y": 0.2313,
+            "w": 0.2047,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "一站式物流运输",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3953,
+            "y": 0.2313,
+            "w": 0.2047,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "供应商客户",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 62",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3953,
+            "y": 0.2313,
+            "w": 0.2047,
+            "h": 0.0539
+          },
+          "area": 0.011,
+          "text": "供应商客户",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 20",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3962,
+            "y": 0.2289,
+            "w": 0.1511,
+            "h": 0.0564
+          },
+          "area": 0.0085,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 42
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年终总结-12-动态-bf6d455a-s10",
+      "title_guess": "工作总结",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:2,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1861,
+        "image_area": 0,
+        "shape_area": 0.404,
+        "text_blob": "工作总结 供应商考核 单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想 供应商管理 单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入 单击此处输入正文字是您思想的提炼 供应商管理 供应商考核 2.70KPa 2.79KPa",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 21",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3788,
+            "y": 0.2175,
+            "w": 0.2773,
+            "h": 0.7285
+          },
+          "area": 0.202,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 22",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6714,
+            "y": 0.2175,
+            "w": 0.2773,
+            "h": 0.7285
+          },
+          "area": 0.202,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3788,
+            "y": 0.2886,
+            "w": 0.2773,
+            "h": 0.6575
+          },
+          "area": 0.1823,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 25",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6714,
+            "y": 0.2886,
+            "w": 0.2773,
+            "h": 0.6575
+          },
+          "area": 0.1823,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0642,
+            "y": 0.5603,
+            "w": 0.2837,
+            "h": 0.1493
+          },
+          "area": 0.0424,
+          "text": "单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想的提炼单击此处是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0627,
+            "y": 0.3668,
+            "w": 0.2837,
+            "h": 0.1022
+          },
+          "area": 0.029,
+          "text": "单击此处输入正文字是您思想的提炼单击此处输入正文字是您思想",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0627,
+            "y": 0.826,
+            "w": 0.2705,
+            "h": 0.1032
+          },
+          "area": 0.0279,
+          "text": "单击此处输入正文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆顶角 30",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3788,
+            "y": 0.2175,
+            "w": 0.2773,
+            "h": 0.0796
+          },
+          "area": 0.0221,
+          "text": "供应商管理",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆顶角 31",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6714,
+            "y": 0.2175,
+            "w": 0.2773,
+            "h": 0.0796
+          },
+          "area": 0.0221,
+          "text": "供应商考核",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0162,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年终总结-12-动态-bf6d455a-s11",
+      "title_guess": "工作总结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,bottom-center:3,middle-center:1",
+      "counts": {
+        "text": 9,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 4,
+        "text_area": 0.158,
+        "image_area": 0.0228,
+        "shape_area": 0.5848,
+        "text_blob": "工作总结 建立体系 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 汇总资料 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 编制名录 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 寻找供应商 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4379,
+            "y": 0.366,
+            "w": 0.175,
+            "h": 0.3113
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0526,
+            "y": 0.5542,
+            "w": 0.1614,
+            "h": 0.327
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2939,
+            "y": 0.5542,
+            "w": 0.1614,
+            "h": 0.327
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2939,
+            "y": 0.5542,
+            "w": 0.1614,
+            "h": 0.327
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2939,
+            "y": 0.5542,
+            "w": 0.1614,
+            "h": 0.327
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.072,
+            "y": 0.2903,
+            "w": 0.1647,
+            "h": 0.2928
+          },
+          "area": 0.0482,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.072,
+            "y": 0.2903,
+            "w": 0.1647,
+            "h": 0.2928
+          },
+          "area": 0.0482,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.072,
+            "y": 0.2903,
+            "w": 0.1647,
+            "h": 0.2928
+          },
+          "area": 0.0482,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.072,
+            "y": 0.2903,
+            "w": 0.1647,
+            "h": 0.2928
+          },
+          "area": 0.0482,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0914,
+            "y": 0.3249,
+            "w": 0.1258,
+            "h": 0.2237
+          },
+          "area": 0.0281,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年终总结-12-动态-bf6d455a-s12",
+      "title_guess": "工作总结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:5,middle-left:4,top-center:1",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 34,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 29,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 34,
+        "connector_count": 0,
+        "text_area": 0.1658,
+        "image_area": 0,
+        "shape_area": 1.8573,
+        "text_blob": "工作总结 单击此处输入你的正文文字是您思想的提炼单击 添加标题 单击此处输入你的正文文字是您思想的提炼单击此处输入 添加标题 单击此处输入你的正文文字是您思想的提炼单击此处输入 添加标题 单击此处输入你的正文文字是您思想的提炼单击此处输入 添加标题 单击此处输入你的正文文字是您思想的提炼单击此处输入 添加标题 单击此处输入你的正文文字是您思想的提炼单击此处输入 添加标题 单击此处输入你的正文文字是您思想的提炼单击 添加标题 添加标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 16",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1762,
+            "y": 0.4868,
+            "w": 0.6512,
+            "h": 1.1577
+          },
+          "area": 0.7539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 17",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2476,
+            "y": 0.6138,
+            "w": 0.5083,
+            "h": 0.9037
+          },
+          "area": 0.4594,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 18",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3083,
+            "y": 0.7217,
+            "w": 0.3869,
+            "h": 0.6878
+          },
+          "area": 0.2661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3429,
+            "y": 0.7831,
+            "w": 0.3179,
+            "h": 0.5651
+          },
+          "area": 0.1796,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3744,
+            "y": 0.8392,
+            "w": 0.2548,
+            "h": 0.4529
+          },
+          "area": 0.1154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0142,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年终总结-12-动态-bf6d455a-s13",
+      "title_guess": "工作总结",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:2,middle-right:1",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2215,
+        "image_area": 0,
+        "shape_area": 0.5169,
+        "text_blob": "工作总结 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的 供应商合作 供应商合作 供应商合作",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 39",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1699,
+            "y": 0.7224,
+            "w": 0.5855,
+            "h": 0.2042
+          },
+          "area": 0.1196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1699,
+            "y": 0.2663,
+            "w": 0.5855,
+            "h": 0.2042
+          },
+          "area": 0.1196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.299,
+            "y": 0.4935,
+            "w": 0.5744,
+            "h": 0.2003
+          },
+          "area": 0.1151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3119,
+            "y": 0.3203,
+            "w": 0.4214,
+            "h": 0.1391
+          },
+          "area": 0.0586,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3119,
+            "y": 0.7765,
+            "w": 0.4214,
+            "h": 0.1391
+          },
+          "area": 0.0586,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3155,
+            "y": 0.5465,
+            "w": 0.4134,
+            "h": 0.1365
+          },
+          "area": 0.0564,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文本内容在此处添加您的",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图形 55",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7107,
+            "y": 0.4513,
+            "w": 0.2192,
+            "h": 0.2472
+          },
+          "area": 0.0542,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图形 55",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0701,
+            "y": 0.2231,
+            "w": 0.2192,
+            "h": 0.2472
+          },
+          "area": 0.0542,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图形 55",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0701,
+            "y": 0.6794,
+            "w": 0.2192,
+            "h": 0.2472
+          },
+          "area": 0.0542,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0165,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年终总结-12-动态-bf6d455a-s14",
+      "title_guess": "工作总结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,middle-right:1",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 33,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 33,
+        "connector_count": 0,
+        "text_area": 0.2283,
+        "image_area": 0,
+        "shape_area": 0.6036,
+        "text_blob": "工作总结 供应商管理 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文 供应商管理 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文 供应商管理 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的 供应商管理 在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5085,
+            "y": 0.1748,
+            "w": 0.226,
+            "h": 0.533
+          },
+          "area": 0.1205,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7309,
+            "y": 0.3545,
+            "w": 0.226,
+            "h": 0.533
+          },
+          "area": 0.1205,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0612,
+            "y": 0.2794,
+            "w": 0.226,
+            "h": 0.533
+          },
+          "area": 0.1205,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2836,
+            "y": 0.3635,
+            "w": 0.226,
+            "h": 0.533
+          },
+          "area": 0.1205,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 43",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0656,
+            "y": 0.5196,
+            "w": 0.2087,
+            "h": 0.2051
+          },
+          "area": 0.0428,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 46",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.288,
+            "y": 0.6569,
+            "w": 0.2087,
+            "h": 0.2051
+          },
+          "area": 0.0428,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 49",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5128,
+            "y": 0.4149,
+            "w": 0.2087,
+            "h": 0.2051
+          },
+          "area": 0.0428,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 52",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7352,
+            "y": 0.6479,
+            "w": 0.2087,
+            "h": 0.2051
+          },
+          "area": 0.0428,
+          "text": "在此处添加您的文本内容在此处添加您的文本内容在此处添加您的在此处添加您的文本内容在此处添加您的文",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 27",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0156,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "工作总结",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 33",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 1.0912,
+            "y": 0.2282,
+            "w": 0.1312,
+            "h": 0.1374
+          },
+          "area": 0.018,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年终总结-12-动态-bf6d455a-s15",
+      "title_guess": "存在问题",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 29,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1458,
+        "image_area": 0.4691,
+        "shape_area": 1.7241,
+        "text_blob": "存在问题 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna PART 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0708,
+            "y": 0.1289,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5926,
+            "y": 0.3706,
+            "w": 0.5137,
+            "h": 0.9132
+          },
+          "area": 0.4691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6641,
+            "y": 0.4791,
+            "w": 0.4091,
+            "h": 0.7273
+          },
+          "area": 0.2975,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8595,
+            "y": -0.1951,
+            "w": 0.2171,
+            "h": 0.386
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.3912,
+            "w": 0.3582,
+            "h": 0.2031
+          },
+          "area": 0.0728,
+          "text": "存在问题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1164,
+            "y": 0.6188,
+            "w": 0.3514,
+            "h": 0.1104
+          },
+          "area": 0.0388,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.3117,
+            "w": 0.3626,
+            "h": 0.0942
+          },
+          "area": 0.0342,
+          "text": "PART 02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1173,
+            "y": 0.5418,
+            "w": 0.3106,
+            "h": 0.0349
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6885,
+            "y": 0.2196,
+            "w": 0.0419,
+            "h": 0.0745
+          },
+          "area": 0.0031,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年终总结-12-动态-bf6d455a-s16",
+      "title_guess": "存在问题",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,bottom-right:2,middle-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 4,
+        "text_area": 0.1456,
+        "image_area": 0,
+        "shape_area": 0.584,
+        "text_blob": "存在问题 火拼价格 单击此处输入你的正文文字是您思想的提炼单击此处输入 数据不准确 单击此处输入你的正文文字是您思想的提炼单击此处输入 供应商管理 单击此处输入你的正文文字是您思想的提炼单击此处输入 采购流程长 单击此处输入你的正文文字是您思想的提炼单击此处输入",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 418",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0592,
+            "y": 0.6089,
+            "w": 0.17,
+            "h": 0.2942
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 419",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2981,
+            "y": 0.5457,
+            "w": 0.17,
+            "h": 0.2942
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5355,
+            "y": 0.6089,
+            "w": 0.17,
+            "h": 0.2942
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 43",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7744,
+            "y": 0.5457,
+            "w": 0.17,
+            "h": 0.2942
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 380",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3541,
+            "y": 0.525,
+            "w": 0.1094,
+            "h": 0.3806
+          },
+          "area": 0.0416,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 383",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8385,
+            "y": 0.5447,
+            "w": 0.103,
+            "h": 0.3697
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 381",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5969,
+            "y": 0.4509,
+            "w": 0.1007,
+            "h": 0.3733
+          },
+          "area": 0.0376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 326",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1064,
+            "y": 0.4007,
+            "w": 0.1006,
+            "h": 0.3719
+          },
+          "area": 0.0374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 329",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0755,
+            "y": 0.2385,
+            "w": 0.1006,
+            "h": 0.3719
+          },
+          "area": 0.0374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 339",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5514,
+            "y": 0.4068,
+            "w": 0.1006,
+            "h": 0.3719
+          },
+          "area": 0.0374,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年终总结-12-动态-bf6d455a-s17",
+      "title_guess": "改正措施",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 29,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1531,
+        "image_area": 0.4691,
+        "shape_area": 1.7241,
+        "text_blob": "改正措施 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna PART 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0708,
+            "y": 0.1289,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5926,
+            "y": 0.3706,
+            "w": 0.5137,
+            "h": 0.9132
+          },
+          "area": 0.4691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6641,
+            "y": 0.4791,
+            "w": 0.4091,
+            "h": 0.7273
+          },
+          "area": 0.2975,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8595,
+            "y": -0.1951,
+            "w": 0.2171,
+            "h": 0.386
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.3912,
+            "w": 0.3582,
+            "h": 0.2235
+          },
+          "area": 0.0801,
+          "text": "改正措施",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1164,
+            "y": 0.6188,
+            "w": 0.3514,
+            "h": 0.1104
+          },
+          "area": 0.0388,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.3117,
+            "w": 0.3626,
+            "h": 0.0942
+          },
+          "area": 0.0342,
+          "text": "PART 03",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1173,
+            "y": 0.5418,
+            "w": 0.3106,
+            "h": 0.0349
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6885,
+            "y": 0.2196,
+            "w": 0.0419,
+            "h": 0.0745
+          },
+          "area": 0.0031,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年终总结-12-动态-bf6d455a-s18",
+      "title_guess": "改正措施",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:3,middle-right:3",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.1037,
+        "image_area": 0,
+        "shape_area": 1.2789,
+        "text_blob": "改正措施 对新供应商的评估 B 数据不准确 供应商之寻找开发 A 不能改变 合格供应商清单 C 随之改变",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆: 空心 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3554,
+            "y": 0.1709,
+            "w": 0.2892,
+            "h": 0.5141
+          },
+          "area": 0.1487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0457,
+            "y": 0.1709,
+            "w": 0.2892,
+            "h": 0.5141
+          },
+          "area": 0.1487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆: 空心 18",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6646,
+            "y": 0.1709,
+            "w": 0.2892,
+            "h": 0.5141
+          },
+          "area": 0.1487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 41",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3751,
+            "y": 0.2058,
+            "w": 0.2499,
+            "h": 0.4442
+          },
+          "area": 0.111,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6843,
+            "y": 0.2058,
+            "w": 0.2499,
+            "h": 0.4442
+          },
+          "area": 0.111,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0654,
+            "y": 0.2058,
+            "w": 0.2499,
+            "h": 0.4442
+          },
+          "area": 0.111,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 43",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3896,
+            "y": 0.2316,
+            "w": 0.2209,
+            "h": 0.3926
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "弧形 46",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6988,
+            "y": 0.2316,
+            "w": 0.2209,
+            "h": 0.3926
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "弧形 49",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0799,
+            "y": 0.2316,
+            "w": 0.2209,
+            "h": 0.3926
+          },
+          "area": 0.0867,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "弧形 44",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4232,
+            "y": 0.2913,
+            "w": 0.1536,
+            "h": 0.2731
+          },
+          "area": 0.0419,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "年终总结-12-动态-bf6d455a-s19",
+      "title_guess": "改正措施",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 4,
+        "text_area": 0.1402,
+        "image_area": 0,
+        "shape_area": 0.1579,
+        "text_blob": "改正措施 01 02 03 04 段落标题 段落标题 段落标题 段落标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Arrow: Chevron 30",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7433,
+            "y": 0.4806,
+            "w": 0.1982,
+            "h": 0.2583
+          },
+          "area": 0.0512,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform: Shape 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0734,
+            "y": 0.4806,
+            "w": 0.0898,
+            "h": 0.2583
+          },
+          "area": 0.0232,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 59",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5382,
+            "y": 0.7427,
+            "w": 0.2233,
+            "h": 0.0895
+          },
+          "area": 0.02,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 60",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2144,
+            "y": 0.7427,
+            "w": 0.2233,
+            "h": 0.0895
+          },
+          "area": 0.02,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 61",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7013,
+            "y": 0.3009,
+            "w": 0.2233,
+            "h": 0.0895
+          },
+          "area": 0.02,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 62",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3776,
+            "y": 0.3009,
+            "w": 0.2233,
+            "h": 0.0895
+          },
+          "area": 0.02,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0189,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "改正措施",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Freeform: Shape 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1096,
+            "y": 0.4989,
+            "w": 0.0771,
+            "h": 0.2216
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Arrow: Chevron 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6179,
+            "y": 0.55,
+            "w": 0.1268,
+            "h": 0.0852
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Arrow: Chevron 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4547,
+            "y": 0.55,
+            "w": 0.1268,
+            "h": 0.0852
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "年终总结-12-动态-bf6d455a-s20",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 29,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1531,
+        "image_area": 0.4691,
+        "shape_area": 1.7241,
+        "text_blob": "未来展望 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna PART 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0708,
+            "y": 0.1289,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5926,
+            "y": 0.3706,
+            "w": 0.5137,
+            "h": 0.9132
+          },
+          "area": 0.4691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6641,
+            "y": 0.4791,
+            "w": 0.4091,
+            "h": 0.7273
+          },
+          "area": 0.2975,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8595,
+            "y": -0.1951,
+            "w": 0.2171,
+            "h": 0.386
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.3912,
+            "w": 0.3582,
+            "h": 0.2235
+          },
+          "area": 0.0801,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1164,
+            "y": 0.6188,
+            "w": 0.3514,
+            "h": 0.1104
+          },
+          "area": 0.0388,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.3117,
+            "w": 0.3626,
+            "h": 0.0942
+          },
+          "area": 0.0342,
+          "text": "PART 04",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1173,
+            "y": 0.5418,
+            "w": 0.3106,
+            "h": 0.0349
+          },
+          "area": 0.0108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6885,
+            "y": 0.2196,
+            "w": 0.0419,
+            "h": 0.0745
+          },
+          "area": 0.0031,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "年终总结-12-动态-bf6d455a-s21",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:7,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.219,
+        "image_area": 0,
+        "shape_area": 0.79,
+        "text_blob": "未来展望 传统采购管理观念 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。 现代采购管理观念 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 19",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.2775,
+            "w": 0.4882,
+            "h": 0.6663
+          },
+          "area": 0.3253,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 20",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5118,
+            "y": 0.2775,
+            "w": 0.4882,
+            "h": 0.6663
+          },
+          "area": 0.3253,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3898,
+            "y": 0.3041,
+            "w": 0.2204,
+            "h": 0.3919
+          },
+          "area": 0.0864,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4188,
+            "y": 0.3556,
+            "w": 0.1624,
+            "h": 0.2887
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.5557,
+            "w": 0.2922,
+            "h": 0.095
+          },
+          "area": 0.0278,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "年终总结-12-动态-bf6d455a-s22",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:6,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.1344,
+        "image_area": 0,
+        "shape_area": 0.6002,
+        "text_blob": "未来展望 工作 安排 在这里输入与关键词标题相关的具体内容。 供应商开发 在这里输入与关键词标题相关的具体内容。 供应商管理 在这里输入与关键词标题相关的具体内容。 供应商考核 在这里输入与关键词标题相关的具体内容。 培训体系",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.081,
+            "y": 0.3624,
+            "w": 0.1745,
+            "h": 0.4386
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 46",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7445,
+            "y": 0.3624,
+            "w": 0.1745,
+            "h": 0.4386
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "梯形 44",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7483,
+            "y": 0.453,
+            "w": 0.2603,
+            "h": 0.2528
+          },
+          "area": 0.0658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "梯形 42",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7473,
+            "y": 0.453,
+            "w": 0.2603,
+            "h": 0.2528
+          },
+          "area": 0.0658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2605,
+            "y": 0.3818,
+            "w": 0.1591,
+            "h": 0.3998
+          },
+          "area": 0.0636,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5805,
+            "y": 0.3818,
+            "w": 0.1591,
+            "h": 0.3998
+          },
+          "area": 0.0636,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.432,
+            "y": 0.37,
+            "w": 0.151,
+            "h": 0.3998
+          },
+          "area": 0.0604,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "梯形 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7864,
+            "y": 0.4553,
+            "w": 0.2328,
+            "h": 0.2528
+          },
+          "area": 0.0589,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "梯形 43",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7864,
+            "y": 0.4566,
+            "w": 0.2328,
+            "h": 0.2528
+          },
+          "area": 0.0589,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4536,
+            "y": 0.4556,
+            "w": 0.1078,
+            "h": 0.2287
+          },
+          "area": 0.0247,
+          "text": "工作 安排",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "年终总结-12-动态-bf6d455a-s23",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-right:3,bottom-center:1",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 29,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1689,
+        "image_area": 0,
+        "shape_area": 0.7422,
+        "text_blob": "未来展望 单击此处添加您的文字内容或复制文本粘贴至此 单击此处添加您的文字内容,或复制文本粘贴至此 单击此处添加您的文字内容,或复制文本粘贴至此 单击此处添加您的文字内容,或复制文本粘贴至此 单击此处添加您的文字内容,或复制文本粘贴至此",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0217,
+            "y": 0.5627,
+            "w": 0.9568,
+            "h": 0.2805
+          },
+          "area": 0.2684,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.78,
+            "y": 0.2056,
+            "w": 0.1997,
+            "h": 0.4159
+          },
+          "area": 0.0831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0203,
+            "y": 0.2056,
+            "w": 0.1983,
+            "h": 0.4159
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2332,
+            "y": 0.246,
+            "w": 0.1706,
+            "h": 0.3275
+          },
+          "area": 0.0559,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5964,
+            "y": 0.2486,
+            "w": 0.166,
+            "h": 0.325
+          },
+          "area": 0.054,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.417,
+            "y": 0.267,
+            "w": 0.1646,
+            "h": 0.2898
+          },
+          "area": 0.0477,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5805,
+            "y": 0.5107,
+            "w": 0.2544,
+            "h": 0.1779
+          },
+          "area": 0.0453,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1801,
+            "y": 0.5107,
+            "w": 0.2542,
+            "h": 0.1779
+          },
+          "area": 0.0452,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0469,
+            "y": 0.3035,
+            "w": 0.1359,
+            "h": 0.22
+          },
+          "area": 0.0299,
+          "text": "单击此处添加您的文字内容或复制文本粘贴至此",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2517,
+            "y": 0.3035,
+            "w": 0.1359,
+            "h": 0.22
+          },
+          "area": 0.0299,
+          "text": "单击此处添加您的文字内容,或复制文本粘贴至此",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "年终总结-12-动态-bf6d455a-s24",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:3,bottom-left:2,top-center:1",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 29,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 3,
+        "text_area": 0.1567,
+        "image_area": 0,
+        "shape_area": 0.1886,
+        "text_blob": "未来展望 01 02 03 06 05 04 单击此处输入你的正文 单击此处输入你的正文 单击此处输入你的正文 单击此处输入你的正文 单击此处输入你的正文 单击此处输入你的正文 单击此处输入你的正文 入库 出库",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6272,
+            "y": 0.2638,
+            "w": 0.2706,
+            "h": 0.4523
+          },
+          "area": 0.1224,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 18",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1377,
+            "y": 0.7162,
+            "w": 0.1821,
+            "h": 0.3238
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0154,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 22",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2613,
+            "y": 0.3131,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 23",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4333,
+            "y": 0.3131,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 24",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6052,
+            "y": 0.3131,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 25",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8105,
+            "y": 0.4749,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 26",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2613,
+            "y": 0.7682,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 27",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4333,
+            "y": 0.7682,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 28",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6052,
+            "y": 0.7682,
+            "w": 0.1349,
+            "h": 0.1108
+          },
+          "area": 0.0149,
+          "text": "单击此处输入你的正文",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 16
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "年终总结-12-动态-bf6d455a-s25",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:6,middle-center:4",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.1165,
+        "image_area": 0,
+        "shape_area": 0.9171,
+        "text_blob": "未来展望 事中执行 68% 29% 事前规划 事后考核 单击此处输入你的正文文字是您思想的提炼为了单击 项目汇报 单击此处输入你的正文文字是您思想的提炼为了单击 项目汇报",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 10",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3353,
+            "y": 0.2854,
+            "w": 0.3275,
+            "h": 0.5823
+          },
+          "area": 0.1907,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3541,
+            "y": 0.2281,
+            "w": 0.3054,
+            "h": 0.543
+          },
+          "area": 0.1658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.362,
+            "y": 0.333,
+            "w": 0.274,
+            "h": 0.4872
+          },
+          "area": 0.1335,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3803,
+            "y": 0.2748,
+            "w": 0.2529,
+            "h": 0.4496
+          },
+          "area": 0.1137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.4304,
+            "w": 0.18,
+            "h": 0.3201
+          },
+          "area": 0.0576,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 24",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.4304,
+            "w": 0.18,
+            "h": 0.3201
+          },
+          "area": 0.0576,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1725,
+            "y": 0.4558,
+            "w": 0.207,
+            "h": 0.2751
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1725,
+            "y": 0.4558,
+            "w": 0.207,
+            "h": 0.2751
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.4579,
+            "w": 0.1491,
+            "h": 0.265
+          },
+          "area": 0.0395,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.4579,
+            "w": 0.1491,
+            "h": 0.265
+          },
+          "area": 0.0395,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "年终总结-12-动态-bf6d455a-s26",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "text-led",
+      "area_signature": "top-left:4,middle-left:3,bottom-right:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2269,
+        "image_area": 0,
+        "shape_area": 0.1835,
+        "text_blob": "未来展望 01 02 03 认清自己 单击此处输入正文文字是您思想的提炼,为了发布的良好效果。单击此处输入正文文字是您思想的提炼,为了发布的良好效果。 耳聪目明 单击此处输入正文文字是您思想的提炼,为了发布的良好效果。单击此处输入正文文字是您思想的提炼。 高效快捷 单击此处输入正文文字是您思想的提炼,为了发布的良好效果。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "íSḻïḋe",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4632,
+            "y": 0.5285,
+            "w": 0.4802,
+            "h": 0.3697
+          },
+          "area": 0.1775,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.6904,
+            "h": 0.0912
+          },
+          "area": 0.063,
+          "text": "单击此处输入正文文字是您思想的提炼,为了发布的良好效果。单击此处输入正文文字是您思想的提炼,为了发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.5548,
+            "h": 0.0912
+          },
+          "area": 0.0506,
+          "text": "单击此处输入正文文字是您思想的提炼,为了发布的良好效果。单击此处输入正文文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.4154,
+            "h": 0.0918
+          },
+          "area": 0.0381,
+          "text": "单击此处输入正文文字是您思想的提炼,为了发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 8",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0153,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Bullet1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.2825,
+            "w": 0.1796,
+            "h": 0.0606
+          },
+          "area": 0.0109,
+          "text": "认清自己",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Bullet1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.2825,
+            "w": 0.1796,
+            "h": 0.0606
+          },
+          "area": 0.0109,
+          "text": "耳聪目明",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Bullet1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.2825,
+            "w": 0.1796,
+            "h": 0.0606
+          },
+          "area": 0.0109,
+          "text": "高效快捷",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Number1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0798,
+            "y": 0.2695,
+            "w": 0.0658,
+            "h": 0.117
+          },
+          "area": 0.0077,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Number2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0798,
+            "y": 0.4626,
+            "w": 0.0658,
+            "h": 0.117
+          },
+          "area": 0.0077,
+          "text": "02",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "年终总结-12-动态-bf6d455a-s27",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:7,top-center:1,bottom-left:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 4,
+        "text_area": 0.2486,
+        "image_area": 0,
+        "shape_area": 0.172,
+        "text_blob": "未来展望 01 02 03 04 精通市场 单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼 精通流程 单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼 精通管理 单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼 工作目标 单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.4601,
+            "h": 0.0912
+          },
+          "area": 0.042,
+          "text": "单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.4601,
+            "h": 0.0912
+          },
+          "area": 0.042,
+          "text": "单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.4601,
+            "h": 0.0912
+          },
+          "area": 0.042,
+          "text": "单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Text1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.3424,
+            "w": 0.4601,
+            "h": 0.0912
+          },
+          "area": 0.042,
+          "text": "单击此处输入正文文字是您思想的提炼单击此处输入正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Bullet1",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0136,
+            "y": 0.2825,
+            "w": 0.1796,
+            "h": 0.1144
+          },
+          "area": 0.0205,
+          "text": "精通管理",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3835,
+            "y": 0.0159,
+            "w": 0.2352,
+            "h": 0.0825
+          },
+          "area": 0.0194,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 25",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0492,
+            "y": 0.7074,
+            "w": 0.1351,
+            "h": 0.134
+          },
+          "area": 0.0181,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1412,
+            "y": 0.5684,
+            "w": 0.1351,
+            "h": 0.134
+          },
+          "area": 0.0181,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2331,
+            "y": 0.4319,
+            "w": 0.1351,
+            "h": 0.134
+          },
+          "area": 0.0181,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 41",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.325,
+            "y": 0.2955,
+            "w": 0.1351,
+            "h": 0.134
+          },
+          "area": 0.0181,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "年终总结-12-动态-bf6d455a-s28",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,bottom-left:2,middle-center:2",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 19,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 29,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 0,
+        "text_area": 0.1976,
+        "image_area": 0,
+        "shape_area": 0.6099,
+        "text_blob": "未来展望 计划1 计划2 计划3 计划4 计划5 计划6 工作计划 单击此处输入正文文字您思想的提炼为了发布效果 工作计划 单击此处输入正文文您思想的提炼为了发布效果 工作计划 单击此处输入正文文字您思想的提炼为了发布效果 工作计划 单击此处输入正文文字您思想的提炼为发布效果 工作计划 单击此处输入正文文字您思想提炼为了发布效果 工作计划 单击此处输入正文文字您的提炼为了发布效果",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Shape1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0543,
+            "y": 0.228,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Shape2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1948,
+            "y": 0.6123,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Shape3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3353,
+            "y": 0.228,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Shape4",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4759,
+            "y": 0.6123,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Shape5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6164,
+            "y": 0.228,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Shape6",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7569,
+            "y": 0.6123,
+            "w": 0.1878,
+            "h": 0.29
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "ComponentBackground1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.2412,
+            "w": 0.1749,
+            "h": 0.2636
+          },
+          "area": 0.0461,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "ComponentBackground2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2013,
+            "y": 0.6321,
+            "w": 0.1749,
+            "h": 0.2636
+          },
+          "area": 0.0461,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "ComponentBackground3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3418,
+            "y": 0.2412,
+            "w": 0.1749,
+            "h": 0.2636
+          },
+          "area": 0.0461,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "ComponentBackground4",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4823,
+            "y": 0.6254,
+            "w": 0.1749,
+            "h": 0.2636
+          },
+          "area": 0.0461,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 13,
+          "footer": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "年终总结-12-动态-bf6d455a-s29",
+      "title_guess": "演示完毕",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,bottom-right:2,middle-right:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1751,
+        "image_area": 0.2196,
+        "shape_area": 2.2185,
+        "text_blob": "演示完毕 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam amet magna aliquam 汇报部门:采购部 汇报人:某某某 THANK. YOU 谢 谢",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0664,
+            "y": 0.1258,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 11",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0661,
+            "y": 0.1286,
+            "w": 0.8736,
+            "h": 0.7588
+          },
+          "area": 0.6629,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 8",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6143,
+            "y": 0.4455,
+            "w": 0.4464,
+            "h": 0.7937
+          },
+          "area": 0.3543,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "top-left",
+          "box": {
+            "x": -0.1596,
+            "y": -0.3006,
+            "w": 0.3982,
+            "h": 0.7079
+          },
+          "area": 0.2819,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 35",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.555,
+            "y": 0.1936,
+            "w": 0.3515,
+            "h": 0.6248
+          },
+          "area": 0.2196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6037,
+            "y": 0.2788,
+            "w": 0.2676,
+            "h": 0.4758
+          },
+          "area": 0.1273,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7146,
+            "y": 0.6239,
+            "w": 0.2457,
+            "h": 0.4369
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 26",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0938,
+            "y": 0.2713,
+            "w": 0.4953,
+            "h": 0.1481
+          },
+          "area": 0.0734,
+          "text": "THANK. YOU",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1075,
+            "y": 0.5762,
+            "w": 0.4351,
+            "h": 0.0862
+          },
+          "area": 0.0375,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2438,
+            "y": 0.4246,
+            "w": 0.2423,
+            "h": 0.1346
+          },
+          "area": 0.0326,
+          "text": "演示完毕",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 29,
+    "layout_job_counts": {
+      "limitations-future": 10,
+      "flow-diagram": 6,
+      "kpi-grid": 3,
+      "image-hero": 2,
+      "process-strip": 2,
+      "research-question": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "architecture-diagram": 1,
+      "claim-evidence": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 20,
+      "image": 4,
+      "chart": 3,
+      "mixed": 1,
+      "text": 1
+    },
+    "density_counts": {
+      "medium-high": 11,
+      "high": 11,
+      "medium": 7
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "flow-diagram",
+      "kpi-grid",
+      "image-hero",
+      "process-strip"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ]
+  }
+}

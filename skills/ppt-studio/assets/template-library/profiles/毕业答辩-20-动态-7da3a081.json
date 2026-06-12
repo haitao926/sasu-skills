@@ -1,0 +1,6746 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:28.392991+00:00",
+  "template_id": "毕业答辩-20-动态-7da3a081",
+  "template_profile_path": "assets/template-library/profiles/毕业答辩-20-动态-7da3a081.json",
+  "source_template": {
+    "name": "毕业答辩(20)—动态.pptx",
+    "category": "毕业答辩（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(20)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 31,
+    "media_count": 12,
+    "image_media_count": 12,
+    "motion_hint": "dynamic",
+    "tags": [
+      "学术答辩",
+      "毕业答辩",
+      "论文汇报",
+      "学术展示",
+      "封面",
+      "目录",
+      "研究背景",
+      "方法",
+      "实验结果",
+      "总结",
+      "正式",
+      "学术",
+      "蓝白",
+      "清晰编号",
+      "论文图",
+      "流程图",
+      "实验图",
+      "结果图",
+      "表格",
+      "标题+结论",
+      "少量正文",
+      "高可编辑",
+      "动态版",
+      "可动效",
+      "高",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "学术答辩",
+    "scenario": [
+      "毕业答辩",
+      "论文汇报",
+      "学术展示"
+    ],
+    "best_for": [
+      "毕业论文答辩",
+      "开题/中期/结题答辩"
+    ],
+    "avoid": [
+      "活动海报",
+      "娱乐风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "目录",
+      "研究背景",
+      "方法",
+      "结果",
+      "致谢"
+    ],
+    "visual": [
+      "正式",
+      "学术",
+      "蓝白",
+      "清晰编号"
+    ],
+    "image_strategy": [
+      "论文图",
+      "流程图",
+      "实验图",
+      "结果图",
+      "表格"
+    ],
+    "text_strategy": [
+      "标题+结论",
+      "少量正文",
+      "高可编辑"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "image-hero",
+      "table",
+      "process-strip",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "footer",
+      "body",
+      "claim",
+      "image"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "bottom-right",
+      "middle-right",
+      "bottom-center",
+      "top-center"
+    ],
+    "template_text_signature": "辩之有道 CONTENTS 绪论 选题背景 研究意义 国外研究综述 国内研究现状 理论基础与文献综述 主要创新点 研究方法与思路 研究思路 研究方法 实验步骤 关键技术与实践难点 关键技术 实践难点 案例分析 数据对比 研究成果与应用 亮点与不足 研究目标 问题评估 成果形式 相关建议与论文总结 研究总结 应用领域 应用前景 可行性说明 成绩与思考 参考文献 Contracted wind powerpoint template designs contra",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s01",
+      "title_guess": "辩之有道",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-right:3,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.2973,
+        "image_area": 1.0,
+        "shape_area": 0.0182,
+        "text_blob": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 答辩人:小锐旗 指导老师:李教授 GRADUATION DISSERTATION 【 XX学位研究生论文答辩材料 】 LOGO 学校名称 论而明理 辩之有道",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 65",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0015,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 259",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2683,
+            "y": 0.3425,
+            "w": 0.3593,
+            "h": 0.237
+          },
+          "area": 0.0852,
+          "text": "辩之有道",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 259",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6327,
+            "y": 0.3402,
+            "w": 0.3357,
+            "h": 0.237
+          },
+          "area": 0.0796,
+          "text": "论而明理",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 259",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4746,
+            "y": 0.6583,
+            "w": 0.491,
+            "h": 0.0808
+          },
+          "area": 0.0397,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 259",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4316,
+            "y": 0.5659,
+            "w": 0.5522,
+            "h": 0.069
+          },
+          "area": 0.0381,
+          "text": "【 XX学位研究生论文答辩材料 】",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 259",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4328,
+            "y": 0.2835,
+            "w": 0.5392,
+            "h": 0.0628
+          },
+          "area": 0.0339,
+          "text": "GRADUATION DISSERTATION",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 82",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5876,
+            "y": 0.8025,
+            "w": 0.1603,
+            "h": 0.0431
+          },
+          "area": 0.0069,
+          "text": "指导老师:李教授",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 82",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3697,
+            "y": 0.8007,
+            "w": 0.1372,
+            "h": 0.0431
+          },
+          "area": 0.0059,
+          "text": "答辩人:小锐旗",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 61",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8349,
+            "y": 0.0484,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "学校名称",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 60",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7696,
+            "y": 0.0456,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 4,
+          "label": 2,
+          "title": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:7,middle-right:1,top-center:1",
+      "counts": {
+        "text": 17,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 31,
+        "text_count": 17,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 11,
+        "text_area": 0.1986,
+        "image_area": 0.5104,
+        "shape_area": 0,
+        "text_blob": "CONTENTS 目 录 绪论 Contracted wind powerpoint template designs contracted 01. 研究方法与思路 Contracted wind powerpoint template designs contracted 02. 关键技术与实践难点 Contracted wind powerpoint template designs contracted 03. 研究成果与应用 Contracted wind powerpoint template designs contracted 04. 相关建议与论文总结 Contracted wind powerpoint template designs contracted 05.",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 189",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4636,
+            "y": 0.0463,
+            "w": 0.5625,
+            "h": 0.9074
+          },
+          "area": 0.5104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 151",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.577,
+            "y": 0.1078,
+            "w": 0.0955,
+            "h": 0.2827
+          },
+          "area": 0.027,
+          "text": "目 录",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 167",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1508,
+            "y": 0.2276,
+            "w": 0.2653,
+            "h": 0.0673
+          },
+          "area": 0.0179,
+          "text": "关键技术与实践难点",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 181",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1508,
+            "y": 0.2276,
+            "w": 0.2653,
+            "h": 0.0673
+          },
+          "area": 0.0179,
+          "text": "相关建议与论文总结",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 70",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1508,
+            "y": 0.2276,
+            "w": 0.2146,
+            "h": 0.0673
+          },
+          "area": 0.0144,
+          "text": "绪论",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 160",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1508,
+            "y": 0.2276,
+            "w": 0.2146,
+            "h": 0.0673
+          },
+          "area": 0.0144,
+          "text": "研究方法与思路",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 174",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1508,
+            "y": 0.2276,
+            "w": 0.2146,
+            "h": 0.0673
+          },
+          "area": 0.0144,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 55",
+          "role": "section_label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4637,
+            "y": 0.3827,
+            "w": 0.2022,
+            "h": 0.0673
+          },
+          "area": 0.0136,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 74",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0549,
+            "y": 0.2147,
+            "w": 0.0906,
+            "h": 0.1122
+          },
+          "area": 0.0102,
+          "text": "01.",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 162",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0549,
+            "y": 0.2147,
+            "w": 0.0906,
+            "h": 0.1122
+          },
+          "area": 0.0102,
+          "text": "02.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 1,
+          "label": 11,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s03",
+      "title_guess": "绪论",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-right:4,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 2,
+        "text_area": 0.1782,
+        "image_area": 1.3025,
+        "shape_area": 0,
+        "text_blob": "绪论 Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 选题背景 研究意义 理论基础 贡献创新 01 PART",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0866,
+            "y": -0.3713,
+            "w": 1.0786,
+            "h": 1.2076
+          },
+          "area": 1.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1576,
+            "y": 0.5291,
+            "w": 0.1916,
+            "h": 0.3231
+          },
+          "area": 0.0619,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.457,
+            "y": 0.5716,
+            "w": 0.4884,
+            "h": 0.1122
+          },
+          "area": 0.0548,
+          "text": "绪论",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4595,
+            "y": 0.6857,
+            "w": 0.4258,
+            "h": 0.0942
+          },
+          "area": 0.0401,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1668,
+            "y": 0.8171,
+            "w": 0.1657,
+            "h": 0.0539
+          },
+          "area": 0.0089,
+          "text": "PART",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6513,
+            "y": 0.8245,
+            "w": 0.0981,
+            "h": 0.0323
+          },
+          "area": 0.0032,
+          "text": "理论基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "研究意义",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.8245,
+            "w": 0.0972,
+            "h": 0.0323
+          },
+          "area": 0.0031,
+          "text": "贡献创新",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 5",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4643,
+            "y": 0.7962,
+            "w": 0.4197,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s04",
+      "title_guess": "选题背景",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,middle-left:2,middle-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1231,
+        "image_area": 0,
+        "shape_area": 0.4045,
+        "text_blob": "选题背景 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 答辩选题 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 答辩方向 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 主题方向 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 选题主题 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 主题方向 在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文 答辩方向 选题背景",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.3223,
+            "w": 0.2789,
+            "h": 0.4958
+          },
+          "area": 0.1383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 20",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6097,
+            "y": 0.271,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 28",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6776,
+            "y": 0.4893,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 32",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6097,
+            "y": 0.7076,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1117,
+            "y": 0.271,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 40",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0438,
+            "y": 0.4893,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 44",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1117,
+            "y": 0.7076,
+            "w": 0.2817,
+            "h": 0.1522
+          },
+          "area": 0.0429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "标题 2",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 25",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6368,
+            "y": 0.3519,
+            "w": 0.2119,
+            "h": 0.0555
+          },
+          "area": 0.0118,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7047,
+            "y": 0.5702,
+            "w": 0.2119,
+            "h": 0.0555
+          },
+          "area": 0.0118,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s05",
+      "title_guess": "研究意义",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 23,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 23,
+        "connector_count": 0,
+        "text_area": 0.1352,
+        "image_area": 0,
+        "shape_area": 0.5208,
+        "text_blob": "研究意义 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关 研究意义 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关 研究意义 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关 研究意义 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关 研究意义",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.044,
+            "y": 0.36,
+            "w": 0.1591,
+            "h": 0.5439
+          },
+          "area": 0.0865,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 48",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2913,
+            "y": 0.36,
+            "w": 0.1591,
+            "h": 0.5439
+          },
+          "area": 0.0865,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 51",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4802,
+            "y": 0.36,
+            "w": 0.1591,
+            "h": 0.5439
+          },
+          "area": 0.0865,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6691,
+            "y": 0.36,
+            "w": 0.1591,
+            "h": 0.5439
+          },
+          "area": 0.0865,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 43",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3503,
+            "w": 0.1214,
+            "h": 0.2158
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 47",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3102,
+            "y": 0.3503,
+            "w": 0.1214,
+            "h": 0.2158
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 49",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4992,
+            "y": 0.3503,
+            "w": 0.1214,
+            "h": 0.2158
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 51",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6881,
+            "y": 0.3503,
+            "w": 0.1214,
+            "h": 0.2158
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 58",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6881,
+            "y": 0.6787,
+            "w": 0.133,
+            "h": 0.1616
+          },
+          "area": 0.0215,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 54",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.06,
+            "y": 0.6787,
+            "w": 0.1323,
+            "h": 0.1616
+          },
+          "area": 0.0214,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s06",
+      "title_guess": "国外研究综述",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,middle-left:2,bottom-right:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1606,
+        "image_area": 0.0687,
+        "shape_area": 0.9448,
+        "text_blob": "国外研究综述 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述 国外研究综述 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述 国外研究综述 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述 国外研究综述 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述 国外研究综述",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 105",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3296,
+            "y": 0.2952,
+            "w": 0.3408,
+            "h": 0.6059
+          },
+          "area": 0.2065,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 106",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3591,
+            "y": 0.3476,
+            "w": 0.2819,
+            "h": 0.5011
+          },
+          "area": 0.1413,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 74",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5137,
+            "y": 0.2884,
+            "w": 0.4311,
+            "h": 0.2835
+          },
+          "area": 0.1222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 78",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0594,
+            "y": 0.2884,
+            "w": 0.4311,
+            "h": 0.2835
+          },
+          "area": 0.1222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 97",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5137,
+            "y": 0.6272,
+            "w": 0.4311,
+            "h": 0.2835
+          },
+          "area": 0.1222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 101",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0594,
+            "y": 0.6272,
+            "w": 0.4311,
+            "h": 0.2835
+          },
+          "area": 0.1222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 107",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.377,
+            "y": 0.3829,
+            "w": 0.2421,
+            "h": 0.4305
+          },
+          "area": 0.1042,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 108",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4014,
+            "y": 0.424,
+            "w": 0.1972,
+            "h": 0.3482
+          },
+          "area": 0.0687,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 95",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0751,
+            "y": 0.403,
+            "w": 0.2674,
+            "h": 0.1016
+          },
+          "area": 0.0272,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 99",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6616,
+            "y": 0.7417,
+            "w": 0.2674,
+            "h": 0.1016
+          },
+          "area": 0.0272,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s07",
+      "title_guess": "国内研究现状",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:2,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1642,
+        "image_area": 0.1959,
+        "shape_area": 0.2187,
+        "text_blob": "国内研究现状 国内研究现状 在这里输入你的正文阐述与关键词标题相关的具体内容文阐述 国内研究现状 在这里输入你的正文阐述与关键词标题相关的具体内容文阐述 国内研究现状 在这里输入你的正文阐述与关键词标题相关的具体内容文阐述 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述在这里输入你的正文阐述",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0654,
+            "y": 0.2387,
+            "w": 0.8692,
+            "h": 0.076
+          },
+          "area": 0.0661,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述在这里输入你的正文阐述",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.054,
+            "y": 0.3839,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6677,
+            "y": 0.3839,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 18",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.054,
+            "y": 0.664,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3609,
+            "y": 0.3839,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 20",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6677,
+            "y": 0.664,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3609,
+            "y": 0.6588,
+            "w": 0.2782,
+            "h": 0.2349
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "国内研究现状",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0718,
+            "y": 0.4949,
+            "w": 0.2127,
+            "h": 0.0808
+          },
+          "area": 0.0172,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容文阐述",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7017,
+            "y": 0.4949,
+            "w": 0.2127,
+            "h": 0.0808
+          },
+          "area": 0.0172,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容文阐述",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s08",
+      "title_guess": "理论基础与文献综述",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:2,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 31,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1593,
+        "image_area": 0,
+        "shape_area": 0.174,
+        "text_blob": "理论基础与文献综述 01 02 03 04 添加您的标题 请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的 添加您的标题 请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容请在这里 添加您的标题 请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容 添加您的标题 请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容请在这里",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "泪滴形 84",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3335,
+            "y": 0.2209,
+            "w": 0.1441,
+            "h": 0.2562
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "泪滴形 88",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4944,
+            "y": 0.2209,
+            "w": 0.1441,
+            "h": 0.2562
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "泪滴形 92",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3335,
+            "y": 0.5015,
+            "w": 0.1441,
+            "h": 0.2562
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "泪滴形 96",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4944,
+            "y": 0.5015,
+            "w": 0.1441,
+            "h": 0.2562
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "标题 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3212,
+            "y": 0.0555,
+            "w": 0.3563,
+            "h": 0.0665
+          },
+          "area": 0.0237,
+          "text": "理论基础与文献综述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 53",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6473,
+            "y": 0.2555,
+            "w": 0.2461,
+            "h": 0.0781
+          },
+          "area": 0.0192,
+          "text": "请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容请在这里",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 53",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.075,
+            "y": 0.6415,
+            "w": 0.2461,
+            "h": 0.0781
+          },
+          "area": 0.0192,
+          "text": "请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 53",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6473,
+            "y": 0.6415,
+            "w": 0.2461,
+            "h": 0.0781
+          },
+          "area": 0.0192,
+          "text": "请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的文字内容请在这里",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 53",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.075,
+            "y": 0.2555,
+            "w": 0.2461,
+            "h": 0.0754
+          },
+          "area": 0.0186,
+          "text": "请在这里输入您的文字内容请在这里输入您的文字内容请在这里输入您的",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 52",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.201,
+            "w": 0.1998,
+            "h": 0.0578
+          },
+          "area": 0.0115,
+          "text": "添加您的标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s09",
+      "title_guess": "主要创新点",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-right:1,bottom-right:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 31,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 6,
+        "text_area": 0.2076,
+        "image_area": 0,
+        "shape_area": 0.1647,
+        "text_blob": "主要创新点 1 2 3 4 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4275,
+            "y": 0.4097,
+            "w": 0.1473,
+            "h": 0.3343
+          },
+          "area": 0.0492,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 29",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6412,
+            "y": 0.3537,
+            "w": 0.287,
+            "h": 0.1171
+          },
+          "area": 0.0336,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 29",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6412,
+            "y": 0.7105,
+            "w": 0.287,
+            "h": 0.1171
+          },
+          "area": 0.0336,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 29",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0779,
+            "y": 0.3537,
+            "w": 0.2813,
+            "h": 0.1171
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 29",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0779,
+            "y": 0.7105,
+            "w": 0.2813,
+            "h": 0.1171
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3771,
+            "y": 0.2731,
+            "w": 0.1141,
+            "h": 0.2368
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5089,
+            "y": 0.2731,
+            "w": 0.1141,
+            "h": 0.2368
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3803,
+            "y": 0.5384,
+            "w": 0.1108,
+            "h": 0.2373
+          },
+          "area": 0.0263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5089,
+            "y": 0.5384,
+            "w": 0.1108,
+            "h": 0.2373
+          },
+          "area": 0.0263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "主要创新点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s10",
+      "title_guess": "研究方法与思路",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-right:4,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 2,
+        "text_area": 0.1782,
+        "image_area": 1.3025,
+        "shape_area": 0,
+        "text_blob": "研究方法与思路 Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 选题背景 研究意义 理论基础 贡献创新 02 PART",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0866,
+            "y": -0.3713,
+            "w": 1.0786,
+            "h": 1.2076
+          },
+          "area": 1.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.154,
+            "y": 0.5291,
+            "w": 0.1916,
+            "h": 0.3231
+          },
+          "area": 0.0619,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.457,
+            "y": 0.5716,
+            "w": 0.4884,
+            "h": 0.1122
+          },
+          "area": 0.0548,
+          "text": "研究方法与思路",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4595,
+            "y": 0.6857,
+            "w": 0.4258,
+            "h": 0.0942
+          },
+          "area": 0.0401,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1668,
+            "y": 0.8171,
+            "w": 0.1657,
+            "h": 0.0539
+          },
+          "area": 0.0089,
+          "text": "PART",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6513,
+            "y": 0.8245,
+            "w": 0.0981,
+            "h": 0.0323
+          },
+          "area": 0.0032,
+          "text": "理论基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "研究意义",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.8245,
+            "w": 0.0972,
+            "h": 0.0323
+          },
+          "area": 0.0031,
+          "text": "贡献创新",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 5",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4643,
+            "y": 0.7962,
+            "w": 0.4197,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s11",
+      "title_guess": "研究思路",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1392,
+        "image_area": 0,
+        "shape_area": 0.2839,
+        "text_blob": "研究思路 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 输入标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 四个创新点 01 02 03 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3804,
+            "y": 0.411,
+            "w": 0.2294,
+            "h": 0.4078
+          },
+          "area": 0.0935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4106,
+            "y": 0.4631,
+            "w": 0.1698,
+            "h": 0.2978
+          },
+          "area": 0.0506,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "研究思路",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Freeform 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2954,
+            "y": 0.6039,
+            "w": 0.1037,
+            "h": 0.1843
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3804,
+            "y": 0.3254,
+            "w": 0.1037,
+            "h": 0.1843
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5616,
+            "y": 0.3315,
+            "w": 0.1037,
+            "h": 0.1843
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6378,
+            "y": 0.6039,
+            "w": 0.1037,
+            "h": 0.1843
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "TextBox 29",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0689,
+            "y": 0.714,
+            "w": 0.2082,
+            "h": 0.0619
+          },
+          "area": 0.0129,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4557,
+            "y": 0.7697,
+            "w": 0.0816,
+            "h": 0.1574
+          },
+          "area": 0.0128,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 29",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1307,
+            "y": 0.4061,
+            "w": 0.2051,
+            "h": 0.0619
+          },
+          "area": 0.0127,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4,
+          "claim": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s12",
+      "title_guess": "研究方法",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:5,top-center:2,bottom-left:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 31,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1263,
+        "image_area": 0,
+        "shape_area": 0.1756,
+        "text_blob": "研究方法 添加标题 单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体 添加标题 单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体 添加标题 单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体 添加标题 单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体 添加标题 单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角右箭头 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5209,
+            "y": 0.5439,
+            "w": 0.0972,
+            "h": 0.4548
+          },
+          "area": 0.0442,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角右箭头 52",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3828,
+            "y": 0.5439,
+            "w": 0.0972,
+            "h": 0.4548
+          },
+          "area": 0.0442,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角右箭头 61",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5504,
+            "y": 0.6798,
+            "w": 0.0967,
+            "h": 0.319
+          },
+          "area": 0.0308,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角右箭头 83",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3535,
+            "y": 0.6798,
+            "w": 0.0967,
+            "h": 0.319
+          },
+          "area": 0.0308,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "上箭头 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4769,
+            "y": 0.4801,
+            "w": 0.0493,
+            "h": 0.5187
+          },
+          "area": 0.0256,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "标题 80",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "研究方法",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1269,
+            "y": 0.6196,
+            "w": 0.1773,
+            "h": 0.0901
+          },
+          "area": 0.016,
+          "text": "单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1798,
+            "y": 0.3817,
+            "w": 0.1773,
+            "h": 0.0901
+          },
+          "area": 0.016,
+          "text": "单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4079,
+            "y": 0.2051,
+            "w": 0.1773,
+            "h": 0.0901
+          },
+          "area": 0.016,
+          "text": "单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6318,
+            "y": 0.3798,
+            "w": 0.1773,
+            "h": 0.0901
+          },
+          "area": 0.016,
+          "text": "单击此处编辑您要的内容,建议您在展示时采用微软雅黑字体",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s13",
+      "title_guess": "实验步骤",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:3,bottom-center:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 31,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 5,
+        "text_area": 0.1772,
+        "image_area": 0,
+        "shape_area": 0.1196,
+        "text_blob": "实验步骤 Step 01 Start Step 03 Step 02 Step 04 Finish 标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容 标题文本 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.143,
+            "y": 0.3027,
+            "w": 0.1297,
+            "h": 0.2305
+          },
+          "area": 0.0299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5299,
+            "y": 0.3027,
+            "w": 0.1297,
+            "h": 0.2305
+          },
+          "area": 0.0299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3364,
+            "y": 0.6323,
+            "w": 0.1297,
+            "h": 0.2305
+          },
+          "area": 0.0299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 28",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7233,
+            "y": 0.6323,
+            "w": 0.1297,
+            "h": 0.2305
+          },
+          "area": 0.0299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "实验步骤",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "直接箭头连接符 23",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2534,
+            "y": 0.4993,
+            "w": 0.102,
+            "h": 0.1668
+          },
+          "area": 0.017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "直接箭头连接符 30",
+          "role": "connector",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6405,
+            "y": 0.4995,
+            "w": 0.1017,
+            "h": 0.1666
+          },
+          "area": 0.0169,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接箭头连接符 31",
+          "role": "connector",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4471,
+            "y": 0.4995,
+            "w": 0.1017,
+            "h": 0.1666
+          },
+          "area": 0.0169,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1597,
+            "y": 0.3437,
+            "w": 0.0963,
+            "h": 0.1713
+          },
+          "area": 0.0165,
+          "text": "Step 01",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5465,
+            "y": 0.3437,
+            "w": 0.0963,
+            "h": 0.1713
+          },
+          "area": 0.0165,
+          "text": "Step 03",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 4,
+          "claim": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s14",
+      "title_guess": "关键技术与实践难点",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-right:4,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 2,
+        "text_area": 0.1782,
+        "image_area": 1.3025,
+        "shape_area": 0,
+        "text_blob": "关键技术与实践难点 Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 选题背景 研究意义 理论基础 贡献创新 03 PART",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0866,
+            "y": -0.3713,
+            "w": 1.0786,
+            "h": 1.2076
+          },
+          "area": 1.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.154,
+            "y": 0.5291,
+            "w": 0.1916,
+            "h": 0.3231
+          },
+          "area": 0.0619,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.457,
+            "y": 0.5716,
+            "w": 0.4884,
+            "h": 0.1122
+          },
+          "area": 0.0548,
+          "text": "关键技术与实践难点",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4595,
+            "y": 0.6857,
+            "w": 0.4258,
+            "h": 0.0942
+          },
+          "area": 0.0401,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1668,
+            "y": 0.8171,
+            "w": 0.1657,
+            "h": 0.0539
+          },
+          "area": 0.0089,
+          "text": "PART",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6513,
+            "y": 0.8245,
+            "w": 0.0981,
+            "h": 0.0323
+          },
+          "area": 0.0032,
+          "text": "理论基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "研究意义",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.8245,
+            "w": 0.0972,
+            "h": 0.0323
+          },
+          "area": 0.0031,
+          "text": "贡献创新",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 5",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4643,
+            "y": 0.7962,
+            "w": 0.4197,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s15",
+      "title_guess": "关键技术",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 31,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1296,
+        "image_area": 0,
+        "shape_area": 0.273,
+        "text_blob": "关键技术 用户可以在投影仪或者计算机上可以将演示文稿 技术一 用户可以在投影仪或者计算机上可以将演示文稿 技术二 用户可以在投影仪或者计算机上可以将演示文稿 技术三 用户可以在投影仪或者计算机上可以将演示文稿 技术四 用户可以在投影仪或者计算机上可以将演示文稿 技术五 用户可以在投影仪或者计算机上可以将演示文稿 技术六",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0888,
+            "y": 0.3499,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0888,
+            "y": 0.5408,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0888,
+            "y": 0.7318,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.3499,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.5408,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.7318,
+            "w": 0.2661,
+            "h": 0.1115
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "标题 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "关键技术",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3284,
+            "y": 0.3499,
+            "w": 0.1415,
+            "h": 0.1115
+          },
+          "area": 0.0158,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3284,
+            "y": 0.5408,
+            "w": 0.1415,
+            "h": 0.1115
+          },
+          "area": 0.0158,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3284,
+            "y": 0.7318,
+            "w": 0.1415,
+            "h": 0.1115
+          },
+          "area": 0.0158,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s16",
+      "title_guess": "实践难点",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:6,bottom-left:2,top-center:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 31,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2628,
+        "image_area": 0,
+        "shape_area": 0.3976,
+        "text_blob": "实践难点 实践难点一 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解 实践难点二 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 57",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1496,
+            "y": 0.3193,
+            "w": 0.3146,
+            "h": 0.5271
+          },
+          "area": 0.1658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 98",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1496,
+            "y": 0.3193,
+            "w": 0.3146,
+            "h": 0.5271
+          },
+          "area": 0.1658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 10",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1807,
+            "y": 0.4495,
+            "w": 0.254,
+            "h": 0.4335
+          },
+          "area": 0.1101,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解详写内容......点击输入本栏的具体文字,简明扼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 10",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1807,
+            "y": 0.4495,
+            "w": 0.254,
+            "h": 0.4335
+          },
+          "area": 0.1101,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解详写内容......点击输入本栏的具体文字,简明扼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1807,
+            "y": 0.3007,
+            "w": 0.254,
+            "h": 0.1087
+          },
+          "area": 0.0276,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1807,
+            "y": 0.3007,
+            "w": 0.254,
+            "h": 0.1087
+          },
+          "area": 0.0276,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "实践难点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 95",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2292,
+            "y": 0.3255,
+            "w": 0.1571,
+            "h": 0.0726
+          },
+          "area": 0.0114,
+          "text": "实践难点一",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 101",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2292,
+            "y": 0.3255,
+            "w": 0.1571,
+            "h": 0.0726
+          },
+          "area": 0.0114,
+          "text": "实践难点二",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1612,
+            "y": 0.3007,
+            "w": 0.2922,
+            "h": 0.0186
+          },
+          "area": 0.0054,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s17",
+      "title_guess": "案例分析",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:2,middle-right:2,bottom-right:2",
+      "counts": {
+        "text": 9,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1606,
+        "image_area": 0.0923,
+        "shape_area": 0.3308,
+        "text_blob": "案例分析 案例一 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 案例二 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 案例四 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 案例三 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.2248,
+            "w": 0.2889,
+            "h": 0.2863
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5438,
+            "y": 0.2248,
+            "w": 0.2889,
+            "h": 0.2863
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5438,
+            "y": 0.5825,
+            "w": 0.2889,
+            "h": 0.2863
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 20",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0932,
+            "y": 0.5825,
+            "w": 0.2889,
+            "h": 0.2863
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 30",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1108,
+            "y": 0.2629,
+            "w": 0.191,
+            "h": 0.1535
+          },
+          "area": 0.0293,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 30",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5588,
+            "y": 0.2609,
+            "w": 0.191,
+            "h": 0.1535
+          },
+          "area": 0.0293,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 30",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5588,
+            "y": 0.6238,
+            "w": 0.191,
+            "h": 0.1535
+          },
+          "area": 0.0293,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 30",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1108,
+            "y": 0.6238,
+            "w": 0.191,
+            "h": 0.1535
+          },
+          "area": 0.0293,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7568,
+            "y": 0.6338,
+            "w": 0.1369,
+            "h": 0.1849
+          },
+          "area": 0.0253,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 28",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7572,
+            "y": 0.2763,
+            "w": 0.1315,
+            "h": 0.177
+          },
+          "area": 0.0233,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s18",
+      "title_guess": "数据对比",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:4,bottom-center:2,top-center:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 31,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.2098,
+        "image_area": 0,
+        "shape_area": 0.2467,
+        "text_blob": "数据对比 详写内容点击输入本栏的具体文字,简明扼要的说明分项内容 数据采集 详写内容点击输入本栏的具体文字,简明扼要的说明分项内容 数据采集 详写内容点击输入本栏的具体文字,简明扼要的说明分项内容 数据采集 详写内容点击输入本栏的具体文字,简明扼要的说明分项内容 数据采集 61% 35% 90% 25%",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 146",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0946,
+            "y": 0.7641,
+            "w": 0.1575,
+            "h": 0.2211
+          },
+          "area": 0.0348,
+          "text": "详写内容点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 146",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3068,
+            "y": 0.7641,
+            "w": 0.1575,
+            "h": 0.2211
+          },
+          "area": 0.0348,
+          "text": "详写内容点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 146",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5191,
+            "y": 0.7641,
+            "w": 0.1575,
+            "h": 0.2211
+          },
+          "area": 0.0348,
+          "text": "详写内容点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 146",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7313,
+            "y": 0.7641,
+            "w": 0.1575,
+            "h": 0.2211
+          },
+          "area": 0.0348,
+          "text": "详写内容点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "空心弧 31",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0443,
+            "y": 0.186,
+            "w": 0.1257,
+            "h": 0.2235
+          },
+          "area": 0.0281,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "空心弧 38",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2227,
+            "y": 0.186,
+            "w": 0.1257,
+            "h": 0.2235
+          },
+          "area": 0.0281,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "空心弧 45",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4011,
+            "y": 0.186,
+            "w": 0.1257,
+            "h": 0.2235
+          },
+          "area": 0.0281,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "空心弧 48",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5795,
+            "y": 0.186,
+            "w": 0.1257,
+            "h": 0.2235
+          },
+          "area": 0.0281,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0492,
+            "y": 0.1948,
+            "w": 0.1159,
+            "h": 0.206
+          },
+          "area": 0.0239,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2276,
+            "y": 0.1948,
+            "w": 0.1159,
+            "h": 0.206
+          },
+          "area": 0.0239,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "claim": 4,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s19",
+      "title_guess": "研究成果与应用",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-right:4,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 2,
+        "text_area": 0.1782,
+        "image_area": 1.3025,
+        "shape_area": 0,
+        "text_blob": "研究成果与应用 Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 选题背景 研究意义 理论基础 贡献创新 04 PART",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0866,
+            "y": -0.3713,
+            "w": 1.0786,
+            "h": 1.2076
+          },
+          "area": 1.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.154,
+            "y": 0.5291,
+            "w": 0.1916,
+            "h": 0.3231
+          },
+          "area": 0.0619,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.457,
+            "y": 0.5716,
+            "w": 0.4884,
+            "h": 0.1122
+          },
+          "area": 0.0548,
+          "text": "研究成果与应用",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4595,
+            "y": 0.6857,
+            "w": 0.4258,
+            "h": 0.0942
+          },
+          "area": 0.0401,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1668,
+            "y": 0.8171,
+            "w": 0.1657,
+            "h": 0.0539
+          },
+          "area": 0.0089,
+          "text": "PART",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6513,
+            "y": 0.8245,
+            "w": 0.0981,
+            "h": 0.0323
+          },
+          "area": 0.0032,
+          "text": "理论基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "研究意义",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.8245,
+            "w": 0.0972,
+            "h": 0.0323
+          },
+          "area": 0.0031,
+          "text": "贡献创新",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 5",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4643,
+            "y": 0.7962,
+            "w": 0.4197,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s20",
+      "title_guess": "亮点与不足",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 31,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 2,
+        "text_area": 0.1565,
+        "image_area": 0,
+        "shape_area": 0.0801,
+        "text_blob": "亮点与不足 亮点 不足 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 点击添加标题 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 点击添加标题",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 10",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6381,
+            "y": 0.4395,
+            "w": 0.2393,
+            "h": 0.175
+          },
+          "area": 0.0419,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "TextBox 7",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1015,
+            "y": 0.4591,
+            "w": 0.2193,
+            "h": 0.175
+          },
+          "area": 0.0384,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Freeform 3",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3569,
+            "y": 0.595,
+            "w": 0.1227,
+            "h": 0.2635
+          },
+          "area": 0.0323,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4909,
+            "y": 0.322,
+            "w": 0.1227,
+            "h": 0.2635
+          },
+          "area": 0.0323,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Oval 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3712,
+            "y": 0.4422,
+            "w": 0.1064,
+            "h": 0.1891
+          },
+          "area": 0.0201,
+          "text": "亮点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Oval 6",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4928,
+            "y": 0.5806,
+            "w": 0.1064,
+            "h": 0.1891
+          },
+          "area": 0.0201,
+          "text": "不足",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "亮点与不足",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 6",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.1524,
+            "w": 0.1364,
+            "h": 0.0595
+          },
+          "area": 0.0081,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 9",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5516,
+            "y": 0.4468,
+            "w": 0.1364,
+            "h": 0.0595
+          },
+          "area": 0.0081,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 32",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2916,
+            "y": 0.4167,
+            "w": 0.0497,
+            "h": 0.0883
+          },
+          "area": 0.0044,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2,
+          "footer": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s21",
+      "title_guess": "研究目标",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 34,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 34,
+        "connector_count": 0,
+        "text_area": 0.1592,
+        "image_area": 0,
+        "shape_area": 0.4403,
+        "text_blob": "研究目标 点击输入 标题文本 标题文本 点击输入本栏的具体文字,简明扼要的具体文字的说明分项内容 标题文本 点击输入本栏的具体文字的具体文字,简明扼要的说明分项内容 标题文本 点击输入本的具体文字栏的具体文字,简明扼要的说明分项内容 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 点击输入本栏的具体文字,简明扼要的说明分项内容",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 65",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4307,
+            "y": 0.3334,
+            "w": 0.4671,
+            "h": 0.5132
+          },
+          "area": 0.2397,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0917,
+            "y": 0.3334,
+            "w": 0.2741,
+            "h": 0.5132
+          },
+          "area": 0.1407,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 88",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1091,
+            "y": 0.5949,
+            "w": 0.2305,
+            "h": 0.1616
+          },
+          "area": 0.0372,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 29",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1091,
+            "y": 0.4126,
+            "w": 0.1885,
+            "h": 0.1508
+          },
+          "area": 0.0284,
+          "text": "点击输入 标题文本",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "研究目标",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 29",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5869,
+            "y": 0.4132,
+            "w": 0.2574,
+            "h": 0.0619
+          },
+          "area": 0.0159,
+          "text": "点击输入本栏的具体文字,简明扼要的具体文字的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 29",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5869,
+            "y": 0.5882,
+            "w": 0.2574,
+            "h": 0.0619
+          },
+          "area": 0.0159,
+          "text": "点击输入本栏的具体文字的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 29",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5869,
+            "y": 0.7569,
+            "w": 0.2574,
+            "h": 0.0619
+          },
+          "area": 0.0159,
+          "text": "点击输入本的具体文字栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4833,
+            "y": 0.2823,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 56",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4833,
+            "y": 0.5088,
+            "w": 0.075,
+            "h": 0.1333
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 3,
+          "claim": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s22",
+      "title_guess": "问题评估",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-right:3,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 31,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 4,
+        "text_area": 0.181,
+        "image_area": 0,
+        "shape_area": 0.1151,
+        "text_blob": "问题评估 标题关键字 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 标题关键字 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 标题关键字 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改 标题关键字 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0399,
+            "y": 0.2667,
+            "w": 0.2294,
+            "h": 0.4403
+          },
+          "area": 0.101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 73",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3184,
+            "y": 0.4033,
+            "w": 0.1255,
+            "h": 0.2618
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 118",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4798,
+            "y": 0.4033,
+            "w": 0.1255,
+            "h": 0.2618
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 124",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6412,
+            "y": 0.4033,
+            "w": 0.1255,
+            "h": 0.2618
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 130",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8027,
+            "y": 0.4033,
+            "w": 0.1255,
+            "h": 0.2618
+          },
+          "area": 0.0329,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容酌情修改",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "问题评估",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 64",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1843,
+            "y": 0.8301,
+            "w": 0.8157,
+            "h": 0.0113
+          },
+          "area": 0.0092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "TextBox 72",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3184,
+            "y": 0.3113,
+            "w": 0.1256,
+            "h": 0.0586
+          },
+          "area": 0.0074,
+          "text": "标题关键字",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 117",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4798,
+            "y": 0.3113,
+            "w": 0.1256,
+            "h": 0.0586
+          },
+          "area": 0.0074,
+          "text": "标题关键字",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 123",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6412,
+            "y": 0.3113,
+            "w": 0.1256,
+            "h": 0.0586
+          },
+          "area": 0.0074,
+          "text": "标题关键字",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s23",
+      "title_guess": "成果形式",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:2,bottom-center:2,bottom-left:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2308,
+        "image_area": 0,
+        "shape_area": 0.2152,
+        "text_blob": "成果形式 成果形式四 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 成果形式一 详写内容......点击输入本栏的具体文字简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 成果形式二 详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 成果形式三 详写内容......点击输入本栏的具体文字简明扼要的说明分项内容,此为概念图解,请根据您的具体内容 研究成果 1 2 3 4",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4772,
+            "y": 0.2926,
+            "w": 0.1739,
+            "h": 0.3091
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3523,
+            "y": 0.2926,
+            "w": 0.1739,
+            "h": 0.3091
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 25",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4772,
+            "y": 0.5164,
+            "w": 0.1739,
+            "h": 0.3091
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3523,
+            "y": 0.5164,
+            "w": 0.1739,
+            "h": 0.3091
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1094,
+            "y": 0.2463,
+            "w": 0.3048,
+            "h": 0.1305
+          },
+          "area": 0.0398,
+          "text": "详写内容......点击输入本栏的具体文字简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 40",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1123,
+            "y": 0.7633,
+            "w": 0.3019,
+            "h": 0.1305
+          },
+          "area": 0.0394,
+          "text": "详写内容......点击输入本栏的具体文字简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6259,
+            "y": 0.7633,
+            "w": 0.2742,
+            "h": 0.1305
+          },
+          "area": 0.0358,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6259,
+            "y": 0.2463,
+            "w": 0.2742,
+            "h": 0.1305
+          },
+          "area": 0.0358,
+          "text": "详写内容......点击输入本栏的具体文字,简明扼要的说明分项内容,此为概念图解,请根据您的具体内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "标题 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "成果形式",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 76",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2109,
+            "y": 0.6968,
+            "w": 0.2034,
+            "h": 0.0625
+          },
+          "area": 0.0127,
+          "text": "成果形式三",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s24",
+      "title_guess": "相关建议与论文总结",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-right:4,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 2,
+        "text_area": 0.1782,
+        "image_area": 1.3025,
+        "shape_area": 0,
+        "text_blob": "相关建议与论文总结 Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 选题背景 研究意义 理论基础 贡献创新 05 PART",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0866,
+            "y": -0.3713,
+            "w": 1.0786,
+            "h": 1.2076
+          },
+          "area": 1.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.154,
+            "y": 0.5291,
+            "w": 0.1916,
+            "h": 0.3231
+          },
+          "area": 0.0619,
+          "text": "05",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.457,
+            "y": 0.5716,
+            "w": 0.4884,
+            "h": 0.1122
+          },
+          "area": 0.0548,
+          "text": "相关建议与论文总结",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4595,
+            "y": 0.6857,
+            "w": 0.4258,
+            "h": 0.0942
+          },
+          "area": 0.0401,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1668,
+            "y": 0.8171,
+            "w": 0.1657,
+            "h": 0.0539
+          },
+          "area": 0.0089,
+          "text": "PART",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6513,
+            "y": 0.8245,
+            "w": 0.0981,
+            "h": 0.0323
+          },
+          "area": 0.0032,
+          "text": "理论基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "选题背景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.8245,
+            "w": 0.1052,
+            "h": 0.0296
+          },
+          "area": 0.0031,
+          "text": "研究意义",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7509,
+            "y": 0.8245,
+            "w": 0.0972,
+            "h": 0.0323
+          },
+          "area": 0.0031,
+          "text": "贡献创新",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 5",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4643,
+            "y": 0.7962,
+            "w": 0.4197,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s25",
+      "title_guess": "研究总结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:6,middle-center:2,top-center:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 31,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1544,
+        "image_area": 0,
+        "shape_area": 0.1482,
+        "text_blob": "研究总结 01 点击输入本栏的具体文字,简明扼要的说明分项内容 结论一 点击输入本栏的具体文字,简明扼要的说明分项内容 结论二 点击输入本栏的具体文字,简明扼要的说明分项内容 结论四 点击输入本栏的具体文字,简明扼要的说明分项内容 结论五 点击输入本栏的具体文字,简明扼要的说明分项内容 结论三 点击输入本栏的具体文字,简明扼要的说明分项内容 结论六 02 03 04 05 06",
+        "title_like": 0,
+        "body_like": 12
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3516,
+            "y": 0.0616,
+            "w": 0.2977,
+            "h": 0.0665
+          },
+          "area": 0.0198,
+          "text": "研究总结",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2788,
+            "w": 0.0939,
+            "h": 0.1542
+          },
+          "area": 0.0145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "TextBox 42",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2499,
+            "y": 0.3577,
+            "w": 0.2044,
+            "h": 0.0619
+          },
+          "area": 0.0127,
+          "text": "点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 42",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2499,
+            "y": 0.5648,
+            "w": 0.2044,
+            "h": 0.0619
+          },
+          "area": 0.0127,
+          "text": "点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 42",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6529,
+            "y": 0.3577,
+            "w": 0.2044,
+            "h": 0.0619
+          },
+          "area": 0.0127,
+          "text": "点击输入本栏的具体文字,简明扼要的说明分项内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "claim": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s26",
+      "title_guess": "应用领域",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:2,top-center:2,middle-center:1",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.2191,
+        "image_area": 0.3166,
+        "shape_area": 0,
+        "text_blob": "应用领域 1 添加标题文字 坚持入门、中端、高端三款产品同步发力,满足不同层次需求的消费者的理念。 2 添加标题文字 在某某市场方面继续发力,在未来三年培养成公司主要收入来源。 3 添加标题文字 加大到网络渠道的投入,天猫和京东旗舰店销售额力争上升到30%。 研究成果应用领域",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5323,
+            "y": 0.2979,
+            "w": 0.3923,
+            "h": 0.559
+          },
+          "area": 0.2193,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5882,
+            "y": 0.3574,
+            "w": 0.2862,
+            "h": 0.3399
+          },
+          "area": 0.0973,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 17",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1483,
+            "y": 0.1787,
+            "w": 0.3805,
+            "h": 0.1531
+          },
+          "area": 0.0583,
+          "text": "添加标题文字 坚持入门、中端、高端三款产品同步发力,满足不同层次需求的消费者的理念。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 20",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1483,
+            "y": 0.4008,
+            "w": 0.3805,
+            "h": 0.1531
+          },
+          "area": 0.0583,
+          "text": "添加标题文字 在某某市场方面继续发力,在未来三年培养成公司主要收入来源。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 23",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1483,
+            "y": 0.6352,
+            "w": 0.3672,
+            "h": 0.1531
+          },
+          "area": 0.0562,
+          "text": "添加标题文字 加大到网络渠道的投入,天猫和京东旗舰店销售额力争上升到30%。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3354,
+            "y": 0.0627,
+            "w": 0.33,
+            "h": 0.0665
+          },
+          "area": 0.0219,
+          "text": "应用领域",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6554,
+            "y": 0.7655,
+            "w": 0.1498,
+            "h": 0.0529
+          },
+          "area": 0.0079,
+          "text": "研究成果应用领域",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Oval 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.2002,
+            "w": 0.0558,
+            "h": 0.0989
+          },
+          "area": 0.0055,
+          "text": "1",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Oval 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.4265,
+            "w": 0.0558,
+            "h": 0.0989
+          },
+          "area": 0.0055,
+          "text": "2",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Oval 17",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.6539,
+            "w": 0.0558,
+            "h": 0.0989
+          },
+          "area": 0.0055,
+          "text": "3",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s27",
+      "title_guess": "应用前景",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:3,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 31,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 4,
+        "text_area": 0.1946,
+        "image_area": 0,
+        "shape_area": 0.1248,
+        "text_blob": "应用前景 前景一 前景二 前景三 前景四 添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述 添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述 添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的 添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述文字说明关键性关键性描述文字说明描述 应用前景描述 坚持入门、中端、高端三款产品同步发力,满足不同层次需求的消费者的理念。",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "右箭头 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2382,
+            "y": 0.2671,
+            "w": 0.1511,
+            "h": 0.3146
+          },
+          "area": 0.0475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 60",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.2806,
+            "w": 0.3145,
+            "h": 0.1266
+          },
+          "area": 0.0398,
+          "text": "应用前景描述 坚持入门、中端、高端三款产品同步发力,满足不同层次需求的消费者的理念。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 59",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.4435,
+            "w": 0.3029,
+            "h": 0.1104
+          },
+          "area": 0.0334,
+          "text": "添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述文字说明关键性关键性描述文字说明描述",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1376,
+            "y": 0.7769,
+            "w": 0.3521,
+            "h": 0.0685
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 56",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.7934,
+            "w": 0.3029,
+            "h": 0.0781
+          },
+          "area": 0.0237,
+          "text": "添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 57",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.6908,
+            "w": 0.3029,
+            "h": 0.0781
+          },
+          "area": 0.0237,
+          "text": "添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的关键性描述",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 58",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.5978,
+            "w": 0.3029,
+            "h": 0.0781
+          },
+          "area": 0.0237,
+          "text": "添加您的关键性描述文字说明添加您的关键性描述文字说明添加您的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "标题 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3308,
+            "y": 0.0566,
+            "w": 0.3394,
+            "h": 0.0665
+          },
+          "area": 0.0226,
+          "text": "应用前景",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 33",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1828,
+            "y": 0.6805,
+            "w": 0.2631,
+            "h": 0.0686
+          },
+          "area": 0.018,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2236,
+            "y": 0.5854,
+            "w": 0.1814,
+            "h": 0.0686
+          },
+          "area": 0.0124,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "claim": 3,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s28",
+      "title_guess": "可行性说明",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,bottom-center:3,middle-center:3",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 31,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.3114,
+        "image_area": 0,
+        "shape_area": 0.4845,
+        "text_blob": "可行性说明 可行性一 本课题具有较高的学术研究价值,可以某某某研究提供相应的理论基础。本课题具有较高的学术研究价值,可以某某某研究提供相应的理论基础。 可行性二 本课题能有效地提高工作效率,降低成本,经济效益比较明显。本课题能有效地提高工作效率,降低成本本课题具有较高的学术研究价值 可行性三 请在这里输入您的文字请在这里输入您的文字请在这里输入您的文字请在这里输入您的文字本课题具有较高的学术研究价值 可行性说明",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 9",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3077,
+            "y": 0.1945,
+            "w": 0.5839,
+            "h": 0.1967
+          },
+          "area": 0.1149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3077,
+            "y": 0.7046,
+            "w": 0.5839,
+            "h": 0.1967
+          },
+          "area": 0.1149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3077,
+            "y": 0.4493,
+            "w": 0.5839,
+            "h": 0.1964
+          },
+          "area": 0.1147,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 17",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.323,
+            "y": 0.2591,
+            "w": 0.5584,
+            "h": 0.139
+          },
+          "area": 0.0776,
+          "text": "本课题具有较高的学术研究价值,可以某某某研究提供相应的理论基础。本课题具有较高的学术研究价值,可以某某某研究提供相应的理论基础。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 19",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.323,
+            "y": 0.5118,
+            "w": 0.5584,
+            "h": 0.139
+          },
+          "area": 0.0776,
+          "text": "本课题能有效地提高工作效率,降低成本,经济效益比较明显。本课题能有效地提高工作效率,降低成本本课题具有较高的学术研究价值",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 21",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.323,
+            "y": 0.7665,
+            "w": 0.5584,
+            "h": 0.0983
+          },
+          "area": 0.0549,
+          "text": "请在这里输入您的文字请在这里输入您的文字请在这里输入您的文字请在这里输入您的文字本课题具有较高的学术研究价值",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0934,
+            "y": 0.3889,
+            "w": 0.1694,
+            "h": 0.2606
+          },
+          "area": 0.0441,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4544,
+            "y": 0.3998,
+            "w": 0.2937,
+            "h": 0.0852
+          },
+          "area": 0.025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 15",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4544,
+            "y": 0.6554,
+            "w": 0.2937,
+            "h": 0.0852
+          },
+          "area": 0.025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4544,
+            "y": 0.1452,
+            "w": 0.2937,
+            "h": 0.0849
+          },
+          "area": 0.0249,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 2,
+          "label": 3,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s29",
+      "title_guess": "成绩与思考",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 26,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 26,
+        "connector_count": 0,
+        "text_area": 0.1609,
+        "image_area": 0,
+        "shape_area": 1.115,
+        "text_blob": "成绩与思考 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 成绩与思考",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 59",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3148,
+            "y": 0.2576,
+            "w": 0.3703,
+            "h": 0.6583
+          },
+          "area": 0.2438,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 28",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3291,
+            "y": 0.2856,
+            "w": 0.3419,
+            "h": 0.6078
+          },
+          "area": 0.2078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 84",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3751,
+            "y": 0.3648,
+            "w": 0.2497,
+            "h": 0.4439
+          },
+          "area": 0.1108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 85",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3864,
+            "y": 0.3848,
+            "w": 0.2272,
+            "h": 0.4039
+          },
+          "area": 0.0918,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.089,
+            "y": 0.7673,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 30",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6738,
+            "y": 0.7743,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0487,
+            "y": 0.5161,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7152,
+            "y": 0.5103,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6799,
+            "y": 0.2801,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 58",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.2801,
+            "w": 0.2401,
+            "h": 0.1584
+          },
+          "area": 0.038,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s30",
+      "title_guess": "参考文献",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "top-left:7,middle-left:2,top-center:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 31,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 6,
+        "text_area": 0.1227,
+        "image_area": 0,
+        "shape_area": 0.0767,
+        "text_blob": "参考文献 01 《具体参考文献名称》某作者 点击输入简要说明分项内容 02 《具体参考文献名称》某作者 点击输入简要说明分项内容 03 《具体参考文献名称》某作者 点击输入简要说明分项内容 04 《具体参考文献名称》某作者 点击输入简要说明分项内容 05 《具体参考文献名称》某作者 点击输入简要说明分项内容 06 《具体参考文献名称》某作者 点击输入简要说明分项内容",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Oval 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1347,
+            "y": 0.4076,
+            "w": 0.1945,
+            "h": 0.3457
+          },
+          "area": 0.0672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "标题 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3404,
+            "y": 0.0619,
+            "w": 0.3206,
+            "h": 0.0665
+          },
+          "area": 0.0213,
+          "text": "参考文献",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Freeform 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1856,
+            "y": 0.5279,
+            "w": 0.0899,
+            "h": 0.1052
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 54",
+          "role": "claim",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1061,
+            "y": 0.2537,
+            "w": 0.2388,
+            "h": 0.0294
+          },
+          "area": 0.007,
+          "text": "点击输入简要说明分项内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 53",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": -0.1128,
+            "y": 0.2492,
+            "w": 0.1942,
+            "h": 0.0345
+          },
+          "area": 0.0067,
+          "text": "《具体参考文献名称》某作者",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 6,
+          "claim": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 31,
+      "slide_id": "31",
+      "framework_id": "毕业答辩-20-动态-7da3a081-s31",
+      "title_guess": "Contracted wind powerpoint template designs contra",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-right:5,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 31,
+        "total_slides": 31,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2603,
+        "image_area": 1.0,
+        "shape_area": 0.0,
+        "text_blob": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint template designs contracted wind powerpoint template designs 答辩完毕 感谢指导 LOGO 学校名称 THANK . YOU",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 65",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0015,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 259",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2917,
+            "y": 0.3315,
+            "w": 0.6784,
+            "h": 0.217
+          },
+          "area": 0.1472,
+          "text": "THANK . YOU",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 259",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4131,
+            "y": 0.5418,
+            "w": 0.5522,
+            "h": 0.1184
+          },
+          "area": 0.0654,
+          "text": "答辩完毕 感谢指导",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 259",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4684,
+            "y": 0.678,
+            "w": 0.491,
+            "h": 0.0808
+          },
+          "area": 0.0397,
+          "text": "Contracted wind powerpoint template designs contracted wind Powerpointtemplate designs contracted wind powerpoint templa",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 61",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8349,
+            "y": 0.0484,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "学校名称",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 60",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7696,
+            "y": 0.0456,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 57",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.787,
+            "y": 0.1009,
+            "w": 0.0053,
+            "h": 0.0094
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 58",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8026,
+            "y": 0.1009,
+            "w": 0.0053,
+            "h": 0.0094
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 59",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8182,
+            "y": 0.1009,
+            "w": 0.0053,
+            "h": 0.0094
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 2,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究背景",
+        "方法",
+        "结果",
+        "致谢"
+      ],
+      "avoid_for": [
+        "活动海报",
+        "娱乐风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 31,
+    "layout_job_counts": {
+      "flow-diagram": 11,
+      "image-hero": 6,
+      "table": 4,
+      "process-strip": 2,
+      "limitations-future": 2,
+      "cover-statement": 1,
+      "two-column": 1,
+      "claim-evidence": 1,
+      "matrix-grid": 1,
+      "research-question": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 25,
+      "text": 2,
+      "mixed": 2,
+      "image": 2
+    },
+    "density_counts": {
+      "medium-high": 21,
+      "medium": 7,
+      "high": 3
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "image-hero",
+      "table",
+      "process-strip",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "mixed"
+    ]
+  }
+}

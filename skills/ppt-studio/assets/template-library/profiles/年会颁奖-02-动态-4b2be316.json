@@ -1,0 +1,4759 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:22.722983+00:00",
+  "template_id": "年会颁奖-02-动态-4b2be316",
+  "template_profile_path": "assets/template-library/profiles/年会颁奖-02-动态-4b2be316.json",
+  "source_template": {
+    "name": "年会颁奖(02)—动态.pptx",
+    "category": "年会颁奖（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(02)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 23,
+    "media_count": 80,
+    "image_media_count": 76,
+    "motion_hint": "dynamic",
+    "tags": [
+      "庆典活动",
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会",
+      "封面",
+      "节目/奖项",
+      "致辞",
+      "颁奖",
+      "合影/结束",
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈",
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片",
+      "短口号",
+      "奖项名称",
+      "名单",
+      "动态版",
+      "可动效",
+      "中",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "庆典活动",
+    "scenario": [
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会"
+    ],
+    "best_for": [
+      "年会",
+      "颁奖",
+      "活动开场"
+    ],
+    "avoid": [
+      "科研申报",
+      "技术说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "节目单",
+      "奖项页",
+      "致辞页",
+      "结束页"
+    ],
+    "visual": [
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈"
+    ],
+    "image_strategy": [
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片"
+    ],
+    "text_strategy": [
+      "短口号",
+      "奖项名称",
+      "名单"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "matrix-grid",
+      "flow-diagram",
+      "claim-evidence",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "mixed",
+      "image"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "footer",
+      "label",
+      "decorative-shape",
+      "image",
+      "body",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "middle-center",
+      "bottom-right",
+      "middle-left",
+      "top-center",
+      "middle-right",
+      "bottom-center"
+    ],
+    "template_text_signature": "2025年某某有限公司跨年晚会 目录/CONTENTS 企业成长故事 企业成长故事 企业成长故事 企业成长故事 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 团队风采展示 团队风采展示 团队风采展示 团队风采展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单 行业趋势洞察 行业趋势洞察 行业趋势洞察 行业趋势洞察 行业趋势洞察 未来发展规划 未来发展规划 未来发展规划 凝心聚力 筑梦未来 未来发展",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s01",
+      "title_guess": "2025年某某有限公司跨年晚会",
+      "layout_job": "cover-statement",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-right:3,middle-right:3,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 23,
+        "text_count": 3,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.0379,
+        "image_area": 0.1507,
+        "shape_area": 0,
+        "text_blob": "2025年某某有限公司跨年晚会 HAPPY NEW YEAR 中国•上海",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4237,
+            "y": 0.1754,
+            "w": 0.4849,
+            "h": 0.2518
+          },
+          "area": 0.1221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4536,
+            "y": 0.6144,
+            "w": 0.4311,
+            "h": 0.0404
+          },
+          "area": 0.0174,
+          "text": "HAPPY NEW YEAR",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5212,
+            "y": 0.473,
+            "w": 0.296,
+            "h": 0.0583
+          },
+          "area": 0.0173,
+          "text": "2025年某某有限公司跨年晚会",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6956,
+            "y": 0.1603,
+            "w": 0.0889,
+            "h": 0.1109
+          },
+          "area": 0.0099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.6095,
+            "y": 0.3515,
+            "w": 0.0801,
+            "h": 0.0998
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8172,
+            "y": 0.2527,
+            "w": 0.0709,
+            "h": 0.0885
+          },
+          "area": 0.0063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.475,
+            "y": -0.172,
+            "w": 0.05,
+            "h": 0.0889
+          },
+          "area": 0.0044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6239,
+            "y": 0.5438,
+            "w": 0.0905,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "中国•上海",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s02",
+      "title_guess": "目录/CONTENTS",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:9,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 23,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 3,
+        "text_area": 0.2616,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "01 企业成长故事 You can also format the appropriate text 02 团队风采展示 You can also format the appropriate text 03 行业趋势洞察 You can also format the appropriate text 04 未来发展规划 You can also format the appropriate text 目录/CONTENTS",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "section_label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2118,
+            "y": 0.1492,
+            "w": 0.5764,
+            "h": 0.1481
+          },
+          "area": 0.0854,
+          "text": "目录/CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1161,
+            "y": 0.4899,
+            "w": 0.2173,
+            "h": 0.0807
+          },
+          "area": 0.0175,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.4899,
+            "w": 0.2098,
+            "h": 0.0807
+          },
+          "area": 0.0169,
+          "text": "企业成长故事",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.4899,
+            "w": 0.2098,
+            "h": 0.0807
+          },
+          "area": 0.0169,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.4899,
+            "w": 0.2098,
+            "h": 0.0807
+          },
+          "area": 0.0169,
+          "text": "未来发展规划",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1799,
+            "y": 0.3056,
+            "w": 0.0896,
+            "h": 0.1593
+          },
+          "area": 0.0143,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1799,
+            "y": 0.3056,
+            "w": 0.0896,
+            "h": 0.1593
+          },
+          "area": 0.0143,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1799,
+            "y": 0.3056,
+            "w": 0.0896,
+            "h": 0.1593
+          },
+          "area": 0.0143,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1799,
+            "y": 0.3056,
+            "w": 0.0896,
+            "h": 0.1593
+          },
+          "area": 0.0143,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1461,
+            "y": 0.5712,
+            "w": 0.1572,
+            "h": 0.081
+          },
+          "area": 0.0127,
+          "text": "You can also format the appropriate text",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12,
+          "section_label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s03",
+      "title_guess": "企业成长故事",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 23,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1535,
+        "image_area": 0,
+        "shape_area": 0.0343,
+        "text_blob": "企业成长故事 壹 CHINESE STYLE 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果 公司名",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0173,
+            "y": 0.3757,
+            "w": 0.587,
+            "h": 0.1616
+          },
+          "area": 0.0949,
+          "text": "企业成长故事",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4264,
+            "y": 0.2452,
+            "w": 0.1346,
+            "h": 0.2393
+          },
+          "area": 0.0322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.142,
+            "y": 0.5315,
+            "w": 0.3376,
+            "h": 0.0898
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.433,
+            "y": 0.2604,
+            "w": 0.1213,
+            "h": 0.2022
+          },
+          "area": 0.0245,
+          "text": "壹",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5326,
+            "y": 0.4175,
+            "w": 0.0309,
+            "h": 0.0844
+          },
+          "area": 0.0026,
+          "text": "CHINESE STYLE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2003,
+            "w": 0.0258,
+            "h": 0.0797
+          },
+          "area": 0.0021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3862,
+            "y": 0.2105,
+            "w": 0.0187,
+            "h": 0.0646
+          },
+          "area": 0.0012,
+          "text": "公司名",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s04",
+      "title_guess": "企业成长故事",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 17,
+        "image": 7,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 23,
+        "text_count": 17,
+        "image_count": 7,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 4,
+        "text_area": 0.1804,
+        "image_area": 0.1547,
+        "shape_area": 1.045,
+        "text_blob": "企业成长故事 壹 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0563,
+            "y": 0.4712,
+            "w": 0.8874,
+            "h": 0.4815
+          },
+          "area": 0.4273,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0002,
+            "y": 0.1787,
+            "w": 0.9456,
+            "h": 0.374
+          },
+          "area": 0.3537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6253,
+            "y": 0.1787,
+            "w": 0.3745,
+            "h": 0.3736
+          },
+          "area": 0.1399,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.653,
+            "h": 0.0766
+          },
+          "area": 0.05,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1214,
+            "y": 0.5112,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3799,
+            "y": 0.5094,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6385,
+            "y": 0.5076,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3799,
+            "y": 0.7254,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6385,
+            "y": 0.7236,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1214,
+            "y": 0.7272,
+            "w": 0.2401,
+            "h": 0.1834
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 16
+        },
+        "image": {
+          "image": 7
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s05",
+      "title_guess": "企业成长故事",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:10",
+      "counts": {
+        "text": 15,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 23,
+        "text_count": 15,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 5,
+        "text_area": 0.228,
+        "image_area": 0.1554,
+        "shape_area": 0.7144,
+        "text_blob": "企业成长故事 壹 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3533,
+            "y": 0.2746,
+            "w": 0.2933,
+            "h": 0.5215
+          },
+          "area": 0.153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3542,
+            "y": 0.2761,
+            "w": 0.2917,
+            "h": 0.5185
+          },
+          "area": 0.1512,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3784,
+            "y": 0.3296,
+            "w": 0.2454,
+            "h": 0.4362
+          },
+          "area": 0.107,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3898,
+            "y": 0.35,
+            "w": 0.2225,
+            "h": 0.3955
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3898,
+            "y": 0.35,
+            "w": 0.2225,
+            "h": 0.3955
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3647,
+            "y": 0.2511,
+            "w": 0.2726,
+            "h": 0.2472
+          },
+          "area": 0.0674,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2276,
+            "y": 0.39,
+            "w": 0.2724,
+            "h": 0.197
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5009,
+            "y": 0.39,
+            "w": 0.2724,
+            "h": 0.197
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2276,
+            "y": 0.39,
+            "w": 0.2724,
+            "h": 0.197
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5009,
+            "y": 0.39,
+            "w": 0.2724,
+            "h": 0.197
+          },
+          "area": 0.0537,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 14
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s06",
+      "title_guess": "企业成长故事",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 12,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 23,
+        "text_count": 12,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 7,
+        "text_area": 0.2129,
+        "image_area": 0.3613,
+        "shape_area": 0.0985,
+        "text_blob": "企业成长故事 壹 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果; 请添加小标题 01 02 03",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0129,
+            "y": 0.1627,
+            "w": 0.3076,
+            "h": 0.8091
+          },
+          "area": 0.2489,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0545,
+            "y": 0.2454,
+            "w": 0.1707,
+            "h": 0.6477
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.3939,
+            "h": 0.117
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.3939,
+            "h": 0.117
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.3939,
+            "h": 0.117
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4018,
+            "y": 0.1824,
+            "w": 0.1083,
+            "h": 0.3208
+          },
+          "area": 0.0347,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "企业成长故事",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2181,
+            "y": 0.6409,
+            "w": 0.072,
+            "h": 0.2692
+          },
+          "area": 0.0194,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.4366,
+            "w": 0.072,
+            "h": 0.2561
+          },
+          "area": 0.0184,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.8733,
+            "w": 0.2902,
+            "h": 0.0514
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 8
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s07",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:7,middle-center:1,top-left:1",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 23,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 11,
+        "text_area": 0.2134,
+        "image_area": 0,
+        "shape_area": 0.0942,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 添加标题 20XX 20XX 20XX 20XX 20XX 20XX 20XX 20XX 企业成长故事 壹 Click to add your chapter title",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4716,
+            "y": -0.3228,
+            "w": 0.0237,
+            "h": 1.7189
+          },
+          "area": 0.0407,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "企业成长故事",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 1.007,
+            "y": 1.1162,
+            "w": 0.1567,
+            "h": 0.117
+          },
+          "area": 0.0183,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 24,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s08",
+      "title_guess": "团队风采展示",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 23,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1535,
+        "image_area": 0,
+        "shape_area": 0.0343,
+        "text_blob": "团队风采展示 贰 CHINESE STYLE 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果 公司名",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0173,
+            "y": 0.3757,
+            "w": 0.587,
+            "h": 0.1616
+          },
+          "area": 0.0949,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4264,
+            "y": 0.2452,
+            "w": 0.1346,
+            "h": 0.2393
+          },
+          "area": 0.0322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.142,
+            "y": 0.5315,
+            "w": 0.3376,
+            "h": 0.0898
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.433,
+            "y": 0.2604,
+            "w": 0.1213,
+            "h": 0.2022
+          },
+          "area": 0.0245,
+          "text": "贰",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5326,
+            "y": 0.4175,
+            "w": 0.0309,
+            "h": 0.0844
+          },
+          "area": 0.0026,
+          "text": "CHINESE STYLE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2003,
+            "w": 0.0258,
+            "h": 0.0797
+          },
+          "area": 0.0021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3862,
+            "y": 0.2105,
+            "w": 0.0187,
+            "h": 0.0646
+          },
+          "area": 0.0012,
+          "text": "公司名",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s09",
+      "title_guess": "团队风采展示",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,top-left:2,middle-right:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 23,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 5,
+        "text_area": 0.1884,
+        "image_area": 0.2317,
+        "shape_area": 0.0,
+        "text_blob": "团队风采展示 贰 Click to add your chapter title 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 20XX 750+ 50% 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5933,
+            "y": 0.2307,
+            "w": 0.3435,
+            "h": 0.6744
+          },
+          "area": 0.2317,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0522,
+            "y": 0.4044,
+            "w": 0.4907,
+            "h": 0.117
+          },
+          "area": 0.0574,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0522,
+            "y": 0.6861,
+            "w": 0.1817,
+            "h": 0.1574
+          },
+          "area": 0.0286,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2656,
+            "y": 0.6861,
+            "w": 0.1817,
+            "h": 0.1574
+          },
+          "area": 0.0286,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.051,
+            "y": 0.3451,
+            "w": 0.3036,
+            "h": 0.0539
+          },
+          "area": 0.0164,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0447,
+            "y": 0.5957,
+            "w": 0.1479,
+            "h": 0.0853
+          },
+          "area": 0.0126,
+          "text": "750+",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2589,
+            "y": 0.5957,
+            "w": 0.1479,
+            "h": 0.0853
+          },
+          "area": 0.0126,
+          "text": "50%",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0522,
+            "y": 0.2961,
+            "w": 0.0608,
+            "h": 0.0375
+          },
+          "area": 0.0023,
+          "text": "20XX",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s10",
+      "title_guess": "团队风采展示",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-right:4,middle-left:2,middle-right:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 8,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 23,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 7,
+        "text_area": 0.1547,
+        "image_area": 0.081,
+        "shape_area": 0.303,
+        "text_blob": "团队风采展示 贰 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1495,
+            "y": -0.0461,
+            "w": 0.7103,
+            "h": 1.0545
+          },
+          "area": 0.749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4524,
+            "y": 0.4633,
+            "w": 0.5195,
+            "h": 0.1942
+          },
+          "area": 0.1009,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4524,
+            "y": 0.6949,
+            "w": 0.5195,
+            "h": 0.1942
+          },
+          "area": 0.1009,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4524,
+            "y": 0.2318,
+            "w": 0.5195,
+            "h": 0.1942
+          },
+          "area": 0.1009,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.109,
+            "y": 0.3676,
+            "w": 0.2135,
+            "h": 0.3796
+          },
+          "area": 0.081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.4687,
+            "h": 0.0766
+          },
+          "area": 0.0359,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.4687,
+            "h": 0.0766
+          },
+          "area": 0.0359,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.4687,
+            "h": 0.0766
+          },
+          "area": 0.0359,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s11",
+      "title_guess": "团队风采展示",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:5,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 23,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.117,
+        "image_area": 0.58,
+        "shape_area": 0.4923,
+        "text_blob": "团队风采展示 贰 Click to add your chapter title 《相亲相爱一家人》 演出节目单 《相亲相爱一家人》 《添加节目名称》 《添加节目名称》 《添加节目名称》 《添加节目名称》 《添加节目名称》 《添加节目名称》 《添加节目名称》 《添加节目名称》",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4756,
+            "y": 0.0293,
+            "w": 0.58,
+            "h": 1.0
+          },
+          "area": 0.58,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0981,
+            "y": 0.4231,
+            "w": 0.5207,
+            "h": 0.4462
+          },
+          "area": 0.2323,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0981,
+            "y": 0.4231,
+            "w": 0.5207,
+            "h": 0.4462
+          },
+          "area": 0.2323,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.3083,
+            "w": 0.3297,
+            "h": 0.0841
+          },
+          "area": 0.0277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1716,
+            "y": 0.319,
+            "w": 0.1473,
+            "h": 0.0628
+          },
+          "area": 0.0093,
+          "text": "演出节目单",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.4822,
+            "w": 0.1893,
+            "h": 0.0449
+          },
+          "area": 0.0085,
+          "text": "《相亲相爱一家人》",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.5521,
+            "w": 0.1893,
+            "h": 0.0449
+          },
+          "area": 0.0085,
+          "text": "《相亲相爱一家人》",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.622,
+            "w": 0.1683,
+            "h": 0.0449
+          },
+          "area": 0.0076,
+          "text": "《添加节目名称》",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s12",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:4,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 15,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 12
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 23,
+        "text_count": 15,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 12,
+        "text_area": 0.2019,
+        "image_area": 0.2372,
+        "shape_area": 0.0,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文, 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文, 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文, 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文, 请添加小标题 01. 02. 03. 04. 团队风采展示 贰 Click to add your chapter title",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.042,
+            "y": 0.2424,
+            "w": 0.2127,
+            "h": 0.2789
+          },
+          "area": 0.0593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5118,
+            "y": 0.2424,
+            "w": 0.2127,
+            "h": 0.2789
+          },
+          "area": 0.0593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7467,
+            "y": 0.2424,
+            "w": 0.2127,
+            "h": 0.2789
+          },
+          "area": 0.0593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2769,
+            "y": 0.2424,
+            "w": 0.2127,
+            "h": 0.2789
+          },
+          "area": 0.0593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2064,
+            "h": 0.1574
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2064,
+            "h": 0.1574
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2064,
+            "h": 0.1574
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2064,
+            "h": 0.1574
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "团队风采展示",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10,
+          "label": 5
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s13",
+      "title_guess": "行业趋势洞察",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 23,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1535,
+        "image_area": 0,
+        "shape_area": 0.0343,
+        "text_blob": "行业趋势洞察 叁 CHINESE STYLE 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果 公司名",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0173,
+            "y": 0.3757,
+            "w": 0.587,
+            "h": 0.1616
+          },
+          "area": 0.0949,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4264,
+            "y": 0.2452,
+            "w": 0.1346,
+            "h": 0.2393
+          },
+          "area": 0.0322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.142,
+            "y": 0.5315,
+            "w": 0.3376,
+            "h": 0.0898
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.433,
+            "y": 0.2604,
+            "w": 0.1213,
+            "h": 0.2022
+          },
+          "area": 0.0245,
+          "text": "叁",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5326,
+            "y": 0.4175,
+            "w": 0.0309,
+            "h": 0.0844
+          },
+          "area": 0.0026,
+          "text": "CHINESE STYLE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2003,
+            "w": 0.0258,
+            "h": 0.0797
+          },
+          "area": 0.0021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3862,
+            "y": 0.2105,
+            "w": 0.0187,
+            "h": 0.0646
+          },
+          "area": 0.0012,
+          "text": "公司名",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s14",
+      "title_guess": "行业趋势洞察",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:2,bottom-right:2,unknown:2",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 23,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.1326,
+        "image_area": 0.2419,
+        "shape_area": 0.0,
+        "text_blob": "行业趋势洞察 叁 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息;单击此处输入你的正文。 请添加小标题 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0956,
+            "y": 0.312,
+            "w": 0.2135,
+            "h": 0.4905
+          },
+          "area": 0.1047,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2663,
+            "y": 0.3587,
+            "w": 0.1728,
+            "h": 0.3972
+          },
+          "area": 0.0686,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0346,
+            "y": 0.3587,
+            "w": 0.1728,
+            "h": 0.3972
+          },
+          "area": 0.0686,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5893,
+            "y": 0.5635,
+            "w": 0.3874,
+            "h": 0.0901
+          },
+          "area": 0.0349,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5903,
+            "y": 0.7208,
+            "w": 0.3763,
+            "h": 0.0901
+          },
+          "area": 0.0339,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5903,
+            "y": 0.7208,
+            "w": 0.3763,
+            "h": 0.0901
+          },
+          "area": 0.0339,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 7,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s15",
+      "title_guess": "行业趋势洞察",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:6,top-left:1,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 23,
+        "text_count": 13,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 9,
+        "text_area": 0.1369,
+        "image_area": 0.0031,
+        "shape_area": 0.0315,
+        "text_blob": "行业趋势洞察 叁 Click to add your chapter title 开始 现在 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼; 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1211,
+            "h": 0.2382
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1211,
+            "h": 0.2382
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1211,
+            "h": 0.117
+          },
+          "area": 0.0142,
+          "text": "单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1211,
+            "h": 0.117
+          },
+          "area": 0.0142,
+          "text": "单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.5549,
+            "w": 0.0571,
+            "h": 0.1016
+          },
+          "area": 0.0058,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6655,
+            "y": 0.5549,
+            "w": 0.0571,
+            "h": 0.1016
+          },
+          "area": 0.0058,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.0694,
+            "w": 0.0841,
+            "h": 0.0449
+          },
+          "area": 0.0038,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.0694,
+            "w": 0.0841,
+            "h": 0.0449
+          },
+          "area": 0.0038,
+          "text": "添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 12
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s16",
+      "title_guess": "行业趋势洞察",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-center:2,bottom-left:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 6,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 23,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 5,
+        "text_area": 0.1643,
+        "image_area": 0,
+        "shape_area": 0.1419,
+        "text_blob": "行业趋势洞察 叁 Click to add your chapter title 80% 60% 30% 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 项目名称: 项目名称: 项目名称:",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0458,
+            "y": 0.4114,
+            "w": 0.4269,
+            "h": 0.506
+          },
+          "area": 0.216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1716,
+            "y": 0.1176,
+            "w": 0.1689,
+            "h": 0.7002
+          },
+          "area": 0.1183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.559,
+            "y": 0.4841,
+            "w": 0.4747,
+            "h": 0.1971
+          },
+          "area": 0.0936,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6093,
+            "y": 0.5943,
+            "w": 0.2979,
+            "h": 0.0391
+          },
+          "area": 0.0116,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5572,
+            "y": 0.395,
+            "w": 0.1501,
+            "h": 0.0718
+          },
+          "area": 0.0108,
+          "text": "工作回顾",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6093,
+            "y": 0.6871,
+            "w": 0.2028,
+            "h": 0.0391
+          },
+          "area": 0.0079,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4975,
+            "y": 0.5847,
+            "w": 0.1011,
+            "h": 0.0583
+          },
+          "area": 0.0059,
+          "text": "项目名称:",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4975,
+            "y": 0.6775,
+            "w": 0.1011,
+            "h": 0.0583
+          },
+          "area": 0.0059,
+          "text": "项目名称:",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 8,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s17",
+      "title_guess": "行业趋势洞察",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:6,middle-center:1,top-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 23,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 7,
+        "text_area": 0.1331,
+        "image_area": 0.3856,
+        "shape_area": 0.0,
+        "text_blob": "行业趋势洞察 叁 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0003,
+            "y": 0.2185,
+            "w": 0.9996,
+            "h": 0.3858
+          },
+          "area": 0.3856,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2451,
+            "h": 0.117
+          },
+          "area": 0.0287,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2451,
+            "h": 0.117
+          },
+          "area": 0.0287,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.2451,
+            "h": 0.117
+          },
+          "area": 0.0287,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "行业趋势洞察",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.0694,
+            "w": 0.1262,
+            "h": 0.0449
+          },
+          "area": 0.0057,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.0694,
+            "w": 0.1262,
+            "h": 0.0449
+          },
+          "area": 0.0057,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.0694,
+            "w": 0.1262,
+            "h": 0.0449
+          },
+          "area": 0.0057,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s18",
+      "title_guess": "未来发展规划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 23,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1535,
+        "image_area": 0,
+        "shape_area": 0.0343,
+        "text_blob": "未来发展规划 肆 CHINESE STYLE 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果 公司名",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0173,
+            "y": 0.3757,
+            "w": 0.587,
+            "h": 0.1616
+          },
+          "area": 0.0949,
+          "text": "未来发展规划",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4264,
+            "y": 0.2452,
+            "w": 0.1346,
+            "h": 0.2393
+          },
+          "area": 0.0322,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.142,
+            "y": 0.5315,
+            "w": 0.3376,
+            "h": 0.0898
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.433,
+            "y": 0.2604,
+            "w": 0.1213,
+            "h": 0.2022
+          },
+          "area": 0.0245,
+          "text": "肆",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5326,
+            "y": 0.4175,
+            "w": 0.0309,
+            "h": 0.0844
+          },
+          "area": 0.0026,
+          "text": "CHINESE STYLE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3824,
+            "y": 0.2003,
+            "w": 0.0258,
+            "h": 0.0797
+          },
+          "area": 0.0021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3862,
+            "y": 0.2105,
+            "w": 0.0187,
+            "h": 0.0646
+          },
+          "area": 0.0012,
+          "text": "公司名",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s19",
+      "title_guess": "未来发展规划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:4,bottom-center:4,middle-center:2",
+      "counts": {
+        "text": 19,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 23,
+        "text_count": 19,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 4,
+        "text_area": 0.2459,
+        "image_area": 0.0174,
+        "shape_area": 0.31,
+        "text_blob": "未来发展规划 肆 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.297,
+            "y": 0.2393,
+            "w": 0.4053,
+            "h": 0.6285
+          },
+          "area": 0.2547,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2932,
+            "y": 0.405,
+            "w": 0.4128,
+            "h": 0.1339
+          },
+          "area": 0.0553,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2651,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2651,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2651,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7567,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2651,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.117
+          },
+          "area": 0.0213,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 18
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s20",
+      "title_guess": "未来发展规划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:5,middle-left:1,middle-center:1",
+      "counts": {
+        "text": 9,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 23,
+        "text_count": 9,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.1328,
+        "image_area": 0.1788,
+        "shape_area": 0.377,
+        "text_blob": "未来发展规划 肆 Click to add your chapter title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6342,
+            "w": 1.0,
+            "h": 0.3658
+          },
+          "area": 0.3658,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1127,
+            "y": 0.2309,
+            "w": 0.1831,
+            "h": 0.3255
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4084,
+            "y": 0.2309,
+            "w": 0.1831,
+            "h": 0.3255
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7042,
+            "y": 0.2309,
+            "w": 0.1831,
+            "h": 0.3255
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5123,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.1574
+          },
+          "area": 0.0286,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5123,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.1574
+          },
+          "area": 0.0286,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5123,
+            "y": 1.1162,
+            "w": 0.1817,
+            "h": 0.1574
+          },
+          "area": 0.0286,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "未来发展规划",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.292,
+            "y": 0.0635,
+            "w": 0.2308,
+            "h": 0.0404
+          },
+          "area": 0.0093,
+          "text": "Click to add your chapter title",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5401,
+            "y": 1.0694,
+            "w": 0.1262,
+            "h": 0.0449
+          },
+          "area": 0.0057,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 8
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s21",
+      "title_guess": "凝心聚力 筑梦未来",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,bottom-left:2,top-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 23,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 4,
+        "text_area": 0.2645,
+        "image_area": 0,
+        "shape_area": 0.0185,
+        "text_blob": "凝心聚力 筑梦未来 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 未来发展规划 肆 Click to add your chapter title",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4108,
+            "y": 0.5606,
+            "w": 0.179,
+            "h": 0.3181
+          },
+          "area": 0.0569,
+          "text": "凝心聚力 筑梦未来",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1501,
+            "y": 0.4453,
+            "w": 0.2004,
+            "h": 0.1308
+          },
+          "area": 0.0262,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0927,
+            "y": 0.6871,
+            "w": 0.2004,
+            "h": 0.1308
+          },
+          "area": 0.0262,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6499,
+            "y": 0.4453,
+            "w": 0.2004,
+            "h": 0.1308
+          },
+          "area": 0.0262,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7069,
+            "y": 0.6871,
+            "w": 0.2004,
+            "h": 0.1308
+          },
+          "area": 0.0262,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3735,
+            "y": 0.2798,
+            "w": 0.2533,
+            "h": 0.0904
+          },
+          "area": 0.0229,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "未来发展规划",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4072,
+            "y": 0.2327,
+            "w": 0.1859,
+            "h": 0.0539
+          },
+          "area": 0.01,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1646,
+            "y": 0.3984,
+            "w": 0.1859,
+            "h": 0.0539
+          },
+          "area": 0.01,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1072,
+            "y": 0.6401,
+            "w": 0.1859,
+            "h": 0.0539
+          },
+          "area": 0.01,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 7,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s22",
+      "title_guess": "未来发展规划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:3,middle-right:2,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 23,
+        "text_count": 9,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 5,
+        "text_area": 0.1543,
+        "image_area": 0.3397,
+        "shape_area": 0.0528,
+        "text_blob": "未来发展规划 肆 Click to add your chapter title 请添加小标题 单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击输入你的正文,请尽量言简意赅的阐述观点; 请添加小标题 单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击输入你的正文,请尽量言简意赅的阐述观点; 20XX 20XX",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5372,
+            "y": 0.2425,
+            "w": 0.3115,
+            "h": 0.3056
+          },
+          "area": 0.0952,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0631,
+            "y": 0.2428,
+            "w": 0.3115,
+            "h": 0.3049
+          },
+          "area": 0.095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2643,
+            "y": -0.0165,
+            "w": 0.3762,
+            "h": 0.1905
+          },
+          "area": 0.0717,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3683,
+            "y": -0.0165,
+            "w": 0.3762,
+            "h": 0.1905
+          },
+          "area": 0.0717,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1178,
+            "y": 0.7308,
+            "w": 0.2693,
+            "h": 0.1708
+          },
+          "area": 0.046,
+          "text": "单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击输入你的正文,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.613,
+            "y": 0.7308,
+            "w": 0.2693,
+            "h": 0.1708
+          },
+          "area": 0.046,
+          "text": "单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击输入你的正文,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3725,
+            "y": 0.2427,
+            "w": 0.0864,
+            "h": 0.3052
+          },
+          "area": 0.0264,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "赵寅PPT",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8456,
+            "y": 0.2427,
+            "w": 0.0864,
+            "h": 0.3052
+          },
+          "area": 0.0264,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "赵寅PPT",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0769,
+            "y": 0.0229,
+            "w": 0.2419,
+            "h": 0.0853
+          },
+          "area": 0.0206,
+          "text": "未来发展规划",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3477,
+            "y": 0.0495,
+            "w": 0.2095,
+            "h": 0.0583
+          },
+          "area": 0.0122,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 6,
+          "body": 2
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "年会颁奖-02-动态-4b2be316-s23",
+      "title_guess": "凝心聚力·追梦向前·再创辉煌",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-right:3,middle-right:3,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 23,
+        "text_count": 3,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.0395,
+        "image_area": 0.1463,
+        "shape_area": 0,
+        "text_blob": "凝心聚力·追梦向前·再创辉煌 HAPPY NEW YEAR 中国•上海",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4237,
+            "y": 0.1754,
+            "w": 0.4849,
+            "h": 0.2518
+          },
+          "area": 0.1221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5039,
+            "y": 0.473,
+            "w": 0.3304,
+            "h": 0.0572
+          },
+          "area": 0.0189,
+          "text": "凝心聚力·追梦向前·再创辉煌",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4536,
+            "y": 0.6144,
+            "w": 0.4311,
+            "h": 0.0404
+          },
+          "area": 0.0174,
+          "text": "HAPPY NEW YEAR",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6956,
+            "y": 0.1603,
+            "w": 0.0889,
+            "h": 0.1109
+          },
+          "area": 0.0099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.6095,
+            "y": 0.3515,
+            "w": 0.0801,
+            "h": 0.0998
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "赵寅PPT",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8172,
+            "y": 0.2527,
+            "w": 0.0709,
+            "h": 0.0885
+          },
+          "area": 0.0063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "赵寅PPT",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6239,
+            "y": 0.5438,
+            "w": 0.0905,
+            "h": 0.0359
+          },
+          "area": 0.0032,
+          "text": "中国•上海",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 23,
+    "layout_job_counts": {
+      "limitations-future": 5,
+      "matrix-grid": 4,
+      "flow-diagram": 4,
+      "claim-evidence": 3,
+      "kpi-grid": 2,
+      "image-hero": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 13,
+      "mixed": 6,
+      "image": 2,
+      "chart": 2
+    },
+    "density_counts": {
+      "medium-high": 10,
+      "high": 8,
+      "medium": 5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "matrix-grid",
+      "flow-diagram",
+      "claim-evidence",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "mixed",
+      "image"
+    ]
+  }
+}

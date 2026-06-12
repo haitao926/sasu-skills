@@ -1,0 +1,1976 @@
+{
+  "summary": {
+    "generated_at": "2026-05-30T15:20:44.254951+00:00",
+    "root": "/Users/apple/.codex/skills/ppt-studio/assets/template-library",
+    "originals_root": "/Users/apple/.codex/skills/ppt-studio/assets/template-library/originals",
+    "total_files": 91,
+    "total_size_bytes": 1420746944,
+    "extensions": {
+      "pptx": 77,
+      "otf": 14
+    },
+    "sources": {
+      "011-联合基金(亚热带岩性森林 蓝色）.pptx": 1,
+      "【锐旗设计】375套PPT集锦+预览图（图片格式）": 69,
+      "国家自然科学申报PPT(7套)": 21
+    },
+    "categories": [
+      {
+        "name": "011-联合基金(亚热带岩性森林 蓝色）.pptx",
+        "counts": {
+          "pptx": 1
+        },
+        "size_bytes": 65954141
+      },
+      {
+        "name": "企业宣传（2套）",
+        "counts": {
+          "pptx": 2
+        },
+        "size_bytes": 41074544
+      },
+      {
+        "name": "医疗风格（1套）",
+        "counts": {
+          "pptx": 1
+        },
+        "size_bytes": 15416569
+      },
+      {
+        "name": "可视化图表（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 13712966
+      },
+      {
+        "name": "商务风格（3套）",
+        "counts": {
+          "pptx": 3
+        },
+        "size_bytes": 92404858
+      },
+      {
+        "name": "国家自然科学申报PPT(7套)",
+        "counts": {
+          "pptx": 7,
+          "otf": 14
+        },
+        "size_bytes": 253980358
+      },
+      {
+        "name": "多图排版（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 108503762
+      },
+      {
+        "name": "学生风格（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 26772843
+      },
+      {
+        "name": "工作汇报（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 74800273
+      },
+      {
+        "name": "年会颁奖（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 141398305
+      },
+      {
+        "name": "年终总结（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 83415214
+      },
+      {
+        "name": "扁平风格（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 90087775
+      },
+      {
+        "name": "教师说课（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 105341913
+      },
+      {
+        "name": "数据图表（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 39765798
+      },
+      {
+        "name": "毕业答辩（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 64616763
+      },
+      {
+        "name": "科技风格（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 101215499
+      },
+      {
+        "name": "竞聘述职（2套）",
+        "counts": {
+          "pptx": 2
+        },
+        "size_bytes": 35554530
+      },
+      {
+        "name": "简约清新（5套）",
+        "counts": {
+          "pptx": 5
+        },
+        "size_bytes": 59391336
+      },
+      {
+        "name": "路演融资（1套）",
+        "counts": {
+          "pptx": 1
+        },
+        "size_bytes": 7339497
+      }
+    ]
+  },
+  "items": [
+    {
+      "path": "assets/template-library/originals/011-联合基金(亚热带岩性森林 蓝色）.pptx",
+      "name": "011-联合基金(亚热带岩性森林 蓝色）.pptx",
+      "source": "011-联合基金(亚热带岩性森林 蓝色）.pptx",
+      "category": "011-联合基金(亚热带岩性森林 蓝色）.pptx",
+      "extension": "pptx",
+      "size_bytes": 65954141,
+      "slide_count": 18,
+      "media_count": 25,
+      "image_media_count": 25,
+      "text_sample": [
+        "依托单位：中国林业科学研究院亚热带林业研究所（简称亚林所）",
+        "联合单位：亚热带林业研究所、热带林业研究所",
+        "2024",
+        "年",
+        "9",
+        "月",
+        "指南方向：",
+        "2.4"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/企业宣传（2套）/企业宣传(14)—静态.pptx",
+      "name": "企业宣传(14)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "企业宣传（2套）",
+      "extension": "pptx",
+      "size_bytes": 19548955,
+      "slide_count": 22,
+      "media_count": 34,
+      "image_media_count": 31,
+      "text_sample": [
+        "绿色",
+        "·",
+        "科技",
+        "202X",
+        "年环保绿色科技企业公司宣传介绍",
+        "诚信铸就品质 创新引领未来",
+        "202X.03.05",
+        "中国"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/企业宣传（2套）/企业宣传(20)—静态.pptx",
+      "name": "企业宣传(20)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "企业宣传（2套）",
+      "extension": "pptx",
+      "size_bytes": 21525589,
+      "slide_count": 19,
+      "media_count": 37,
+      "image_media_count": 29,
+      "text_sample": [
+        "企业宣传 / 企业介绍 / 公司画册",
+        "公司介绍",
+        "Company",
+        "introduction",
+        "单击此处输入你的正文，文字是您思想的提炼",
+        ",",
+        "为了最终演示发布的良好效果，请尽量言简意赅的阐述观点",
+        "公司："
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/医疗风格（1套）/医疗风格(11)—动态.pptx",
+      "name": "医疗风格(11)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "医疗风格（1套）",
+      "extension": "pptx",
+      "size_bytes": 15416569,
+      "slide_count": 27,
+      "media_count": 19,
+      "image_media_count": 17,
+      "text_sample": [
+        "简约医学答辩",
+        "｜论文答辩｜毕业答辩｜答辩报告｜医学生答辩｜",
+        "Chinese companies will no longer remain in the hard stage and they are also promoting a culture Chinese companies will no longer remain",
+        "in the hard stage and they are also wang ling",
+        "yan",
+        "a culture",
+        "答辩",
+        "人：某某某"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(01)—静态.pptx",
+      "name": "可视化图表(01)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "可视化图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 4272318,
+      "slide_count": 31,
+      "media_count": 18,
+      "image_media_count": 12,
+      "text_sample": [
+        "可视化",
+        "逻辑图",
+        "（一）",
+        "步步高升",
+        "请根据标题在此处输入正文内容支持主题模式一键自由换色",
+        "福星高照",
+        "旗开得胜",
+        "登高望远"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(02)—静态.pptx",
+      "name": "可视化图表(02)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "可视化图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 2433797,
+      "slide_count": 31,
+      "media_count": 15,
+      "image_media_count": 10,
+      "text_sample": [
+        "可视化",
+        "逻辑图",
+        "（二）",
+        "输入标题文字",
+        "请根据标题在此处输入正文内容支持主题模式一键自由换色",
+        "2017",
+        "输入",
+        "标题文字"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(03)—静态.pptx",
+      "name": "可视化图表(03)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "可视化图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 2232896,
+      "slide_count": 31,
+      "media_count": 11,
+      "image_media_count": 6,
+      "text_sample": [
+        "可视化",
+        "逻辑图",
+        "（三）",
+        "10/09",
+        "项目启动",
+        "线上阶段",
+        "11/13",
+        "线下启动"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(04)—静态.pptx",
+      "name": "可视化图表(04)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "可视化图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 2475909,
+      "slide_count": 27,
+      "media_count": 12,
+      "image_media_count": 7,
+      "text_sample": [
+        "可视化",
+        "逻辑图",
+        "（四）",
+        "寄件用户",
+        "收件用户",
+        "差异化体验",
+        "自定义内容",
+        "口碑传播"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(05)—静态.pptx",
+      "name": "可视化图表(05)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "可视化图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 2298046,
+      "slide_count": 26,
+      "media_count": 11,
+      "image_media_count": 6,
+      "text_sample": [
+        "可视化",
+        "逻辑图",
+        "（五）",
+        "作品",
+        "驱动",
+        "业务",
+        "导向",
+        "追求单一热点"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/商务风格（3套）/商务风格(10)—静态.pptx",
+      "name": "商务风格(10)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "商务风格（3套）",
+      "extension": "pptx",
+      "size_bytes": 35010000,
+      "slide_count": 21,
+      "media_count": 19,
+      "image_media_count": 19,
+      "text_sample": [
+        "plan",
+        "蓝色商务",
+        "商业计划书",
+        "单击此处输入你的正文，文字是您思想的提炼",
+        "为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+        "日期：",
+        "X",
+        "月"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/商务风格（3套）/商务风格(17)—静态.pptx",
+      "name": "商务风格(17)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "商务风格（3套）",
+      "extension": "pptx",
+      "size_bytes": 11473691,
+      "slide_count": 27,
+      "media_count": 38,
+      "image_media_count": 31,
+      "text_sample": [
+        "202X",
+        "年",
+        "7",
+        "月",
+        "服务双碳目标",
+        "绿电见证未来",
+        "目录",
+        "工作开展情况"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/商务风格（3套）/商务风格(21)—静态.pptx",
+      "name": "商务风格(21)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "商务风格（3套）",
+      "extension": "pptx",
+      "size_bytes": 45921167,
+      "slide_count": 16,
+      "media_count": 47,
+      "image_media_count": 47,
+      "text_sample": [
+        "蓝色科技公司介绍",
+        "COMPANY PROFILE",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+        "公司名称",
+        "XXXXX",
+        "请输入标题",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+        "COMPANY"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(05)—静态.pptx",
+      "name": "多图展示(05)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "多图排版（5套）",
+      "extension": "pptx",
+      "size_bytes": 22140958,
+      "slide_count": 23,
+      "media_count": 139,
+      "image_media_count": 135,
+      "text_sample": [
+        "输入文案",
+        "01",
+        "02",
+        "03",
+        "04",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果。",
+        "项目介绍",
+        "输入相关文案"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(06)—静态.pptx",
+      "name": "多图展示(06)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "多图排版（5套）",
+      "extension": "pptx",
+      "size_bytes": 15732748,
+      "slide_count": 17,
+      "media_count": 124,
+      "image_media_count": 118,
+      "text_sample": [
+        "公司发展历程",
+        "单击此处输入你的正文，文字是您思想的提炼。",
+        "2020",
+        "请输入标题文本",
+        "2030",
+        "2010",
+        "2025",
+        "2015"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(07)—静态.pptx",
+      "name": "多图展示(07)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "多图排版（5套）",
+      "extension": "pptx",
+      "size_bytes": 15958319,
+      "slide_count": 14,
+      "media_count": 278,
+      "image_media_count": 277,
+      "text_sample": [
+        "旅游消费趋势",
+        "单击输入标题内容",
+        "2023",
+        "旅游兴趣用户数",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果",
+        "4.07",
+        "亿",
+        "累计学员"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(08)—静态.pptx",
+      "name": "多图展示(08)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "多图排版（5套）",
+      "extension": "pptx",
+      "size_bytes": 15477810,
+      "slide_count": 16,
+      "media_count": 98,
+      "image_media_count": 96,
+      "text_sample": [
+        "账户定位分析",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+        "03",
+        "输入标题文字",
+        "单击此处输入你的正文",
+        "文字是您思想的提炼",
+        "01",
+        "04"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/多图排版（5套）/多图展示(10)—静态.pptx",
+      "name": "多图展示(10)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "多图排版（5套）",
+      "extension": "pptx",
+      "size_bytes": 39193927,
+      "slide_count": 27,
+      "media_count": 184,
+      "image_media_count": 180,
+      "text_sample": [
+        "合作伙伴",
+        "Cooperative Partner",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果。请尽量言简意赅的阐述观点，根据需要可酌情增减文字",
+        "点击输入标题",
+        "合作",
+        "伙伴",
+        "300+",
+        "品牌的选择"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(01)—动态.pptx",
+      "name": "学生风格(01)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "学生风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 7496153,
+      "slide_count": 24,
+      "media_count": 22,
+      "image_media_count": 22,
+      "text_sample": [
+        "教育界，有一个著名的“三年级现象”：孩子一二年级时学得好好的，可一升入三年级，就学得越来越吃力，成绩也开始下滑……",
+        "小学发展策略与规划家长会",
+        "Primary School Parent Teacher Association",
+        "主讲人：某某某",
+        "时间：",
+        "202X.X.X",
+        "家校共育新蓝图",
+        "携手规划小学未来"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(02)—动态.pptx",
+      "name": "学生风格(02)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "学生风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 4111642,
+      "slide_count": 22,
+      "media_count": 57,
+      "image_media_count": 57,
+      "text_sample": [
+        "我的快乐暑假",
+        "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here.",
+        "充实暑假快乐成长",
+        "My happy summer vacation",
+        "时间过的真快，",
+        "转眼，我的暑假结束了，",
+        "回想我这几十天的假期生活，",
+        "用几个词形容"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(04)—动态.pptx",
+      "name": "学生风格(04)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "学生风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 7834867,
+      "slide_count": 25,
+      "media_count": 57,
+      "image_media_count": 54,
+      "text_sample": [
+        "请",
+        "投",
+        "我",
+        "一",
+        "票",
+        "吧",
+        "!",
+        "A dream need to work out a summary report dream need to work out a need"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(12)—动态.pptx",
+      "name": "学生风格(12)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "学生风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 4852931,
+      "slide_count": 27,
+      "media_count": 24,
+      "image_media_count": 24,
+      "text_sample": [
+        "开",
+        "/",
+        "学",
+        "第",
+        "一",
+        "课",
+        "收",
+        "心"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(19)—静态.pptx",
+      "name": "学生风格(19)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "学生风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 2477250,
+      "slide_count": 21,
+      "media_count": 20,
+      "image_media_count": 19,
+      "text_sample": [
+        "关注心理健康",
+        "中小学生心理健康",
+        "心",
+        "理",
+        "健",
+        "康",
+        "教",
+        "育"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(01)—动态.pptx",
+      "name": "工作汇报(01)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "工作汇报（5套）",
+      "extension": "pptx",
+      "size_bytes": 13548577,
+      "slide_count": 20,
+      "media_count": 32,
+      "image_media_count": 30,
+      "text_sample": [
+        "某某某某某有限公司",
+        "汇报人 王经理",
+        "简约风格工作总结",
+        "部门季度年度",
+        "工作汇报",
+        "content",
+        "目录",
+        "部门"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(16)—静态.pptx",
+      "name": "工作汇报(16)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "工作汇报（5套）",
+      "extension": "pptx",
+      "size_bytes": 25746449,
+      "slide_count": 24,
+      "media_count": 32,
+      "image_media_count": 32,
+      "text_sample": [
+        "BUSINESS PLAN",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；根据需要可酌情增减文字，以便观者可以准确理解您所传达的信息。",
+        "简约工作总结报告",
+        "汇报人：",
+        "xxx",
+        "PRESENTER",
+        "LOSHY PROJECT",
+        "SIMPLE STYLE"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(22)—动态.pptx",
+      "name": "工作汇报(22)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "工作汇报（5套）",
+      "extension": "pptx",
+      "size_bytes": 13519521,
+      "slide_count": 26,
+      "media_count": 19,
+      "image_media_count": 19,
+      "text_sample": [
+        "办公室工作总结",
+        "工作总结",
+        "/",
+        "述职报告",
+        "总结计划",
+        "简约汇报",
+        "汇报",
+        "人：某某某"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(29)—动态.pptx",
+      "name": "工作汇报(29)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "工作汇报（5套）",
+      "extension": "pptx",
+      "size_bytes": 6106716,
+      "slide_count": 29,
+      "media_count": 21,
+      "image_media_count": 19,
+      "text_sample": [
+        "个人工作总结汇报",
+        "拼搏",
+        "创新",
+        "梦想",
+        "商务风",
+        "汇报",
+        "人：某某某",
+        "时间："
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(31)—动态.pptx",
+      "name": "工作汇报(31)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "工作汇报（5套）",
+      "extension": "pptx",
+      "size_bytes": 15879010,
+      "slide_count": 29,
+      "media_count": 30,
+      "image_media_count": 28,
+      "text_sample": [
+        "商务工作总结",
+        "WORK REPORT",
+        "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus",
+        "malesuada",
+        "libero.",
+        "工作总结丨工作汇报丨项目汇报丨述职报告",
+        "汇报",
+        "人：某某某"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(02)—动态.pptx",
+      "name": "年会颁奖(02)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年会颁奖（5套）",
+      "extension": "pptx",
+      "size_bytes": 64949757,
+      "slide_count": 23,
+      "media_count": 80,
+      "image_media_count": 76,
+      "text_sample": [
+        "2025年",
+        "某某",
+        "有限公司",
+        "跨年晚会",
+        "HAPPY NEW YEAR",
+        "中国•上",
+        "海",
+        "01"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(03)—动态.pptx",
+      "name": "年会颁奖(03)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年会颁奖（5套）",
+      "extension": "pptx",
+      "size_bytes": 27494574,
+      "slide_count": 18,
+      "media_count": 18,
+      "image_media_count": 17,
+      "text_sample": [
+        "蛇",
+        "/",
+        "年",
+        "祥",
+        "瑞",
+        "辉",
+        "煌",
+        "再"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(06)—动态.pptx",
+      "name": "年会颁奖(06)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年会颁奖（5套）",
+      "extension": "pptx",
+      "size_bytes": 6853555,
+      "slide_count": 19,
+      "media_count": 23,
+      "image_media_count": 21,
+      "text_sample": [
+        "公司",
+        "2025",
+        "年",
+        "优秀员工颁奖盛典",
+        "奋斗",
+        "激情",
+        "青春",
+        "拼搏"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(08)—静态.pptx",
+      "name": "年会颁奖(08)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年会颁奖（5套）",
+      "extension": "pptx",
+      "size_bytes": 15421720,
+      "slide_count": 25,
+      "media_count": 23,
+      "image_media_count": 23,
+      "text_sample": [
+        "新起点",
+        "新跨越",
+        "—",
+        "年会盛典及暨优秀员工表彰大会",
+        "插入",
+        "logo",
+        "Click here to enter your text, and make your points as brief as possible",
+        "永"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(10)—静态.pptx",
+      "name": "年会颁奖(10)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年会颁奖（5套）",
+      "extension": "pptx",
+      "size_bytes": 26678699,
+      "slide_count": 20,
+      "media_count": 19,
+      "image_media_count": 19,
+      "text_sample": [
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；",
+        "锐旗设计",
+        "企业年终颁奖典礼晚会",
+        "新",
+        "征",
+        "程",
+        "再",
+        "出"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(12)—动态.pptx",
+      "name": "年终总结(12)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年终总结（5套）",
+      "extension": "pptx",
+      "size_bytes": 6837975,
+      "slide_count": 29,
+      "media_count": 14,
+      "image_media_count": 12,
+      "text_sample": [
+        "年终总结",
+        "/",
+        "述职报告",
+        "采购报告",
+        "工作计划",
+        "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy",
+        "nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam",
+        "amet"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(19)—静态.pptx",
+      "name": "年终总结(19)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年终总结（5套）",
+      "extension": "pptx",
+      "size_bytes": 37346594,
+      "slide_count": 18,
+      "media_count": 12,
+      "image_media_count": 12,
+      "text_sample": [
+        "3D",
+        "质感个人",
+        "年终总结汇报模版",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果",
+        "——",
+        "汇报人：某某某",
+        "部门：市场部",
+        "ANNUAL SUMMARY REPORT TEMPLATE"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(20)—动态.pptx",
+      "name": "年终总结(20)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年终总结（5套）",
+      "extension": "pptx",
+      "size_bytes": 25712264,
+      "slide_count": 30,
+      "media_count": 43,
+      "image_media_count": 37,
+      "text_sample": [
+        "年终工作总结",
+        "HUMAN RESOURCES",
+        "人力资源部",
+        "LOGO",
+        "企业名称",
+        "整合",
+        "细节",
+        "服务"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(21)—动态.pptx",
+      "name": "年终总结(21)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年终总结（5套）",
+      "extension": "pptx",
+      "size_bytes": 5065910,
+      "slide_count": 31,
+      "media_count": 13,
+      "image_media_count": 13,
+      "text_sample": [
+        "创",
+        "造",
+        "是每个",
+        "人的潜能",
+        "A dream need to work out a summary report dream need to work out a need out a summary",
+        "Lorem",
+        "ipsum",
+        "dolor sit"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(30)—静态.pptx",
+      "name": "年终总结(30)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "年终总结（5套）",
+      "extension": "pptx",
+      "size_bytes": 8452471,
+      "slide_count": 22,
+      "media_count": 53,
+      "image_media_count": 53,
+      "text_sample": [
+        "奔",
+        "跑",
+        "永",
+        "不",
+        "停",
+        "息",
+        "蓝色年终总结情况汇报",
+        "PPT"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(01)—静态.pptx",
+      "name": "扁平风格(01)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "扁平风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 40235378,
+      "slide_count": 19,
+      "media_count": 13,
+      "image_media_count": 9,
+      "text_sample": [
+        "简约",
+        "3D",
+        "风",
+        "商务工作总结汇报",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点。",
+        "汇报人：",
+        "xxx",
+        "汇报时间："
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(03)—动态.pptx",
+      "name": "扁平风格(03)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "扁平风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 20965854,
+      "slide_count": 20,
+      "media_count": 50,
+      "image_media_count": 50,
+      "text_sample": [
+        "G",
+        "arment Industry",
+        "20",
+        "XX",
+        "-",
+        "Marketing",
+        "服装行业营销策划",
+        "Garment industry marketing planning template"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(06)—静态.pptx",
+      "name": "扁平风格(06)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "扁平风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 6817858,
+      "slide_count": 32,
+      "media_count": 79,
+      "image_media_count": 78,
+      "text_sample": [
+        "文化传媒有限公司",
+        "新媒体推广营销方案",
+        "HU PU",
+        "CULTURE MEDIA COMPANY",
+        "NEW MEDIA MARKETING PLAN",
+        "IN 202X",
+        "汇报人：",
+        "xxx"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(07)—静态.pptx",
+      "name": "扁平风格(07)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "扁平风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 3859489,
+      "slide_count": 29,
+      "media_count": 26,
+      "image_media_count": 25,
+      "text_sample": [
+        "互联网",
+        "+",
+        "智能服务系统",
+        "汇报人：",
+        "XXXX",
+        "INTERNET INTELLIGENT SERVICE SYSTEM",
+        "目录",
+        "CONTENTS"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(10)—动态.pptx",
+      "name": "扁平风格(10)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "扁平风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 18209196,
+      "slide_count": 20,
+      "media_count": 15,
+      "image_media_count": 15,
+      "text_sample": [
+        "工作总结",
+        "|",
+        "工作汇报",
+        "工作计划",
+        "General demonstration template of fresh watercolor",
+        "单击此处输入你的正文，文字是您思想的提炼",
+        "为了最终演示发布的良好效果",
+        "汇报：锐旗设计"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(01)—动态.pptx",
+      "name": "教师说课(01)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "教师说课（5套）",
+      "extension": "pptx",
+      "size_bytes": 11331038,
+      "slide_count": 33,
+      "media_count": 14,
+      "image_media_count": 14,
+      "text_sample": [
+        "LOGO",
+        "// Information Based Teaching",
+        "信息化",
+        "与信息化教学",
+        "BASED",
+        "FUTURE",
+        "INFORMATIZATION",
+        "中国"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(03)—动态.pptx",
+      "name": "教师说课(03)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "教师说课（5套）",
+      "extension": "pptx",
+      "size_bytes": 23153989,
+      "slide_count": 27,
+      "media_count": 23,
+      "image_media_count": 23,
+      "text_sample": [
+        "说课",
+        "中国风",
+        "[汇报人]",
+        "锐旗设计",
+        "[时间]",
+        "202",
+        "X",
+        "年12月05日"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(05)—静态.pptx",
+      "name": "教师说课(05)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "教师说课（5套）",
+      "extension": "pptx",
+      "size_bytes": 11315913,
+      "slide_count": 28,
+      "media_count": 46,
+      "image_media_count": 46,
+      "text_sample": [
+        "化学教学课件",
+        "教",
+        "/",
+        "师",
+        "试",
+        "讲",
+        "学",
+        "课"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(10)—动态.pptx",
+      "name": "教师说课(10)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "教师说课（5套）",
+      "extension": "pptx",
+      "size_bytes": 56582778,
+      "slide_count": 25,
+      "media_count": 37,
+      "image_media_count": 36,
+      "text_sample": [
+        "主讲人：锐旗",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；单击此处输入你的正文，文字是您思想的提炼；",
+        "教师说课",
+        "三年级",
+        "·",
+        "语文",
+        "上册",
+        "第十六课"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(20)—动态.pptx",
+      "name": "教师说课(20)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "教师说课（5套）",
+      "extension": "pptx",
+      "size_bytes": 2958195,
+      "slide_count": 30,
+      "media_count": 16,
+      "image_media_count": 16,
+      "text_sample": [
+        "教师说课",
+        "PPT",
+        "教师演讲",
+        "/",
+        "竞聘",
+        "学校汇报",
+        "职称评比",
+        "演 讲 者："
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(02)—静态.pptx",
+      "name": "数据图表(02)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "数据图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 12020644,
+      "slide_count": 24,
+      "media_count": 35,
+      "image_media_count": 30,
+      "text_sample": [
+        "大规模发展",
+        "202X年初疫情爆发期间在线办公平台呈现流量井喷的增长态势",
+        "202X",
+        "年随着线下办公恢复常态，在线协同办公平台的用户活跃度有所回落，但行业量级仍然巨大",
+        "在线协同办公行业并不只是短期内的爆发，而是已经形成了长期的发展趋势，在未来将会持续大规模地普及，与各行各业进行深度融合",
+        "在线协同办公平台整体运营情况",
+        "MAU (",
+        "亿"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(05)—静态.pptx",
+      "name": "数据图表(05)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "数据图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 973756,
+      "slide_count": 20,
+      "media_count": 13,
+      "image_media_count": 13,
+      "text_sample": [
+        "产品",
+        "2024",
+        "年度销售成果展示",
+        "项目产品",
+        "年月度销售成果展示",
+        "¥337400",
+        "年度销售目标",
+        "同比增长"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(06)—静态.pptx",
+      "name": "数据图表(06)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "数据图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 908420,
+      "slide_count": 20,
+      "media_count": 21,
+      "image_media_count": 21,
+      "text_sample": [
+        "平台数据分析",
+        "Powerpoint",
+        "Template",
+        "Work",
+        "Arrangement",
+        "周商品笔记销量",
+        "自媒体平台数据分析",
+        "我们在主要电商平台（如京东、淘宝、天猫）的销售表现持续增长。截至目前，电商平台仍然是我们最主要的销售渠道之一，占据了总销售额的约"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(07)—流程图.pptx",
+      "name": "数据图表(07)—流程图.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "数据图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 433066,
+      "slide_count": 19,
+      "media_count": 6,
+      "image_media_count": 6,
+      "text_sample": [
+        "工作汇报",
+        "-",
+        "流程图",
+        "Powerpoint",
+        "Template",
+        "Work",
+        "Arrangement",
+        "项目"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(09)—静态.pptx",
+      "name": "数据图表(09)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "数据图表（5套）",
+      "extension": "pptx",
+      "size_bytes": 25429912,
+      "slide_count": 32,
+      "media_count": 41,
+      "image_media_count": 34,
+      "text_sample": [
+        "10,546",
+        "2023",
+        "第三季度整体数据变现一览表",
+        "Q1",
+        "小标题",
+        "*",
+        "某某某数据平稳增长良好，品质保障得当",
+        "Q2"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(02)—动态.pptx",
+      "name": "毕业答辩(02)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "毕业答辩（5套）",
+      "extension": "pptx",
+      "size_bytes": 17931758,
+      "slide_count": 20,
+      "media_count": 48,
+      "image_media_count": 48,
+      "text_sample": [
+        "答辩人：锐小旗",
+        "DEFENSE",
+        "毕业答辩",
+        "模版",
+        "Graduate Thesis Defense",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；",
+        "CONTENTS",
+        "目录"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(04)—动态.pptx",
+      "name": "毕业答辩(04)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "毕业答辩（5套）",
+      "extension": "pptx",
+      "size_bytes": 37317130,
+      "slide_count": 26,
+      "media_count": 29,
+      "image_media_count": 28,
+      "text_sample": [
+        "毕业论文答辩通用",
+        "PPT",
+        "模板",
+        "202X",
+        "级硕士研究生开题答辩",
+        "Academic Style Template for Graduation Defense",
+        "单击此处输入你的",
+        "论文题目"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(09)—静态.pptx",
+      "name": "毕业答辩(09)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "毕业答辩（5套）",
+      "extension": "pptx",
+      "size_bytes": 1607347,
+      "slide_count": 30,
+      "media_count": 4,
+      "image_media_count": 4,
+      "text_sample": [
+        "毕业论文答辩",
+        "论文答辩",
+        "/",
+        "毕业答辩",
+        "答辩通用模板",
+        "Never forget what you are, for surely the world will not. Make it your strength. Never forget what you are , for surely the world will not.",
+        "THESIS DEFENSE",
+        "LOGO"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(11)—静态.pptx",
+      "name": "毕业答辩(11)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "毕业答辩（5套）",
+      "extension": "pptx",
+      "size_bytes": 5182276,
+      "slide_count": 30,
+      "media_count": 5,
+      "image_media_count": 5,
+      "text_sample": [
+        "论文",
+        "开题报告",
+        "报告人：",
+        "XXX",
+        "指导",
+        "教师：",
+        "XXXX",
+        "报告时间"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/毕业答辩（5套）/毕业答辩(20)—动态.pptx",
+      "name": "毕业答辩(20)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "毕业答辩（5套）",
+      "extension": "pptx",
+      "size_bytes": 2578252,
+      "slide_count": 31,
+      "media_count": 12,
+      "image_media_count": 12,
+      "text_sample": [
+        "Contracted wind",
+        "powerpoint",
+        "template designs contracted wind",
+        "Powerpointtemplate",
+        "designs contracted wind",
+        "template designs",
+        "答辩人",
+        "：小锐旗"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(03)—静态.pptx",
+      "name": "科技风格(03)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "科技风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 9912589,
+      "slide_count": 18,
+      "media_count": 17,
+      "image_media_count": 17,
+      "text_sample": [
+        "汇报人：",
+        "人工智能科技风",
+        "产品介绍模板",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；",
+        "ARTIFICIAL INTELLIGENCE",
+        "目 录",
+        "CONTENTS",
+        "01"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(04)—动态.pptx",
+      "name": "科技风格(04)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "科技风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 3285772,
+      "slide_count": 23,
+      "media_count": 14,
+      "image_media_count": 14,
+      "text_sample": [
+        "科技赋能",
+        "Thank you for your attention.Thank you for your support.",
+        "Fill in the information you need here. Fill in the information you need",
+        "here.",
+        "锐旗设计",
+        "·202X",
+        "年",
+        "5"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(10)—静态.pptx",
+      "name": "科技风格(10)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "科技风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 49856857,
+      "slide_count": 19,
+      "media_count": 20,
+      "image_media_count": 20,
+      "text_sample": [
+        "202X",
+        "CORPORATE PUBLICITY",
+        "AND INTRODUCTION",
+        "以科技为动力",
+        "以质量求生存",
+        "科技",
+        "商务风企业宣传",
+        "通用"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(11)—动态.pptx",
+      "name": "科技风格(11)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "科技风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 26083405,
+      "slide_count": 20,
+      "media_count": 23,
+      "image_media_count": 23,
+      "text_sample": [
+        "CROSS BORDER INTERCONNECTION",
+        "GATHER IN THE FUTURE",
+        "点击进入",
+        "点击进入软件有限公司",
+        "科技创新未来",
+        "汇报人：点击进入",
+        "跨界互联",
+        "数聚未来"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(18)—静态.pptx",
+      "name": "科技风格(18)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "科技风格（5套）",
+      "extension": "pptx",
+      "size_bytes": 12076876,
+      "slide_count": 30,
+      "media_count": 26,
+      "image_media_count": 26,
+      "text_sample": [
+        "FUTURISTIC",
+        "Here starts your presentation",
+        "B A C K G R O U N D",
+        "01",
+        "TARGET",
+        "Here you can describe the topic of the section",
+        "SERVICES",
+        "COMPANY"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/竞聘述职（2套）/竞聘述职(15)—动态.pptx",
+      "name": "竞聘述职(15)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "竞聘述职（2套）",
+      "extension": "pptx",
+      "size_bytes": 4302451,
+      "slide_count": 32,
+      "media_count": 14,
+      "image_media_count": 13,
+      "text_sample": [
+        "竞聘",
+        "人：某某某",
+        "时间：",
+        "202X",
+        "年",
+        ".",
+        "6",
+        "月"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/竞聘述职（2套）/竞聘述职(20)—动态.pptx",
+      "name": "竞聘述职(20)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "竞聘述职（2套）",
+      "extension": "pptx",
+      "size_bytes": 31252079,
+      "slide_count": 20,
+      "media_count": 35,
+      "image_media_count": 35,
+      "text_sample": [
+        "商务风竞聘述职报告",
+        "单击此处输入你的正文，文字是您思想的提炼，为了最终演示发布的良好效果，请尽量言简意赅的阐述观点；",
+        "汇报：锐旗设计",
+        "——",
+        "拼搏成就梦想",
+        ",",
+        "奋斗铸就辉煌",
+        "LOGO"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(01)—静态.pptx",
+      "name": "简约清新(01)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "简约清新（5套）",
+      "extension": "pptx",
+      "size_bytes": 10926435,
+      "slide_count": 20,
+      "media_count": 27,
+      "image_media_count": 27,
+      "text_sample": [
+        "清新淡雅",
+        "小清新通用演示模板",
+        "汇报",
+        "人：锐旗设计",
+        "Small Fresh And Simple",
+        "General Demonstration Template",
+        "General demonstration General demonstration",
+        "添加标题内容"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(03)—静态.pptx",
+      "name": "简约清新(03)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "简约清新（5套）",
+      "extension": "pptx",
+      "size_bytes": 28771817,
+      "slide_count": 19,
+      "media_count": 49,
+      "image_media_count": 49,
+      "text_sample": [
+        "小清新教学通用",
+        "EDUCATIONAL AND TEACHING",
+        "主讲人：点击进入",
+        "您的正文已经简明扼要，字字珠玑，但信息却错综复杂，需要用更多的文字来表述；但请您尽可能提炼思想的精髓",
+        "TEACHING",
+        "目录",
+        "您的正文已经简明扼要，字字珠玑，但信息却错综复杂",
+        "上节课程复习"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(08)—静态.pptx",
+      "name": "简约清新(08)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "简约清新（5套）",
+      "extension": "pptx",
+      "size_bytes": 7633741,
+      "slide_count": 20,
+      "media_count": 51,
+      "image_media_count": 50,
+      "text_sample": [
+        "插入文字",
+        "Small fresh general template",
+        "演讲：某某某",
+        "演讲时间",
+        "小清新通用模板",
+        "文艺清新",
+        "目录",
+        "此处添加标题"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(12)—动态.pptx",
+      "name": "简约清新(12)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "简约清新（5套）",
+      "extension": "pptx",
+      "size_bytes": 10280377,
+      "slide_count": 30,
+      "media_count": 34,
+      "image_media_count": 33,
+      "text_sample": [
+        "清新简约产品介绍",
+        "PPT",
+        "策划人：某某某",
+        "A dream need to work out a summary report dream need to work out a need to work out a summary report summary",
+        "产品介绍",
+        "/",
+        "产品推广",
+        "项目介绍"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(13)—动态.pptx",
+      "name": "简约清新(13)—动态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "简约清新（5套）",
+      "extension": "pptx",
+      "size_bytes": 1778966,
+      "slide_count": 31,
+      "media_count": 17,
+      "image_media_count": 16,
+      "text_sample": [
+        "Brief introduction of senior business company enterprise introduction project promotion business",
+        "planbusiness",
+        "company enterprise introduction project promotion business plan",
+        "MORANDI",
+        "时间",
+        "：",
+        "202X.",
+        "12"
+      ],
+      "motion_hint": "dynamic"
+    },
+    {
+      "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/路演融资（1套）/路演融资(15)—静态.pptx",
+      "name": "路演融资(15)—静态.pptx",
+      "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+      "category": "路演融资（1套）",
+      "extension": "pptx",
+      "size_bytes": 7339497,
+      "slide_count": 19,
+      "media_count": 28,
+      "image_media_count": 28,
+      "text_sample": [
+        "https://",
+        "www.锐旗设计.",
+        "com",
+        "PROJECT PROPOSAL",
+        "商务风项目提案报告",
+        "PROJECT",
+        "PROPOSAL",
+        "锐旗设计"
+      ],
+      "motion_hint": "static"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 29143328,
+      "slide_count": 17,
+      "media_count": 35,
+      "image_media_count": 32,
+      "text_sample": [
+        "国家自然科学项目",
+        "申请答辩结题汇报",
+        "PPT",
+        "汇报人：科研答辩",
+        "遥感信息重点实验室",
+        "大规模高光谱",
+        "3D",
+        "图像运用研究"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/2亮蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "2亮蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 9455395,
+      "slide_count": 17,
+      "media_count": 38,
+      "image_media_count": 35,
+      "text_sample": [
+        "科研物理科学院",
+        "科研集成电路学院",
+        "科研研究中心",
+        "科研重点实验室",
+        "科研物理化学研究所",
+        "科研大学",
+        "主要完成人：吴",
+        "科研、张科研、赵科研"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 4906381,
+      "slide_count": 19,
+      "media_count": 38,
+      "image_media_count": 30,
+      "text_sample": [
+        "梯形异质结光催化材料的应用及机理研究",
+        "国家自然科学项目",
+        "申请答辩结题汇报",
+        "PPT",
+        "汇报",
+        "人：科研演示",
+        "申报单位：",
+        "合作单位："
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 6849498,
+      "slide_count": 17,
+      "media_count": 34,
+      "image_media_count": 32,
+      "text_sample": [
+        "国家自然科学项目",
+        "申请答辩结题汇报",
+        "PPT",
+        "汇报",
+        "人",
+        "科研答辩",
+        "新型铁基非常规多铁材料设计与磁电调控研究",
+        "中国"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/5绿色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "5绿色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 9835951,
+      "slide_count": 17,
+      "media_count": 37,
+      "image_media_count": 36,
+      "text_sample": [
+        "主要完成人：",
+        "陈",
+        "科研、张科研、赵科研",
+        "科研农业科学院",
+        "科研农业水率学院",
+        "科研研究中心",
+        "科研重点实验室",
+        "科研农业调控研究所"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/6红色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "6红色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 47215840,
+      "slide_count": 19,
+      "media_count": 25,
+      "image_media_count": 24,
+      "text_sample": [
+        "“干细胞研究与器官修复",
+        "”",
+        "重点专项 202",
+        "5",
+        "年度项目汇报",
+        "项目负责人：科研答辩",
+        "医学技术重点实验室",
+        "科研科技大学"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/7紫色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "name": "7紫色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "pptx",
+      "size_bytes": 9455233,
+      "slide_count": 17,
+      "media_count": 38,
+      "image_media_count": 35,
+      "text_sample": [
+        "科研物理科学院",
+        "科研集成电路学院",
+        "科研研究中心",
+        "科研重点实验室",
+        "科研物理化学研究所",
+        "科研大学",
+        "主要完成人：吴",
+        "科研、张科研、赵科研"
+      ],
+      "motion_hint": "pptx"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Bold.otf",
+      "name": "SourceHanSansCN-Bold.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8608184,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-ExtraLight.otf",
+      "name": "SourceHanSansCN-ExtraLight.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 7704352,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Heavy.otf",
+      "name": "SourceHanSansCN-Heavy.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8785564,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Light.otf",
+      "name": "SourceHanSansCN-Light.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8297476,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Medium.otf",
+      "name": "SourceHanSansCN-Medium.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8390148,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Normal.otf",
+      "name": "SourceHanSansCN-Normal.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8344108,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSansCN/SourceHanSansCN-Regular.otf",
+      "name": "SourceHanSansCN-Regular.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 8364840,
+      "font_family_hint": "SourceHanSansCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-Bold-2.otf",
+      "name": "SourceHanSerifCN-Bold-2.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11772444,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-ExtraLight-3.otf",
+      "name": "SourceHanSerifCN-ExtraLight-3.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 10372344,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-Heavy-4.otf",
+      "name": "SourceHanSerifCN-Heavy-4.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11304840,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-Light-5.otf",
+      "name": "SourceHanSerifCN-Light-5.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11090240,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-Medium-6.otf",
+      "name": "SourceHanSerifCN-Medium-6.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11373656,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-Regular-1.otf",
+      "name": "SourceHanSerifCN-Regular-1.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11257480,
+      "font_family_hint": "SourceHanSerifCN"
+    },
+    {
+      "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/fonts/SourceHanSerifCN/SourceHanSerifCN-SemiBold-7.otf",
+      "name": "SourceHanSerifCN-SemiBold-7.otf",
+      "source": "国家自然科学申报PPT(7套)",
+      "category": "国家自然科学申报PPT(7套)",
+      "extension": "otf",
+      "size_bytes": 11453056,
+      "font_family_hint": "SourceHanSerifCN"
+    }
+  ]
+}

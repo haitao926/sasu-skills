@@ -1,0 +1,3966 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:28.500731+00:00",
+  "template_id": "科技风格-03-静态-ad655303",
+  "template_profile_path": "assets/template-library/profiles/科技风格-03-静态-ad655303.json",
+  "source_template": {
+    "name": "科技风格(03)—静态.pptx",
+    "category": "科技风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/科技风格（5套）/科技风格(03)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 18,
+    "media_count": 17,
+    "image_media_count": 17,
+    "motion_hint": "static",
+    "tags": [
+      "科技汇报",
+      "科技展示",
+      "技术介绍",
+      "AI/IT汇报",
+      "封面",
+      "系统架构",
+      "流程",
+      "应用",
+      "总结",
+      "科技感",
+      "蓝黑",
+      "模块化",
+      "线条感",
+      "架构图",
+      "UI截图",
+      "流程图",
+      "技术示意图",
+      "简短说明",
+      "模块标签",
+      "标题+结论",
+      "静态版",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "科技汇报",
+    "scenario": [
+      "科技展示",
+      "技术介绍",
+      "AI/IT汇报"
+    ],
+    "best_for": [
+      "技术介绍",
+      "AI产品",
+      "系统说明"
+    ],
+    "avoid": [
+      "活动庆典",
+      "儿童海报"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "系统架构",
+      "流程",
+      "应用",
+      "总结"
+    ],
+    "visual": [
+      "科技感",
+      "蓝黑",
+      "模块化",
+      "线条感"
+    ],
+    "image_strategy": [
+      "架构图",
+      "UI截图",
+      "流程图",
+      "技术示意图"
+    ],
+    "text_strategy": [
+      "简短说明",
+      "模块标签",
+      "标题+结论"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 10.0,
+      "h": 5.625
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "flow-diagram",
+      "image-hero",
+      "cover-statement",
+      "claim-evidence"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "footer",
+      "image",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "top-left",
+      "middle-left",
+      "middle-right",
+      "middle-center",
+      "bottom-right",
+      "bottom-center"
+    ],
+    "template_text_signature": "人工智能科技风 产品介绍模板 CONTENTS ARTIFICIAL INTELLIGENCE 产品概述 产品概述 产品概述 ARTIFICIAL INTELLIGENCE 产品功能 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 ARTIFICIAL INTELLIGENCE 产品优势 产品优势 产品优势 ARTIFICIAL INTELLIGENCE 应用场景 应用场景 汇报人:",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "科技风格-03-静态-ad655303-s01",
+      "title_guess": "人工智能科技风 产品介绍模板",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:6,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2626,
+        "image_area": 0,
+        "shape_area": 0.0003,
+        "text_blob": "汇报人: 人工智能科技风 产品介绍模板 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; ARTIFICIAL INTELLIGENCE ARTIFICIAL INTELLIGENCE",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 114",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0816,
+            "y": 0.2972,
+            "w": 0.4501,
+            "h": 0.2812
+          },
+          "area": 0.1266,
+          "text": "人工智能科技风 产品介绍模板",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0124,
+            "y": 0.9049,
+            "w": 0.7141,
+            "h": 0.0778
+          },
+          "area": 0.0556,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 118",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0816,
+            "y": 0.5863,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 53",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0944,
+            "y": 0.2333,
+            "w": 0.4248,
+            "h": 0.0778
+          },
+          "area": 0.033,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 1",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0944,
+            "y": 0.7529,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "汇报人:",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "AutoShape 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "title": 1,
+          "body": 2,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "科技风格-03-静态-ad655303-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:4,bottom-right:4,top-right:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 18,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2843,
+        "image_area": 0,
+        "shape_area": 0.0003,
+        "text_blob": "目 录 CONTENTS 01 产品概述 Product Overview 02 产品功能 Product Function 03 产品优势 Product Advantages 04 应用场景 Application Scenario",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 7",
+          "role": "section_label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7073,
+            "y": 0.4766,
+            "w": 0.4181,
+            "h": 0.1616
+          },
+          "area": 0.0676,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5598,
+            "y": 0.0915,
+            "w": 0.224,
+            "h": 0.1496
+          },
+          "area": 0.0335,
+          "text": "目 录",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6739,
+            "y": 0.2842,
+            "w": 0.2883,
+            "h": 0.0911
+          },
+          "area": 0.0263,
+          "text": "产品概述",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 38",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6747,
+            "y": 0.4592,
+            "w": 0.2883,
+            "h": 0.0911
+          },
+          "area": 0.0263,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 42",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6747,
+            "y": 0.629,
+            "w": 0.2883,
+            "h": 0.0911
+          },
+          "area": 0.0263,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 46",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6747,
+            "y": 0.7987,
+            "w": 0.2883,
+            "h": 0.0911
+          },
+          "area": 0.0263,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6769,
+            "y": 0.357,
+            "w": 0.2097,
+            "h": 0.0486
+          },
+          "area": 0.0102,
+          "text": "Product Overview",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 39",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6769,
+            "y": 0.5298,
+            "w": 0.2097,
+            "h": 0.0486
+          },
+          "area": 0.0102,
+          "text": "Product Function",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 43",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6769,
+            "y": 0.7025,
+            "w": 0.2097,
+            "h": 0.0486
+          },
+          "area": 0.0102,
+          "text": "Product Advantages",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 47",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6769,
+            "y": 0.8753,
+            "w": 0.2097,
+            "h": 0.0486
+          },
+          "area": 0.0102,
+          "text": "Application Scenario",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "section_label": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "科技风格-03-静态-ad655303-s03",
+      "title_guess": "ARTIFICIAL INTELLIGENCE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-right:3,bottom-right:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1959,
+        "image_area": 0,
+        "shape_area": 0.0006,
+        "text_blob": "ARTIFICIAL INTELLIGENCE 第一单元 产品概述 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; PRODUCT OVERVIEW",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5455,
+            "y": 0.3546,
+            "w": 0.4501,
+            "h": 0.1496
+          },
+          "area": 0.0673,
+          "text": "产品概述",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3835,
+            "y": 0.9093,
+            "w": 0.5915,
+            "h": 0.0778
+          },
+          "area": 0.046,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 14",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5463,
+            "y": 0.5233,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5478,
+            "y": 0.3002,
+            "w": 0.4522,
+            "h": 0.0778
+          },
+          "area": 0.0352,
+          "text": "PRODUCT OVERVIEW",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.556,
+            "y": 0.7022,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "第一单元",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "科技风格-03-静态-ad655303-s04",
+      "title_guess": "产品概述",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 18,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.3459,
+        "image_area": 0.3146,
+        "shape_area": 0.0,
+        "text_blob": "产品概述 Product Overview 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 了解更多 产品概述 Product Overview “您说 我在”",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.1448,
+            "w": 0.4207,
+            "h": 0.7478
+          },
+          "area": 0.3146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4605,
+            "y": 0.4945,
+            "w": 0.4954,
+            "h": 0.2487
+          },
+          "area": 0.1232,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0199,
+            "y": 0.4381,
+            "w": 0.4677,
+            "h": 0.2573
+          },
+          "area": 0.1203,
+          "text": "“您说 我在”",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4605,
+            "y": 0.373,
+            "w": 0.4677,
+            "h": 0.1137
+          },
+          "area": 0.0532,
+          "text": "产品概述",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "产品概述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4648,
+            "y": 0.3059,
+            "w": 0.2677,
+            "h": 0.0479
+          },
+          "area": 0.0128,
+          "text": "Product Overview",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0236,
+            "y": 0.1161,
+            "w": 0.225,
+            "h": 0.0419
+          },
+          "area": 0.0094,
+          "text": "Product Overview",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 10",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4687,
+            "y": 0.7832,
+            "w": 0.1068,
+            "h": 0.0532
+          },
+          "area": 0.0057,
+          "text": "了解更多",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.287,
+            "y": 0.0392,
+            "w": 0.005,
+            "h": 0.0089
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.298,
+            "y": 0.0392,
+            "w": 0.005,
+            "h": 0.0089
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "科技风格-03-静态-ad655303-s05",
+      "title_guess": "产品概述",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-center:4,middle-right:2",
+      "counts": {
+        "text": 15,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 18,
+        "text_count": 15,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.3286,
+        "image_area": 0.3146,
+        "shape_area": 0.2944,
+        "text_blob": "产品概述 Product Overview “您说 我在” 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 01 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 03 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5793,
+            "y": 0.1569,
+            "w": 0.4207,
+            "h": 0.7478
+          },
+          "area": 0.3146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5595,
+            "y": 0.4501,
+            "w": 0.4677,
+            "h": 0.2573
+          },
+          "area": 0.1203,
+          "text": "“您说 我在”",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.2639,
+            "w": 0.2959,
+            "h": 0.2486
+          },
+          "area": 0.0736,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3152,
+            "y": 0.2639,
+            "w": 0.2959,
+            "h": 0.2486
+          },
+          "area": 0.0736,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 30",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.2639,
+            "w": 0.2959,
+            "h": 0.2486
+          },
+          "area": 0.0736,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3152,
+            "y": 0.2639,
+            "w": 0.2959,
+            "h": 0.2486
+          },
+          "area": 0.0736,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0414,
+            "y": 0.3488,
+            "w": 0.2339,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3315,
+            "y": 0.3488,
+            "w": 0.2339,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 31",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0414,
+            "y": 0.3488,
+            "w": 0.2339,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3315,
+            "y": 0.3488,
+            "w": 0.2339,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 9,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "科技风格-03-静态-ad655303-s06",
+      "title_guess": "产品概述",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 15,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 18,
+        "text_count": 15,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.4006,
+        "image_area": 0.3146,
+        "shape_area": 0.3257,
+        "text_blob": "产品概述 Product Overview “您说 我在” 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加标题内容",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.289,
+            "y": 0.1435,
+            "w": 0.4207,
+            "h": 0.7478
+          },
+          "area": 0.3146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 448",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2897,
+            "y": 0.184,
+            "w": 0.4206,
+            "h": 0.7472
+          },
+          "area": 0.3143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2691,
+            "y": 0.4367,
+            "w": 0.4677,
+            "h": 0.2573
+          },
+          "area": 0.1203,
+          "text": "“您说 我在”",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0844,
+            "y": 0.2806,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0415,
+            "y": 0.5458,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0742,
+            "y": 0.7709,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6784,
+            "y": 0.2806,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7229,
+            "y": 0.5458,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 45",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6956,
+            "y": 0.7709,
+            "w": 0.234,
+            "h": 0.1349
+          },
+          "area": 0.0316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "产品概述",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 7,
+          "body": 6
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "科技风格-03-静态-ad655303-s07",
+      "title_guess": "ARTIFICIAL INTELLIGENCE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-right:3,bottom-right:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1959,
+        "image_area": 0,
+        "shape_area": 0.0006,
+        "text_blob": "ARTIFICIAL INTELLIGENCE 第二单元 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; PRODUCT FUNCTION",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5455,
+            "y": 0.3546,
+            "w": 0.4501,
+            "h": 0.1496
+          },
+          "area": 0.0673,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3835,
+            "y": 0.9093,
+            "w": 0.5915,
+            "h": 0.0778
+          },
+          "area": 0.046,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 14",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5463,
+            "y": 0.5233,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5478,
+            "y": 0.3002,
+            "w": 0.4522,
+            "h": 0.0778
+          },
+          "area": 0.0352,
+          "text": "PRODUCT FUNCTION",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.556,
+            "y": 0.7022,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "第二单元",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "科技风格-03-静态-ad655303-s08",
+      "title_guess": "产品功能",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:3,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 18,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.228,
+        "image_area": 0.1086,
+        "shape_area": 0.2903,
+        "text_blob": "产品功能 Product Function 产品功能 产品功能 产品功能 产品功能 产品功能 产品功能 产品功能 产品功能 8大产品功能",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 3",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0156,
+            "y": 0.6045,
+            "w": 0.9594,
+            "h": 0.2828
+          },
+          "area": 0.2713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.16,
+            "y": 0.8062,
+            "w": 0.6706,
+            "h": 0.162
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0212,
+            "y": 0.5426,
+            "w": 0.3079,
+            "h": 0.1496
+          },
+          "area": 0.0461,
+          "text": "8大产品功能",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 32",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1024,
+            "y": 0.7975,
+            "w": 0.2461,
+            "h": 0.0917
+          },
+          "area": 0.0226,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 33",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3965,
+            "y": 0.7975,
+            "w": 0.2461,
+            "h": 0.0917
+          },
+          "area": 0.0226,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 34",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6907,
+            "y": 0.7975,
+            "w": 0.2461,
+            "h": 0.0917
+          },
+          "area": 0.0226,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 35",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9848,
+            "y": 0.7975,
+            "w": 0.2461,
+            "h": 0.0917
+          },
+          "area": 0.0226,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "梯形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0427,
+            "y": 0.633,
+            "w": 0.2677,
+            "h": 0.071
+          },
+          "area": 0.019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0326,
+            "y": 0.5687,
+            "w": 0.2018,
+            "h": 0.0752
+          },
+          "area": 0.0152,
+          "text": "产品功能",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "科技风格-03-静态-ad655303-s09",
+      "title_guess": "产品功能",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:10",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 18,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 0,
+        "text_area": 0.2275,
+        "image_area": 0.0112,
+        "shape_area": 1.0119,
+        "text_blob": "产品功能 Product Function 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 38",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0984,
+            "y": 0.4054,
+            "w": 0.2394,
+            "h": 0.4256
+          },
+          "area": 0.1019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0984,
+            "y": 0.4054,
+            "w": 0.2394,
+            "h": 0.4256
+          },
+          "area": 0.1019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 58",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0984,
+            "y": 0.4054,
+            "w": 0.2394,
+            "h": 0.4256
+          },
+          "area": 0.1019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 41",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 42",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 51",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 52",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "弧形 61",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "弧形 62",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.437,
+            "w": 0.2037,
+            "h": 0.3622
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1345,
+            "y": 0.4696,
+            "w": 0.1672,
+            "h": 0.2972
+          },
+          "area": 0.0497,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "科技风格-03-静态-ad655303-s10",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 19,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 18,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 0,
+        "text_area": 0.3529,
+        "image_area": 0,
+        "shape_area": 0.425,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 产品功能 01 02 03 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品功能 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品功能 Product Function",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0713,
+            "y": 0.2198,
+            "w": 0.3118,
+            "h": 0.3058
+          },
+          "area": 0.0953,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 51",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0682,
+            "y": 0.6546,
+            "w": 0.3153,
+            "h": 0.2013
+          },
+          "area": 0.0635,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "弧形 56",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5736,
+            "y": 0.3746,
+            "w": 0.1678,
+            "h": 0.2982
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 60",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5736,
+            "y": 0.3746,
+            "w": 0.1678,
+            "h": 0.2982
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 64",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5736,
+            "y": 0.3746,
+            "w": 0.1678,
+            "h": 0.2982
+          },
+          "area": 0.05,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 52",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0682,
+            "y": 0.5576,
+            "w": 0.4677,
+            "h": 0.1017
+          },
+          "area": 0.0476,
+          "text": "产品功能",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 69",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5447,
+            "y": 0.268,
+            "w": 0.4303,
+            "h": 0.1071
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 71",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5447,
+            "y": 0.5,
+            "w": 0.4303,
+            "h": 0.1071
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 73",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5447,
+            "y": 0.7642,
+            "w": 0.4303,
+            "h": 0.1071
+          },
+          "area": 0.0461,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "弧形 55",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5871,
+            "y": 0.3986,
+            "w": 0.1408,
+            "h": 0.2502
+          },
+          "area": 0.0352,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 4,
+          "label": 5,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "科技风格-03-静态-ad655303-s11",
+      "title_guess": "ARTIFICIAL INTELLIGENCE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-right:3,bottom-right:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1959,
+        "image_area": 0,
+        "shape_area": 0.0006,
+        "text_blob": "ARTIFICIAL INTELLIGENCE 第三单元 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; PRODUCT ADVANTAGES",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5455,
+            "y": 0.3546,
+            "w": 0.4501,
+            "h": 0.1496
+          },
+          "area": 0.0673,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3835,
+            "y": 0.9093,
+            "w": 0.5915,
+            "h": 0.0778
+          },
+          "area": 0.046,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 14",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5463,
+            "y": 0.5233,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5478,
+            "y": 0.3002,
+            "w": 0.4522,
+            "h": 0.0778
+          },
+          "area": 0.0352,
+          "text": "PRODUCT ADVANTAGES",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.556,
+            "y": 0.7022,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "第三单元",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "科技风格-03-静态-ad655303-s12",
+      "title_guess": "产品优势",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 18,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 0,
+        "text_area": 0.2917,
+        "image_area": 0,
+        "shape_area": 0.3411,
+        "text_blob": "产品优势 Product Advantages 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 01 02 03",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0428,
+            "y": 0.4712,
+            "w": 0.2369,
+            "h": 0.1808
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "梯形 36",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3816,
+            "y": 0.4742,
+            "w": 0.2369,
+            "h": 0.1808
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "梯形 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7007,
+            "y": 0.4742,
+            "w": 0.2369,
+            "h": 0.1808
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.7467,
+            "w": 0.2725,
+            "h": 0.1544
+          },
+          "area": 0.0421,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3638,
+            "y": 0.7498,
+            "w": 0.2725,
+            "h": 0.1544
+          },
+          "area": 0.0421,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 51",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6829,
+            "y": 0.7498,
+            "w": 0.2725,
+            "h": 0.1544
+          },
+          "area": 0.0421,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0564,
+            "y": 0.3072,
+            "w": 0.2097,
+            "h": 0.1616
+          },
+          "area": 0.0339,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3951,
+            "y": 0.3072,
+            "w": 0.2097,
+            "h": 0.1616
+          },
+          "area": 0.0339,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7143,
+            "y": 0.3072,
+            "w": 0.2097,
+            "h": 0.1616
+          },
+          "area": 0.0339,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0412,
+            "y": 0.614,
+            "w": 0.2401,
+            "h": 0.1021
+          },
+          "area": 0.0245,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 1,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "科技风格-03-静态-ad655303-s13",
+      "title_guess": "产品优势",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:4,top-left:2,middle-left:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 18,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.328,
+        "image_area": 0,
+        "shape_area": 0.4571,
+        "text_blob": "产品优势 Product Advantages 产品 优势 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 5",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3081,
+            "y": 0.2168,
+            "w": 0.3838,
+            "h": 0.6823
+          },
+          "area": 0.2619,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.3099,
+            "w": 0.279,
+            "h": 0.4961
+          },
+          "area": 0.1384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4106,
+            "y": 0.3986,
+            "w": 0.1788,
+            "h": 0.3179
+          },
+          "area": 0.0568,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0417,
+            "y": 0.3266,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0492,
+            "y": 0.6833,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.718,
+            "y": 0.3266,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 29",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7255,
+            "y": 0.6833,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4167,
+            "y": 0.4617,
+            "w": 0.1666,
+            "h": 0.2094
+          },
+          "area": 0.0349,
+          "text": "产品 优势",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.2545,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "产品优势",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "科技风格-03-静态-ad655303-s14",
+      "title_guess": "产品优势",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,top-right:3,middle-left:2",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 18,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 1,
+        "text_area": 0.3405,
+        "image_area": 0.1251,
+        "shape_area": 0.0201,
+        "text_blob": "产品优势 Product Advantages 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 01 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 产品优势 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03 单击此处输入你的正文文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 48",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0379,
+            "y": 0.6211,
+            "w": 0.3944,
+            "h": 0.3172
+          },
+          "area": 0.1251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 43",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.2596,
+            "w": 0.4103,
+            "h": 0.1616
+          },
+          "area": 0.0663,
+          "text": "单击此处输入你的正文文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.4843,
+            "w": 0.4191,
+            "h": 0.1071
+          },
+          "area": 0.0449,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.565,
+            "y": 0.3532,
+            "w": 0.3875,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.565,
+            "y": 0.3532,
+            "w": 0.3875,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.565,
+            "y": 0.3532,
+            "w": 0.3875,
+            "h": 0.1071
+          },
+          "area": 0.0415,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5657,
+            "y": 0.2848,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5657,
+            "y": 0.2848,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "产品优势",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5657,
+            "y": 0.2848,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "产品优势",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "科技风格-03-静态-ad655303-s15",
+      "title_guess": "ARTIFICIAL INTELLIGENCE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-right:3,bottom-right:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1959,
+        "image_area": 0,
+        "shape_area": 0.0006,
+        "text_blob": "ARTIFICIAL INTELLIGENCE 第四单元 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; APPLICATION SCENARIO",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5455,
+            "y": 0.3546,
+            "w": 0.4501,
+            "h": 0.1496
+          },
+          "area": 0.0673,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3835,
+            "y": 0.9093,
+            "w": 0.5915,
+            "h": 0.0778
+          },
+          "area": 0.046,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 14",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5463,
+            "y": 0.5233,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5478,
+            "y": 0.3002,
+            "w": 0.4522,
+            "h": 0.0778
+          },
+          "area": 0.0352,
+          "text": "APPLICATION SCENARIO",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.556,
+            "y": 0.7022,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "第四单元",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "科技风格-03-静态-ad655303-s16",
+      "title_guess": "应用场景",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 18,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.2275,
+        "image_area": 0,
+        "shape_area": 0.198,
+        "text_blob": "应用场景 Application Scenario 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 45",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1028,
+            "y": 0.2663,
+            "w": 0.242,
+            "h": 0.2727
+          },
+          "area": 0.066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片占位符 47",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3766,
+            "y": 0.2663,
+            "w": 0.242,
+            "h": 0.2727
+          },
+          "area": 0.066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片占位符 49",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6516,
+            "y": 0.2663,
+            "w": 0.242,
+            "h": 0.2727
+          },
+          "area": 0.066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 51",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.114,
+            "y": 0.6821,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 53",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3877,
+            "y": 0.6821,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 55",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6654,
+            "y": 0.6821,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0723,
+            "y": 0.6101,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 52",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3461,
+            "y": 0.6101,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 54",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6237,
+            "y": 0.6101,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "应用场景",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "科技风格-03-静态-ad655303-s17",
+      "title_guess": "应用场景",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,bottom-center:2,middle-right:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 18,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.3314,
+        "image_area": 0.1524,
+        "shape_area": 0.5383,
+        "text_blob": "应用场景 Application Scenario 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 应用场景 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; APPLICATION SCENARIO",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 10",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.025,
+            "y": 0.777,
+            "w": 1.22,
+            "h": 0.1712
+          },
+          "area": 0.2089,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "梯形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.025,
+            "y": 0.6334,
+            "w": 1.22,
+            "h": 0.1436
+          },
+          "area": 0.1752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 39",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": -0.0244,
+            "y": 0.2049,
+            "w": 1.0487,
+            "h": 0.1616
+          },
+          "area": 0.1695,
+          "text": "APPLICATION SCENARIO",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0957,
+            "y": 0.1907,
+            "w": 0.3521,
+            "h": 0.4367
+          },
+          "area": 0.1538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3207,
+            "y": 0.3461,
+            "w": 0.3586,
+            "h": 0.4251
+          },
+          "area": 0.1524,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 36",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0667,
+            "y": 0.476,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7102,
+            "y": 0.476,
+            "w": 0.2245,
+            "h": 0.2016
+          },
+          "area": 0.0453,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.021,
+            "y": 0.0278,
+            "w": 0.2097,
+            "h": 0.1017
+          },
+          "area": 0.0213,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.025,
+            "y": 0.4039,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "应用场景",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6685,
+            "y": 0.4039,
+            "w": 0.3079,
+            "h": 0.0658
+          },
+          "area": 0.0203,
+          "text": "应用场景",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "科技风格-03-静态-ad655303-s18",
+      "title_guess": "汇报人:",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:6,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2626,
+        "image_area": 0,
+        "shape_area": 0.0003,
+        "text_blob": "汇报人: 关注我们 感谢大家观看 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; THANK YOU ARTIFICIAL INTELLIGENCE",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 114",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0816,
+            "y": 0.2972,
+            "w": 0.4501,
+            "h": 0.2812
+          },
+          "area": 0.1266,
+          "text": "关注我们 感谢大家观看",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0124,
+            "y": 0.9049,
+            "w": 0.7141,
+            "h": 0.0778
+          },
+          "area": 0.0556,
+          "text": "ARTIFICIAL INTELLIGENCE",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 118",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0816,
+            "y": 0.5863,
+            "w": 0.4016,
+            "h": 0.0944
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 53",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0944,
+            "y": 0.2333,
+            "w": 0.4248,
+            "h": 0.0778
+          },
+          "area": 0.033,
+          "text": "THANK YOU",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 1",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0944,
+            "y": 0.7529,
+            "w": 0.1555,
+            "h": 0.0614
+          },
+          "area": 0.0095,
+          "text": "汇报人:",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1525,
+            "w": 0.0227,
+            "h": 0.0065
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1667,
+            "w": 0.0227,
+            "h": 0.0062
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.209,
+            "y": 0.1806,
+            "w": 0.0227,
+            "h": 0.0056
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "AutoShape 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "系统架构",
+        "流程",
+        "应用",
+        "总结"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "儿童海报"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 18,
+    "layout_job_counts": {
+      "process-strip": 7,
+      "flow-diagram": 5,
+      "image-hero": 3,
+      "cover-statement": 1,
+      "claim-evidence": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 18
+    },
+    "density_counts": {
+      "medium-high": 7,
+      "medium": 6,
+      "high": 5
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "flow-diagram",
+      "image-hero",
+      "cover-statement",
+      "claim-evidence"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes"
+    ]
+  }
+}

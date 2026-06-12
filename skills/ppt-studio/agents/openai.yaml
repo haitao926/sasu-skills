@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Studio"
+  short_description: "Structure-first PPT pipeline with Roil visuals and template systems"
+  default_prompt: "Use $ppt-studio to create a structured, editable PPT deck with strong layout, visual previews, and export-ready files."

@@ -1,0 +1,4391 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:26.517459+00:00",
+  "template_id": "数据图表-05-静态-ec438181",
+  "template_profile_path": "assets/template-library/profiles/数据图表-05-静态-ec438181.json",
+  "source_template": {
+    "name": "数据图表(05)—静态.pptx",
+    "category": "数据图表（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(05)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 20,
+    "media_count": 13,
+    "image_media_count": 13,
+    "motion_hint": "static",
+    "tags": [
+      "数据图表",
+      "数据分析",
+      "图表汇报",
+      "统计说明",
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论",
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高",
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图",
+      "结论句",
+      "图表注释",
+      "指标标签",
+      "静态版",
+      "高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "数据图表",
+    "scenario": [
+      "数据分析",
+      "图表汇报",
+      "统计说明"
+    ],
+    "best_for": [
+      "数据分析",
+      "业绩汇报",
+      "统计展示"
+    ],
+    "avoid": [
+      "纯情绪海报",
+      "儿童活动风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论"
+    ],
+    "visual": [
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高"
+    ],
+    "image_strategy": [
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图"
+    ],
+    "text_strategy": [
+      "结论句",
+      "图表注释",
+      "指标标签"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "matrix-grid",
+      "limitations-future",
+      "cover-statement",
+      "flow-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "chart"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "chart",
+      "body",
+      "diagram-block",
+      "label",
+      "footer"
+    ],
+    "common_zones": [
+      "top-left",
+      "middle-left",
+      "middle-center",
+      "bottom-left",
+      "bottom-right",
+      "middle-right"
+    ],
+    "template_text_signature": "产品2024年度销售成果展示 公司产品A 分析当前市场状况,包括竞争对手、市场趋势等,使用图表或图像展示市场份额、销售增长情况等数据 ¥1280000 年度业绩目标分析 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 项目成果A 数据分析 Powerpoint Template ¥22380 公司产品A 线下营销 线上销售 平台数据分析 Powerpoint Template 各个平台销售数据情况图表 平台数据分析 Powerpoint Te",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "数据图表-05-静态-ec438181-s01",
+      "title_guess": "产品2024年度销售成果展示",
+      "layout_job": "cover-statement",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-left:2,bottom-right:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 2,
+        "table": 0,
+        "shape": 7,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 20,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 1,
+        "text_area": 0.1823,
+        "image_area": 0.0041,
+        "shape_area": 0.6768,
+        "text_blob": "产品2024年度销售成果展示 项目产品2024年月度销售成果展示 ¥337400 年度销售目标 同比增长20% 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 产品销售业绩汇报 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 15",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4152,
+            "y": 0.2743,
+            "w": 0.5475,
+            "h": 0.496
+          },
+          "area": 0.2716,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 54",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4239,
+            "y": 0.2885,
+            "w": 0.5256,
+            "h": 0.4687
+          },
+          "area": 0.2463,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2743,
+            "w": 0.3639,
+            "h": 0.496
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 31",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0439,
+            "y": 0.2841,
+            "w": 0.3508,
+            "h": 0.4764
+          },
+          "area": 0.1671,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 28",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4144,
+            "y": 0.7927,
+            "w": 0.5483,
+            "h": 0.1592
+          },
+          "area": 0.0873,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.7927,
+            "w": 0.3639,
+            "h": 0.1592
+          },
+          "area": 0.0579,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4152,
+            "y": 0.1665,
+            "w": 0.5475,
+            "h": 0.0867
+          },
+          "area": 0.0475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5754,
+            "h": 0.0763
+          },
+          "area": 0.0439,
+          "text": "产品销售业绩汇报 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 14",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4964,
+            "y": 0.8252,
+            "w": 0.4329,
+            "h": 0.0905
+          },
+          "area": 0.0392,
+          "text": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 47",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4152,
+            "y": 0.1755,
+            "w": 0.5475,
+            "h": 0.0628
+          },
+          "area": 0.0344,
+          "text": "项目产品2024年月度销售成果展示",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 2,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "数据图表-05-静态-ec438181-s02",
+      "title_guess": "公司产品A",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-right:2,bottom-right:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 8,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 20,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 1,
+        "text_area": 0.2254,
+        "image_area": 0,
+        "shape_area": 0.7173,
+        "text_blob": "公司产品A 公司产品B 公司产品C 公司产品D 200万元 150万元 350万元 300万元 年度销售额 年度销售额 年度销售额 年度销售额 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 产品销售业绩汇报 Powerpoint Template Work Arrangement 58,362万元 年度总销量 较去年增加25%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0366,
+            "y": 0.1704,
+            "w": 0.3355,
+            "h": 0.7814
+          },
+          "area": 0.2622,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 18",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3868,
+            "y": 0.4158,
+            "w": 0.5749,
+            "h": 0.4524
+          },
+          "area": 0.2601,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 41",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3992,
+            "y": 0.443,
+            "w": 0.5537,
+            "h": 0.3926
+          },
+          "area": 0.2174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 20",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0639,
+            "y": 0.2018,
+            "w": 0.2811,
+            "h": 0.5144
+          },
+          "area": 0.1446,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0366,
+            "y": 0.7585,
+            "w": 0.3355,
+            "h": 0.1934
+          },
+          "area": 0.0649,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3868,
+            "y": 0.8674,
+            "w": 0.5749,
+            "h": 0.0844
+          },
+          "area": 0.0485,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5754,
+            "h": 0.0763
+          },
+          "area": 0.0439,
+          "text": "产品销售业绩汇报 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 39",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3986,
+            "y": 0.8785,
+            "w": 0.5535,
+            "h": 0.0501
+          },
+          "area": 0.0277,
+          "text": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3868,
+            "y": 0.2446,
+            "w": 0.1355,
+            "h": 0.1507
+          },
+          "area": 0.0204,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5331,
+            "y": 0.2446,
+            "w": 0.1355,
+            "h": 0.1507
+          },
+          "area": 0.0204,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 8,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "数据图表-05-静态-ec438181-s03",
+      "title_guess": "分析当前市场状况,包括竞争对手、市场趋势等,使用图表或图像展示市场份额、销售增长情况等数据",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:2,bottom-center:2,bottom-right:2",
+      "counts": {
+        "text": 14,
+        "image": 4,
+        "chart": 5,
+        "table": 0,
+        "shape": 11,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 4,
+        "chart_count": 5,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 6,
+        "text_area": 0.1562,
+        "image_area": 0.0037,
+        "shape_area": 0.6294,
+        "text_blob": "分析当前市场状况,包括竞争对手、市场趋势等,使用图表或图像展示市场份额、销售增长情况等数据 总体业绩概览 项目业绩 公司产品A:占比35% 35% 项目业绩 公司产品B:占比65% 65% 第一季度 占比15% 第二季度 占比20% 第四季度 占比60% 第三季度 占比10% 产品销售业绩汇报 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 45",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0387,
+            "y": 0.1716,
+            "w": 0.4643,
+            "h": 0.3831
+          },
+          "area": 0.1779,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 72",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0397,
+            "y": 0.5726,
+            "w": 0.3002,
+            "h": 0.3767
+          },
+          "area": 0.1131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 31",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0387,
+            "y": 0.5735,
+            "w": 0.3002,
+            "h": 0.3759
+          },
+          "area": 0.1128,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3513,
+            "y": 0.5735,
+            "w": 0.3002,
+            "h": 0.3759
+          },
+          "area": 0.1128,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 43",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6639,
+            "y": 0.5735,
+            "w": 0.3002,
+            "h": 0.3759
+          },
+          "area": 0.1128,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 96",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6639,
+            "y": 0.5726,
+            "w": 0.3002,
+            "h": 0.3759
+          },
+          "area": 0.1128,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 94",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.5761,
+            "w": 0.3002,
+            "h": 0.3691
+          },
+          "area": 0.1108,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意形状 97",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5344,
+            "y": 0.1517,
+            "w": 0.4297,
+            "h": 0.1646
+          },
+          "area": 0.0707,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 60",
+          "role": "chart",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0701,
+            "y": 0.1722,
+            "w": 0.1628,
+            "h": 0.2848
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图表 64",
+          "role": "chart",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3076,
+            "y": 0.1722,
+            "w": 0.1628,
+            "h": 0.2848
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "label": 3,
+          "footer": 9
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "数据图表-05-静态-ec438181-s04",
+      "title_guess": "¥1280000",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 18,
+        "image": 4,
+        "chart": 1,
+        "table": 0,
+        "shape": 15,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 20,
+        "text_count": 18,
+        "image_count": 4,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 1,
+        "text_area": 0.3513,
+        "image_area": 0.01,
+        "shape_area": 0.7214,
+        "text_blob": "¥1280000 ¥1,400,000 产品销售业绩汇报 Powerpoint Template Work Arrangement 运营成本分析 主要运营成本项:产品销售额 ,毛利率,成交率,好评率 1,400,000 产品A销售额 销售分析:产品A是今年销售额最高的一款零食,毛利率达到5.6%,显示出较好的利润水平。 1,340,000 产品B销售额 销售分析: 与产品A的销售额相近。尽管具体销售额未详细列出,但在整体销售中扮演了重要角色。 879,000 产品D销售额 销售分析: 产品D作为第四款主推产品,尽管在销售额上不及产品A和B,为公司整体增长做出了积极贡献。 1,280,000 产品C销售额 销售分析:产品C作为主推产品之一,表现稳健,为整体销售增长做出了贡献。接受度和销售增长显示出了积极的趋势。 销售增长: 今年,我们的销售额比去年同期增长了XX%。这一成绩不仅超过了我们设定的目标,也反映出市场对我们产品的强大需求和认可。 市场占有率提升: 在竞争激烈的市场环境中,我们成功地扩大了在市场中的份额。通过市场细分和精准定位,我们吸引了更多新客户,同时巩固了现有客户的忠诚度。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 47",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1699,
+            "w": 0.3443,
+            "h": 0.7805
+          },
+          "area": 0.2687,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 20",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0562,
+            "y": 0.3552,
+            "w": 0.3067,
+            "h": 0.5284
+          },
+          "area": 0.1621,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 17",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4116,
+            "y": 0.7878,
+            "w": 0.5511,
+            "h": 0.1626
+          },
+          "area": 0.0896,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle: Rounded Corners 4",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.411,
+            "y": 0.1717,
+            "w": 0.2625,
+            "h": 0.2668
+          },
+          "area": 0.07,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle: Rounded Corners 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.411,
+            "y": 0.4799,
+            "w": 0.2625,
+            "h": 0.2668
+          },
+          "area": 0.07,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rectangle: Rounded Corners 4",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7002,
+            "y": 0.1717,
+            "w": 0.2625,
+            "h": 0.2668
+          },
+          "area": 0.07,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Rectangle: Rounded Corners 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7002,
+            "y": 0.4799,
+            "w": 0.2625,
+            "h": 0.2668
+          },
+          "area": 0.07,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4239,
+            "y": 0.8019,
+            "w": 0.5261,
+            "h": 0.1311
+          },
+          "area": 0.069,
+          "text": "销售增长: 今年,我们的销售额比去年同期增长了XX%。这一成绩不仅超过了我们设定的目标,也反映出市场对我们产品的强大需求和认可。 市场占有率提升: 在竞争激烈的市场环境中,我们成功地扩大了在市场中的份额。通过市场细分和精准定位,我们吸引了更",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5754,
+            "h": 0.0763
+          },
+          "area": 0.0439,
+          "text": "产品销售业绩汇报 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 51",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0615,
+            "y": 0.2066,
+            "w": 0.2976,
+            "h": 0.1122
+          },
+          "area": 0.0334,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 1,
+          "label": 9,
+          "claim": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "数据图表-05-静态-ec438181-s05",
+      "title_guess": "年度业绩目标分析",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,top-center:1",
+      "counts": {
+        "text": 33,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 10,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 20,
+        "text_count": 33,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 5,
+        "text_area": 0.291,
+        "image_area": 0,
+        "shape_area": 0.6661,
+        "text_blob": "年度业绩目标分析 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 第一季度 Q1 第二季度 Q2 第三季度 Q3 第四季度 Q4 目标业绩 77990 实际完成 87990 目标业绩 88230 实际完成 66812 目标业绩 79010 实际完成 40929 目标业绩 80010 实际完成 99107 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 销售 占比 产品销售业绩汇报 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "object 17",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0397,
+            "y": 0.1704,
+            "w": 0.9235,
+            "h": 0.125
+          },
+          "area": 0.1154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0397,
+            "y": 0.3936,
+            "w": 0.2227,
+            "h": 0.461
+          },
+          "area": 0.1027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2728,
+            "y": 0.3936,
+            "w": 0.2227,
+            "h": 0.461
+          },
+          "area": 0.1027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5052,
+            "y": 0.3936,
+            "w": 0.2227,
+            "h": 0.461
+          },
+          "area": 0.1027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7384,
+            "y": 0.3936,
+            "w": 0.2227,
+            "h": 0.461
+          },
+          "area": 0.1027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "object 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0397,
+            "y": 0.8699,
+            "w": 0.9214,
+            "h": 0.0819
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 89",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0397,
+            "y": 0.6076,
+            "w": 0.223,
+            "h": 0.2535
+          },
+          "area": 0.0565,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 92",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7379,
+            "y": 0.6076,
+            "w": 0.223,
+            "h": 0.2535
+          },
+          "area": 0.0565,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 88",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5045,
+            "y": 0.6357,
+            "w": 0.2227,
+            "h": 0.2189
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图表 87",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2728,
+            "y": 0.6495,
+            "w": 0.2227,
+            "h": 0.2002
+          },
+          "area": 0.0446,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 18,
+          "footer": 14,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "数据图表-05-静态-ec438181-s06",
+      "title_guess": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 2,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 20,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1774,
+        "image_area": 0.0044,
+        "shape_area": 0.6384,
+        "text_blob": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 活动支出和营收 226万元 活动支出 833万元 活动收入 数据分析 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 24",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4577,
+            "y": 0.1704,
+            "w": 0.505,
+            "h": 0.7814
+          },
+          "area": 0.3946,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 1",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4696,
+            "y": 0.1704,
+            "w": 0.4813,
+            "h": 0.6548
+          },
+          "area": 0.3152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 23",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.4939,
+            "w": 0.3976,
+            "h": 0.4579
+          },
+          "area": 0.1821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0609,
+            "y": 0.5012,
+            "w": 0.3518,
+            "h": 0.435
+          },
+          "area": 0.153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4577,
+            "y": 0.8297,
+            "w": 0.505,
+            "h": 0.1221
+          },
+          "area": 0.0617,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 6",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5409,
+            "y": 0.8398,
+            "w": 0.3835,
+            "h": 0.0905
+          },
+          "area": 0.0347,
+          "text": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.4476,
+            "h": 0.0763
+          },
+          "area": 0.0342,
+          "text": "数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.1704,
+            "w": 0.3976,
+            "h": 0.0767
+          },
+          "area": 0.0305,
+          "text": "活动支出和营收",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0224,
+            "y": 0.2616,
+            "w": 0.1797,
+            "h": 0.1481
+          },
+          "area": 0.0266,
+          "text": "226万元",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2674,
+            "y": 0.2616,
+            "w": 0.1797,
+            "h": 0.1481
+          },
+          "area": 0.0266,
+          "text": "833万元",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "数据图表-05-静态-ec438181-s07",
+      "title_guess": "项目成果A",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:2,bottom-left:2,middle-center:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 20,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.212,
+        "image_area": 0,
+        "shape_area": 0.689,
+        "text_blob": "项目成果A 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 +55670 项目成果B 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 +77670 项目成果C 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 +23670 项目成果D 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 +75670 销售 占比 数据分析 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "object 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2717,
+            "y": 0.5251,
+            "w": 0.6901,
+            "h": 0.4267
+          },
+          "area": 0.2945,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2717,
+            "y": 0.5265,
+            "w": 0.6901,
+            "h": 0.4254
+          },
+          "area": 0.2936,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.5251,
+            "w": 0.2223,
+            "h": 0.4267
+          },
+          "area": 0.0949,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 25",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0378,
+            "y": 0.5265,
+            "w": 0.2224,
+            "h": 0.4254
+          },
+          "area": 0.0946,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0379,
+            "y": 0.1704,
+            "w": 0.2224,
+            "h": 0.3369
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2717,
+            "y": 0.1704,
+            "w": 0.2224,
+            "h": 0.3369
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5056,
+            "y": 0.1704,
+            "w": 0.2224,
+            "h": 0.3369
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7394,
+            "y": 0.1704,
+            "w": 0.2224,
+            "h": 0.3369
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.4476,
+            "h": 0.0763
+          },
+          "area": 0.0342,
+          "text": "数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.1998,
+            "w": 0.1637,
+            "h": 0.1032
+          },
+          "area": 0.0169,
+          "text": "+55670",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 9,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "数据图表-05-静态-ec438181-s08",
+      "title_guess": "数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,top-left:1",
+      "counts": {
+        "text": 26,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 17,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 20,
+        "text_count": 26,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 1,
+        "text_area": 0.2669,
+        "image_area": 0,
+        "shape_area": 0.6185,
+        "text_blob": "数据分析 Powerpoint Template Work Arrangement 2023年 季度产品销量对比 2024年 季度产品销量对比 产品销售年度分析报告 本报告旨在分析公司在2023年和2024年的产品销售情况,并探讨销售趋势和关键因素的变化。 2024年相比于2023年,公司产品整体销售量显著增长。这主要归因于市场对我们产品的接受度提高,以及销售团队的努力和市场推广策略的有效执行。具体来说,我们在目标市场中获得了更多的市场份额,这直接推动了销量的增长。 销售量增长 2024年我们成功进入了几个新市场,这对整体销售表现产生了积极影响。新市场的开拓为公司带来了新的增长机会,并且增强了我们的市场影响力。这些市场的开拓表明了公司在市场扩展方面的成功策略和执行能力。 市场拓展 第一季度 同比增长 30% 第二季度 同比增长 20% 第三季度 同比增长 15% 第四季度 同比增长 20% 第二季度业绩销售遇到峰值 第一季度业绩销售遇到难点",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5156,
+            "y": 0.2453,
+            "w": 0.2463,
+            "h": 0.7051
+          },
+          "area": 0.1737,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2493,
+            "y": 0.2453,
+            "w": 0.2447,
+            "h": 0.7051
+          },
+          "area": 0.1725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2456,
+            "w": 0.1904,
+            "h": 0.7051
+          },
+          "area": 0.1343,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Chart 26",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2493,
+            "y": 0.4243,
+            "w": 0.2447,
+            "h": 0.4592
+          },
+          "area": 0.1124,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Chart 27",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5156,
+            "y": 0.4243,
+            "w": 0.2442,
+            "h": 0.4592
+          },
+          "area": 0.1121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.4476,
+            "h": 0.0763
+          },
+          "area": 0.0342,
+          "text": "数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 33",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0453,
+            "y": 0.4185,
+            "w": 0.1771,
+            "h": 0.1916
+          },
+          "area": 0.0339,
+          "text": "2024年相比于2023年,公司产品整体销售量显著增长。这主要归因于市场对我们产品的接受度提高,以及销售团队的努力和市场推广策略的有效执行。具体来说,我们在目标市场中获得了更多的市场份额,这直接推动了销量的增长。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 33",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0453,
+            "y": 0.679,
+            "w": 0.1771,
+            "h": 0.1916
+          },
+          "area": 0.0339,
+          "text": "2024年我们成功进入了几个新市场,这对整体销售表现产生了积极影响。新市场的开拓为公司带来了新的增长机会,并且增强了我们的市场影响力。这些市场的开拓表明了公司在市场扩展方面的成功策略和执行能力。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle: Rounded Corners 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7834,
+            "y": 0.2453,
+            "w": 0.1793,
+            "h": 0.1549
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Rectangle: Rounded Corners 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7834,
+            "y": 0.4287,
+            "w": 0.1793,
+            "h": 0.1549
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 18,
+          "label": 5,
+          "claim": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "数据图表-05-静态-ec438181-s09",
+      "title_guess": "¥22380",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,bottom-left:2,middle-left:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 8,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 20,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 1,
+        "text_area": 0.1279,
+        "image_area": 0,
+        "shape_area": 0.6899,
+        "text_blob": "¥22380 上海路店 ¥33600 北京路店 42% 58% 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性和可靠性。 门店业绩汇报 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6259,
+            "y": 0.3702,
+            "w": 0.3368,
+            "h": 0.5803
+          },
+          "area": 0.1954,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 16",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6259,
+            "y": 0.3702,
+            "w": 0.3368,
+            "h": 0.5803
+          },
+          "area": 0.1954,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6964,
+            "w": 0.5748,
+            "h": 0.2541
+          },
+          "area": 0.1461,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 25",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.7054,
+            "w": 0.5748,
+            "h": 0.2452
+          },
+          "area": 0.1409,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1704,
+            "w": 0.5748,
+            "h": 0.1766
+          },
+          "area": 0.1015,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.3702,
+            "w": 0.2805,
+            "h": 0.3034
+          },
+          "area": 0.0851,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3316,
+            "y": 0.3702,
+            "w": 0.2805,
+            "h": 0.3034
+          },
+          "area": 0.0851,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 21",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.3788,
+            "w": 0.2805,
+            "h": 0.2949
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3316,
+            "y": 0.3788,
+            "w": 0.2805,
+            "h": 0.2949
+          },
+          "area": 0.0827,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6259,
+            "y": 0.1704,
+            "w": 0.3368,
+            "h": 0.1766
+          },
+          "area": 0.0595,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 3,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "数据图表-05-静态-ec438181-s10",
+      "title_guess": "公司产品A",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 26,
+        "image": 3,
+        "chart": 3,
+        "table": 0,
+        "shape": 21,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 20,
+        "text_count": 26,
+        "image_count": 3,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 10,
+        "text_area": 0.1826,
+        "image_area": 0.0135,
+        "shape_area": 0.69,
+        "text_blob": "公司产品A 公司产品B 公司产品C 各个门店销售情况 门店1 33660元 门店2 13780元 门店3 45560元 各个门店销售情况 门店1 12330元 门店2 41320元 门店3 34230元 各个门店销售情况 门店1 12330元 门店2 41320元 门店3 34230元 门店业绩汇报 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6623,
+            "y": 0.5288,
+            "w": 0.2999,
+            "h": 0.423
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 33",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.5288,
+            "w": 0.2999,
+            "h": 0.423
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.5288,
+            "w": 0.2999,
+            "h": 0.423
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.2704,
+            "w": 0.2999,
+            "h": 0.2362
+          },
+          "area": 0.0708,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.2704,
+            "w": 0.2999,
+            "h": 0.2362
+          },
+          "area": 0.0708,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6623,
+            "y": 0.2704,
+            "w": 0.2999,
+            "h": 0.2362
+          },
+          "area": 0.0708,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.2982,
+            "w": 0.2999,
+            "h": 0.2084
+          },
+          "area": 0.0625,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 30",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3499,
+            "y": 0.2982,
+            "w": 0.2999,
+            "h": 0.2084
+          },
+          "area": 0.0625,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 32",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6628,
+            "y": 0.2982,
+            "w": 0.2999,
+            "h": 0.2084
+          },
+          "area": 0.0625,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "门店业绩汇报 Powerpoint Template",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 25,
+          "body": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "数据图表-05-静态-ec438181-s11",
+      "title_guess": "线下营销",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:2,top-left:2,middle-center:1",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 12,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 20,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 2,
+        "text_area": 0.2185,
+        "image_area": 0,
+        "shape_area": 0.7263,
+        "text_blob": "线下营销 30% 线上营销 70% 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性。 公司产品A 68600 公司产品B 33500 目标业绩 79010 实际完成 40929 我们对原始数据进行了清洗和整理,去除了缺失值和异常值。 统一品牌策略是指企业将经营的所有系列产品使用同一品牌的策略。使用同一策略,有利于建立“企业识别系统” 统一品牌策略是指企业将经营的所有系列产品使用同一品牌的策略。使用同一策略,有利于建立“企业识别系统” 平台数据分析 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3194,
+            "y": 0.2317,
+            "w": 0.2994,
+            "h": 0.5322
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1851,
+            "y": 0.5092,
+            "w": 0.2203,
+            "h": 0.3916
+          },
+          "area": 0.0863,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "环形箭头 42",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.162,
+            "y": 0.442,
+            "w": 0.2076,
+            "h": 0.3691
+          },
+          "area": 0.0766,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5054,
+            "y": 0.6079,
+            "w": 0.1923,
+            "h": 0.3419
+          },
+          "area": 0.0657,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "object 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1704,
+            "w": 0.2766,
+            "h": 0.222
+          },
+          "area": 0.0614,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 39",
+          "role": "chart",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1745,
+            "w": 0.2783,
+            "h": 0.2179
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "object 15",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.716,
+            "y": 0.172,
+            "w": 0.2467,
+            "h": 0.2393
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "object 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.716,
+            "y": 0.4419,
+            "w": 0.2467,
+            "h": 0.2393
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "object 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.716,
+            "y": 0.7119,
+            "w": 0.2467,
+            "h": 0.2393
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "object 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0365,
+            "y": 0.4282,
+            "w": 0.1237,
+            "h": 0.4726
+          },
+          "area": 0.0585,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8,
+          "label": 9,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "数据图表-05-静态-ec438181-s12",
+      "title_guess": "线上销售",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:2,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 8,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 2,
+        "text_area": 0.2022,
+        "image_area": 0,
+        "shape_area": 0.682,
+        "text_blob": "线上销售 455800 线下销售 366800 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性。 销售业绩远超预计目标 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性。 线上线下销售优势与不足 我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性。 47% 相对去年同比上涨 平台数据分析 Powerpoint Template Work Arrangement",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "object 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.356,
+            "y": 0.5167,
+            "w": 0.6067,
+            "h": 0.4339
+          },
+          "area": 0.2632,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 25",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.5182,
+            "w": 0.3053,
+            "h": 0.4324
+          },
+          "area": 0.132,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.038,
+            "y": 0.5167,
+            "w": 0.3033,
+            "h": 0.4339
+          },
+          "area": 0.1316,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0391,
+            "y": 0.1719,
+            "w": 0.3728,
+            "h": 0.3238
+          },
+          "area": 0.1207,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "object 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5937,
+            "y": 0.1704,
+            "w": 0.369,
+            "h": 0.3238
+          },
+          "area": 0.1195,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 14",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0403,
+            "y": 0.1719,
+            "w": 0.369,
+            "h": 0.3223
+          },
+          "area": 0.1189,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 16",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5937,
+            "y": 0.1719,
+            "w": 0.369,
+            "h": 0.3223
+          },
+          "area": 0.1189,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 32",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.733,
+            "y": 0.5167,
+            "w": 0.2264,
+            "h": 0.4339
+          },
+          "area": 0.0982,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 20",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4061,
+            "y": 0.594,
+            "w": 0.3057,
+            "h": 0.0775
+          },
+          "area": 0.0237,
+          "text": "我们对原始数据进行了清洗和整理,去除了缺失值和异常值,确保数据的准确性。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "数据图表-05-静态-ec438181-s13",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,bottom-right:2,top-right:2",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 20,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.2792,
+        "image_area": 0,
+        "shape_area": 0.6866,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 5,630,000 占总销售额 25% 电商平台A 5,630,000 占总销售额 25% 电商平台B 11,260,000 占总销售额 50% 电商平台C A B C 各季度销售额 电商平台销售概述 我们在主要电商平台(如京东、淘宝、天猫)的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平台上的持续广告投放和促销活动,以及产品品质的保证。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3645,
+            "y": 0.4427,
+            "w": 0.5982,
+            "h": 0.5067
+          },
+          "area": 0.3031,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 26",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3776,
+            "y": 0.5144,
+            "w": 0.5739,
+            "h": 0.4136
+          },
+          "area": 0.2374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.3645,
+            "y": 0.1736,
+            "w": 0.5982,
+            "h": 0.2368
+          },
+          "area": 0.1417,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.3759,
+            "y": 0.2421,
+            "w": 0.5704,
+            "h": 0.1572
+          },
+          "area": 0.0897,
+          "text": "我们在主要电商平台(如京东、淘宝、天猫)的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Rectangle: Rounded Corners 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1732,
+            "w": 0.3079,
+            "h": 0.2372
+          },
+          "area": 0.073,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rectangle: Rounded Corners 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.4427,
+            "w": 0.3079,
+            "h": 0.2372
+          },
+          "area": 0.073,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Rectangle: Rounded Corners 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.7122,
+            "w": 0.3079,
+            "h": 0.2372
+          },
+          "area": 0.073,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 6",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0536,
+            "y": 0.712,
+            "w": 0.2626,
+            "h": 0.089
+          },
+          "area": 0.0234,
+          "text": "11,260,000",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0536,
+            "y": 0.1731,
+            "w": 0.1746,
+            "h": 0.089
+          },
+          "area": 0.0155,
+          "text": "5,630,000",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 15,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "数据图表-05-静态-ec438181-s14",
+      "title_guess": "各个平台销售数据情况图表",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,middle-left:3,middle-right:2",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 20,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.173,
+        "image_area": 0,
+        "shape_area": 0.6474,
+        "text_blob": "各个平台销售数据情况图表 平台数据分析 Powerpoint Template Work Arrangement 平台总粉丝数 新增粉丝 粉丝转化率 8970000 同比+13% 复购率 42% 同比+51% 390000 环比+35% 粉丝流失率 20% 环比-19% 9.7% 好评率15% 潜在客户占比 18% 同比+10% 我们通过深入了解本地市场需求和竞争环境,成功地扩展了客户群体,并且通过精准的市场定位和产品推广活动,保持了稳定的销售增长。未来,我们将进一步优化客户体验和加强品牌影响力,以增强市场竞争力。 平台粉丝数据分析与优化 新增粉丝数 流失粉丝数",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 9",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4704,
+            "y": 0.1699,
+            "w": 0.4923,
+            "h": 0.7803
+          },
+          "area": 0.3841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 3",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4908,
+            "y": 0.2801,
+            "w": 0.4483,
+            "h": 0.6182
+          },
+          "area": 0.2771,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 64",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1699,
+            "w": 0.4095,
+            "h": 0.1959
+          },
+          "area": 0.0802,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 33",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0549,
+            "y": 0.2413,
+            "w": 0.3718,
+            "h": 0.1113
+          },
+          "area": 0.0414,
+          "text": "我们通过深入了解本地市场需求和竞争环境,成功地扩展了客户群体,并且通过精准的市场定位和产品推广活动,保持了稳定的销售增长。未来,我们将进一步优化客户体验和加强品牌影响力,以增强市场竞争力。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 41",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.4012,
+            "w": 0.4095,
+            "h": 0.079
+          },
+          "area": 0.0324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 65",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.8845,
+            "w": 0.4095,
+            "h": 0.0661
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.6021,
+            "w": 0.4095,
+            "h": 0.0661
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.5081,
+            "w": 0.4095,
+            "h": 0.0661
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 38",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.696,
+            "w": 0.4095,
+            "h": 0.0661
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 23,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "数据图表-05-静态-ec438181-s15",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,top-left:2,middle-center:2",
+      "counts": {
+        "text": 15,
+        "image": 1,
+        "chart": 4,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 20,
+        "text_count": 15,
+        "image_count": 1,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.2833,
+        "image_area": 0.0455,
+        "shape_area": 0.6378,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 各个平台销售业绩分析 20% 销售占比 全平台直播带货金额 30,666,000 同比增长 电商平台A 30% 销售占比 电商平台B 50% 销售占比 电商平台C 30% 电商平台销售概述 我们在主要电商平台(如京东、淘宝、天猫)的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平台上的持续广告投放和促销活动,以及产品品质的保证。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0373,
+            "y": 0.5251,
+            "w": 0.9252,
+            "h": 0.4253
+          },
+          "area": 0.3935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "2D Column Chart",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.561,
+            "w": 0.5866,
+            "h": 0.3563
+          },
+          "area": 0.209,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2254,
+            "w": 0.4431,
+            "h": 0.2746
+          },
+          "area": 0.1217,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 58",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6606,
+            "y": 0.6153,
+            "w": 0.2882,
+            "h": 0.3053
+          },
+          "area": 0.088,
+          "text": "我们在主要电商平台(如京东、淘宝、天猫)的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0442,
+            "y": 0.2395,
+            "w": 0.4321,
+            "h": 0.1144
+          },
+          "area": 0.0494,
+          "text": "30,666,000",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "图形 40",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2839,
+            "y": 0.2395,
+            "w": 0.1941,
+            "h": 0.2346
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4924,
+            "y": 0.2254,
+            "w": 0.1487,
+            "h": 0.2746
+          },
+          "area": 0.0408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6534,
+            "y": 0.2254,
+            "w": 0.1487,
+            "h": 0.2746
+          },
+          "area": 0.0408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rounded Rectangle",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8138,
+            "y": 0.2254,
+            "w": 0.1487,
+            "h": 0.2746
+          },
+          "area": 0.0408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 9,
+          "label": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "数据图表-05-静态-ec438181-s16",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 19,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 20,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 1,
+        "text_area": 0.2181,
+        "image_area": 0,
+        "shape_area": 0.7617,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 各个平台销售业绩分析 电商平台数据概述: 我们在主要电商平台的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平台上的持续广告投放和促销活动,以及产品品质的保证。 8,666,000 全年总销售额 1500 全年总销量 7,333,000 全年总销售额 1700 全年总销量 5,666,000 全年总销售额 750 全年总销量 6,222,000 全年总销售额 650 全年总销量 电商平台A 电商平台B 电商平台C 电商平台D 社交媒体平台概述: 社交媒体平台(如微博、微信、抖音等)在推广品牌和产品方面发挥了重要作用。我们通过这些平台的内容营销和精准广告投放。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2249,
+            "w": 0.9254,
+            "h": 0.5327
+          },
+          "area": 0.493,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "2D Column Chart",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0578,
+            "y": 0.2589,
+            "w": 0.8854,
+            "h": 0.4699
+          },
+          "area": 0.416,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 78",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1674,
+            "y": 0.2653,
+            "w": 0.2012,
+            "h": 0.3027
+          },
+          "area": 0.0609,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 73",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1779,
+            "y": 0.2707,
+            "w": 0.1839,
+            "h": 0.2392
+          },
+          "area": 0.044,
+          "text": "电商平台数据概述: 我们在主要电商平台的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform: Shape 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6424,
+            "y": 0.2669,
+            "w": 0.2012,
+            "h": 0.1678
+          },
+          "area": 0.0338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.8271,
+            "w": 0.2239,
+            "h": 0.1216
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7388,
+            "y": 0.8271,
+            "w": 0.2239,
+            "h": 0.1216
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2711,
+            "y": 0.8271,
+            "w": 0.2239,
+            "h": 0.1216
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Shape",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.505,
+            "y": 0.8271,
+            "w": 0.2239,
+            "h": 0.1216
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 22,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "数据图表-05-静态-ec438181-s17",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,middle-left:2,top-left:2",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 6,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 20,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 7,
+        "text_area": 0.1116,
+        "image_area": 0,
+        "shape_area": 0.6633,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 543,654 该平台销售额占销售总额55%,同比增长20%。 363,098 127,432 电商平台A 公司产品A 134/300 公司产品B 134/300 公司产品C 134/300 该平台销售额占销售总额25%,同比增长10%。 电商平台A 该平台销售额占销售总额20%,同比增长50%。 电商平台A A B C 产品销量与剩余库存",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle 44",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3645,
+            "y": 0.3873,
+            "w": 0.598,
+            "h": 0.5631
+          },
+          "area": 0.3367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "2D Column Chart",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3767,
+            "y": 0.3873,
+            "w": 0.5741,
+            "h": 0.5539
+          },
+          "area": 0.318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle 45",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0375,
+            "y": 0.3873,
+            "w": 0.3073,
+            "h": 0.2895
+          },
+          "area": 0.089,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 54",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0372,
+            "y": 0.3872,
+            "w": 0.3073,
+            "h": 0.2878
+          },
+          "area": 0.0884,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rounded Rectangle 47",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0375,
+            "y": 0.7106,
+            "w": 0.3073,
+            "h": 0.2398
+          },
+          "area": 0.0737,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rounded Rectangle 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0375,
+            "y": 0.1699,
+            "w": 0.3073,
+            "h": 0.1851
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Rounded Rectangle 9",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3645,
+            "y": 0.1699,
+            "w": 0.2893,
+            "h": 0.1851
+          },
+          "area": 0.0535,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rounded Rectangle 43",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6734,
+            "y": 0.1699,
+            "w": 0.2893,
+            "h": 0.1851
+          },
+          "area": 0.0535,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7795,
+            "y": 0.0588,
+            "w": 0.1894,
+            "h": 0.0539
+          },
+          "area": 0.0102,
+          "text": "Work Arrangement",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 17,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "数据图表-05-静态-ec438181-s18",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:2,bottom-left:2",
+      "counts": {
+        "text": 14,
+        "image": 3,
+        "chart": 1,
+        "table": 0,
+        "shape": 12,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 3,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 1,
+        "text_area": 0.1703,
+        "image_area": 0.0075,
+        "shape_area": 0.8005,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 5月份业绩销售遇到难点 11月份业绩销售达到峰值 发布图文/视频 465 +120 新增粉丝数量 3670 +2872 商品成交金额 97890 +6780 电商平台数据概述: 我们在主要电商平台的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平台上的持续广告投放和促销活动,以及产品品质的保证。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2492,
+            "y": 0.1699,
+            "w": 0.7135,
+            "h": 0.7805
+          },
+          "area": 0.5569,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 11",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2685,
+            "y": 0.1966,
+            "w": 0.6721,
+            "h": 0.737
+          },
+          "area": 0.4953,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意形状 40",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.2658,
+            "w": 0.2816,
+            "h": 0.2517
+          },
+          "area": 0.0709,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3292,
+            "y": 0.275,
+            "w": 0.2657,
+            "h": 0.1853
+          },
+          "area": 0.0492,
+          "text": "电商平台数据概述: 我们在主要电商平台的销售表现持续增长。截至目前,电商平台仍然是我们最主要的销售渠道之一,占据了总销售额的约70%。 在2023年上半年,我们通过电商平台实现了XX万元的销售额,同比增长了XX%。这一增长主要归因于我们在平",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.1699,
+            "w": 0.1897,
+            "h": 0.2319
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.4415,
+            "w": 0.1897,
+            "h": 0.2319
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 35",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.7184,
+            "w": 0.1897,
+            "h": 0.2319
+          },
+          "area": 0.044,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.502,
+            "h": 0.0763
+          },
+          "area": 0.0383,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 106",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0411,
+            "y": 0.8217,
+            "w": 0.1363,
+            "h": 0.0808
+          },
+          "area": 0.011,
+          "text": "97890",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "小李PPT1",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7795,
+            "y": 0.0588,
+            "w": 0.1894,
+            "h": 0.0539
+          },
+          "area": 0.0102,
+          "text": "Work Arrangement",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 7,
+          "label": 5
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "数据图表-05-静态-ec438181-s19",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,bottom-center:2,top-right:2",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 6,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 20,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 4,
+        "text_area": 0.118,
+        "image_area": 0,
+        "shape_area": 0.6525,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 笔记发文 28篇 环比增长 +20% 平台运营数据每周分析 新增粉丝 +773 环比增长 +20% 流失粉丝 -19 环比增长 -10% 店铺销售 336单 环比增长 +20%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle 31",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0373,
+            "y": 0.4822,
+            "w": 0.9254,
+            "h": 0.4658
+          },
+          "area": 0.4311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 24",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.05,
+            "y": 0.4822,
+            "w": 0.9008,
+            "h": 0.4658
+          },
+          "area": 0.4196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle 31",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0373,
+            "y": 0.2276,
+            "w": 0.9254,
+            "h": 0.2289
+          },
+          "area": 0.2118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 35",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0304,
+            "y": 0.1617,
+            "w": 0.3711,
+            "h": 0.0539
+          },
+          "area": 0.02,
+          "text": "平台运营数据每周分析",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "小李PPT1",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7795,
+            "y": 0.0588,
+            "w": 0.1894,
+            "h": 0.0539
+          },
+          "area": 0.0102,
+          "text": "Work Arrangement",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 34",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7584,
+            "y": 0.2661,
+            "w": 0.0869,
+            "h": 0.0598
+          },
+          "area": 0.0052,
+          "text": "336单",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 34",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0794,
+            "y": 0.2661,
+            "w": 0.0741,
+            "h": 0.0598
+          },
+          "area": 0.0044,
+          "text": "28篇",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 34",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3052,
+            "y": 0.2661,
+            "w": 0.0741,
+            "h": 0.0598
+          },
+          "area": 0.0044,
+          "text": "+773",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 34",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5283,
+            "y": 0.2661,
+            "w": 0.0741,
+            "h": 0.0598
+          },
+          "area": 0.0044,
+          "text": "-19",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 18
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "数据图表-05-静态-ec438181-s20",
+      "title_guess": "平台数据分析 Powerpoint Template",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-center:2,top-left:2",
+      "counts": {
+        "text": 17,
+        "image": 4,
+        "chart": 1,
+        "table": 0,
+        "shape": 21,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 20,
+        "text_count": 17,
+        "image_count": 4,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 1,
+        "text_area": 0.1357,
+        "image_area": 0.01,
+        "shape_area": 0.7437,
+        "text_blob": "平台数据分析 Powerpoint Template Work Arrangement 全年销售额数据看板 电商平台 40% 全网GMV达到154万元,同比增长40% 社交平台 20% 全网GMV达到154万元,同比增长20% 线下渠道 10% 全网GMV达到154万元,同比增长10% 其他渠道 30% 全网GMV达到154万元,同比增长30% 11月份业绩销售达到峰值 6月份业绩销售达到峰值",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle: Rounded Corners 14",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0384,
+            "y": 0.1699,
+            "w": 0.9243,
+            "h": 0.5696
+          },
+          "area": 0.5265,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Chart 8",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0576,
+            "y": 0.2453,
+            "w": 0.8857,
+            "h": 0.4587
+          },
+          "area": 0.4063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle: Rounded Corners 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0373,
+            "y": 0.77,
+            "w": 0.2171,
+            "h": 0.1803
+          },
+          "area": 0.0391,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle: Rounded Corners 16",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.77,
+            "w": 0.2171,
+            "h": 0.1803
+          },
+          "area": 0.0391,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle: Rounded Corners 16",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5098,
+            "y": 0.77,
+            "w": 0.2171,
+            "h": 0.1803
+          },
+          "area": 0.0391,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Rectangle: Rounded Corners 16",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7461,
+            "y": 0.77,
+            "w": 0.2171,
+            "h": 0.1803
+          },
+          "area": 0.0391,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "小李PPT1",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0298,
+            "y": 0.0357,
+            "w": 0.5054,
+            "h": 0.0763
+          },
+          "area": 0.0386,
+          "text": "平台数据分析 Powerpoint Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.054,
+            "y": 0.1836,
+            "w": 0.2184,
+            "h": 0.062
+          },
+          "area": 0.0135,
+          "text": "全年销售额数据看板",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "小李PPT1",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7795,
+            "y": 0.0588,
+            "w": 0.1894,
+            "h": 0.0539
+          },
+          "area": 0.0102,
+          "text": "Work Arrangement",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle: Rounded Corners 28",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6869,
+            "y": 0.2556,
+            "w": 0.1184,
+            "h": 0.0825
+          },
+          "area": 0.0098,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 13,
+          "label": 3
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 20,
+    "layout_job_counts": {
+      "kpi-grid": 12,
+      "matrix-grid": 3,
+      "limitations-future": 2,
+      "cover-statement": 1,
+      "flow-diagram": 1,
+      "claim-evidence": 1
+    },
+    "carrier_counts": {
+      "chart": 20
+    },
+    "density_counts": {
+      "high": 14,
+      "medium-high": 5,
+      "medium": 1
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "matrix-grid",
+      "limitations-future",
+      "cover-statement",
+      "flow-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "chart"
+    ]
+  }
+}

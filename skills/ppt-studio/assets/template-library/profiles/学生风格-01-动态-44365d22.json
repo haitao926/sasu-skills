@@ -1,0 +1,6625 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-11T02:45:56.241922+00:00",
+  "template_id": "学生风格-01-动态-44365d22",
+  "template_profile_path": "assets/template-library/profiles/学生风格-01-动态-44365d22.json",
+  "source_template": {
+    "name": "学生风格(01)—动态.pptx",
+    "category": "学生风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(01)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 24,
+    "media_count": 22,
+    "image_media_count": 22,
+    "motion_hint": "dynamic",
+    "tags": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示",
+      "封面",
+      "任务过程",
+      "作品展示",
+      "收获总结",
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽",
+      "作品图",
+      "课堂照片",
+      "任务过程图",
+      "短标题",
+      "短说明",
+      "少量标签",
+      "动态版",
+      "可动效",
+      "中",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "学生展示",
+    "scenario": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示"
+    ],
+    "best_for": [
+      "学生汇报",
+      "课堂展示",
+      "校园活动"
+    ],
+    "avoid": [
+      "过度严肃科研",
+      "高密度长文"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "过程",
+      "作品",
+      "收获",
+      "结束"
+    ],
+    "visual": [
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽"
+    ],
+    "image_strategy": [
+      "作品图",
+      "课堂照片",
+      "任务过程图"
+    ],
+    "text_strategy": [
+      "短标题",
+      "短说明",
+      "少量标签"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "theme_fonts": {
+      "major_latin": "Arial",
+      "minor_latin": "Arial",
+      "major_east_asian": "微软雅黑",
+      "minor_east_asian": "微软雅黑",
+      "major_complex_script": "",
+      "minor_complex_script": ""
+    },
+    "default_text_font": "微软雅黑",
+    "dominant_layout_jobs": [
+      "two-column",
+      "matrix-grid",
+      "research-question",
+      "process-strip",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "footer",
+      "image",
+      "body",
+      "label",
+      "connector"
+    ],
+    "common_zones": [
+      "top-left",
+      "bottom-right",
+      "bottom-center",
+      "top-right",
+      "middle-left",
+      "middle-right"
+    ],
+    "template_text_signature": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩 目录 “三年级现象” 规划引领,家校同行 规划引领,家校同行 “三年级滑坡” 规划引领,家校同行 规划引领,家校同行 规划引领,家校同行 教育的本质就是 规划引领,家校同行 规划引领,家校同行 规划引领,家校同行 孩子学会真努力 规划引领,家校同行 规划引领,家校同行 规划引领,家校同行 共同规划成长之路 规划引领,家校同行 规划引领,家校同行 规划引领,家校同行 规划引领,",
+    "text_style_tokens": {
+      "body": {
+        "font": "微软雅黑",
+        "font_size": 12.0,
+        "align": "center",
+        "line_spacing": 1.2,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      },
+      "footer": {
+        "font": "微软雅黑",
+        "font_size": 20.0,
+        "bold": true,
+        "align": "left",
+        "line_spacing": 1.2,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05,
+        "vertical_anchor": "middle"
+      },
+      "section_label": {
+        "font": "微软雅黑",
+        "font_size": 72.0,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      },
+      "label": {
+        "font": "微软雅黑",
+        "font_size": 52.0,
+        "bold": true,
+        "align": "center",
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05,
+        "vertical_anchor": "middle"
+      },
+      "claim": {
+        "font": "微软雅黑",
+        "align": "left",
+        "line_spacing": 1.2,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      }
+    },
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "学生风格-01-动态-44365d22-s01",
+      "title_guess": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-right:2,top-left:2,middle-left:2",
+      "counts": {
+        "text": 7,
+        "image": 9,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 24,
+        "text_count": 7,
+        "image_count": 9,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 0,
+        "text_area": 0.1034,
+        "image_area": 0.4819,
+        "shape_area": 0.1504,
+        "text_blob": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑...... 小学发展策略与规划家长会 Primary School Parent Teacher Association 主讲人:某某某 时间:202X.X.X 家校共育新蓝图 携手规划小学未来",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0299,
+            "y": 0.2244,
+            "w": 0.6003,
+            "h": 0.2506
+          },
+          "area": 0.1504,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5458,
+            "y": 0.5668,
+            "w": 0.3287,
+            "h": 0.3857
+          },
+          "area": 0.1268,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7415,
+            "y": 0.0,
+            "w": 0.2764,
+            "h": 0.3849
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.1945,
+            "w": 0.4616,
+            "h": 0.0942
+          },
+          "area": 0.0435,
+          "text": "Primary School Parent Teacher Association",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7762,
+            "y": 0.3848,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6119,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑......",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.5481,
+            "w": 0.4854,
+            "h": 0.0581
+          },
+          "area": 0.0282,
+          "text": "小学发展策略与规划家长会",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6801,
+            "y": 0.2825,
+            "w": 0.0464,
+            "h": 0.0887
+          },
+          "area": 0.0041,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 5
+        },
+        "image": {
+          "image": 9
+        }
+      },
+      "text_style_tokens": {
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "学生风格-01-动态-44365d22-s02",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:8,bottom-left:1,bottom-center:1",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 24,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.4301,
+        "shape_area": 0.8577,
+        "text_blob": "目录 CONTENTS 01 “三年级现象”是小学阶段的转折点 03 教育的本质就是培养好习惯 02 “三年级滑坡”家长也有一定责任 04 孩子学会真努力,家长学会真关心 05 共同规划成长之路",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0646,
+            "y": 0.3765,
+            "w": 0.351,
+            "h": 0.6241
+          },
+          "area": 0.2191,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 9",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0003,
+            "w": 0.0003,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "目录",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 72.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "CONTENTS",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 66",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "椭圆 74",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 121",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "+mn-lt",
+            "font_size": 24.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0007,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级现象”是小学阶段的转折点",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 66",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 2,
+          "footer": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "text_style_tokens": {
+        "section_label": {
+          "font": "微软雅黑",
+          "font_size": 72.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "+mn-lt",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "学生风格-01-动态-44365d22-s03",
+      "title_guess": "“三年级现象”",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-right:5,bottom-center:3,top-right:1",
+      "counts": {
+        "text": 4,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.0317,
+        "image_area": 0.3111,
+        "shape_area": 0.0075,
+        "text_blob": "“三年级现象” 是小学阶段的转折点 01 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8222,
+            "y": 0.0,
+            "w": 0.1956,
+            "h": 0.2724
+          },
+          "area": 0.0533,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.6963,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2964,
+            "y": 0.6741,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.6455,
+            "w": 0.0489,
+            "h": 0.0994
+          },
+          "area": 0.0049,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.8721,
+            "w": 0.049,
+            "h": 0.0937
+          },
+          "area": 0.0046,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.8537,
+            "w": 0.0438,
+            "h": 0.0837
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.9311,
+            "w": 0.0252,
+            "h": 0.0506
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.824,
+            "y": 0.662,
+            "w": 0.0245,
+            "h": 0.0494
+          },
+          "area": 0.0012,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5511,
+            "y": 0.8268,
+            "w": 0.0221,
+            "h": 0.0445
+          },
+          "area": 0.001,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 68.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "学生风格-01-动态-44365d22-s04",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "process-strip",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:6,middle-right:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 24,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.1737,
+        "image_area": 0.207,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 “三年级现象”是小学阶段的转折点 教育界,有一个著名的“三年级现象”: 孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑...... 家长给孩子报补习班,或者亲自上阵辅导孩子,可不管怎么教,孩子就是学不会...... 家长妥协了:“我家孩子就是笨!” 请注意,这不是孩子笨,而是他的学习需要“转型”! 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。 三年级现象 “ Third grade phenomenon",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1035,
+            "y": 0.3269,
+            "w": 0.3412,
+            "h": 0.6066
+          },
+          "area": 0.207,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5496,
+            "y": 0.3837,
+            "w": 0.4072,
+            "h": 0.1423
+          },
+          "area": 0.0579,
+          "text": "教育界,有一个著名的“三年级现象”: 孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑......",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5496,
+            "y": 0.5582,
+            "w": 0.4072,
+            "h": 0.1423
+          },
+          "area": 0.0579,
+          "text": "家长给孩子报补习班,或者亲自上阵辅导孩子,可不管怎么教,孩子就是学不会...... 家长妥协了:“我家孩子就是笨!”",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5496,
+            "y": 0.7328,
+            "w": 0.4072,
+            "h": 0.1423
+          },
+          "area": 0.0579,
+          "text": "请注意,这不是孩子笨,而是他的学习需要“转型”! 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级现象”是小学阶段的转折点",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "直接箭头连接符 9",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0006,
+            "w": 0.0,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 26.0,
+          "bold": true,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 16.0,
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "学生风格-01-动态-44365d22-s05",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "research-question",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:10",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 24,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 “三年级现象”是小学阶段的转折点 在一二年级时,孩子只要上课认真听讲,课后死记硬背,就能应付作业和考试。 可到了三四年级,不能光靠记忆了,还要学会理解运用,举一反三,考验孩子的逻辑思维能力。 第二、孩子的思维要转变 语文:正式开始写作文,对孩子的语言表达、逻辑思维、文字组织等方面提出更高的要求。 数学:运算更加复杂,要求孩子克服思维定式,找到解决数学问题的运算方法。 英语:开始学习一门新语言,要求孩子学会书写、背诵和阅读,难度自然不小。 第一、学科的难度变大 与此同时,孩子的自觉性和自主性也有很大影响。 如果孩子习惯偷懒,课后不做作业或练习,在家也不主动学习,那么掉队是很自然的事情。 第三、孩子学习更靠自觉",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级现象”是小学阶段的转折点",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "同心圆 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.001,
+            "w": 0.0004,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "在一二年级时,孩子只要上课认真听讲,课后死记硬背,就能应付作业和考试。 可到了三四年级,不能光靠记忆了,还要学会理解运用,举一反三,考验孩子的逻辑思维能力。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0009,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "第二、孩子的思维要转变",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "同心圆 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 14.0,
+          "bold": true,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "学生风格-01-动态-44365d22-s06",
+      "title_guess": "“三年级滑坡”",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-right:5,bottom-center:3,top-right:1",
+      "counts": {
+        "text": 4,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.0317,
+        "image_area": 0.3111,
+        "shape_area": 0.0075,
+        "text_blob": "“三年级滑坡” 家长也有一定责任 02 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8222,
+            "y": 0.0,
+            "w": 0.1956,
+            "h": 0.2724
+          },
+          "area": 0.0533,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.6963,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2964,
+            "y": 0.6741,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.6455,
+            "w": 0.0489,
+            "h": 0.0994
+          },
+          "area": 0.0049,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.8721,
+            "w": 0.049,
+            "h": 0.0937
+          },
+          "area": 0.0046,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.8537,
+            "w": 0.0438,
+            "h": 0.0837
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.9311,
+            "w": 0.0252,
+            "h": 0.0506
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.824,
+            "y": 0.662,
+            "w": 0.0245,
+            "h": 0.0494
+          },
+          "area": 0.0012,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5511,
+            "y": 0.8268,
+            "w": 0.0221,
+            "h": 0.0445
+          },
+          "area": 0.001,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 68.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "学生风格-01-动态-44365d22-s07",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:8,middle-left:1,top-right:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 24,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.0302,
+        "image_area": 0.1232,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 “三年级滑坡”家长也有一定责任 “ 三年级现象 我们发现,“三年级现象”不会出现在每个孩子身上。 那些一直踏实、自觉、高效学习的孩子,他们的成绩一直名列前茅。 01 而那些基础不扎实、学习不积极、自主学习能力差的孩子,成绩一下子就掉下来了。 02",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 17",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0969,
+            "y": 0.2454,
+            "w": 0.4031,
+            "h": 0.3056
+          },
+          "area": 0.1232,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8213,
+            "y": 0.1166,
+            "w": 0.1162,
+            "h": 0.2601
+          },
+          "area": 0.0302,
+          "text": "“",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 110.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级滑坡”家长也有一定责任",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "三年级现象",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 28.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0006,
+            "w": 0.0005,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "我们发现,“三年级现象”不会出现在每个孩子身上。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 34",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0011,
+            "w": 0.0005,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "那些一直踏实、自觉、高效学习的孩子,他们的成绩一直名列前茅。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 22.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "微软雅黑",
+          "font_size": 110.0,
+          "bold": true,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "学生风格-01-动态-44365d22-s08",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:10",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 24,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 “三年级滑坡”家长也有一定责任 01 一二年级只靠背书过关,基础知识不扎实,上了三年级就捉襟见肘。因为三年级更注重阅读与理解,孩子基本功不过关,学习很难跟得上。 第一:基础不扎实 02 懒惰的孩子,不会课前预习,上课不会专心听讲,课后也懒得认真写作业。如此敷衍的态度、被动地学习,是不可能学出好结果的。 第二:学习不积极 03 有些孩子过度依赖老师和家长,老师讲过的他就记得,家长教过的他就会做。 没了大人的监督和帮助,他就完全不会学习,成绩自然越来越差。 所以说,孩子遭遇“三年级滑坡”,家长也有一定责任。 从来不管,放任孩子自生自灭,导致孩子没有养成好的学习习惯,没有找到好的学习方法。 第三:自主学习能力差",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级滑坡”家长也有一定责任",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0004,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 21",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "bold": true,
+            "align": "right",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "矩形 22",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "一二年级只靠背书过关,基础知识不扎实,上了三年级就捉襟见肘。因为三年级更注重阅读与理解,孩子基本功不过关,学习很难跟得上。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "矩形 23",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "第一:基础不扎实",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0004,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "学生风格-01-动态-44365d22-s09",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:8,middle-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 24,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.0,
+        "shape_area": 0.0638,
+        "text_blob": "规划引领,家校同行 “三年级滑坡”家长也有一定责任 01 父母不管,会让懒散吞噬孩子的自律。 03 父母管得太多,会让孩子养成依赖,离开父母什么都做不好。 02 管得太多,坐在孩子旁边陪读,一道一道题去讲解,导致孩子懒得思考,等着父母讲答案。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.128,
+            "y": 0.4278,
+            "w": 0.1457,
+            "h": 0.259
+          },
+          "area": 0.0377,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1403,
+            "y": 0.4496,
+            "w": 0.1211,
+            "h": 0.2153
+          },
+          "area": 0.0261,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "“三年级滑坡”家长也有一定责任",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "文本框 121",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "+mn-lt",
+            "font_size": 48.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "矩形 35",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0007,
+            "w": 0.0002,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "父母不管,会让懒散吞噬孩子的自律。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 48.0,
+          "bold": true,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "学生风格-01-动态-44365d22-s10",
+      "title_guess": "教育的本质就是",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-right:5,bottom-center:3,top-right:1",
+      "counts": {
+        "text": 4,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.0317,
+        "image_area": 0.3111,
+        "shape_area": 0.0075,
+        "text_blob": "教育的本质就是 培养好习惯 03 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8222,
+            "y": 0.0,
+            "w": 0.1956,
+            "h": 0.2724
+          },
+          "area": 0.0533,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.6963,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2964,
+            "y": 0.6741,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.6455,
+            "w": 0.0489,
+            "h": 0.0994
+          },
+          "area": 0.0049,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.8721,
+            "w": 0.049,
+            "h": 0.0937
+          },
+          "area": 0.0046,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.8537,
+            "w": 0.0438,
+            "h": 0.0837
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.9311,
+            "w": 0.0252,
+            "h": 0.0506
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.824,
+            "y": 0.662,
+            "w": 0.0245,
+            "h": 0.0494
+          },
+          "area": 0.0012,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5511,
+            "y": 0.8268,
+            "w": 0.0221,
+            "h": 0.0445
+          },
+          "area": 0.001,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 68.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "学生风格-01-动态-44365d22-s11",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:10",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 24,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 教育的本质就是培养好习惯 在此阶段,如何帮助孩子迈过“三年级这道坎”,实现学习上的转型,显得尤为重要。 特级教师王崧舟指出,只需要让孩子拥有三个强大的品质。 三年级,正是拉开孩子差距的 关键时期 01 效率 02 习惯 03 专注 “孩子倘若拥有其中一个品质,一定跟‘三年级现象’绝缘;一旦拥有这三种品质,那么孩子必然是学霸。” 教育的本质就是培养习惯,家长不妨从这三个方面着手,重点培养孩子的好习惯。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "教育的本质就是培养好习惯",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "矩形 35",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0008,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "在此阶段,如何帮助孩子迈过“三年级这道坎”,实现学习上的转型,显得尤为重要。 特级教师王崧舟指出,只需要让孩子拥有三个强大的品质。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "矩形 36",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0006,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "三年级,正是拉开孩子差距的 关键时期",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.001,
+            "w": 0.0002,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0009,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "矩形 2",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0009,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "学生风格-01-动态-44365d22-s12",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:9,middle-right:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 24,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.1626,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 教育的本质就是培养好习惯 第一:提升孩子的学习效率。 善于规划时间、科学安排学习任务的孩子,他的学习总是高效的。 一位考上清华大学的衡中学霸分享了他的经验: 提高学习效率,其实只有两点—— 效率本身就是一种习惯 学会见缝插针利用好空余时间,坚持不懈地学习;该学习时,把学习放在第一位,绝不把时间浪费在无谓的事上。 方法很简单,但经过日积月累,就会有惊人的成效。 保证学习时间",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6359,
+            "y": 0.3777,
+            "w": 0.3294,
+            "h": 0.4936
+          },
+          "area": 0.1626,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "教育的本质就是培养好习惯",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0005,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "矩形 36",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0006,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "第一:提升孩子的学习效率。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "学生风格-01-动态-44365d22-s13",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:9,middle-left:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 24,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.1414,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 教育的本质就是培养好习惯 第二:培养孩子的学习习惯 新教育改革有一个行动叫“每月一事”,每个月让孩子做一件事,培养好习惯。 比如,这个月学会自觉学习,不用父母督促,每天主动完成课后作业; 下个月学会独立完成作业,先复习再去写作业,写完作业后检查并订正; 再下个月学会整理错题,把错题都收集起来,根据错题查漏补缺; 养成良好的习惯 三年级是养成孩子学习习惯的关键时期。专心听讲、认真作业、善于质疑、独立思考、合理安排时间、自己事情自己做等等习惯,都应该尽早养成。 关键时期",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1036,
+            "y": 0.3506,
+            "w": 0.3222,
+            "h": 0.4389
+          },
+          "area": 0.1414,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "教育的本质就是培养好习惯",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0005,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "矩形 36",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "第二:培养孩子的学习习惯",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形标注 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0006,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "学生风格-01-动态-44365d22-s14",
+      "title_guess": "孩子学会真努力",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-right:5,bottom-center:3,top-right:1",
+      "counts": {
+        "text": 4,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.0317,
+        "image_area": 0.3111,
+        "shape_area": 0.0075,
+        "text_blob": "孩子学会真努力 家长学会真关心 04 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8222,
+            "y": 0.0,
+            "w": 0.1956,
+            "h": 0.2724
+          },
+          "area": 0.0533,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.6963,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2964,
+            "y": 0.6741,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.6455,
+            "w": 0.0489,
+            "h": 0.0994
+          },
+          "area": 0.0049,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.8721,
+            "w": 0.049,
+            "h": 0.0937
+          },
+          "area": 0.0046,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.8537,
+            "w": 0.0438,
+            "h": 0.0837
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.9311,
+            "w": 0.0252,
+            "h": 0.0506
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.824,
+            "y": 0.662,
+            "w": 0.0245,
+            "h": 0.0494
+          },
+          "area": 0.0012,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5511,
+            "y": 0.8268,
+            "w": 0.0221,
+            "h": 0.0445
+          },
+          "area": 0.001,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 68.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "学生风格-01-动态-44365d22-s15",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:7,middle-right:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.2271,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 孩子学会“真努力”家长学会“真关心” 作家莫言曾经坦言 “我接触过数百位优秀的父母,他们的一个共同点就是在教育孩子上费尽心思。” 教育路上,孩子的成绩不仅来自于学校老师的教导,更多会受到家庭和父母的影响。 同一个班级,孩子之间的竞争,归根到底,就是家长们综合素质和付出心力的竞争。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.2927,
+            "w": 0.412,
+            "h": 0.5513
+          },
+          "area": 0.2271,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "孩子学会“真努力”家长学会“真关心”",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 21",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "作家莫言曾经坦言",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05,
+            "vertical_anchor": "middle"
+          }
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0007,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "“我接触过数百位优秀的父母,他们的一个共同点就是在教育孩子上费尽心思。” 教育路上,孩子的成绩不仅来自于学校老师的教导,更多会受到家庭和父母的影响。 同一个班级,孩子之间的竞争,归根到底,就是家长们综合素质和付出心力的竞争。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 19.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05,
+          "vertical_anchor": "middle"
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "学生风格-01-动态-44365d22-s16",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,middle-center:2,bottom-center:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1504,
+        "image_area": 0.3282,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 孩子学会“真努力”家长学会“真关心” 希望所有家长明白 小学的成绩,对孩子未来的影响真的没有想象中那么大。 真正影响孩子未来学习的,是孩子对学习的兴趣和信心。 从小培养孩子对学习的浓厚兴趣,树立孩子对学习的充足信心,才是小学时家长最该做好的事情。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1365,
+            "y": 0.1757,
+            "w": 0.75,
+            "h": 0.4376
+          },
+          "area": 0.3282,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0789,
+            "y": 0.7333,
+            "w": 0.8422,
+            "h": 0.1586
+          },
+          "area": 0.1336,
+          "text": "小学的成绩,对孩子未来的影响真的没有想象中那么大。 真正影响孩子未来学习的,是孩子对学习的兴趣和信心。 从小培养孩子对学习的浓厚兴趣,树立孩子对学习的充足信心,才是小学时家长最该做好的事情。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 21",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3973,
+            "y": 0.6133,
+            "w": 0.2054,
+            "h": 0.0818
+          },
+          "area": 0.0168,
+          "text": "希望所有家长明白",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05,
+            "vertical_anchor": "middle"
+          }
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "孩子学会“真努力”家长学会“真关心”",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 19.0,
+          "bold": true,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "微软雅黑",
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05,
+          "vertical_anchor": "middle"
+        },
+        "body": {
+          "font": "微软雅黑",
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "学生风格-01-动态-44365d22-s17",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:9,middle-right:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 24,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.1505,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 孩子学会“真努力”家长学会“真关心” 也希望所有家长做到 在小学学习转折的关键期,一定要抓好孩子的教育。 抓好孩子的学习习惯,抓好孩子的能力提升,抓好家庭教育的质量...... 你在孩子身上下了几分功夫,最终都会体现在孩子的成绩单上。 为了让孩子成为更好的人,希望所有家长能够与老师一起出力: 1. 每天检查孩子作业; 2. 帮助孩子解决作业中的困难; 3. 重视背诵作业; 4. 重视预习,让孩子大声读课文; 5. 经常翻看孩子的课本,通过笔记等了解孩子的听课情况; 6. 帮助孩子扩大阅读,加强积累。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6806,
+            "y": 0.1659,
+            "w": 0.2121,
+            "h": 0.7096
+          },
+          "area": 0.1505,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "孩子学会“真努力”家长学会“真关心”",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 21",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "也希望所有家长做到",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05,
+            "vertical_anchor": "middle"
+          }
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.001,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "在小学学习转折的关键期,一定要抓好孩子的教育。 抓好孩子的学习习惯,抓好孩子的能力提升,抓好家庭教育的质量...... 你在孩子身上下了几分功夫,最终都会体现在孩子的成绩单上。 为了让孩子成为更好的人,希望所有家长能够与老师一起出力:",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0009,
+            "w": 0.0014,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "矩形 2",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0009,
+            "w": 0.001,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "1. 每天检查孩子作业; 2. 帮助孩子解决作业中的困难; 3. 重视背诵作业; 4. 重视预习,让孩子大声读课文; 5. 经常翻看孩子的课本,通过笔记等了解孩子的听课情况; 6. 帮助孩子扩大阅读,加强积累。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 19.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05,
+          "vertical_anchor": "middle"
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "学生风格-01-动态-44365d22-s18",
+      "title_guess": "共同规划成长之路",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-right:5,bottom-center:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 11,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 24,
+        "text_count": 3,
+        "image_count": 11,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.1534,
+        "image_area": 0.3111,
+        "shape_area": 0.0075,
+        "text_blob": "共同规划成长之路 04 有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1452,
+            "y": 0.4364,
+            "w": 0.7096,
+            "h": 0.1715
+          },
+          "area": 0.1217,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 80.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8222,
+            "y": 0.0,
+            "w": 0.1956,
+            "h": 0.2724
+          },
+          "area": 0.0533,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7635,
+            "y": 0.6963,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2964,
+            "y": 0.6415,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "有小学教育专家表示,小学三年级是孩子第一次出现变化的阶段,也是家长最容易忽视的时期。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.6455,
+            "w": 0.0489,
+            "h": 0.0994
+          },
+          "area": 0.0049,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9332,
+            "y": 0.8721,
+            "w": 0.049,
+            "h": 0.0937
+          },
+          "area": 0.0046,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6895,
+            "y": 0.8537,
+            "w": 0.0438,
+            "h": 0.0837
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.9311,
+            "w": 0.0252,
+            "h": 0.0506
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.824,
+            "y": 0.662,
+            "w": 0.0245,
+            "h": 0.0494
+          },
+          "area": 0.0012,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 11
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "微软雅黑",
+          "font_size": 80.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "+mn-lt",
+          "font_size": 72.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "学生风格-01-动态-44365d22-s19",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:9,top-center:1",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 24,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.0193,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 共同规划成长之路 二年级—拼音/朗读/习惯 二年级是以拼音字词句子为主,在这个阶段,主要养成孩子良好的学习习惯,比如认真听讲、整洁书写、按时完成作业、培茶孩子阅读的习惯等。 01 在这个阶段,培养孩子一个能力,就是:朗读,鼓励孩子大声地朗读课文,能带有感情朗读更好。朗读对培养孩子的阅读速度、理解能力、语感都非常有好处。 02 二年级不要太看重孩子的成绩,因为孩子的智力发展水平不一致,只要孩子的学习习惯好了,随着时间的发展,会越来越轻松自信。不建议在这个阶段给孩子太大的语文学习压力。 03",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 10",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3337,
+            "y": 0.1897,
+            "w": 0.3325,
+            "h": 0.0581
+          },
+          "area": 0.0193,
+          "text": "二年级—拼音/朗读/习惯",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0007,
+            "w": 0.0005,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0008,
+            "w": 0.0004,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "二年级是以拼音字词句子为主,在这个阶段,主要养成孩子良好的学习习惯,比如认真听讲、整洁书写、按时完成作业、培茶孩子阅读的习惯等。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 16.0,
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "学生风格-01-动态-44365d22-s20",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:7,unknown:2,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0.2097,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 共同规划成长之路 小学三、四年级,根据孩子自身的年龄特征和认知能力的发展,是孩子整个阅读写作能力的重要奠定期。 这一时期孩子对语文学习的态度,将直接决定孩子将会更加亲近或远离语文学科。 这一阶段首先要解决的问题是,让孩子不怕写作文,觉得自己的作文写得还不错,甚至是喜欢写作文,这将对他今后的语文学习产生极为重要的影响。 四年级—写作>阅读",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0755,
+            "y": 0.2487,
+            "w": 0.3385,
+            "h": 0.6194
+          },
+          "area": 0.2097,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0006,
+            "w": 0.0008,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "小学三、四年级,根据孩子自身的年龄特征和认知能力的发展,是孩子整个阅读写作能力的重要奠定期。 这一时期孩子对语文学习的态度,将直接决定孩子将会更加亲近或远离语文学科。 这一阶段首先要解决的问题是,让孩子不怕写作文,觉得自己的作文写得还不错,",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 7",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 8",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "矩形 10",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0004,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "四年级—写作>阅读",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "学生风格-01-动态-44365d22-s21",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:5,middle-left:1,middle-center:1",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 24,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2099,
+        "image_area": 0.1456,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 共同规划成长之路 这个时期是孩子的记忆力最好的时候。让孩子多背古诗名句,不要把时间浪费在背诵所谓的“好词好句”上。 四年级—写作>阅读 三、四年级最应注重和优先解决的问题是写作,而不是阅读。不要让孩子跟者模板式的写作老师学作文,得不偿失。不要着急三、四年级解决阅读丢分问题,那样只会事倍功半。 这个阶段注意帮助孩子形成良好的思维方式、培养美好健康的情感与心理认知、完善和提升学生的自身人格。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.04,
+            "y": 0.4054,
+            "w": 0.2862,
+            "h": 0.5088
+          },
+          "area": 0.1456,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形 7",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3206,
+            "y": 0.4475,
+            "w": 0.53,
+            "h": 0.1586
+          },
+          "area": 0.0841,
+          "text": "三、四年级最应注重和优先解决的问题是写作,而不是阅读。不要让孩子跟者模板式的写作老师学作文,得不偿失。不要着急三、四年级解决阅读丢分问题,那样只会事倍功半。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "矩形 8",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4601,
+            "y": 0.6723,
+            "w": 0.4932,
+            "h": 0.1102
+          },
+          "area": 0.0544,
+          "text": "这个阶段注意帮助孩子形成良好的思维方式、培养美好健康的情感与心理认知、完善和提升学生的自身人格。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1929,
+            "y": 0.2711,
+            "w": 0.4922,
+            "h": 0.1102
+          },
+          "area": 0.0542,
+          "text": "这个时期是孩子的记忆力最好的时候。让孩子多背古诗名句,不要把时间浪费在背诵所谓的“好词好句”上。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8126,
+            "y": 0.2603,
+            "w": 0.1421,
+            "h": 0.121
+          },
+          "area": 0.0172,
+          "text": "四年级—写作>阅读",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 2,
+          "label": 1,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 19.0,
+          "bold": true,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "微软雅黑",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "claim": {
+          "font": "微软雅黑",
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "学生风格-01-动态-44365d22-s22",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:8,bottom-center:1,bottom-right:1",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 24,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2988,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 共同规划成长之路 这个阶段的孩子,家长不应该再把他们当小孩子看,作为家长,要转变角色,学会和孩子分享一些生活中的问题和话题,你将发现他们会给出非常积极的回应。 六年级—综合能力 1、阅读能力方面,这个阶段应重在提高孩子的概括能力、理解和表述能力,同时要兼顾对抒情性散文、说明文阅读题的练习。不要把时间浪费在做同步练习题和训练字、词、拼音的阅读题上。 2、五、六年级的作文学习,重点在于解决主题鲜明(最好略带深刻)、立意新颖、重点突出、语言生动等问题。在作文学习过程中,建议孩子适当参加一些征文比赛活动,通常有利于提高孩子的学习积极性。 综合能力",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0622,
+            "y": 0.5731,
+            "w": 0.802,
+            "h": 0.3486
+          },
+          "area": 0.2796,
+          "text": "1、阅读能力方面,这个阶段应重在提高孩子的概括能力、理解和表述能力,同时要兼顾对抒情性散文、说明文阅读题的练习。不要把时间浪费在做同步练习题和训练字、词、拼音的阅读题上。 2、五、六年级的作文学习,重点在于解决主题鲜明(最好略带深刻)、立意",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 14",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8791,
+            "y": 0.5694,
+            "w": 0.0616,
+            "h": 0.3115
+          },
+          "area": 0.0192,
+          "text": "综合能力",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05,
+            "vertical_anchor": "middle"
+          }
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0003,
+            "w": 0.0012,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0003,
+            "w": 0.0012,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "矩形 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0008,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "这个阶段的孩子,家长不应该再把他们当小孩子看,作为家长,要转变角色,学会和孩子分享一些生活中的问题和话题,你将发现他们会给出非常积极的回应。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "align": "left",
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "claim": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "claim": {
+          "font": "微软雅黑",
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "微软雅黑",
+          "font_size": 24.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05,
+          "vertical_anchor": "middle"
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "学生风格-01-动态-44365d22-s23",
+      "title_guess": "规划引领,家校同行",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:9",
+      "counts": {
+        "text": 4,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 24,
+        "text_count": 4,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "规划引领,家校同行 共同规划成长之路 3、除了孩子能学好写作外,我们无法忘记小升初面试时的考题,其实是在考孩子的现场口头作文能力,因此作文课堂训练除了以写为主,听和说的训练也是绝对不可以缺少的。 4、这个阶段,只要时间允许,仍可让孩子适当多背多记一些古诗文和现代经典文章。但提醒一点,作文书不要多看,看一本还行,多了并无益处,不建议孩子背诵现代文优美句子。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0015,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0001,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "规划引领,家校同行",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0008,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "共同规划成长之路",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 24.0,
+            "bold": true,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0006,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.001,
+            "w": 0.0006,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "3、除了孩子能学好写作外,我们无法忘记小升初面试时的考题,其实是在考孩子的现场口头作文能力,因此作文课堂训练除了以写为主,听和说的训练也是绝对不可以缺少的。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 17.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0006,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "矩形 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.001,
+            "w": 0.0006,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "4、这个阶段,只要时间允许,仍可让孩子适当多背多记一些古诗文和现代经典文章。但提醒一点,作文书不要多看,看一本还行,多了并无益处,不建议孩子背诵现代文优美句子。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 17.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 17.0,
+          "bold": true,
+          "align": "left",
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "学生风格-01-动态-44365d22-s24",
+      "title_guess": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-right:2,top-left:2,middle-left:2",
+      "counts": {
+        "text": 7,
+        "image": 9,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 24,
+        "text_count": 7,
+        "image_count": 9,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 0,
+        "text_area": 0.1034,
+        "image_area": 0.4819,
+        "shape_area": 0.1504,
+        "text_blob": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑...... 小学发展策略与规划家长会 Primary School Parent Teacher Association 主讲人:某某某 时间:202X.X.X 谢谢观看和聆听! 携手规划小学未来",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.789,
+            "w": 1.0,
+            "h": 0.211
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0299,
+            "y": 0.2244,
+            "w": 0.6003,
+            "h": 0.2506
+          },
+          "area": 0.1504,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5458,
+            "y": 0.5668,
+            "w": 0.3287,
+            "h": 0.3857
+          },
+          "area": 0.1268,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7415,
+            "y": 0.0,
+            "w": 0.2764,
+            "h": 0.3849
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.1945,
+            "w": 0.4616,
+            "h": 0.0942
+          },
+          "area": 0.0435,
+          "text": "Primary School Parent Teacher Association",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7762,
+            "y": 0.3848,
+            "w": 0.1375,
+            "h": 0.2444
+          },
+          "area": 0.0336,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.6119,
+            "w": 0.4072,
+            "h": 0.0778
+          },
+          "area": 0.0317,
+          "text": "教育界,有一个著名的“三年级现象”:孩子一二年级时学得好好的,可一升入三年级,就学得越来越吃力,成绩也开始下滑......",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.2,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.5481,
+            "w": 0.4854,
+            "h": 0.0581
+          },
+          "area": 0.0282,
+          "text": "小学发展策略与规划家长会",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 20.0,
+            "bold": true,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6801,
+            "y": 0.2825,
+            "w": 0.0464,
+            "h": 0.0887
+          },
+          "area": 0.0041,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 5
+        },
+        "image": {
+          "image": 9
+        }
+      },
+      "text_style_tokens": {
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.2,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "bold": true,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 24,
+    "layout_job_counts": {
+      "two-column": 6,
+      "matrix-grid": 5,
+      "research-question": 4,
+      "process-strip": 3,
+      "limitations-future": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "claim-evidence": 1,
+      "flow-diagram": 1
+    },
+    "carrier_counts": {
+      "image": 18,
+      "diagram-shapes": 4,
+      "mixed": 2
+    },
+    "density_counts": {
+      "medium-high": 10,
+      "high": 7,
+      "medium": 7
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "matrix-grid",
+      "research-question",
+      "process-strip",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "mixed"
+    ]
+  }
+}

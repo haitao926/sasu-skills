@@ -1,0 +1,4411 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:21.356946+00:00",
+  "template_id": "学生风格-19-静态-d69b1924",
+  "template_profile_path": "assets/template-library/profiles/学生风格-19-静态-d69b1924.json",
+  "source_template": {
+    "name": "学生风格(19)—静态.pptx",
+    "category": "学生风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(19)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 21,
+    "media_count": 20,
+    "image_media_count": 19,
+    "motion_hint": "static",
+    "tags": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示",
+      "封面",
+      "任务过程",
+      "作品展示",
+      "收获总结",
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽",
+      "作品图",
+      "课堂照片",
+      "任务过程图",
+      "短标题",
+      "短说明",
+      "少量标签",
+      "静态版",
+      "中",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "学生展示",
+    "scenario": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示"
+    ],
+    "best_for": [
+      "学生汇报",
+      "课堂展示",
+      "校园活动"
+    ],
+    "avoid": [
+      "过度严肃科研",
+      "高密度长文"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "过程",
+      "作品",
+      "收获",
+      "结束"
+    ],
+    "visual": [
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽"
+    ],
+    "image_strategy": [
+      "作品图",
+      "课堂照片",
+      "任务过程图"
+    ],
+    "text_strategy": [
+      "短标题",
+      "短说明",
+      "少量标签"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "research-question",
+      "toc",
+      "two-column",
+      "claim-evidence",
+      "flow-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "mixed"
+    ],
+    "dominant_density": "medium",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "image",
+      "diagram-block",
+      "claim"
+    ],
+    "common_zones": [
+      "middle-center",
+      "top-left",
+      "middle-left",
+      "top-center",
+      "bottom-center",
+      "bottom-left"
+    ],
+    "template_text_signature": "中小学生心理健康 前言 目录 —— 第壹章节 —— 壹 壹 壹 —— 第贰章节 —— 贰 贰 贰 —— 第叁章节 —— 叁 叁 叁 叁 叁 叁 叁 叁 关注心理健康",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "学生风格-19-静态-d69b1924-s01",
+      "title_guess": "中小学生心理健康",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 16,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 21,
+        "text_count": 16,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.2897,
+        "image_area": 0.3623,
+        "shape_area": 0.9062,
+        "text_blob": "关注心理健康 中小学生心理健康 中小学生心理健康 心 理 健 康 教 育 教 育 健 康 心 理 —— 某某学校心理健康教育主题班会",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 65",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5943,
+            "w": 1.0,
+            "h": 0.4057
+          },
+          "area": 0.4057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 63",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5955,
+            "w": 1.0,
+            "h": 0.4033
+          },
+          "area": 0.4033,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6336,
+            "y": 0.2007,
+            "w": 0.3301,
+            "h": 0.7266
+          },
+          "area": 0.2399,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图形 43",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5841,
+            "y": 0.1189,
+            "w": 0.3846,
+            "h": 0.3182
+          },
+          "area": 0.1224,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 52",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0668,
+            "y": 0.3969,
+            "w": 0.672,
+            "h": 0.175
+          },
+          "area": 0.1176,
+          "text": "中小学生心理健康",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 53",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0666,
+            "y": 0.3969,
+            "w": 0.6722,
+            "h": 0.175
+          },
+          "area": 0.1176,
+          "text": "中小学生心理健康",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 105",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.7074,
+            "w": 0.4665,
+            "h": 0.1153
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 104",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.087,
+            "y": 0.7359,
+            "w": 0.4067,
+            "h": 0.0581
+          },
+          "area": 0.0236,
+          "text": "—— 某某学校心理健康教育主题班会",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.2672,
+            "w": 0.1682,
+            "h": 0.0624
+          },
+          "area": 0.0105,
+          "text": "关注心理健康",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 47",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0916,
+            "y": 0.2077,
+            "w": 0.1374,
+            "h": 0.0688
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "title": 2,
+          "footer": 13
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "学生风格-19-静态-d69b1924-s02",
+      "title_guess": "前言",
+      "layout_job": "research-question",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:5,middle-right:2,top-right:1",
+      "counts": {
+        "text": 4,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 21,
+        "text_count": 4,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.3476,
+        "image_area": 0.1145,
+        "shape_area": 0.4913,
+        "text_blob": "前言 前言 PREFACE 中小学生的心理健康教育是当前社会关注的焦点问题,探讨心理健康的含义,确立中小学生心理健康的标准,为中小学心理健康教育提供依据,具有重要的理论与实际意义。 本次班会主要分析中小学生心理健康的标准以及在应用这一标准时应注意的几个问题。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 33",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3836,
+            "y": 0.0818,
+            "w": 0.566,
+            "h": 0.8365
+          },
+          "area": 0.4735,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 30",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4275,
+            "y": 0.2653,
+            "w": 0.4994,
+            "h": 0.4694
+          },
+          "area": 0.2344,
+          "text": "中小学生的心理健康教育是当前社会关注的焦点问题,探讨心理健康的含义,确立中小学生心理健康的标准,为中小学心理健康教育提供依据,具有重要的理论与实际意义。 本次班会主要分析中小学生心理健康的标准以及在应用这一标准时应注意的几个问题。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 43",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0082,
+            "y": 0.2803,
+            "w": 0.3143,
+            "h": 0.2893
+          },
+          "area": 0.0909,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0291,
+            "y": 0.36,
+            "w": 0.2646,
+            "h": 0.193
+          },
+          "area": 0.0511,
+          "text": "前言",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0293,
+            "y": 0.36,
+            "w": 0.2645,
+            "h": 0.193
+          },
+          "area": 0.051,
+          "text": "前言",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8646,
+            "y": 0.0238,
+            "w": 0.1245,
+            "h": 0.1899
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0531,
+            "y": 0.5678,
+            "w": 0.2219,
+            "h": 0.0658
+          },
+          "area": 0.0146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0758,
+            "y": 0.5654,
+            "w": 0.1766,
+            "h": 0.0628
+          },
+          "area": 0.0111,
+          "text": "PREFACE",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直角三角形 38",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3684,
+            "y": 0.1284,
+            "w": 0.0302,
+            "h": 0.0537
+          },
+          "area": 0.0016,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直角三角形 39",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9344,
+            "y": 0.8059,
+            "w": 0.0302,
+            "h": 0.0537
+          },
+          "area": 0.0016,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "claim": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "学生风格-19-静态-d69b1924-s03",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:3,top-right:3,middle-right:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 21,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.2197,
+        "image_area": 0.1145,
+        "shape_area": 0.1814,
+        "text_blob": "目录 目录 CONTENTS 关于什么是心理健康? 中小学生心理发育特征 学校与家长应该怎么做 壹 贰 叁",
+        "title_like": 3,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 43",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0082,
+            "y": 0.2803,
+            "w": 0.3143,
+            "h": 0.2893
+          },
+          "area": 0.0909,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 10",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0291,
+            "y": 0.36,
+            "w": 0.2646,
+            "h": 0.193
+          },
+          "area": 0.0511,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 9",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0293,
+            "y": 0.36,
+            "w": 0.2645,
+            "h": 0.193
+          },
+          "area": 0.051,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.505,
+            "y": 0.2481,
+            "w": 0.4062,
+            "h": 0.1168
+          },
+          "area": 0.0474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.505,
+            "y": 0.4416,
+            "w": 0.4062,
+            "h": 0.1168
+          },
+          "area": 0.0474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 25",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.505,
+            "y": 0.635,
+            "w": 0.4062,
+            "h": 0.1168
+          },
+          "area": 0.0474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5284,
+            "y": 0.2684,
+            "w": 0.3985,
+            "h": 0.0763
+          },
+          "area": 0.0304,
+          "text": "关于什么是心理健康?",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5284,
+            "y": 0.4619,
+            "w": 0.3985,
+            "h": 0.0763
+          },
+          "area": 0.0304,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5284,
+            "y": 0.6553,
+            "w": 0.3985,
+            "h": 0.0763
+          },
+          "area": 0.0304,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8646,
+            "y": 0.0238,
+            "w": 0.1245,
+            "h": 0.1899
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 3,
+          "label": 6
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "学生风格-19-静态-d69b1924-s04",
+      "title_guess": "—— 第壹章节 ——",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2926,
+        "image_area": 0.1263,
+        "shape_area": 0.8628,
+        "text_blob": "—— 第壹章节 —— 关于什么是心理健康 关于什么是心理健康",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 4",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5943,
+            "w": 1.0,
+            "h": 0.4057
+          },
+          "area": 0.4057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 3",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5955,
+            "w": 1.0,
+            "h": 0.4033
+          },
+          "area": 0.4033,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1148,
+            "y": 0.4125,
+            "w": 0.7575,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "关于什么是心理健康",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1146,
+            "y": 0.4125,
+            "w": 0.7577,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "关于什么是心理健康",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3053,
+            "y": 0.1399,
+            "w": 0.3704,
+            "h": 0.341
+          },
+          "area": 0.1263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.7074,
+            "w": 0.4665,
+            "h": 0.1153
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0975,
+            "y": 0.7317,
+            "w": 0.4067,
+            "h": 0.0673
+          },
+          "area": 0.0274,
+          "text": "—— 第壹章节 ——",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "学生风格-19-静态-d69b1924-s05",
+      "title_guess": "壹",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 21,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.3526,
+        "image_area": 0.0712,
+        "shape_area": 0.0502,
+        "text_blob": "壹 关于什么是心理健康? 心理健康是指心理的各个方面及活动过程处于一种良好或正常的状态。心理健康的理想状态是保持性格完好、智力正常、认知正确、情感适当、意志合理、态度积极、行为恰当、适应良好的状态。 受到遗传和环境的双重影响,尤其是幼年时期的原生家庭的教养方式,对心理健康的发展影响甚大。心理健康突出在社交、生产、生活上能与其他人保持较好的沟通或配合,能良好地处理生活中发生的各种情况。 关于什么是心理健康?",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 29",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2632,
+            "y": 0.3672,
+            "w": 0.674,
+            "h": 0.4297
+          },
+          "area": 0.2896,
+          "text": "心理健康是指心理的各个方面及活动过程处于一种良好或正常的状态。心理健康的理想状态是保持性格完好、智力正常、认知正确、情感适当、意志合理、态度积极、行为恰当、适应良好的状态。 受到遗传和环境的双重影响,尤其是幼年时期的原生家庭的教养方式,对心",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "图片 40",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3672,
+            "w": 0.1587,
+            "h": 0.4489
+          },
+          "area": 0.0712,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 单圆角 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2341,
+            "w": 0.4371,
+            "h": 0.1016
+          },
+          "area": 0.0444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "关于什么是心理健康?",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.2468,
+            "w": 0.3464,
+            "h": 0.0763
+          },
+          "area": 0.0264,
+          "text": "关于什么是心理健康?",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Freeform 301",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.88,
+            "y": 0.2341,
+            "w": 0.0571,
+            "h": 0.1016
+          },
+          "area": 0.0058,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "壹",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "学生风格-19-静态-d69b1924-s06",
+      "title_guess": "壹",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-center:4,bottom-right:1",
+      "counts": {
+        "text": 5,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 21,
+        "text_count": 5,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1264,
+        "image_area": 0.1206,
+        "shape_area": 0.5028,
+        "text_blob": "壹 关于什么是心理健康? 心理健康对中小学生 有两种含义 没有心理疾病 具备心理保健的基本能力,积极向上的心态",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 19",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0474,
+            "y": 0.213,
+            "w": 0.3448,
+            "h": 0.613
+          },
+          "area": 0.2114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0844,
+            "y": 0.2787,
+            "w": 0.2708,
+            "h": 0.4815
+          },
+          "area": 0.1304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 22",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4078,
+            "y": 0.2918,
+            "w": 0.5005,
+            "h": 0.1656
+          },
+          "area": 0.0829,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.812,
+            "y": 0.4734,
+            "w": 0.175,
+            "h": 0.4695
+          },
+          "area": 0.0822,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4078,
+            "y": 0.5426,
+            "w": 0.4099,
+            "h": 0.1656
+          },
+          "area": 0.0679,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 30",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1069,
+            "y": 0.356,
+            "w": 0.2057,
+            "h": 0.1867
+          },
+          "area": 0.0384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4918,
+            "y": 0.5648,
+            "w": 0.2936,
+            "h": 0.1212
+          },
+          "area": 0.0356,
+          "text": "具备心理保健的基本能力,积极向上的心态",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "关于什么是心理健康?",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1005,
+            "y": 0.5559,
+            "w": 0.2411,
+            "h": 0.1212
+          },
+          "area": 0.0292,
+          "text": "心理健康对中小学生 有两种含义",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 34",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4918,
+            "y": 0.332,
+            "w": 0.2936,
+            "h": 0.0853
+          },
+          "area": 0.025,
+          "text": "没有心理疾病",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "学生风格-19-静态-d69b1924-s07",
+      "title_guess": "壹",
+      "layout_job": "research-question",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-center:2,middle-left:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 21,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.3466,
+        "image_area": 0,
+        "shape_area": 0.3616,
+        "text_blob": "壹 关于什么是心理健康? 要实现这两个目标 ,就必须确立中小学生心理健康的标准,而要确立中小学生心理健康标准,则首先要弄清楚中小学生心理发育的基本特征。 中小学心理健康教育,相应地也就有两个基本的目标 针对有心理问题的学生进行心理辅导与个别教育, 使其能够适应社会生活,顺利完成学业; 针对全体学生的心理发展教育,以促进全体学生的心理健康,提升其心理保健能力,树立积极向上的心态,为成人、成才、成功服务。 一是 二是",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.5305,
+            "w": 0.8821,
+            "h": 0.1457
+          },
+          "area": 0.1285,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.3687,
+            "w": 0.8821,
+            "h": 0.1457
+          },
+          "area": 0.1285,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0844,
+            "y": 0.7091,
+            "w": 0.8313,
+            "h": 0.1418
+          },
+          "area": 0.1179,
+          "text": "要实现这两个目标 ,就必须确立中小学生心理健康的标准,而要确立中小学生心理健康标准,则首先要弄清楚中小学生心理发育的基本特征。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 单圆角 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2363,
+            "w": 0.8527,
+            "h": 0.1016
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1797,
+            "y": 0.546,
+            "w": 0.7172,
+            "h": 0.1147
+          },
+          "area": 0.0823,
+          "text": "针对全体学生的心理发展教育,以促进全体学生的心理健康,提升其心理保健能力,树立积极向上的心态,为成人、成才、成功服务。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 6",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1131,
+            "y": 0.249,
+            "w": 0.7618,
+            "h": 0.0763
+          },
+          "area": 0.0581,
+          "text": "中小学心理健康教育,相应地也就有两个基本的目标",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 12",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1783,
+            "y": 0.4073,
+            "w": 0.7288,
+            "h": 0.0622
+          },
+          "area": 0.0453,
+          "text": "针对有心理问题的学生进行心理辅导与个别教育, 使其能够适应社会生活,顺利完成学业;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "关于什么是心理健康?",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3833,
+            "w": 0.0656,
+            "h": 0.1167
+          },
+          "area": 0.0077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.545,
+            "w": 0.0656,
+            "h": 0.1167
+          },
+          "area": 0.0077,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "claim": 3,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "学生风格-19-静态-d69b1924-s08",
+      "title_guess": "—— 第贰章节 ——",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2926,
+        "image_area": 0.1263,
+        "shape_area": 0.8628,
+        "text_blob": "—— 第贰章节 —— 中小学生心理发育特征 中小学生心理发育特征",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 13",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5943,
+            "w": 1.0,
+            "h": 0.4057
+          },
+          "area": 0.4057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 12",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5955,
+            "w": 1.0,
+            "h": 0.4033
+          },
+          "area": 0.4033,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1148,
+            "y": 0.4125,
+            "w": 0.7575,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1146,
+            "y": 0.4125,
+            "w": 0.7577,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3053,
+            "y": 0.1399,
+            "w": 0.3704,
+            "h": 0.341
+          },
+          "area": 0.1263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.7074,
+            "w": 0.4665,
+            "h": 0.1153
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0975,
+            "y": 0.7317,
+            "w": 0.4067,
+            "h": 0.0673
+          },
+          "area": 0.0274,
+          "text": "—— 第贰章节 ——",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "学生风格-19-静态-d69b1924-s09",
+      "title_guess": "贰",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,bottom-center:2,top-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 21,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2723,
+        "image_area": 0.0903,
+        "shape_area": 0.2603,
+        "text_blob": "贰 中小学生心理发育特征 理论与实践表明,从小学到中学,随着年龄的发展,学生的独立感日益增强,依存感与独立感的矛盾成为注意时期学生的基本心理特征之一。 随年龄增长 ,独立感日益增强 ,叛逆心理出现。 一方面 中小学生的学习与生活需要成人的,特别是家长的支持与辅导; 另一方面 随着年龄增长 ,又渴望独立。在发展心理学中 ,把进入初中阶段看作是心理上的“叛逆期”这,一时期也成为心理问题的多发期。",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2808,
+            "y": 0.6859,
+            "w": 0.6427,
+            "h": 0.159
+          },
+          "area": 0.1022,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2296,
+            "w": 0.8712,
+            "h": 0.1056
+          },
+          "area": 0.092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0458,
+            "y": 0.4106,
+            "w": 0.2168,
+            "h": 0.4166
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2747,
+            "y": 0.3618,
+            "w": 0.6018,
+            "h": 0.1289
+          },
+          "area": 0.0776,
+          "text": "理论与实践表明,从小学到中学,随着年龄的发展,学生的独立感日益增强,依存感与独立感的矛盾成为注意时期学生的基本心理特征之一。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2808,
+            "y": 0.5512,
+            "w": 0.6427,
+            "h": 0.1029
+          },
+          "area": 0.0661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 19",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3169,
+            "y": 0.7269,
+            "w": 0.5719,
+            "h": 0.1036
+          },
+          "area": 0.0592,
+          "text": "随着年龄增长 ,又渴望独立。在发展心理学中 ,把进入初中阶段看作是心理上的“叛逆期”这,一时期也成为心理问题的多发期。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1888,
+            "y": 0.2487,
+            "w": 0.7736,
+            "h": 0.0673
+          },
+          "area": 0.0521,
+          "text": "随年龄增长 ,独立感日益增强 ,叛逆心理出现。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3169,
+            "y": 0.5795,
+            "w": 0.5719,
+            "h": 0.0623
+          },
+          "area": 0.0356,
+          "text": "中小学生的学习与生活需要成人的,特别是家长的支持与辅导;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2808,
+            "y": 0.5286,
+            "w": 0.1228,
+            "h": 0.0453
+          },
+          "area": 0.0056,
+          "text": "一方面",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 3,
+          "footer": 2,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "学生风格-19-静态-d69b1924-s10",
+      "title_guess": "贰",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,bottom-right:3,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 21,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1496,
+        "image_area": 0,
+        "shape_area": 0.4842,
+        "text_blob": "贰 中小学生心理发育特征 自我意识 进一步发展 “爸妈说” 学龄前 “我说” 中学生 “老师说” 小学生 这种变化实质指的就是 学生自我意识的发展过程",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1838,
+            "y": 0.2797,
+            "w": 0.2702,
+            "h": 0.4803
+          },
+          "area": 0.1298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2014,
+            "y": 0.311,
+            "w": 0.2349,
+            "h": 0.4176
+          },
+          "area": 0.0981,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "对话气泡: 矩形 31",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5808,
+            "y": 0.5665,
+            "w": 0.3552,
+            "h": 0.2544
+          },
+          "area": 0.0904,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "对话气泡: 矩形 30",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5695,
+            "y": 0.547,
+            "w": 0.3552,
+            "h": 0.2544
+          },
+          "area": 0.0904,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 29",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6008,
+            "y": 0.5999,
+            "w": 0.3099,
+            "h": 0.1486
+          },
+          "area": 0.0461,
+          "text": "这种变化实质指的就是 学生自我意识的发展过程",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4541,
+            "y": 0.2612,
+            "w": 0.1164,
+            "h": 0.2069
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2342,
+            "y": 0.4512,
+            "w": 0.1694,
+            "h": 0.1391
+          },
+          "area": 0.0236,
+          "text": "自我意识 进一步发展",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3715,
+            "y": 0.5899,
+            "w": 0.109,
+            "h": 0.1938
+          },
+          "area": 0.0211,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0875,
+            "y": 0.4003,
+            "w": 0.1083,
+            "h": 0.1926
+          },
+          "area": 0.0209,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "学生风格-19-静态-d69b1924-s11",
+      "title_guess": "贰",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:5,top-center:2,bottom-right:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 21,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2396,
+        "image_area": 0.0989,
+        "shape_area": 0.3642,
+        "text_blob": "贰 中小学生心理发育特征 随着自我意识的进一步发展,学生开始关注自我存在的问题。 各种问题成为他们思考的对象。伴随自我意识的发展 “我从那里来,要到那里去” “我究竟是什么样的人” “别人如何看待我” “人活着的意义与价值” 自我意识发展",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 19",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4273,
+            "y": 0.1525,
+            "w": 0.4025,
+            "h": 0.5982
+          },
+          "area": 0.2408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7641,
+            "y": 0.4778,
+            "w": 0.2359,
+            "h": 0.4194
+          },
+          "area": 0.0989,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0566,
+            "y": 0.5077,
+            "w": 0.3344,
+            "h": 0.2763
+          },
+          "area": 0.0924,
+          "text": "随着自我意识的进一步发展,学生开始关注自我存在的问题。 各种问题成为他们思考的对象。伴随自我意识的发展",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "中小学生心理发育特征",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4621,
+            "y": 0.216,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 10",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.2043,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "“我从那里来,要到那里去”",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4621,
+            "y": 0.3395,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.3278,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "“我究竟是什么样的人”",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4621,
+            "y": 0.463,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.4513,
+            "w": 0.2562,
+            "h": 0.0959
+          },
+          "area": 0.0246,
+          "text": "“别人如何看待我”",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "学生风格-19-静态-d69b1924-s12",
+      "title_guess": "—— 第叁章节 ——",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2926,
+        "image_area": 0.1263,
+        "shape_area": 0.8628,
+        "text_blob": "—— 第叁章节 —— 学校与家长应该怎么做 学校与家长应该怎么做",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 27",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5943,
+            "w": 1.0,
+            "h": 0.4057
+          },
+          "area": 0.4057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 26",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5955,
+            "w": 1.0,
+            "h": 0.4033
+          },
+          "area": 0.4033,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1148,
+            "y": 0.4125,
+            "w": 0.7575,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1146,
+            "y": 0.4125,
+            "w": 0.7577,
+            "h": 0.175
+          },
+          "area": 0.1326,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3053,
+            "y": 0.1399,
+            "w": 0.3704,
+            "h": 0.341
+          },
+          "area": 0.1263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.7074,
+            "w": 0.4665,
+            "h": 0.1153
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0975,
+            "y": 0.7317,
+            "w": 0.4067,
+            "h": 0.0673
+          },
+          "area": 0.0274,
+          "text": "—— 第叁章节 ——",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "学生风格-19-静态-d69b1924-s13",
+      "title_guess": "叁",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,top-center:2,middle-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 21,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.3261,
+        "image_area": 0.1297,
+        "shape_area": 0.1079,
+        "text_blob": "叁 学校与家长应该怎么做 家庭是社会的细胞,人一生中最早接受的教育是家庭教育,家长是孩子的榜样。 父母的美德是孩子的财富,家长的个性、自身 形象直接影响着孩子的成长,对心理健康起着潜移默化的作用。而在学生形成不健康心理的诸因素中,来自家庭的因素,远远超过来自学校的因素。且不论父母感情不合的因素,父母离异的因素,父母去世的因素,父母双双在外务工的因素,只论家庭比较健全的情况。 在学生心理健康教育过程中,加强家庭教育的必要性 一",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3997,
+            "y": 0.3839,
+            "w": 0.518,
+            "h": 0.4461
+          },
+          "area": 0.2311,
+          "text": "家庭是社会的细胞,人一生中最早接受的教育是家庭教育,家长是孩子的榜样。 父母的美德是孩子的财富,家长的个性、自身 形象直接影响着孩子的成长,对心理健康起着潜移默化的作用。而在学生形成不健康心理的诸因素中,来自家庭的因素,远远超过来自学校的因",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.039,
+            "y": 0.4019,
+            "w": 0.3164,
+            "h": 0.41
+          },
+          "area": 0.1297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.2296,
+            "w": 0.8712,
+            "h": 0.1056
+          },
+          "area": 0.092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1847,
+            "y": 0.2447,
+            "w": 0.7201,
+            "h": 0.0763
+          },
+          "area": 0.0549,
+          "text": "在学生心理健康教育过程中,加强家庭教育的必要性",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0926,
+            "y": 0.2194,
+            "w": 0.0723,
+            "h": 0.1285
+          },
+          "area": 0.0093,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0982,
+            "y": 0.2293,
+            "w": 0.0611,
+            "h": 0.1086
+          },
+          "area": 0.0066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "叁",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1084,
+            "y": 0.2447,
+            "w": 0.0408,
+            "h": 0.0853
+          },
+          "area": 0.0035,
+          "text": "一",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "学生风格-19-静态-d69b1924-s14",
+      "title_guess": "叁",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,top-center:2,middle-left:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 21,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.3851,
+        "image_area": 0.0613,
+        "shape_area": 0.1634,
+        "text_blob": "叁 学校与家长应该怎么做 中学生与家庭的矛盾高于师生矛盾 首先 父母要学会尊重孩子,不要被好奇心、猜疑心所左右,更不要把自己的意愿强加于孩子身上;而子女则要理解父母的苦心,即使父母在某些方面令自己反感,也不要出言不逊,激化矛盾,双方可用心设计一些轻松有趣的话题加强沟通。 据调查统计, 61%的中学生认为自己与父母有矛盾;82%的中学生认为家中有一个人最哕嗦;认为在家得不到尊重,父母经常不与自己交流的中学生有20%,认为与教师有矛盾的32 %. 因此,家庭教育,特别要注重家长与孩子的沟通。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1914,
+            "y": 0.3469,
+            "w": 0.7747,
+            "h": 0.1877
+          },
+          "area": 0.1454,
+          "text": "据调查统计, 61%的中学生认为自己与父母有矛盾;82%的中学生认为家中有一个人最哕嗦;认为在家得不到尊重,父母经常不与自己交流的中学生有20%,认为与教师有矛盾的32 %.",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0752,
+            "y": 0.6425,
+            "w": 0.6898,
+            "h": 0.1892
+          },
+          "area": 0.1305,
+          "text": "父母要学会尊重孩子,不要被好奇心、猜疑心所左右,更不要把自己的意愿强加于孩子身上;而子女则要理解父母的苦心,即使父母在某些方面令自己反感,也不要出言不逊,激化矛盾,双方可用心设计一些轻松有趣的话题加强沟通。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1145,
+            "y": 0.2074,
+            "w": 0.8006,
+            "h": 0.1026
+          },
+          "area": 0.0821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 18",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7794,
+            "y": 0.5124,
+            "w": 0.1795,
+            "h": 0.3413
+          },
+          "area": 0.0613,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0655,
+            "y": 0.5432,
+            "w": 0.6995,
+            "h": 0.0853
+          },
+          "area": 0.0597,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.5412,
+            "w": 0.5001,
+            "h": 0.0745
+          },
+          "area": 0.0373,
+          "text": "因此,家庭教育,特别要注重家长与孩子的沟通。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2179,
+            "y": 0.2274,
+            "w": 0.5,
+            "h": 0.0628
+          },
+          "area": 0.0314,
+          "text": "中学生与家庭的矛盾高于师生矛盾",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Freeform 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0655,
+            "y": 0.3357,
+            "w": 0.0859,
+            "h": 0.1509
+          },
+          "area": 0.013,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0655,
+            "y": 0.2247,
+            "w": 0.1258,
+            "h": 0.0681
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "学生风格-19-静态-d69b1924-s15",
+      "title_guess": "叁",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 21,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.343,
+        "image_area": 0,
+        "shape_area": 0.3713,
+        "text_blob": "叁 学校与家长应该怎么做 家长普遍不懂得如何教育子女 其次 据调查统计表明,有76%的中学生家长没看过心理学方面的书籍。在这种情况下,家庭对学生的心理健康有以下不良影响: 家长对孩子的学习期望值过高,特别不注意孩子情绪、情感变化。 一是 父母对孩子的交往,尤其是与异性同学的交往干涉较多,习惯于盘查对方的情况。 二是 家长对孩子过分关爱或者对孩子评价不妥,从而引发亲子矛盾。 三是",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1914,
+            "y": 0.3357,
+            "w": 0.7747,
+            "h": 0.1414
+          },
+          "area": 0.1095,
+          "text": "据调查统计表明,有76%的中学生家长没看过心理学方面的书籍。在这种情况下,家庭对学生的心理健康有以下不良影响:",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.5332,
+            "w": 0.8821,
+            "h": 0.0935
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 17",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.6413,
+            "w": 0.8821,
+            "h": 0.0935
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 28",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.7493,
+            "w": 0.8821,
+            "h": 0.0935
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1145,
+            "y": 0.2074,
+            "w": 0.8006,
+            "h": 0.1026
+          },
+          "area": 0.0821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1783,
+            "y": 0.5458,
+            "w": 0.7674,
+            "h": 0.0676
+          },
+          "area": 0.0519,
+          "text": "家长对孩子的学习期望值过高,特别不注意孩子情绪、情感变化。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1797,
+            "y": 0.6522,
+            "w": 0.7552,
+            "h": 0.0676
+          },
+          "area": 0.0511,
+          "text": "父母对孩子的交往,尤其是与异性同学的交往干涉较多,习惯于盘查对方的情况。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1797,
+            "y": 0.7601,
+            "w": 0.7552,
+            "h": 0.0676
+          },
+          "area": 0.0511,
+          "text": "家长对孩子过分关爱或者对孩子评价不妥,从而引发亲子矛盾。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2179,
+            "y": 0.2274,
+            "w": 0.5,
+            "h": 0.0628
+          },
+          "area": 0.0314,
+          "text": "家长普遍不懂得如何教育子女",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 4,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "学生风格-19-静态-d69b1924-s16",
+      "title_guess": "叁",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 21,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.3256,
+        "image_area": 0.1023,
+        "shape_area": 0.2385,
+        "text_blob": "叁 学校与家长应该怎么做 家长对孩子的行为干涉,比如限制外出和活动,家长害怕孩子学坏了,但孩子认为自己要出去接触社会,增长见识。 四是 把父母与孩子的双向沟通变为父母的单项训斥。 五是 综上所述,要做好学生的心理健康教育, 学校不但要加强学生的心理健康指导,而且学校有责任加强对家长的教育和指导,更好地把学校教育和家庭教育结合起来,从而更好地做好学生的心理健康教育。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.2376,
+            "w": 0.8821,
+            "h": 0.1617
+          },
+          "area": 0.1426,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0494,
+            "y": 0.6094,
+            "w": 0.6681,
+            "h": 0.2088
+          },
+          "area": 0.1395,
+          "text": "综上所述,要做好学生的心理健康教育, 学校不但要加强学生的心理健康指导,而且学校有责任加强对家长的教育和指导,更好地把学校教育和家庭教育结合起来,从而更好地做好学生的心理健康教育。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7445,
+            "y": 0.5099,
+            "w": 0.2319,
+            "h": 0.441
+          },
+          "area": 0.1023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1797,
+            "y": 0.2554,
+            "w": 0.7411,
+            "h": 0.126
+          },
+          "area": 0.0934,
+          "text": "家长对孩子的行为干涉,比如限制外出和活动,家长害怕孩子学坏了,但孩子认为自己要出去接触社会,增长见识。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.4288,
+            "w": 0.8821,
+            "h": 0.0935
+          },
+          "area": 0.0825,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1797,
+            "y": 0.4397,
+            "w": 0.7552,
+            "h": 0.0676
+          },
+          "area": 0.0511,
+          "text": "把父母与孩子的双向沟通变为父母的单项训斥。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.2679,
+            "w": 0.0568,
+            "h": 0.101
+          },
+          "area": 0.0057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.4251,
+            "w": 0.0568,
+            "h": 0.101
+          },
+          "area": 0.0057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "叁",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 3,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "学生风格-19-静态-d69b1924-s17",
+      "title_guess": "叁",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,bottom-left:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 21,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.4804,
+        "image_area": 0.0118,
+        "shape_area": 0.2217,
+        "text_blob": "叁 学校与家长应该怎么做 (一)学校与家庭达成共识,明确学校与家庭沟通对学生身心健康的重要意义及目的任务。 加强学校与家庭的沟通,优化家庭教育环境 二 家庭教育是终身教育,是学校教育必不可少的补充。父母是孩子的第一任老师,既担负着养育的任务,又担负着教育孩子健康成长的责任。而学校教育在学生成长中起着主导作用,因此学校就要充分发挥好主导作用,指导好家庭教育,使家庭教育与学校教 育保持方向上的一致。这一工作的完成,又有赖于学生家长之间的人际沟通,使家长协调配合好学校,共同教育好学生,促使每个学生都能健康成长。 一是、教师通过这种沟通而深入家庭 二是、学生家长通过沟通介入学校教育 教师与家庭的沟通属于双向的平等沟",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1649,
+            "y": 0.4194,
+            "w": 0.7769,
+            "h": 0.2236
+          },
+          "area": 0.1737,
+          "text": "家庭教育是终身教育,是学校教育必不可少的补充。父母是孩子的第一任老师,既担负着养育的任务,又担负着教育孩子健康成长的责任。而学校教育在学生成长中起着主导作用,因此学校就要充分发挥好主导作用,指导好家庭教育,使家庭教育与学校教 育保持方向上的",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0484,
+            "y": 0.3109,
+            "w": 0.9031,
+            "h": 0.1528
+          },
+          "area": 0.138,
+          "text": "(一)学校与家庭达成共识,明确学校与家庭沟通对学生身心健康的重要意义及目的任务。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.2007,
+            "w": 0.8712,
+            "h": 0.1056
+          },
+          "area": 0.092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.319,
+            "w": 1.0,
+            "h": 0.0793
+          },
+          "area": 0.0793,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1847,
+            "y": 0.2158,
+            "w": 0.7201,
+            "h": 0.0763
+          },
+          "area": 0.0549,
+          "text": "加强学校与家庭的沟通,优化家庭教育环境",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.7049,
+            "w": 0.284,
+            "h": 0.1215
+          },
+          "area": 0.0345,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 16",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3898,
+            "y": 0.7049,
+            "w": 0.5001,
+            "h": 0.0576
+          },
+          "area": 0.0288,
+          "text": "一是、教师通过这种沟通而深入家庭",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 17",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3898,
+            "y": 0.7688,
+            "w": 0.5001,
+            "h": 0.0576
+          },
+          "area": 0.0288,
+          "text": "二是、学生家长通过沟通介入学校教育",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.132,
+            "y": 0.7185,
+            "w": 0.1704,
+            "h": 0.0942
+          },
+          "area": 0.0161,
+          "text": "教师与家庭的沟通属于双向的平等沟",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 2,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "学生风格-19-静态-d69b1924-s18",
+      "title_guess": "叁",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:4,bottom-center:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 21,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.4139,
+        "image_area": 0,
+        "shape_area": 0.1765,
+        "text_blob": "叁 学校与家长应该怎么做 (二)建立学校家庭沟通的心理健康制度 首先,建立每周学校、家庭心理健康教育卡。 一周内,学校、家庭对学生实施了哪些方面的心理健康教育,采取了什么样的方法,效果怎样,值得注意的是什么,分别填卡。周末传递互换,学校、家庭看后签署意见后再互换。 这样便于学校、家庭及时协调、配合,达到教育的一致性。 其次,建立每月一次家长联系制度。 家长和学校每月至少面对面交换一次,直接了解对方的思想状况、行为举止、施教方法、施教态度以及对学生的影响等。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 9",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1755,
+            "y": 0.4213,
+            "w": 0.7626,
+            "h": 0.1697
+          },
+          "area": 0.1294,
+          "text": "一周内,学校、家庭对学生实施了哪些方面的心理健康教育,采取了什么样的方法,效果怎样,值得注意的是什么,分别填卡。周末传递互换,学校、家庭看后签署意见后再互换。 这样便于学校、家庭及时协调、配合,达到教育的一致性。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 12",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1755,
+            "y": 0.7155,
+            "w": 0.7626,
+            "h": 0.1286
+          },
+          "area": 0.0981,
+          "text": "家长和学校每月至少面对面交换一次,直接了解对方的思想状况、行为举止、施教方法、施教态度以及对学生的影响等。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2023,
+            "w": 1.0,
+            "h": 0.0793
+          },
+          "area": 0.0793,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0484,
+            "y": 0.1943,
+            "w": 0.9031,
+            "h": 0.0806
+          },
+          "area": 0.0728,
+          "text": "(二)建立学校家庭沟通的心理健康制度",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1214,
+            "y": 0.3312,
+            "w": 0.6042,
+            "h": 0.0793
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1214,
+            "y": 0.6254,
+            "w": 0.6042,
+            "h": 0.0793
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1523,
+            "y": 0.3312,
+            "w": 0.5656,
+            "h": 0.0681
+          },
+          "area": 0.0385,
+          "text": "首先,建立每周学校、家庭心理健康教育卡。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1523,
+            "y": 0.6254,
+            "w": 0.5656,
+            "h": 0.0681
+          },
+          "area": 0.0385,
+          "text": "其次,建立每月一次家长联系制度。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "叁",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "claim": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "学生风格-19-静态-d69b1924-s19",
+      "title_guess": "叁",
+      "layout_job": "process-strip",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:3,bottom-right:2,top-center:2",
+      "counts": {
+        "text": 4,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 21,
+        "text_count": 4,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 1,
+        "text_area": 0.182,
+        "image_area": 0.2699,
+        "shape_area": 0.0493,
+        "text_blob": "叁 学校与家长应该怎么做 再次,心理健康教育要有阶段性目的的任务和阶段总结。 要根据学生的年龄、性格 特征、社会教育的大环境制定施教任务。总结的目的在于找出优缺点,制定出下一周期的施教任务。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5469,
+            "y": 0.5425,
+            "w": 0.4186,
+            "h": 0.3854
+          },
+          "area": 0.1613,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6109,
+            "y": 0.4956,
+            "w": 0.2625,
+            "h": 0.4136
+          },
+          "area": 0.1086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1523,
+            "y": 0.3542,
+            "w": 0.7558,
+            "h": 0.1414
+          },
+          "area": 0.1069,
+          "text": "要根据学生的年龄、性格 特征、社会教育的大环境制定施教任务。总结的目的在于找出优缺点,制定出下一周期的施教任务。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1214,
+            "y": 0.2293,
+            "w": 0.6042,
+            "h": 0.0793
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1523,
+            "y": 0.2293,
+            "w": 0.5656,
+            "h": 0.0681
+          },
+          "area": 0.0385,
+          "text": "再次,心理健康教育要有阶段性目的的任务和阶段总结。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "叁",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.2553,
+            "w": 0.02,
+            "h": 0.0356
+          },
+          "area": 0.0007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.5539,
+            "w": 0.02,
+            "h": 0.0356
+          },
+          "area": 0.0007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 10",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "学生风格-19-静态-d69b1924-s20",
+      "title_guess": "叁",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,top-center:2,top-left:2",
+      "counts": {
+        "text": 17,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 21,
+        "text_count": 17,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 1,
+        "text_area": 0.3513,
+        "image_area": 0.1078,
+        "shape_area": 0.1143,
+        "text_blob": "叁 学校与家长应该怎么做 (三)学校与家庭沟通要注意以下方面的问题 教师与学生家长之间的沟通,目的就是为了全面了解学生,针对学生不同情况,争取家长协调配合,使学生的身心健康得到健康发展 教师与家长之间的关系是平等的合作关系。教师要靠自己的职业责任感和对学生的满腔热情以及靠自己突出的教学成绩来赢得家长的信任与合作;而作为家长则是为了子女的健康成长和前途而求助于学校,所以教师与家长的协调配合, 教 育 的 一 致 性 关 系 的 平 等 性",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1358,
+            "y": 0.6522,
+            "w": 0.8096,
+            "h": 0.1892
+          },
+          "area": 0.1532,
+          "text": "教师与家长之间的关系是平等的合作关系。教师要靠自己的职业责任感和对学生的满腔热情以及靠自己突出的教学成绩来赢得家长的信任与合作;而作为家长则是为了子女的健康成长和前途而求助于学校,所以教师与家长的协调配合,",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "图片 48",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7051,
+            "y": 0.2463,
+            "w": 0.2871,
+            "h": 0.3756
+          },
+          "area": 0.1078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2023,
+            "w": 1.0,
+            "h": 0.0793
+          },
+          "area": 0.0793,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1358,
+            "y": 0.4101,
+            "w": 0.5779,
+            "h": 0.1286
+          },
+          "area": 0.0743,
+          "text": "教师与学生家长之间的沟通,目的就是为了全面了解学生,针对学生不同情况,争取家长协调配合,使学生的身心健康得到健康发展",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0484,
+            "y": 0.1943,
+            "w": 0.9031,
+            "h": 0.0806
+          },
+          "area": 0.0728,
+          "text": "(三)学校与家庭沟通要注意以下方面的问题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1131,
+            "y": 0.0474,
+            "w": 0.3985,
+            "h": 0.0808
+          },
+          "area": 0.0322,
+          "text": "学校与家长应该怎么做",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0474,
+            "w": 0.0517,
+            "h": 0.0853
+          },
+          "area": 0.0044,
+          "text": "叁",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1419,
+            "y": 0.3354,
+            "w": 0.0399,
+            "h": 0.071
+          },
+          "area": 0.0028,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1797,
+            "y": 0.3354,
+            "w": 0.0399,
+            "h": 0.071
+          },
+          "area": 0.0028,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2175,
+            "y": 0.3354,
+            "w": 0.0399,
+            "h": 0.071
+          },
+          "area": 0.0028,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2,
+          "footer": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "学生风格-19-静态-d69b1924-s21",
+      "title_guess": "关注心理健康",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-left:2",
+      "counts": {
+        "text": 16,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 21,
+        "text_count": 16,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.2897,
+        "image_area": 0.3623,
+        "shape_area": 0.9062,
+        "text_blob": "关注心理健康 感谢大家的聆听 感谢大家的聆听 心 理 健 康 教 育 教 育 健 康 心 理 —— 某某学校心理健康教育主题班会",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 65",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5943,
+            "w": 1.0,
+            "h": 0.4057
+          },
+          "area": 0.4057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 63",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5955,
+            "w": 1.0,
+            "h": 0.4033
+          },
+          "area": 0.4033,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6336,
+            "y": 0.2007,
+            "w": 0.3301,
+            "h": 0.7266
+          },
+          "area": 0.2399,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图形 43",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5841,
+            "y": 0.1189,
+            "w": 0.3846,
+            "h": 0.3182
+          },
+          "area": 0.1224,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 52",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0668,
+            "y": 0.3969,
+            "w": 0.672,
+            "h": 0.175
+          },
+          "area": 0.1176,
+          "text": "感谢大家的聆听",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 53",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0666,
+            "y": 0.3969,
+            "w": 0.6722,
+            "h": 0.175
+          },
+          "area": 0.1176,
+          "text": "感谢大家的聆听",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 105",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.7074,
+            "w": 0.4665,
+            "h": 0.1153
+          },
+          "area": 0.0538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 104",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.087,
+            "y": 0.7359,
+            "w": 0.4067,
+            "h": 0.0581
+          },
+          "area": 0.0236,
+          "text": "—— 某某学校心理健康教育主题班会",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.2672,
+            "w": 0.1682,
+            "h": 0.0624
+          },
+          "area": 0.0105,
+          "text": "关注心理健康",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 47",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0916,
+            "y": 0.2077,
+            "w": 0.1374,
+            "h": 0.0688
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 13
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 21,
+    "layout_job_counts": {
+      "research-question": 5,
+      "toc": 4,
+      "two-column": 4,
+      "claim-evidence": 2,
+      "flow-diagram": 2,
+      "cover-statement": 1,
+      "limitations-future": 1,
+      "process-strip": 1,
+      "duo-compare": 1
+    },
+    "carrier_counts": {
+      "image": 12,
+      "diagram-shapes": 5,
+      "mixed": 3,
+      "text": 1
+    },
+    "density_counts": {
+      "medium": 11,
+      "medium-high": 7,
+      "high": 3
+    },
+    "dominant_layout_jobs": [
+      "research-question",
+      "toc",
+      "two-column",
+      "claim-evidence",
+      "flow-diagram"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "mixed"
+    ]
+  }
+}

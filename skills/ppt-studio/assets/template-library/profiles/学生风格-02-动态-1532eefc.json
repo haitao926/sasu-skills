@@ -1,0 +1,4581 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:20.997158+00:00",
+  "template_id": "学生风格-02-动态-1532eefc",
+  "template_profile_path": "assets/template-library/profiles/学生风格-02-动态-1532eefc.json",
+  "source_template": {
+    "name": "学生风格(02)—动态.pptx",
+    "category": "学生风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/学生风格（5套）/学生风格(02)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 22,
+    "media_count": 57,
+    "image_media_count": 57,
+    "motion_hint": "dynamic",
+    "tags": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示",
+      "封面",
+      "任务过程",
+      "作品展示",
+      "收获总结",
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽",
+      "作品图",
+      "课堂照片",
+      "任务过程图",
+      "短标题",
+      "短说明",
+      "少量标签",
+      "动态版",
+      "可动效",
+      "中",
+      "图片密度高",
+      "文字密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "学生展示",
+    "scenario": [
+      "学生展示",
+      "校园汇报",
+      "学习成果展示"
+    ],
+    "best_for": [
+      "学生汇报",
+      "课堂展示",
+      "校园活动"
+    ],
+    "avoid": [
+      "过度严肃科研",
+      "高密度长文"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "过程",
+      "作品",
+      "收获",
+      "结束"
+    ],
+    "visual": [
+      "年轻",
+      "明快",
+      "活泼",
+      "清爽"
+    ],
+    "image_strategy": [
+      "作品图",
+      "课堂照片",
+      "任务过程图"
+    ],
+    "text_strategy": [
+      "短标题",
+      "短说明",
+      "少量标签"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "image-hero",
+      "limitations-future",
+      "cover-statement",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "image",
+      "decorative-shape",
+      "label",
+      "body",
+      "footer",
+      "title"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "top-center",
+      "top-left",
+      "middle-right",
+      "bottom-left"
+    ],
+    "template_text_signature": "我的快乐暑假 时间过的真快, 转眼,我的暑假结束了, 回想我这几十天的假期生活, 用几个词形容 健康!快乐!成长! CONTENTS 7月假期 学习规划 认真完成作业 阅读更多,知道的更多 家务时间 运动时间 8月假期 拜访亲友 学习书法 和朋友们的快乐时光 英语培训 外出旅游 外出旅游 我的收获 我的收获 我的收获 我的收获 我的收获 我的快乐暑假",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "学生风格-02-动态-1532eefc-s01",
+      "title_guess": "我的快乐暑假",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:6,top-center:2,top-left:1",
+      "counts": {
+        "text": 4,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 22,
+        "text_count": 4,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 2,
+        "text_area": 0.2509,
+        "image_area": 1.4555,
+        "shape_area": 0.0309,
+        "text_blob": "我的快乐暑假 Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here. 充实暑假快乐成长 My happy summer vacation",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0397,
+            "y": 0.1085,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1453,
+            "y": 0.2556,
+            "w": 0.7094,
+            "h": 0.2603
+          },
+          "area": 0.1847,
+          "text": "我的快乐暑假",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2131,
+            "y": 0.6003,
+            "w": 0.5739,
+            "h": 0.0673
+          },
+          "area": 0.0386,
+          "text": "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy a",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3414,
+            "y": 0.1926,
+            "w": 0.3172,
+            "h": 0.0595
+          },
+          "area": 0.0189,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.366,
+            "y": 0.5273,
+            "w": 0.2657,
+            "h": 0.0539
+          },
+          "area": 0.0143,
+          "text": "充实暑假快乐成长",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3767,
+            "y": 0.1955,
+            "w": 0.2466,
+            "h": 0.0539
+          },
+          "area": 0.0133,
+          "text": "My happy summer vacation",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3706,
+            "y": 0.5574,
+            "w": 0.0295,
+            "h": 0.0525
+          },
+          "area": 0.0015,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "学生风格-02-动态-1532eefc-s02",
+      "title_guess": "时间过的真快, 转眼,我的暑假结束了, 回想我这几十天的假期生活, 用几个词形容 健康!快乐!成长!",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,top-left:1,top-right:1",
+      "counts": {
+        "text": 1,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 22,
+        "text_count": 1,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.2676,
+        "image_area": 1.4555,
+        "shape_area": 0,
+        "text_blob": "时间过的真快, 转眼,我的暑假结束了, 回想我这几十天的假期生活, 用几个词形容 健康!快乐!成长!进步!",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0397,
+            "y": 0.1085,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2314,
+            "y": 0.1795,
+            "w": 0.5372,
+            "h": 0.4982
+          },
+          "area": 0.2676,
+          "text": "时间过的真快, 转眼,我的暑假结束了, 回想我这几十天的假期生活, 用几个词形容 健康!快乐!成长!进步!",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "学生风格-02-动态-1532eefc-s03",
+      "title_guess": "CONTENTS",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,bottom-left:3,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 22,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 3,
+        "text_area": 0.1555,
+        "image_area": 1.0064,
+        "shape_area": 0.1308,
+        "text_blob": "Copy paste fonts. Choose the only option to retain text. 7月假期 01 Copy paste fonts. Choose the only option to retain text. 8月假期 02 Copy paste fonts. Choose the only option to retain text. 我的收获 03 CONTENTS",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0064,
+            "h": 1.0
+          },
+          "area": 1.0064,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "íşlîḑê",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4056,
+            "w": 1.0064,
+            "h": 0.0804
+          },
+          "area": 0.0809,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "iṡḷîḋe",
+          "role": "section_label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.355,
+            "y": 0.6217,
+            "w": 0.2681,
+            "h": 0.1032
+          },
+          "area": 0.0277,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "îšliďè",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6887,
+            "w": 0.2245,
+            "h": 0.0914
+          },
+          "area": 0.0205,
+          "text": "Copy paste fonts. Choose the only option to retain text.",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "í$ḷíḍê",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6887,
+            "w": 0.2245,
+            "h": 0.0914
+          },
+          "area": 0.0205,
+          "text": "Copy paste fonts. Choose the only option to retain text.",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "íṧľïḑê",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6887,
+            "w": 0.2245,
+            "h": 0.0914
+          },
+          "area": 0.0205,
+          "text": "Copy paste fonts. Choose the only option to retain text.",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "iSlîḋé",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6207,
+            "w": 0.2245,
+            "h": 0.0652
+          },
+          "area": 0.0146,
+          "text": "7月假期",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "is1îḓê",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6207,
+            "w": 0.2245,
+            "h": 0.0652
+          },
+          "area": 0.0146,
+          "text": "8月假期",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "íşļîḍè",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.6207,
+            "w": 0.2245,
+            "h": 0.0652
+          },
+          "area": 0.0146,
+          "text": "我的收获",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "section_label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "学生风格-02-动态-1532eefc-s04",
+      "title_guess": "7月假期",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,top-left:1,top-right:1",
+      "counts": {
+        "text": 3,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1064,
+        "image_area": 1.4555,
+        "shape_area": 0,
+        "text_blob": "7月假期 Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here. 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0642,
+            "y": 0.1483,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3323,
+            "y": 0.3545,
+            "w": 0.3195,
+            "h": 0.193
+          },
+          "area": 0.0617,
+          "text": "7月假期",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.23,
+            "y": 0.5686,
+            "w": 0.54,
+            "h": 0.0688
+          },
+          "area": 0.0372,
+          "text": "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy a",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "îšḻíďe",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4667,
+            "y": 0.2456,
+            "w": 0.0667,
+            "h": 0.1122
+          },
+          "area": 0.0075,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "学生风格-02-动态-1532eefc-s05",
+      "title_guess": "学习规划",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:5,middle-right:2,bottom-right:1",
+      "counts": {
+        "text": 4,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 22,
+        "text_count": 4,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 1,
+        "text_area": 0.1765,
+        "image_area": 1.5355,
+        "shape_area": 0.0391,
+        "text_blob": "学习规划 学习规划 在妈妈的帮助下,我制定了一份详细的暑假计划,并且严格执行 7月总目标:完成全部的暑假作业,读完3本课外读本。 上午9:00-11:00 完成暑假作业 下午14:00-16:00 完成暑假作业 饭后和爸爸妈妈一起跑步锻炼身体 睡觉前半个小时的课外书阅读。 负责家里的家务,洗碗,扫地等。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0797,
+            "y": 0.2516,
+            "w": 0.554,
+            "h": 0.6341
+          },
+          "area": 0.3513,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 105",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1449,
+            "y": 0.4979,
+            "w": 0.4236,
+            "h": 0.2918
+          },
+          "area": 0.1236,
+          "text": "7月总目标:完成全部的暑假作业,读完3本课外读本。 上午9:00-11:00 完成暑假作业 下午14:00-16:00 完成暑假作业 饭后和爸爸妈妈一起跑步锻炼身体 睡觉前半个小时的课外书阅读。 负责家里的家务,洗碗,扫地等。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "照片",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6747,
+            "y": 0.5867,
+            "w": 0.2355,
+            "h": 0.2781
+          },
+          "area": 0.0655,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 18",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6779,
+            "y": 0.2619,
+            "w": 0.2274,
+            "h": 0.2726
+          },
+          "area": 0.062,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6799,
+            "y": 0.2673,
+            "w": 0.2188,
+            "h": 0.259
+          },
+          "area": 0.0567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 104",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2483,
+            "y": 0.4079,
+            "w": 0.3356,
+            "h": 0.0763
+          },
+          "area": 0.0256,
+          "text": "在妈妈的帮助下,我制定了一份详细的暑假计划,并且严格执行",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 102",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2436,
+            "y": 0.3437,
+            "w": 0.22,
+            "h": 0.0763
+          },
+          "area": 0.0168,
+          "text": "学习规划",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "claim": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "学生风格-02-动态-1532eefc-s06",
+      "title_guess": "认真完成作业",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:2,bottom-right:1",
+      "counts": {
+        "text": 7,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 22,
+        "text_count": 7,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.153,
+        "image_area": 1.2945,
+        "shape_area": 0.0305,
+        "text_blob": "认真完成作业 01 每次教师布置作业时,自己可以把作业内容记在自己的作业本,及时查阅。 记清楚作业内容 02 作业要独立思考,不抄袭,不拖拉,发现错误及时订正。对教师布置的口头、书面、操作等课内作业都要认真对待,按时完成。 养成先复习、后作业的习惯",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5964,
+            "y": 0.505,
+            "w": 0.3151,
+            "h": 0.3727
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 11",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.316,
+            "y": 0.2359,
+            "w": 0.2276,
+            "h": 0.2687
+          },
+          "area": 0.0612,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0923,
+            "y": 0.2359,
+            "w": 0.1838,
+            "h": 0.2687
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2434,
+            "y": 0.7646,
+            "w": 0.3129,
+            "h": 0.136
+          },
+          "area": 0.0426,
+          "text": "作业要独立思考,不抄袭,不拖拉,发现错误及时订正。对教师布置的口头、书面、操作等课内作业都要认真对待,按时完成。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2882,
+            "y": 0.5288,
+            "w": 0.1696,
+            "h": 0.201
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0923,
+            "y": 0.5336,
+            "w": 0.1654,
+            "h": 0.196
+          },
+          "area": 0.0324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5964,
+            "y": 0.3635,
+            "w": 0.3151,
+            "h": 0.0923
+          },
+          "area": 0.0291,
+          "text": "每次教师布置作业时,自己可以把作业内容记在自己的作业本,及时查阅。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5964,
+            "y": 0.2341,
+            "w": 0.1646,
+            "h": 0.1346
+          },
+          "area": 0.0222,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0874,
+            "y": 0.7252,
+            "w": 0.1646,
+            "h": 0.1346
+          },
+          "area": 0.0222,
+          "text": "02",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 2,
+          "footer": 1
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "学生风格-02-动态-1532eefc-s07",
+      "title_guess": "阅读更多,知道的更多",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:3,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 2,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 22,
+        "text_count": 2,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 1,
+        "text_area": 0.0835,
+        "image_area": 1.1846,
+        "shape_area": 0.1465,
+        "text_blob": "阅读更多,知道的更多 课外阅读可以让我们不出门,便知天下事,只有博览群书才能博识。阅读是一种巩固学习成果,丰富知识的有效手段。 我们阅读课外书的过程便是巩固、积累知识的过程。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3964,
+            "y": 0.6407,
+            "w": 0.5468,
+            "h": 0.2157
+          },
+          "area": 0.1179,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 11",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3979,
+            "y": 0.2807,
+            "w": 0.2551,
+            "h": 0.3013
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 8",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1073,
+            "y": 0.2802,
+            "w": 0.2285,
+            "h": 0.334
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 88",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4285,
+            "y": 0.6778,
+            "w": 0.4826,
+            "h": 0.1358
+          },
+          "area": 0.0655,
+          "text": "课外阅读可以让我们不出门,便知天下事,只有博览群书才能博识。阅读是一种巩固学习成果,丰富知识的有效手段。 我们阅读课外书的过程便是巩固、积累知识的过程。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2049,
+            "y": 0.6522,
+            "w": 0.1628,
+            "h": 0.193
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.2676,
+            "h": 0.0673
+          },
+          "area": 0.018,
+          "text": "阅读更多,知道的更多",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.3652,
+            "y": 0.1289,
+            "w": 0.6348,
+            "h": 0.0194
+          },
+          "area": 0.0123,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1644,
+            "y": 0.5294,
+            "w": 0.0323,
+            "h": 0.0845
+          },
+          "area": 0.0027,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "学生风格-02-动态-1532eefc-s08",
+      "title_guess": "家务时间",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 3,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1095,
+        "image_area": 1.434,
+        "shape_area": 0.0342,
+        "text_blob": "家务时间 家务时间 通过这次家务劳动,我体会到做家务劳动的辛苦。 我平时应该多帮妈妈做家务,减轻妈妈的负担,同时也锻炼了我的生活能力,真是一举两得呀!",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.5614,
+            "w": 0.2787,
+            "h": 0.3307
+          },
+          "area": 0.0922,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6649,
+            "y": 0.5459,
+            "w": 0.2786,
+            "h": 0.3305
+          },
+          "area": 0.0921,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Title 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3883,
+            "y": 0.29,
+            "w": 0.5332,
+            "h": 0.1691
+          },
+          "area": 0.0902,
+          "text": "通过这次家务劳动,我体会到做家务劳动的辛苦。 我平时应该多帮妈妈做家务,减轻妈妈的负担,同时也锻炼了我的生活能力,真是一举两得呀!",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.056,
+            "y": 0.5719,
+            "w": 0.2725,
+            "h": 0.323
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0583,
+            "y": 0.1981,
+            "w": 0.2555,
+            "h": 0.3249
+          },
+          "area": 0.083,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0572,
+            "y": 0.2091,
+            "w": 0.2576,
+            "h": 0.3057
+          },
+          "area": 0.0787,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Title 3",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3883,
+            "y": 0.2178,
+            "w": 0.2287,
+            "h": 0.0494
+          },
+          "area": 0.0113,
+          "text": "家务时间",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "学生风格-02-动态-1532eefc-s09",
+      "title_guess": "运动时间",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,bottom-center:2,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 22,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 5,
+        "text_area": 0.1048,
+        "image_area": 1.0,
+        "shape_area": 0.4433,
+        "text_blob": "运动时间 此部分内容作为文字排版占位显示 此部分内容作为文字排版占位显示 此部分内容作为文字排版占位显示 此部分内容作为文字排版占位显示 上午8:00 散步 上午10:30 游泳 下午15:00 瑜伽 下午18:00 跳绳",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0788,
+            "y": 0.3985,
+            "w": 0.181,
+            "h": 0.4454
+          },
+          "area": 0.0806,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2981,
+            "y": 0.3985,
+            "w": 0.181,
+            "h": 0.4454
+          },
+          "area": 0.0806,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5173,
+            "y": 0.3985,
+            "w": 0.181,
+            "h": 0.4454
+          },
+          "area": 0.0806,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7366,
+            "y": 0.3985,
+            "w": 0.181,
+            "h": 0.4454
+          },
+          "area": 0.0806,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "同侧圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0788,
+            "y": 0.7317,
+            "w": 0.181,
+            "h": 0.1122
+          },
+          "area": 0.0203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2981,
+            "y": 0.7317,
+            "w": 0.181,
+            "h": 0.1122
+          },
+          "area": 0.0203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "同侧圆角矩形 18",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5173,
+            "y": 0.7317,
+            "w": 0.181,
+            "h": 0.1122
+          },
+          "area": 0.0203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "同侧圆角矩形 22",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7366,
+            "y": 0.7317,
+            "w": 0.181,
+            "h": 0.1122
+          },
+          "area": 0.0203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "学生风格-02-动态-1532eefc-s10",
+      "title_guess": "8月假期",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,top-left:1,top-right:1",
+      "counts": {
+        "text": 3,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1064,
+        "image_area": 1.4555,
+        "shape_area": 0,
+        "text_blob": "8月假期 Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here. 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0642,
+            "y": 0.1483,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3402,
+            "y": 0.3545,
+            "w": 0.3195,
+            "h": 0.193
+          },
+          "area": 0.0617,
+          "text": "8月假期",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.23,
+            "y": 0.5686,
+            "w": 0.54,
+            "h": 0.0688
+          },
+          "area": 0.0372,
+          "text": "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy a",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "îšḻíďe",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4667,
+            "y": 0.2456,
+            "w": 0.0667,
+            "h": 0.1122
+          },
+          "area": 0.0075,
+          "text": "02",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "学生风格-02-动态-1532eefc-s11",
+      "title_guess": "拜访亲友",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 22,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.1694,
+        "image_area": 1.0,
+        "shape_area": 0.2543,
+        "text_blob": "拜访亲友 在这一年应当多带小宝走访亲戚。 让小宝清楚彼此之间详尽的亲属关系并不重要,重要的是要广义地让小宝认识家族内亲戚之间的社会性联系与互动。 你可以带小宝去拜访祖父母、外公外婆,拜访你自个的兄弟姐妹,或小宝的表兄弟姐妹、堂兄弟姐妹等。 拜访亲友 ENTER THE TITLE 拜访亲友",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "云形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5653,
+            "y": 0.4878,
+            "w": 0.3651,
+            "h": 0.3998
+          },
+          "area": 0.146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.049,
+            "y": 0.4343,
+            "w": 0.412,
+            "h": 0.3433
+          },
+          "area": 0.1414,
+          "text": "在这一年应当多带小宝走访亲戚。 让小宝清楚彼此之间详尽的亲属关系并不重要,重要的是要广义地让小宝认识家族内亲戚之间的社会性联系与互动。 你可以带小宝去拜访祖父母、外公外婆,拜访你自个的兄弟姐妹,或小宝的表兄弟姐妹、堂兄弟姐妹等。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "云形 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6552,
+            "y": 0.2107,
+            "w": 0.2334,
+            "h": 0.2556
+          },
+          "area": 0.0597,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "云形 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5009,
+            "y": 0.3442,
+            "w": 0.1142,
+            "h": 0.138
+          },
+          "area": 0.0158,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.049,
+            "y": 0.2565,
+            "w": 0.2001,
+            "h": 0.0438
+          },
+          "area": 0.0088,
+          "text": "ENTER THE TITLE",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "拜访亲友",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0573,
+            "y": 0.307,
+            "w": 0.1059,
+            "h": 0.0593
+          },
+          "area": 0.0063,
+          "text": "拜访亲友",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "学生风格-02-动态-1532eefc-s12",
+      "title_guess": "学习书法",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:4,middle-right:2,middle-center:1",
+      "counts": {
+        "text": 2,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 22,
+        "text_count": 2,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1272,
+        "image_area": 1.6386,
+        "shape_area": 0.0328,
+        "text_blob": "学习书法 书法是中华民族传统的文化瑰宝,今天仍生机勃勃。 书法精品内涵丰富、博大精深,蕴自然的性灵、溢美的芬芳、凝智的妙趣,人们在欣赏中可以得到审美的享受、哲思的启迪、心灵的美化。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5268,
+            "y": 0.119,
+            "w": 0.4384,
+            "h": 0.7514
+          },
+          "area": 0.3294,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1119,
+            "y": 0.4318,
+            "w": 0.3881,
+            "h": 0.46
+          },
+          "area": 0.1785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 17",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5741,
+            "y": 0.4115,
+            "w": 0.3092,
+            "h": 0.3854
+          },
+          "area": 0.1192,
+          "text": "书法是中华民族传统的文化瑰宝,今天仍生机勃勃。 书法精品内涵丰富、博大精深,蕴自然的性灵、溢美的芬芳、凝智的妙趣,人们在欣赏中可以得到审美的享受、哲思的启迪、心灵的美化。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0851,
+            "y": 0.2328,
+            "w": 0.2297,
+            "h": 0.2921
+          },
+          "area": 0.0671,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0833,
+            "y": 0.2414,
+            "w": 0.2316,
+            "h": 0.2748
+          },
+          "area": 0.0636,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "学习书法",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "学生风格-02-动态-1532eefc-s13",
+      "title_guess": "和朋友们的快乐时光",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,middle-left:3,middle-right:1",
+      "counts": {
+        "text": 1,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 22,
+        "text_count": 1,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.0167,
+        "image_area": 1.6363,
+        "shape_area": 0.0995,
+        "text_blob": "和朋友们的快乐时光",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 27",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0902,
+            "y": 0.2425,
+            "w": 0.825,
+            "h": 0.6031
+          },
+          "area": 0.4976,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3766,
+            "y": 0.4269,
+            "w": 0.2315,
+            "h": 0.3007
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1289,
+            "y": 0.4482,
+            "w": 0.212,
+            "h": 0.3263
+          },
+          "area": 0.0692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 26",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6631,
+            "y": 0.4768,
+            "w": 0.2231,
+            "h": 0.3097
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.2483,
+            "h": 0.0673
+          },
+          "area": 0.0167,
+          "text": "和朋友们的快乐时光",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.3445,
+            "y": 0.1289,
+            "w": 0.6555,
+            "h": 0.0194
+          },
+          "area": 0.0127,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "学生风格-02-动态-1532eefc-s14",
+      "title_guess": "英语培训",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:3,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 1,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 22,
+        "text_count": 1,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.008,
+        "image_area": 1.3061,
+        "shape_area": 0.0328,
+        "text_blob": "英语培训",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5878,
+            "y": 0.4135,
+            "w": 0.3151,
+            "h": 0.3735
+          },
+          "area": 0.1177,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0983,
+            "y": 0.2933,
+            "w": 0.2265,
+            "h": 0.2687
+          },
+          "area": 0.0609,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 11",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3438,
+            "y": 0.2933,
+            "w": 0.2267,
+            "h": 0.2687
+          },
+          "area": 0.0609,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3154,
+            "y": 0.5861,
+            "w": 0.1699,
+            "h": 0.201
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 7",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.131,
+            "y": 0.5908,
+            "w": 0.1654,
+            "h": 0.1963
+          },
+          "area": 0.0325,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "英语培训",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "学生风格-02-动态-1532eefc-s15",
+      "title_guess": "外出旅游",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,top-left:2,bottom-left:1",
+      "counts": {
+        "text": 3,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1052,
+        "image_area": 1.2982,
+        "shape_area": 0.0328,
+        "text_blob": "外出旅游 长知识,开拓视野,扩大交友圈子,收获友谊,更重要的是也许旅途中的事物能触动你开启自己的梦想之门,对未来个人成长很有帮助 读万卷书 不如行万里路",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.5283,
+            "w": 0.3143,
+            "h": 0.3115
+          },
+          "area": 0.0979,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4151,
+            "y": 0.5283,
+            "w": 0.2618,
+            "h": 0.3106
+          },
+          "area": 0.0813,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 5",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0843,
+            "y": 0.3527,
+            "w": 0.5538,
+            "h": 0.135
+          },
+          "area": 0.0748,
+          "text": "长知识,开拓视野,扩大交友圈子,收获友谊,更重要的是也许旅途中的事物能触动你开启自己的梦想之门,对未来个人成长很有帮助",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 28",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6914,
+            "y": 0.5736,
+            "w": 0.2247,
+            "h": 0.2653
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6914,
+            "y": 0.283,
+            "w": 0.2239,
+            "h": 0.2654
+          },
+          "area": 0.0594,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 9",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0764,
+            "y": 0.2756,
+            "w": 0.3259,
+            "h": 0.0686
+          },
+          "area": 0.0224,
+          "text": "读万卷书 不如行万里路",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "外出旅游",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "学生风格-02-动态-1532eefc-s16",
+      "title_guess": "外出旅游",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-center:1,bottom-center:1",
+      "counts": {
+        "text": 2,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 22,
+        "text_count": 2,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0784,
+        "image_area": 1.6684,
+        "shape_area": 0.0328,
+        "text_blob": "外出旅游 长知识,开拓视野,扩大交友圈子,收获友谊,更重要的是也许旅途中的事物能触动你开启自己的梦想之门,对未来个人成长很有帮助",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0627,
+            "y": 0.2081,
+            "w": 0.4726,
+            "h": 0.6012
+          },
+          "area": 0.2841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4219,
+            "y": 0.5173,
+            "w": 0.3444,
+            "h": 0.6123
+          },
+          "area": 0.2109,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5431,
+            "y": 0.2311,
+            "w": 0.3823,
+            "h": 0.4536
+          },
+          "area": 0.1734,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1223,
+            "y": 0.5126,
+            "w": 0.3535,
+            "h": 0.1991
+          },
+          "area": 0.0704,
+          "text": "长知识,开拓视野,扩大交友圈子,收获友谊,更重要的是也许旅途中的事物能触动你开启自己的梦想之门,对未来个人成长很有帮助",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2175,
+            "y": 0.1289,
+            "w": 0.7825,
+            "h": 0.0194
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "外出旅游",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "学生风格-02-动态-1532eefc-s17",
+      "title_guess": "我的收获",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,top-left:1,top-right:1",
+      "counts": {
+        "text": 3,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1143,
+        "image_area": 1.4555,
+        "shape_area": 0,
+        "text_blob": "我的收获 Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here. 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0642,
+            "y": 0.1483,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.3545,
+            "w": 0.3607,
+            "h": 0.193
+          },
+          "area": 0.0696,
+          "text": "我的收获",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.23,
+            "y": 0.5686,
+            "w": 0.54,
+            "h": 0.0688
+          },
+          "area": 0.0372,
+          "text": "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy a",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "îšḻíďe",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4667,
+            "y": 0.2456,
+            "w": 0.0667,
+            "h": 0.1122
+          },
+          "area": 0.0075,
+          "text": "03",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "学生风格-02-动态-1532eefc-s18",
+      "title_guess": "我的收获",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 22,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.1896,
+        "image_area": 1.1537,
+        "shape_area": 0.4032,
+        "text_blob": "我的收获 暑假我读完了《三国演义》、《老人与海》《草房子》《水浒》等书籍。 1 2 从《三国演义》中我了解了许多英雄人物,见证了历史的金戈铁马.从《老人与海》中我懂得了人活着应该要坚持不梦想而奋斗,这样我们的人生才会精彩。 3 从《水浒》中我看到了人生道路上的曲折与英雄的道路与义气种种。这个暑假,我涌过劳动得到了生活的磨练,在娱乐中获得了快乐,在学习获得了提高。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 66",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5949,
+            "y": 0.3077,
+            "w": 0.3279,
+            "h": 0.4927
+          },
+          "area": 0.1616,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 65",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5871,
+            "y": 0.3459,
+            "w": 0.3599,
+            "h": 0.4271
+          },
+          "area": 0.1537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Title 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1625,
+            "y": 0.4653,
+            "w": 0.3639,
+            "h": 0.221
+          },
+          "area": 0.0804,
+          "text": "从《三国演义》中我了解了许多英雄人物,见证了历史的金戈铁马.从《老人与海》中我懂得了人活着应该要坚持不梦想而奋斗,这样我们的人生才会精彩。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0982,
+            "y": 0.6928,
+            "w": 0.4281,
+            "h": 0.1773
+          },
+          "area": 0.0759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0982,
+            "y": 0.4576,
+            "w": 0.4281,
+            "h": 0.1732
+          },
+          "area": 0.0741,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Title 3",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1625,
+            "y": 0.6982,
+            "w": 0.3532,
+            "h": 0.1719
+          },
+          "area": 0.0607,
+          "text": "从《水浒》中我看到了人生道路上的曲折与英雄的道路与义气种种。这个暑假,我涌过劳动得到了生活的磨练,在娱乐中获得了快乐,在学习获得了提高。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Freeform 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0982,
+            "y": 0.2597,
+            "w": 0.4281,
+            "h": 0.1365
+          },
+          "area": 0.0584,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Title 3",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1625,
+            "y": 0.2736,
+            "w": 0.3532,
+            "h": 0.1087
+          },
+          "area": 0.0384,
+          "text": "暑假我读完了《三国演义》、《老人与海》《草房子》《水浒》等书籍。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2116,
+            "y": 0.1289,
+            "w": 0.7884,
+            "h": 0.0194
+          },
+          "area": 0.0153,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 3,
+          "footer": 3
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "学生风格-02-动态-1532eefc-s19",
+      "title_guess": "我的收获",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,top-left:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1044,
+        "image_area": 1.3162,
+        "shape_area": 0.0339,
+        "text_blob": "我的收获 我还学会了下象棋,参加了棋社。每次下象棋,我都是同龄人中的常胜“将军”,虽然如此,但有时我们偶尔也会输上一两局。 不管下棋的结局如何,也不管谁是我们当中的棋王,我们都会下好每一盘棋。因为我们都知道“人生如棋,棋如人生”。快乐的生活,快乐的下棋,是我们必备的品质。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5198,
+            "y": 0.2511,
+            "w": 0.383,
+            "h": 0.4262
+          },
+          "area": 0.1632,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 30",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0966,
+            "y": 0.4379,
+            "w": 0.3591,
+            "h": 0.4262
+          },
+          "area": 0.153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 44",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5356,
+            "y": 0.7208,
+            "w": 0.3816,
+            "h": 0.136
+          },
+          "area": 0.0519,
+          "text": "不管下棋的结局如何,也不管谁是我们当中的棋王,我们都会下好每一盘棋。因为我们都知道“人生如棋,棋如人生”。快乐的生活,快乐的下棋,是我们必备的品质。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 44",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1113,
+            "y": 0.2679,
+            "w": 0.3347,
+            "h": 0.1331
+          },
+          "area": 0.0445,
+          "text": "我还学会了下象棋,参加了棋社。每次下象棋,我都是同龄人中的常胜“将军”,虽然如此,但有时我们偶尔也会输上一两局。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2116,
+            "y": 0.1289,
+            "w": 0.7884,
+            "h": 0.0194
+          },
+          "area": 0.0153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "我的收获",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 25",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0951,
+            "y": 0.2844,
+            "w": 0.0177,
+            "h": 0.0262
+          },
+          "area": 0.0005,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 2
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "学生风格-02-动态-1532eefc-s20",
+      "title_guess": "我的收获",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:4,middle-right:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 22,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.2497,
+        "image_area": 1.0,
+        "shape_area": 0.2148,
+        "text_blob": "我的收获 这个暑假,我还去了很多的地方,看了很多的风景,见识了很多的风土人情。 我登上了长城,成了一位真正的“好汉”; 我看到了故宫,见识了华夏民族的浩瀚文化; 我去了海边,看过了波涛汹涌和平静如初; 我去了海洋世界,认识了不同的鱼类,有和善的聪明的白鲸,凶猛的鲨鱼,诡异的魔鬼鱼,庞大的海龟.... 在妈妈的帮助下,我学会了制作计划,我也深刻的认识到,要做好一件事情,不能盲目的开始,只有按照计划一步步的开始,才能做的更好,才能劳逸结合。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "ïşļiḍè",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4767,
+            "y": 0.4871,
+            "w": 0.4483,
+            "h": 0.3433
+          },
+          "area": 0.1539,
+          "text": "这个暑假,我还去了很多的地方,看了很多的风景,见识了很多的风土人情。 我登上了长城,成了一位真正的“好汉”; 我看到了故宫,见识了华夏民族的浩瀚文化; 我去了海边,看过了波涛汹涌和平静如初; 我去了海洋世界,认识了不同的鱼类,有和善的聪明的",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4762,
+            "y": 0.2491,
+            "w": 0.4632,
+            "h": 0.1896
+          },
+          "area": 0.0878,
+          "text": "在妈妈的帮助下,我学会了制作计划,我也深刻的认识到,要做好一件事情,不能盲目的开始,只有按照计划一步步的开始,才能做的更好,才能劳逸结合。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "ïŝļîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0931,
+            "y": 0.2502,
+            "w": 0.3195,
+            "h": 0.2019
+          },
+          "area": 0.0645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "iṥľiḍé",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0931,
+            "y": 0.6592,
+            "w": 0.3206,
+            "h": 0.1833
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "ïŝḻiḋè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0931,
+            "y": 0.4617,
+            "w": 0.3195,
+            "h": 0.1833
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2116,
+            "y": 0.1289,
+            "w": 0.7884,
+            "h": 0.0194
+          },
+          "area": 0.0153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0828,
+            "y": 0.0956,
+            "w": 0.1188,
+            "h": 0.0673
+          },
+          "area": 0.008,
+          "text": "我的收获",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "íṧlîḑè",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1568,
+            "y": 0.5295,
+            "w": 0.0475,
+            "h": 0.0844
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "学生风格-02-动态-1532eefc-s21",
+      "title_guess": "我的收获",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,middle-left:3,middle-right:1",
+      "counts": {
+        "text": 1,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 22,
+        "text_count": 1,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.008,
+        "image_area": 1.9113,
+        "shape_area": 0.0329,
+        "text_blob": "我的收获",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6109,
+            "y": 0.2137,
+            "w": 0.5353,
+            "h": 0.7137
+          },
+          "area": 0.382,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0523,
+            "y": 0.6041,
+            "w": 0.2807,
+            "h": 0.4989
+          },
+          "area": 0.14,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.2429,
+            "w": 0.2731,
+            "h": 0.3275
+          },
+          "area": 0.0894,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 17",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0785,
+            "y": 0.2462,
+            "w": 0.2662,
+            "h": 0.3149
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.383,
+            "y": 0.2557,
+            "w": 0.2522,
+            "h": 0.3024
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3843,
+            "y": 0.26,
+            "w": 0.2479,
+            "h": 0.2941
+          },
+          "area": 0.0729,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "照片",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3724,
+            "y": 0.6086,
+            "w": 0.2375,
+            "h": 0.2815
+          },
+          "area": 0.0669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2116,
+            "y": 0.1289,
+            "w": 0.7884,
+            "h": 0.0194
+          },
+          "area": 0.0153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "iŝlíďé",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1368,
+            "y": 0.4939,
+            "w": 0.0875,
+            "h": 0.1556
+          },
+          "area": 0.0136,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "学生风格-02-动态-1532eefc-s22",
+      "title_guess": "我的快乐暑假",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:6,top-center:2,top-left:1",
+      "counts": {
+        "text": 4,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 22,
+        "text_count": 4,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 2,
+        "text_area": 0.2509,
+        "image_area": 1.4555,
+        "shape_area": 0.0309,
+        "text_blob": "我的快乐暑假 Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy and paste the text content here Add a detailed text description here. 充实暑假快乐成长 My happy summer vacation",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0397,
+            "y": 0.1085,
+            "w": 0.8715,
+            "h": 0.4878
+          },
+          "area": 0.4251,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1453,
+            "y": 0.2556,
+            "w": 0.7094,
+            "h": 0.2603
+          },
+          "area": 0.1847,
+          "text": "我的快乐暑假",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2131,
+            "y": 0.6003,
+            "w": 0.5739,
+            "h": 0.0673
+          },
+          "area": 0.0386,
+          "text": "Add a detailed text description here, copy and paste the text content here; Add a detailed text description here, copy a",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3414,
+            "y": 0.1926,
+            "w": 0.3172,
+            "h": 0.0595
+          },
+          "area": 0.0189,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1114,
+            "h": 0.1642
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.366,
+            "y": 0.5273,
+            "w": 0.2657,
+            "h": 0.0539
+          },
+          "area": 0.0143,
+          "text": "充实暑假快乐成长",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3767,
+            "y": 0.1955,
+            "w": 0.2466,
+            "h": 0.0539
+          },
+          "area": 0.0133,
+          "text": "My happy summer vacation",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8754,
+            "y": 0.0783,
+            "w": 0.0701,
+            "h": 0.172
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3706,
+            "y": 0.5574,
+            "w": 0.0295,
+            "h": 0.0525
+          },
+          "area": 0.0015,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "过程",
+        "作品",
+        "收获",
+        "结束"
+      ],
+      "avoid_for": [
+        "过度严肃科研",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 22,
+    "layout_job_counts": {
+      "matrix-grid": 13,
+      "image-hero": 4,
+      "limitations-future": 2,
+      "cover-statement": 1,
+      "duo-compare": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "image": 20,
+      "diagram-shapes": 2
+    },
+    "density_counts": {
+      "medium-high": 13,
+      "medium": 9
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "image-hero",
+      "limitations-future",
+      "cover-statement",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes"
+    ]
+  }
+}

@@ -1,0 +1,6660 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:24.599893+00:00",
+  "template_id": "扁平风格-06-静态-2d098775",
+  "template_profile_path": "assets/template-library/profiles/扁平风格-06-静态-2d098775.json",
+  "source_template": {
+    "name": "扁平风格(06)—静态.pptx",
+    "category": "扁平风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(06)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 32,
+    "media_count": 79,
+    "image_media_count": 78,
+    "motion_hint": "static",
+    "tags": [
+      "通用扁平",
+      "通用汇报",
+      "基础展示",
+      "轻量介绍",
+      "封面",
+      "概览",
+      "要点",
+      "总结",
+      "扁平",
+      "简洁",
+      "轻图标",
+      "通用",
+      "图标",
+      "扁平插画",
+      "示意图",
+      "短句",
+      "低复杂度标题",
+      "静态版",
+      "中",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "通用扁平",
+    "scenario": [
+      "通用汇报",
+      "基础展示",
+      "轻量介绍"
+    ],
+    "best_for": [
+      "轻量介绍",
+      "普通汇报"
+    ],
+    "avoid": [
+      "高证据科研",
+      "高强度数据说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "概览",
+      "要点",
+      "总结"
+    ],
+    "visual": [
+      "扁平",
+      "简洁",
+      "轻图标",
+      "通用"
+    ],
+    "image_strategy": [
+      "图标",
+      "扁平插画",
+      "示意图"
+    ],
+    "text_strategy": [
+      "短句",
+      "低复杂度标题"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "claim-evidence",
+      "flow-diagram",
+      "matrix-grid",
+      "process-strip"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "image",
+      "diagram-block",
+      "footer"
+    ],
+    "common_zones": [
+      "top-left",
+      "middle-left",
+      "middle-right",
+      "middle-center",
+      "bottom-center",
+      "bottom-left"
+    ],
+    "template_text_signature": "文化传媒有限公司 01 新媒体的概念 新媒体的概念 新媒体的概念 新媒体的概念 新媒体的概念 新媒体的概念 发展新媒体的必要性 发展新媒体的必要性 发展新媒体的必要性 发展新媒体的必要性 发展新媒体的必要性 发展新媒体的必要性 发展新媒体的必要性 第二季度营销情况 第二季度营销情况 第二季度营销情况 第二季度营销情况 第二季度营销情况 第二季度营销情况 具体推广措施 具体推广措施 具体推广措施 未来展望 未来展望 未来展望 未来展望 未来展望 未来展望 联系我们 感谢聆听",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "扁平风格-06-静态-2d098775-s01",
+      "title_guess": "文化传媒有限公司",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-center:2,top-left:1",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 48,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 32,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 48,
+        "connector_count": 2,
+        "text_area": 0.1204,
+        "image_area": 0.1358,
+        "shape_area": 2.7435,
+        "text_blob": "文化传媒有限公司 新媒体推广营销方案 HU PU CULTURE MEDIA COMPANY NEW MEDIA MARKETING PLAN IN 202X 汇报人:xxx 新媒体 THE NEW MEDIA",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.0967,
+            "w": 0.8859,
+            "h": 0.7656
+          },
+          "area": 0.6782,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1104,
+            "w": 0.8859,
+            "h": 0.7656
+          },
+          "area": 0.6782,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 1236",
+          "role": "diagram-block",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0569,
+            "y": 0.0672,
+            "w": 0.3869,
+            "h": 0.4815
+          },
+          "area": 0.1863,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 1263",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.4666,
+            "w": 0.3869,
+            "h": 0.4815
+          },
+          "area": 0.1863,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 130",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6649,
+            "y": 0.588,
+            "w": 0.3296,
+            "h": 0.412
+          },
+          "area": 0.1358,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2031,
+            "y": 0.3235,
+            "w": 0.5933,
+            "h": 0.1346
+          },
+          "area": 0.0799,
+          "text": "新媒体推广营销方案",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2184,
+            "y": 0.4578,
+            "w": 0.5632,
+            "h": 0.0269
+          },
+          "area": 0.0152,
+          "text": "HU PU CULTURE MEDIA COMPANY NEW MEDIA MARKETING PLAN IN 202X",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3561,
+            "y": 0.2718,
+            "w": 0.2877,
+            "h": 0.0449
+          },
+          "area": 0.0129,
+          "text": "文化传媒有限公司",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3986,
+            "y": 0.7148,
+            "w": 0.2028,
+            "h": 0.0537
+          },
+          "area": 0.0109,
+          "text": "汇报人:xxx",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 1245",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3561,
+            "y": 0.1068,
+            "w": 0.2877,
+            "h": 0.0168
+          },
+          "area": 0.0048,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "扁平风格-06-静态-2d098775-s02",
+      "title_guess": "01",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:5,middle-right:2,bottom-right:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.0838,
+        "image_area": 0.0967,
+        "shape_area": 0.02,
+        "text_blob": "01 新媒体的概念 02 发展新媒体的必要性 03 第二季度营销情况 04 具体推广措施 新媒体营销推广部 05 虎扑未来展望",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 47",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7231,
+            "y": 0.6549,
+            "w": 0.2769,
+            "h": 0.3493
+          },
+          "area": 0.0967,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5688,
+            "y": 0.3385,
+            "w": 0.2671,
+            "h": 0.0628
+          },
+          "area": 0.0168,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 39",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.228,
+            "y": 0.5248,
+            "w": 0.2376,
+            "h": 0.0628
+          },
+          "area": 0.0149,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.228,
+            "y": 0.7002,
+            "w": 0.2376,
+            "h": 0.0628
+          },
+          "area": 0.0149,
+          "text": "虎扑未来展望",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2153,
+            "y": 0.3385,
+            "w": 0.2055,
+            "h": 0.0628
+          },
+          "area": 0.0129,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 45",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5688,
+            "y": 0.5247,
+            "w": 0.2055,
+            "h": 0.0628
+          },
+          "area": 0.0129,
+          "text": "具体推广措施",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1786,
+            "y": 0.3437,
+            "w": 0.0477,
+            "h": 0.0848
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 30",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1786,
+            "y": 0.3437,
+            "w": 0.0477,
+            "h": 0.0848
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1786,
+            "y": 0.3437,
+            "w": 0.0477,
+            "h": 0.0848
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1786,
+            "y": 0.3437,
+            "w": 0.0477,
+            "h": 0.0848
+          },
+          "area": 0.004,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "扁平风格-06-静态-2d098775-s03",
+      "title_guess": "新媒体的概念",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "low",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:2,middle-left:1,top-right:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 1,
+        "text_area": 0.0737,
+        "image_area": 0.1997,
+        "shape_area": 0,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA PART ONE",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 11",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0809,
+            "y": 0.2843,
+            "w": 0.3142,
+            "h": 0.6356
+          },
+          "area": 0.1997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5575,
+            "y": 0.3603,
+            "w": 0.395,
+            "h": 0.1346
+          },
+          "area": 0.0532,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5681,
+            "y": 0.4949,
+            "w": 0.3748,
+            "h": 0.0359
+          },
+          "area": 0.0135,
+          "text": "THE CONCEPT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8171,
+            "y": 0.2839,
+            "w": 0.1302,
+            "h": 0.0539
+          },
+          "area": 0.007,
+          "text": "PART ONE",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "扁平风格-06-静态-2d098775-s04",
+      "title_guess": "新媒体的概念",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:5,middle-left:3,top-left:2",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 32,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1541,
+        "image_area": 0.2493,
+        "shape_area": 0.4936,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA 微信 抖音 快手 在web2.0带来巨大革新的时代,营销方式也带来变革,沟通性(communicate)、差异性(variation)、创造性(creativity)、关联性(relation),体验性(experience)、互联网已经进入新媒体传播时代。 并且出现了微信,抖音,快手等这些新媒体。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 39",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5316,
+            "y": 0.3138,
+            "w": 0.4114,
+            "h": 0.6061
+          },
+          "area": 0.2493,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 55",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0738,
+            "y": 0.3066,
+            "w": 0.4158,
+            "h": 0.549
+          },
+          "area": 0.2283,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 53",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0772,
+            "y": 0.3138,
+            "w": 0.4158,
+            "h": 0.549
+          },
+          "area": 0.2283,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0991,
+            "y": 0.373,
+            "w": 0.372,
+            "h": 0.3099
+          },
+          "area": 0.1153,
+          "text": "在web2.0带来巨大革新的时代,营销方式也带来变革,沟通性(communicate)、差异性(variation)、创造性(creativity)、关联性(relation),体验性(experience)、互联网已经进入新媒体传播时代。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6465,
+            "y": 0.3293,
+            "w": 0.1747,
+            "h": 0.1573
+          },
+          "area": 0.0275,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1541,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "THE CONCEPT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7055,
+            "y": 0.3344,
+            "w": 0.0318,
+            "h": 0.1573
+          },
+          "area": 0.005,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6639,
+            "y": 0.3771,
+            "w": 0.0291,
+            "h": 0.0518
+          },
+          "area": 0.0015,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 47",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6639,
+            "y": 0.3771,
+            "w": 0.0291,
+            "h": 0.0518
+          },
+          "area": 0.0015,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "扁平风格-06-静态-2d098775-s05",
+      "title_guess": "新媒体的概念",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:2,top-left:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 32,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.211,
+        "image_area": 0,
+        "shape_area": 0.8707,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA 传统媒体时代 THE TRADITIONAL MEDIA ERA 在传统媒体时代,由于传播渠道相对较“狭窄”,信息的呈现往往比较单一 渠道为王 高卷入阅读 线性认知模式 VS 新媒体时代 在新媒体时代,由于人人都自带传播渠道,信息呈现出复杂的“多向”传播模式 THE NEW MEDIA ERA 用户为王 低卷入阅读 非线性认知模式 新媒体时代与传统媒体时代对比",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 317",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6138,
+            "y": 0.2859,
+            "w": 0.312,
+            "h": 0.5874
+          },
+          "area": 0.1833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 315",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0742,
+            "y": 0.2859,
+            "w": 0.312,
+            "h": 0.5874
+          },
+          "area": 0.1833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 39",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0742,
+            "y": 0.2954,
+            "w": 0.312,
+            "h": 0.5874
+          },
+          "area": 0.1833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 40",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6138,
+            "y": 0.2954,
+            "w": 0.312,
+            "h": 0.5874
+          },
+          "area": 0.1833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 121",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6286,
+            "y": 0.727,
+            "w": 0.2771,
+            "h": 0.1354
+          },
+          "area": 0.0375,
+          "text": "在传统媒体时代,由于传播渠道相对较“狭窄”,信息的呈现往往比较单一",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 47",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.089,
+            "y": 0.727,
+            "w": 0.2771,
+            "h": 0.1354
+          },
+          "area": 0.0375,
+          "text": "在新媒体时代,由于人人都自带传播渠道,信息呈现出复杂的“多向”传播模式",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4335,
+            "y": 0.3792,
+            "w": 0.1331,
+            "h": 0.2366
+          },
+          "area": 0.0315,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1541,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "THE CONCEPT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 124",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6523,
+            "y": 0.4594,
+            "w": 0.235,
+            "h": 0.0722
+          },
+          "area": 0.017,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 9,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "扁平风格-06-静态-2d098775-s06",
+      "title_guess": "新媒体的概念",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,top-left:2,middle-center:1",
+      "counts": {
+        "text": 17,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 32,
+        "text_count": 17,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1545,
+        "image_area": 0.0442,
+        "shape_area": 0.4757,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA 新媒体 THE NEW MEDIA 传统媒体 THE TRADITIONAL MEDIA 数字电视 网络杂志 数字广播 手机短信 新媒体具有形式丰富多样 有超强的互动性 媒体渠道十分广泛 收音机 广播 报纸 图书 本身技术发展缓慢 形式不够灵活多变 不能大幅度的创新 新媒体与传统媒体对比",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 324",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0592,
+            "y": 0.2875,
+            "w": 0.8817,
+            "h": 0.2696
+          },
+          "area": 0.2377,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 325",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0613,
+            "y": 0.6061,
+            "w": 0.8817,
+            "h": 0.2696
+          },
+          "area": 0.2377,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 360",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.724,
+            "y": 0.3648,
+            "w": 0.2003,
+            "h": 0.1354
+          },
+          "area": 0.0271,
+          "text": "新媒体具有形式丰富多样 有超强的互动性 媒体渠道十分广泛",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 377",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7235,
+            "y": 0.6575,
+            "w": 0.1888,
+            "h": 0.1361
+          },
+          "area": 0.0257,
+          "text": "本身技术发展缓慢 形式不够灵活多变 不能大幅度的创新",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1541,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "THE CONCEPT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 328",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0918,
+            "y": 0.6607,
+            "w": 0.1683,
+            "h": 0.0898
+          },
+          "area": 0.0151,
+          "text": "传统媒体",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1035,
+            "y": 0.3502,
+            "w": 0.1262,
+            "h": 0.0898
+          },
+          "area": 0.0113,
+          "text": "新媒体",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 31",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7235,
+            "y": 0.2225,
+            "w": 0.2104,
+            "h": 0.0449
+          },
+          "area": 0.0094,
+          "text": "新媒体与传统媒体对比",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图形 30",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5263,
+            "y": 0.6422,
+            "w": 0.0653,
+            "h": 0.1161
+          },
+          "area": 0.0076,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 11,
+          "body": 2
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "扁平风格-06-静态-2d098775-s07",
+      "title_guess": "新媒体的概念",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-right:2,top-left:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2393,
+        "image_area": 0.0555,
+        "shape_area": 0.4645,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA 新媒体的优势和劣势 小投入、低风险是进军新媒体的普遍情况,常称的新媒体“四大件” 微博、微信、App、网站,还有纸媒常用的二维码、手机报等,大都属于小投入、低风险类 竞争对手抢先,至少获得吸引眼球的先动优势 由于实施困难可能没有达到预期的效果 比预期实施成本高 比预期实施时间长 技术绩效比投资时预期的低 研发的IT系统与选用的软件和硬件不相容 优势 劣势 ADVANTAGE ADVANTAGE",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 324",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.2875,
+            "w": 0.3681,
+            "h": 0.6306
+          },
+          "area": 0.2321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 325",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5242,
+            "y": 0.2875,
+            "w": 0.3681,
+            "h": 0.6306
+          },
+          "area": 0.2321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1113,
+            "y": 0.4778,
+            "w": 0.3022,
+            "h": 0.3333
+          },
+          "area": 0.1007,
+          "text": "小投入、低风险是进军新媒体的普遍情况,常称的新媒体“四大件” 微博、微信、App、网站,还有纸媒常用的二维码、手机报等,大都属于小投入、低风险类 竞争对手抢先,至少获得吸引眼球的先动优势",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5436,
+            "y": 0.4778,
+            "w": 0.3292,
+            "h": 0.2288
+          },
+          "area": 0.0753,
+          "text": "由于实施困难可能没有达到预期的效果 比预期实施成本高 比预期实施时间长 技术绩效比投资时预期的低 研发的IT系统与选用的软件和硬件不相容",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图形 43",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7981,
+            "y": 0.7698,
+            "w": 0.1337,
+            "h": 0.2302
+          },
+          "area": 0.0308,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图形 42",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.359,
+            "y": 0.7698,
+            "w": 0.1073,
+            "h": 0.2302
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "新媒体的概念",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1541,
+            "w": 0.2417,
+            "h": 0.0767
+          },
+          "area": 0.0185,
+          "text": "THE CONCEPT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 31",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7425,
+            "y": 0.2225,
+            "w": 0.1893,
+            "h": 0.0449
+          },
+          "area": 0.0085,
+          "text": "新媒体的优势和劣势",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2246,
+            "y": 0.3433,
+            "w": 0.0757,
+            "h": 0.0808
+          },
+          "area": 0.0061,
+          "text": "优势",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 3,
+          "body": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "扁平风格-06-静态-2d098775-s08",
+      "title_guess": "新媒体的概念",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,middle-center:3",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 143,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 143,
+        "connector_count": 0,
+        "text_area": 0.2595,
+        "image_area": 0,
+        "shape_area": 0.3844,
+        "text_blob": "新媒体的概念 THE CONCEPT OF NEW MEDIA 传统媒体的优势和劣势 专业化的新闻队伍、长期形成的品牌、广阔的信息渠道 参与面更广,传统媒体不仅改变了自己的形式,还参与了网络,传统媒体上网可能会给它们带来新的受众群体 传统媒体的运做方式便于更新 01 传统媒体优势 传统媒体劣势 02 传播成本很大程度上限制了传统媒体的发展,限制了媒体传播的速度及面积 传播形式上相对比较单一 传统媒体相对使用成本交高,而且不容易监测效果",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.5689,
+            "w": 0.2506,
+            "h": 0.3221
+          },
+          "area": 0.0807,
+          "text": "专业化的新闻队伍、长期形成的品牌、广阔的信息渠道 参与面更广,传统媒体不仅改变了自己的形式,还参与了网络,传统媒体上网可能会给它们带来新的受众群体 传统媒体的运做方式便于更新",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 218",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6815,
+            "y": 0.4617,
+            "w": 0.2504,
+            "h": 0.2761
+          },
+          "area": 0.0691,
+          "text": "传播成本很大程度上限制了传统媒体的发展,限制了媒体传播的速度及面积 传播形式上相对比较单一 传统媒体相对使用成本交高,而且不容易监测效果",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0926,
+            "y": 0.455,
+            "w": 0.2506,
+            "h": 0.1013
+          },
+          "area": 0.0254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.4497,
+            "w": 0.2506,
+            "h": 0.1013
+          },
+          "area": 0.0254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 214",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6851,
+            "y": 0.3412,
+            "w": 0.2506,
+            "h": 0.1013
+          },
+          "area": 0.0254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 215",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6821,
+            "y": 0.3358,
+            "w": 0.2506,
+            "h": 0.1013
+          },
+          "area": 0.0254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4365,
+            "y": 0.2921,
+            "w": 0.135,
+            "h": 0.1811
+          },
+          "area": 0.0244,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4368,
+            "y": 0.2925,
+            "w": 0.1345,
+            "h": 0.1803
+          },
+          "area": 0.0243,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 405",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3917,
+            "y": 0.5287,
+            "w": 0.113,
+            "h": 0.1924
+          },
+          "area": 0.0217,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1664,
+            "y": 0.2524,
+            "w": 0.1031,
+            "h": 0.1975
+          },
+          "area": 0.0204,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "扁平风格-06-静态-2d098775-s09",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "low",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:2,bottom-right:1,top-left:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 1,
+        "text_area": 0.1068,
+        "image_area": 0.1345,
+        "shape_area": 0,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA PART TWO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 10",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6333,
+            "y": 0.5,
+            "w": 0.3204,
+            "h": 0.4199
+          },
+          "area": 0.1345,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.044,
+            "y": 0.3603,
+            "w": 0.5893,
+            "h": 0.1346
+          },
+          "area": 0.0793,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0564,
+            "y": 0.4949,
+            "w": 0.5628,
+            "h": 0.0359
+          },
+          "area": 0.0202,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0564,
+            "y": 0.2814,
+            "w": 0.1363,
+            "h": 0.0539
+          },
+          "area": 0.0073,
+          "text": "PART TWO",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 7",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "扁平风格-06-静态-2d098775-s10",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:4,middle-left:3,middle-right:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 32,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1949,
+        "image_area": 0,
+        "shape_area": 0.4967,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA 2011~2017年中国传媒产业市场结构情况 传媒产业内部结构变化 传统媒体市场持续整体衰落,其结构调整的速度越来越快 2011年平面、广电、互联网、移动互联网“四分天下” 2013年演变成传统媒体、互联网和移动互联网的“三足鼎立” 2017年则已转向“一超多强”的局面,移动互联网的市场份额接近一半 *数据来源:前瞻产业研究院",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 322",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4584,
+            "y": 0.304,
+            "w": 0.4845,
+            "h": 0.5818
+          },
+          "area": 0.2819,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 12",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4748,
+            "y": 0.3,
+            "w": 0.4518,
+            "h": 0.5354
+          },
+          "area": 0.2419,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 14",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.305,
+            "w": 0.337,
+            "h": 0.5809
+          },
+          "area": 0.1958,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 321",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.5117,
+            "w": 0.284,
+            "h": 0.2754
+          },
+          "area": 0.0782,
+          "text": "2011年平面、广电、互联网、移动互联网“四分天下” 2013年演变成传统媒体、互联网和移动互联网的“三足鼎立” 2017年则已转向“一超多强”的局面,移动互联网的市场份额接近一半",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.3924,
+            "w": 0.284,
+            "h": 0.0998
+          },
+          "area": 0.0283,
+          "text": "传统媒体市场持续整体衰落,其结构调整的速度越来越快",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 317",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1334,
+            "y": 0.2352,
+            "w": 0.2441,
+            "h": 0.0767
+          },
+          "area": 0.0187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 315",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5519,
+            "y": 0.2225,
+            "w": 0.388,
+            "h": 0.0449
+          },
+          "area": 0.0174,
+          "text": "2011~2017年中国传媒产业市场结构情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 15",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1608,
+            "y": 0.2534,
+            "w": 0.1893,
+            "h": 0.0404
+          },
+          "area": 0.0076,
+          "text": "传媒产业内部结构变化",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 3,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "扁平风格-06-静态-2d098775-s11",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:4,middle-left:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 32,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.1971,
+        "image_area": 0,
+        "shape_area": 0.9915,
+        "text_blob": "发展新媒体的必要性 互联网时代的来临、新媒体的不断发展,正在不断改变着越来越多受众的生活、工作和学习等方面的行为方式。传统媒体趋弱,以互联网、社交媒体为代表的新媒体不断崛起并持续推动媒介的发展和改变。 新媒体正在以迅猛的趋势不断发展 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 57",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0892,
+            "y": 0.2585,
+            "w": 0.8115,
+            "h": 0.539
+          },
+          "area": 0.4374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 24",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0942,
+            "y": 0.2662,
+            "w": 0.8115,
+            "h": 0.539
+          },
+          "area": 0.4374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1496,
+            "y": 0.4293,
+            "w": 0.7008,
+            "h": 0.1523
+          },
+          "area": 0.1067,
+          "text": "互联网时代的来临、新媒体的不断发展,正在不断改变着越来越多受众的生活、工作和学习等方面的行为方式。传统媒体趋弱,以互联网、社交媒体为代表的新媒体不断崛起并持续推动媒介的发展和改变。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1477,
+            "y": 0.2786,
+            "w": 0.1237,
+            "h": 0.33
+          },
+          "area": 0.0408,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2736,
+            "y": 0.3175,
+            "w": 0.4528,
+            "h": 0.069
+          },
+          "area": 0.0312,
+          "text": "新媒体正在以迅猛的趋势不断发展",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 41",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0941,
+            "y": 0.1096,
+            "w": 0.1739,
+            "h": 0.169
+          },
+          "area": 0.0294,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2228,
+            "y": 0.2867,
+            "w": 0.0399,
+            "h": 0.3123
+          },
+          "area": 0.0125,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 43",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1643,
+            "y": 0.1552,
+            "w": 0.0497,
+            "h": 0.1171
+          },
+          "area": 0.0058,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "扁平风格-06-静态-2d098775-s12",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:2,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 32,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.3258,
+        "image_area": 0,
+        "shape_area": 0.4582,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA 新媒体产业将引领时代潮流 2003年,美国《时代周刊》认为:数字娱乐在美国国内产值中将占一半的份额 2004年迪斯尼公司关闭了其在佛罗里达的最后一个传统手工动画室2009年,新产品将使数字娱乐全面超越传统娱乐方式 01 02 03 美国 日本 韩国 日本十分注重把高新技术应用到文化娱乐产业中 1924 年由原来的地方性晚报一跃成为全国性大报,政治立场倾向亲美保守派 自1994 年该报的日发行量突破1000 万份 随着韩国媒体环境的急剧变化,新闻在门户网站都出现了「吃冷饭」的情况 为了重新聚集分散的观众,韩国媒体平台的任务是开发视频内容,提供数字化,以及报纸的融合服务。",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.3359,
+            "w": 0.2602,
+            "h": 0.5822
+          },
+          "area": 0.1515,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3699,
+            "y": 0.3359,
+            "w": 0.2602,
+            "h": 0.5822
+          },
+          "area": 0.1515,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6828,
+            "y": 0.3359,
+            "w": 0.2602,
+            "h": 0.5822
+          },
+          "area": 0.1515,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0779,
+            "y": 0.4527,
+            "w": 0.2185,
+            "h": 0.3688
+          },
+          "area": 0.0806,
+          "text": "2003年,美国《时代周刊》认为:数字娱乐在美国国内产值中将占一半的份额 2004年迪斯尼公司关闭了其在佛罗里达的最后一个传统手工动画室2009年,新产品将使数字娱乐全面超越传统娱乐方式",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.4527,
+            "w": 0.2185,
+            "h": 0.3221
+          },
+          "area": 0.0704,
+          "text": "日本十分注重把高新技术应用到文化娱乐产业中 1924 年由原来的地方性晚报一跃成为全国性大报,政治立场倾向亲美保守派 自1994 年该报的日发行量突破1000 万份",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6978,
+            "y": 0.4527,
+            "w": 0.2185,
+            "h": 0.3221
+          },
+          "area": 0.0704,
+          "text": "随着韩国媒体环境的急剧变化,新闻在门户网站都出现了「吃冷饭」的情况 为了重新聚集分散的观众,韩国媒体平台的任务是开发视频内容,提供数字化,以及报纸的融合服务。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6808,
+            "y": 0.2225,
+            "w": 0.2524,
+            "h": 0.0449
+          },
+          "area": 0.0113,
+          "text": "新媒体产业将引领时代潮流",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2456,
+            "y": 0.7955,
+            "w": 0.0631,
+            "h": 0.1212
+          },
+          "area": 0.0076,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "扁平风格-06-静态-2d098775-s13",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:3,bottom-center:1,bottom-right:1",
+      "counts": {
+        "text": 11,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 19
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 19,
+        "text_area": 0.2491,
+        "image_area": 0.08,
+        "shape_area": 0.0501,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA 1986-1999 2000-2005 2006-2015 新媒体研究的初始期 在中国新媒体研究的初始阶段,中国新媒体研究的第一篇文章就是方晓虹对日本作者冈村二郎《视听教育在新媒体时代的地位》 中国新媒体研究的成长期 从2000年到2005年是中国新媒体研究的成长期。在这一阶段,中国新媒体的相关研究数量较初始期出现大幅增长 中国新媒体研究的凸现期 以网络媒体和手机媒体为代表的新媒体形态不断翻新,网络电视、IPTV又点燃了另外一番新媒体变革的潮流",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "直接连接符 22",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6868,
+            "w": 1.0,
+            "h": 0.1756
+          },
+          "area": 0.1756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图形 95",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7853,
+            "y": 0.7438,
+            "w": 0.2147,
+            "h": 0.2562
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1118,
+            "y": 0.4752,
+            "w": 0.1951,
+            "h": 0.2288
+          },
+          "area": 0.0446,
+          "text": "在中国新媒体研究的初始阶段,中国新媒体研究的第一篇文章就是方晓虹对日本作者冈村二郎《视听教育在新媒体时代的地位》",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 35",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4093,
+            "y": 0.475,
+            "w": 0.1951,
+            "h": 0.2288
+          },
+          "area": 0.0446,
+          "text": "从2000年到2005年是中国新媒体研究的成长期。在这一阶段,中国新媒体的相关研究数量较初始期出现大幅增长",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 55",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7026,
+            "y": 0.475,
+            "w": 0.1951,
+            "h": 0.2288
+          },
+          "area": 0.0446,
+          "text": "以网络媒体和手机媒体为代表的新媒体形态不断翻新,网络电视、IPTV又点燃了另外一番新媒体变革的潮流",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1023,
+            "y": 0.2651,
+            "w": 0.1321,
+            "h": 0.1248
+          },
+          "area": 0.0165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 37",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3961,
+            "y": 0.26,
+            "w": 0.1321,
+            "h": 0.1248
+          },
+          "area": 0.0165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 57",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6887,
+            "y": 0.26,
+            "w": 0.1321,
+            "h": 0.1248
+          },
+          "area": 0.0165,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "扁平风格-06-静态-2d098775-s14",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,top-left:2,top-right:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 1,
+        "text_area": 0.3435,
+        "image_area": 0.0149,
+        "shape_area": 0.2317,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA 传统媒体的弱化及新媒体快速发展促使传统媒体积极转型,同新媒体一道协同融合发展 传统媒体中报纸向电子报刊、电子阅览转型网络电视机顶盒的出现实现了电视联网 网络广播的发展也使电台广播和互联网广播信息内容融合为个平台 充分挖掘用户个体和社群价值,以信任和人脉为核心有效进行商品和平台推广 新媒体时代媒介融合的发展趋势依旧会是主流 在电子信息技术的不断发展下,最终实现电视、手机、电脑的“三网合怒”,甚至是“多网合一” 媒介融合的进一步强化主要表现 阅览转型 融合发展 多网合一",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 76",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2515,
+            "w": 1.0,
+            "h": 0.1993
+          },
+          "area": 0.1993,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 69",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1379,
+            "y": 0.3038,
+            "w": 0.7241,
+            "h": 0.0948
+          },
+          "area": 0.0686,
+          "text": "媒介融合的进一步强化主要表现",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0764,
+            "y": 0.6434,
+            "w": 0.2317,
+            "h": 0.2755
+          },
+          "area": 0.0638,
+          "text": "传统媒体的弱化及新媒体快速发展促使传统媒体积极转型,同新媒体一道协同融合发展 传统媒体中报纸向电子报刊、电子阅览转型网络电视机顶盒的出现实现了电视联网",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 65",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3841,
+            "y": 0.6434,
+            "w": 0.2317,
+            "h": 0.2755
+          },
+          "area": 0.0638,
+          "text": "网络广播的发展也使电台广播和互联网广播信息内容融合为个平台 充分挖掘用户个体和社群价值,以信任和人脉为核心有效进行商品和平台推广",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 66",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6971,
+            "y": 0.6434,
+            "w": 0.2317,
+            "h": 0.2755
+          },
+          "area": 0.0638,
+          "text": "新媒体时代媒介融合的发展趋势依旧会是主流 在电子信息技术的不断发展下,最终实现电视、手机、电脑的“三网合怒”,甚至是“多网合一”",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.837,
+            "y": 0.216,
+            "w": 0.1264,
+            "h": 0.2247
+          },
+          "area": 0.0284,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图形 78",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8494,
+            "y": 0.2307,
+            "w": 0.1017,
+            "h": 0.1461
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 70",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1298,
+            "y": 0.478,
+            "w": 0.1288,
+            "h": 0.0632
+          },
+          "area": 0.0081,
+          "text": "阅览转型",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "扁平风格-06-静态-2d098775-s15",
+      "title_guess": "发展新媒体的必要性",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:2,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.2394,
+        "image_area": 0.0537,
+        "shape_area": 0.5745,
+        "text_blob": "发展新媒体的必要性 THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA 内容付费成为赢利热点 智能互联加速前进 社交化产品成为新势力 知识付费时代开启随着内容付费领域的不断拓展,短视频和音频将成为内容付费行业的主要产品形式 媒体和人工智能技术的结合已经由早期的概念进入产品形态,智能推荐、语音识别、智能传感器等技术的应用正在重塑新闻生产和传输的各个环节 中国数字产业数据分析:预计2020年中国社交零售用户规模达5.73亿人。随着微信生态功能的持续完善,电商各平台的激烈角逐,电商的社交化成为当前大热。",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 9",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6766,
+            "y": 0.2156,
+            "w": 0.2664,
+            "h": 0.7059
+          },
+          "area": 0.1881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3673,
+            "y": 0.3639,
+            "w": 0.2664,
+            "h": 0.5576
+          },
+          "area": 0.1485,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8834,
+            "w": 1.0,
+            "h": 0.1166
+          },
+          "area": 0.1166,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.5,
+            "w": 0.2664,
+            "h": 0.4205
+          },
+          "area": 0.112,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6975,
+            "y": 0.3193,
+            "w": 0.2313,
+            "h": 0.2755
+          },
+          "area": 0.0637,
+          "text": "中国数字产业数据分析:预计2020年中国社交零售用户规模达5.73亿人。随着微信生态功能的持续完善,电商各平台的激烈角逐,电商的社交化成为当前大热。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3882,
+            "y": 0.4649,
+            "w": 0.2313,
+            "h": 0.2288
+          },
+          "area": 0.0529,
+          "text": "媒体和人工智能技术的结合已经由早期的概念进入产品形态,智能推荐、语音识别、智能传感器等技术的应用正在重塑新闻生产和传输的各个环节",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0782,
+            "y": 0.6075,
+            "w": 0.2321,
+            "h": 0.1822
+          },
+          "area": 0.0423,
+          "text": "知识付费时代开启随着内容付费领域的不断拓展,短视频和音频将成为内容付费行业的主要产品形式",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.4173,
+            "h": 0.0767
+          },
+          "area": 0.032,
+          "text": "THE NECESSITY OF THE DEVELOPMENT OF NEW MEDIA",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "发展新媒体的必要性",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图形 24",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5688,
+            "y": 0.7708,
+            "w": 0.1197,
+            "h": 0.1764
+          },
+          "area": 0.0211,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 4,
+          "footer": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "扁平风格-06-静态-2d098775-s16",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:7,middle-center:2,top-center:1",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 203,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 32,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 203,
+        "connector_count": 1,
+        "text_area": 0.0975,
+        "image_area": 0,
+        "shape_area": 0.2288,
+        "text_blob": "第二季度营销情况 MARKETING SITUATION IN THE SECOND QUARTER PART THREE 营销情况",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 23",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2453,
+            "y": 0.3593,
+            "w": 0.5095,
+            "h": 0.1346
+          },
+          "area": 0.0686,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2519,
+            "y": 0.4949,
+            "w": 0.4975,
+            "h": 0.0359
+          },
+          "area": 0.0179,
+          "text": "MARKETING SITUATION IN THE SECOND QUARTER",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 252",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1598,
+            "y": 0.6704,
+            "w": 0.0914,
+            "h": 0.1892
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 251",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.16,
+            "y": 0.6708,
+            "w": 0.091,
+            "h": 0.1885
+          },
+          "area": 0.0172,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4365,
+            "y": 0.2814,
+            "w": 0.1588,
+            "h": 0.0539
+          },
+          "area": 0.0086,
+          "text": "PART THREE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 365",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.076,
+            "y": 0.8521,
+            "w": 0.064,
+            "h": 0.1339
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 366",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.076,
+            "y": 0.8521,
+            "w": 0.064,
+            "h": 0.1339
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 411",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2226,
+            "y": 0.8521,
+            "w": 0.0622,
+            "h": 0.1378
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 412",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2226,
+            "y": 0.8521,
+            "w": 0.0622,
+            "h": 0.1378
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 304",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1352,
+            "y": 0.8496,
+            "w": 0.0579,
+            "h": 0.1385
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "扁平风格-06-静态-2d098775-s17",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "top-left:4,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 604,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 604,
+        "connector_count": 0,
+        "text_area": 0.0996,
+        "image_area": 0,
+        "shape_area": 0.5234,
+        "text_blob": "第二季度营销情况 MARKETING IN THE SECOND QUARTER 虎扑的合作伙伴 微信 快手 腾讯 网易 微软 微博 搜狗 小红书",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 1511",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.911,
+            "w": 1.0,
+            "h": 0.089
+          },
+          "area": 0.089,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 1512",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.9224,
+            "w": 1.0,
+            "h": 0.0776
+          },
+          "area": 0.0776,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.3134,
+            "h": 0.0767
+          },
+          "area": 0.024,
+          "text": "MARKETING IN THE SECOND QUARTER",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3822,
+            "y": 0.2433,
+            "w": 0.2356,
+            "h": 0.0718
+          },
+          "area": 0.0169,
+          "text": "虎扑的合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 1519",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7409,
+            "y": 0.708,
+            "w": 0.0884,
+            "h": 0.0628
+          },
+          "area": 0.0056,
+          "text": "小红书",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1889,
+            "y": 0.4292,
+            "w": 0.0589,
+            "h": 0.0628
+          },
+          "area": 0.0037,
+          "text": "微信",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 1513",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1889,
+            "y": 0.708,
+            "w": 0.0589,
+            "h": 0.0628
+          },
+          "area": 0.0037,
+          "text": "快手",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "扁平风格-06-静态-2d098775-s18",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:4,middle-left:4,middle-right:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 65,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 32,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 65,
+        "connector_count": 0,
+        "text_area": 0.1493,
+        "image_area": 0,
+        "shape_area": 0.4357,
+        "text_blob": "第二季度营销情况 MARKETING IN THE SECOND QUARTER 在本季度的营销中运营组排名第一,推广组排名第二,营销组排名第三,因为篇幅原因在本次大会中不再赘述,希望其他部门的同事也积极进取,像运营组和推广组学习,争取早日取得好的成绩 “运营组“",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 90",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5223,
+            "y": 0.088,
+            "w": 0.3733,
+            "h": 0.7632
+          },
+          "area": 0.2849,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5496,
+            "y": 0.3089,
+            "w": 0.3342,
+            "h": 0.2574
+          },
+          "area": 0.086,
+          "text": "在本季度的营销中运营组排名第一,推广组排名第二,营销组排名第三,因为篇幅原因在本次大会中不再赘述,希望其他部门的同事也积极进取,像运营组和推广组学习,争取早日取得好的成绩",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.3134,
+            "h": 0.0767
+          },
+          "area": 0.024,
+          "text": "MARKETING IN THE SECOND QUARTER",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 269",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1923,
+            "y": 0.4442,
+            "w": 0.1017,
+            "h": 0.1794
+          },
+          "area": 0.0182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 281",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1878,
+            "y": 0.3303,
+            "w": 0.1683,
+            "h": 0.0718
+          },
+          "area": 0.0121,
+          "text": "“运营组“",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 267",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2779,
+            "y": 0.4606,
+            "w": 0.0594,
+            "h": 0.1434
+          },
+          "area": 0.0085,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 268",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1489,
+            "y": 0.4606,
+            "w": 0.0596,
+            "h": 0.1434
+          },
+          "area": 0.0085,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "扁平风格-06-静态-2d098775-s19",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,middle-right:2,bottom-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.1164,
+        "image_area": 0.037,
+        "shape_area": 0.2038,
+        "text_blob": "第二季度营销情况 MARKETING IN THE SECOND QUARTER 各组第二季度销售额(万元) 运营组 营销额:7600万元 推广组 营销额:6400万元 营销组 营销额:5600万元",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 142",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.3814,
+            "w": 0.4946,
+            "h": 0.5651
+          },
+          "area": 0.2795,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 149",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6421,
+            "y": 0.3612,
+            "w": 0.2992,
+            "h": 0.1664
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 150",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6421,
+            "y": 0.5437,
+            "w": 0.2992,
+            "h": 0.1664
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 151",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6421,
+            "y": 0.7263,
+            "w": 0.2992,
+            "h": 0.1664
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 162",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5245,
+            "y": 0.6738,
+            "w": 0.1447,
+            "h": 0.2556
+          },
+          "area": 0.037,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.3134,
+            "h": 0.0767
+          },
+          "area": 0.024,
+          "text": "MARKETING IN THE SECOND QUARTER",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 144",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.344,
+            "y": 0.2536,
+            "w": 0.3007,
+            "h": 0.0673
+          },
+          "area": 0.0202,
+          "text": "各组第二季度销售额(万元)",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "扁平风格-06-静态-2d098775-s20",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-right:3,middle-center:2",
+      "counts": {
+        "text": 14,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 179,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 32,
+        "text_count": 14,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 179,
+        "connector_count": 1,
+        "text_area": 0.1465,
+        "image_area": 0.3531,
+        "shape_area": 0.4921,
+        "text_blob": "第二季度营销情况 MARKETING IN THE SECOND QUARTER NO.1 NO.2 NO.3 营销组 推广组 运营组 5000元 奖金 3000元 奖金 2000元 奖金",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0288,
+            "y": 0.4218,
+            "w": 0.5837,
+            "h": 0.1779
+          },
+          "area": 0.1038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3892,
+            "y": 0.4218,
+            "w": 0.5835,
+            "h": 0.1779
+          },
+          "area": 0.1038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图形 11",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.166,
+            "y": 0.2613,
+            "w": 0.1455,
+            "h": 0.3333
+          },
+          "area": 0.0485,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图形 12",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.428,
+            "y": 0.2613,
+            "w": 0.1455,
+            "h": 0.3333
+          },
+          "area": 0.0485,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 13",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6901,
+            "y": 0.2613,
+            "w": 0.1455,
+            "h": 0.3333
+          },
+          "area": 0.0485,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1742,
+            "y": 0.2727,
+            "w": 0.1297,
+            "h": 0.3117
+          },
+          "area": 0.0404,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4359,
+            "y": 0.2727,
+            "w": 0.1297,
+            "h": 0.3117
+          },
+          "area": 0.0404,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6977,
+            "y": 0.2727,
+            "w": 0.1297,
+            "h": 0.3117
+          },
+          "area": 0.0404,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11,
+          "footer": 3
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "扁平风格-06-静态-2d098775-s21",
+      "title_guess": "第二季度营销情况",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.1134,
+        "image_area": 0.2989,
+        "shape_area": 0.1124,
+        "text_blob": "第二季度营销情况 MARKETING IN THE SECOND QUARTER 张三 第二季度 最佳销售奖 职务:虎扑新媒体运营组组长 毕业院校:XX大学 个人经历:已连续两年获得年度最佳先进个人 座右铭:但行好事,莫问前程",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.052,
+            "y": 0.2384,
+            "w": 0.282,
+            "h": 0.7616
+          },
+          "area": 0.2148,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 217",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8111,
+            "y": 0.6251,
+            "w": 0.1948,
+            "h": 0.4316
+          },
+          "area": 0.0841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 221",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.2718,
+            "w": 0.1899,
+            "h": 0.1545
+          },
+          "area": 0.0293,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "第二季度营销情况",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.3134,
+            "h": 0.0767
+          },
+          "area": 0.024,
+          "text": "MARKETING IN THE SECOND QUARTER",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 246",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.7002,
+            "w": 0.3787,
+            "h": 0.0404
+          },
+          "area": 0.0153,
+          "text": "个人经历:已连续两年获得年度最佳先进个人",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 23",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.5497,
+            "w": 0.2461,
+            "h": 0.0404
+          },
+          "area": 0.0099,
+          "text": "职务:虎扑新媒体运营组组长",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 247",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.7755,
+            "w": 0.2461,
+            "h": 0.0404
+          },
+          "area": 0.0099,
+          "text": "座右铭:但行好事,莫问前程",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "扁平风格-06-静态-2d098775-s22",
+      "title_guess": "具体推广措施",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 83,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 32,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 83,
+        "connector_count": 1,
+        "text_area": 0.0846,
+        "image_area": 0,
+        "shape_area": 0.4289,
+        "text_blob": "具体推广措施 SPECIFIC PROMOTION MEASURES PART FOUR 抖音 快手 小红书",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 49",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1805,
+            "y": 0.3019,
+            "w": 0.2114,
+            "h": 0.443
+          },
+          "area": 0.0937,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1809,
+            "y": 0.3026,
+            "w": 0.2106,
+            "h": 0.4416
+          },
+          "area": 0.093,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5575,
+            "y": 0.3603,
+            "w": 0.395,
+            "h": 0.1346
+          },
+          "area": 0.0532,
+          "text": "具体推广措施",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0975,
+            "y": 0.2668,
+            "w": 0.1623,
+            "h": 0.2885
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 41",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0975,
+            "y": 0.2668,
+            "w": 0.1623,
+            "h": 0.2885
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1053,
+            "y": 0.3901,
+            "w": 0.1431,
+            "h": 0.1652
+          },
+          "area": 0.0236,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 76",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0844,
+            "y": 0.5823,
+            "w": 0.0434,
+            "h": 0.3164
+          },
+          "area": 0.0137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5681,
+            "y": 0.4949,
+            "w": 0.3748,
+            "h": 0.0359
+          },
+          "area": 0.0135,
+          "text": "SPECIFIC PROMOTION MEASURES",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 79",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1125,
+            "y": 0.5797,
+            "w": 0.0411,
+            "h": 0.3186
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.332,
+            "y": 0.2724,
+            "w": 0.0689,
+            "h": 0.1453
+          },
+          "area": 0.01,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "扁平风格-06-静态-2d098775-s23",
+      "title_guess": "具体推广措施",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,bottom-center:2,bottom-right:1",
+      "counts": {
+        "text": 10,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 4,
+        "text_area": 0.1597,
+        "image_area": 0.1411,
+        "shape_area": 0.3296,
+        "text_blob": "具体推广措施 SPECIFIC PROMOTION MEASURES 多元用户 在大流量新媒体平台推广本公司产品,使用户多元化阅读 高效转化 新媒体的推广流量经费相对昂贵,应避免没有必要的推广 精准触达 制定9大定向维度,张贴标签,使用户可以从多维角度搜索 投放保障 使用多种推广计费方式,承担广告投放风险,保证公司的资金流通",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 267",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6684,
+            "y": 0.555,
+            "w": 0.3316,
+            "h": 0.3665
+          },
+          "area": 0.1215,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0672,
+            "y": 0.2826,
+            "w": 0.2945,
+            "h": 0.2337
+          },
+          "area": 0.0688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0672,
+            "y": 0.5495,
+            "w": 0.2945,
+            "h": 0.2337
+          },
+          "area": 0.0688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3795,
+            "y": 0.2826,
+            "w": 0.2945,
+            "h": 0.2337
+          },
+          "area": 0.0688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3795,
+            "y": 0.5495,
+            "w": 0.2945,
+            "h": 0.2337
+          },
+          "area": 0.0688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.028,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "具体推广措施",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.3134,
+            "h": 0.0767
+          },
+          "area": 0.024,
+          "text": "SPECIFIC PROMOTION MEASURES",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 265",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4019,
+            "y": 0.6452,
+            "w": 0.2562,
+            "h": 0.0887
+          },
+          "area": 0.0227,
+          "text": "使用多种推广计费方式,承担广告投放风险,保证公司的资金流通",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "扁平风格-06-静态-2d098775-s24",
+      "title_guess": "具体推广措施",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,top-left:3,bottom-right:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 6,
+        "text_area": 0.2161,
+        "image_area": 0.0355,
+        "shape_area": 0.3492,
+        "text_blob": "具体推广措施 SPECIFIC PROMOTION MEASURES 制定推广主题 制定主题让产品信息通过与用户的需求结合,将信息转化成价值 找准市场切合点 与品类相关的产品和服务层出不穷,多种形式的挖掘和完整传播市场切合点是推广的关键 精准传播平台 新媒体与传统媒体一样,都存在目标受众和大众受众,不同受众应对应不同的推广方式 多样表现形式 精准掌握针对社会不同传播对象的信息要素,以图像,文字,视频的形式集中通过产品,服务等多维形式呈现",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "circle round shape",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3487,
+            "y": 0.2709,
+            "w": 0.3025,
+            "h": 0.5378
+          },
+          "area": 0.1627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3725,
+            "y": 0.3138,
+            "w": 0.2551,
+            "h": 0.4535
+          },
+          "area": 0.1157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 53",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7027,
+            "y": 0.6527,
+            "w": 0.2222,
+            "h": 0.1821
+          },
+          "area": 0.0405,
+          "text": "精准掌握针对社会不同传播对象的信息要素,以图像,文字,视频的形式集中通过产品,服务等多维形式呈现",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图形 14",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4294,
+            "y": 0.4143,
+            "w": 0.1412,
+            "h": 0.2511
+          },
+          "area": 0.0355,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.3745,
+            "w": 0.2222,
+            "h": 0.1354
+          },
+          "area": 0.0301,
+          "text": "制定主题让产品信息通过与用户的需求结合,将信息转化成价值",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 47",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.6527,
+            "w": 0.2222,
+            "h": 0.1354
+          },
+          "area": 0.0301,
+          "text": "与品类相关的产品和服务层出不穷,多种形式的挖掘和完整传播市场切合点是推广的关键",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 50",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7007,
+            "y": 0.3745,
+            "w": 0.2222,
+            "h": 0.1354
+          },
+          "area": 0.0301,
+          "text": "新媒体与传统媒体一样,都存在目标受众和大众受众,不同受众应对应不同的推广方式",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.028,
+            "y": 0.0819,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "具体推广措施",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 4,
+          "body": 3,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "扁平风格-06-静态-2d098775-s25",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "low",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:2,bottom-left:1,top-right:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 1,
+        "text_area": 0.0725,
+        "image_area": 0.1789,
+        "shape_area": 0,
+        "text_blob": "未来展望 TOWARD THE FUTURE PART FIVE",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 14",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0587,
+            "y": 0.4578,
+            "w": 0.3872,
+            "h": 0.4621
+          },
+          "area": 0.1789,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5716,
+            "y": 0.3603,
+            "w": 0.3831,
+            "h": 0.1346
+          },
+          "area": 0.0516,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5706,
+            "y": 0.4949,
+            "w": 0.3736,
+            "h": 0.0359
+          },
+          "area": 0.0134,
+          "text": "TOWARD THE FUTURE",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8137,
+            "y": 0.2814,
+            "w": 0.141,
+            "h": 0.0535
+          },
+          "area": 0.0075,
+          "text": "PART FIVE",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 11",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "扁平风格-06-静态-2d098775-s26",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 32,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1935,
+        "image_area": 0.2528,
+        "shape_area": 0.0544,
+        "text_blob": "未来展望 TOWARD THE FUTURE 推广组 回首过去,我们思绪纷飞,感慨万千;立足今日,我们胸有成竹,信心百倍;展望未来,我们引吭高歌,一路欢笑 PROMOTE GROUP 在接下来的日子里我们组会继续努力,为了虎扑的发展我们竭尽全力拼搏,争取在下一年的排名中更上一层楼",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图形 11",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.3119,
+            "w": 0.417,
+            "h": 0.6062
+          },
+          "area": 0.2528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5105,
+            "y": 0.4754,
+            "w": 0.4324,
+            "h": 0.1523
+          },
+          "area": 0.0659,
+          "text": "回首过去,我们思绪纷飞,感慨万千;立足今日,我们胸有成竹,信心百倍;展望未来,我们引吭高歌,一路欢笑",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5105,
+            "y": 0.6477,
+            "w": 0.4324,
+            "h": 0.1521
+          },
+          "area": 0.0658,
+          "text": "在接下来的日子里我们组会继续努力,为了虎扑的发展我们竭尽全力拼搏,争取在下一年的排名中更上一层楼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.296,
+            "h": 0.0767
+          },
+          "area": 0.0227,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.2398,
+            "h": 0.0767
+          },
+          "area": 0.0184,
+          "text": "TOWARD THE FUTURE",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5105,
+            "y": 0.3119,
+            "w": 0.1388,
+            "h": 0.0987
+          },
+          "area": 0.0137,
+          "text": "推广组",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5105,
+            "y": 0.408,
+            "w": 0.1728,
+            "h": 0.0404
+          },
+          "area": 0.007,
+          "text": "PROMOTE GROUP",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "扁平风格-06-静态-2d098775-s27",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:3,top-left:2,middle-center:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 148,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 32,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 148,
+        "connector_count": 0,
+        "text_area": 0.2452,
+        "image_area": 0,
+        "shape_area": 0.4264,
+        "text_blob": "未来展望 TOWARD THE FUTURE 组长 公司 成员 整体 营销组 MARKETING GROUP 回顾上一季度,我们组在整体的营销中取得了第三的排名,我们组继续努力,争取在下一季度的排名中更上一层楼 作为一名组员,在做好自己本职工作的同时,还应该积极的协助好组长,公司做好我们整体的事 从上一季度的销售情况看营销组排名第三,很优秀,值得鼓励,希望你们组在接下来的日子里继续保持 我们文化传媒有限公司,在上一季度的营销情况从整体来看还是很可观的,这些成就离不开我们整体的努力",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3228,
+            "y": 0.2352,
+            "w": 0.3545,
+            "h": 0.6301
+          },
+          "area": 0.2234,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.3618,
+            "w": 0.2342,
+            "h": 0.1821
+          },
+          "area": 0.0426,
+          "text": "回顾上一季度,我们组在整体的营销中取得了第三的排名,我们组继续努力,争取在下一季度的排名中更上一层楼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 176",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6984,
+            "y": 0.3634,
+            "w": 0.2342,
+            "h": 0.1821
+          },
+          "area": 0.0426,
+          "text": "从上一季度的销售情况看营销组排名第三,很优秀,值得鼓励,希望你们组在接下来的日子里继续保持",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 177",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6986,
+            "y": 0.7166,
+            "w": 0.2342,
+            "h": 0.1821
+          },
+          "area": 0.0426,
+          "text": "我们文化传媒有限公司,在上一季度的营销情况从整体来看还是很可观的,这些成就离不开我们整体的努力",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 175",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0697,
+            "y": 0.7151,
+            "w": 0.2342,
+            "h": 0.1354
+          },
+          "area": 0.0317,
+          "text": "作为一名组员,在做好自己本职工作的同时,还应该积极的协助好组长,公司做好我们整体的事",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.0819,
+            "w": 0.296,
+            "h": 0.0767
+          },
+          "area": 0.0227,
+          "text": "未来展望",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本占位符 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0896,
+            "y": 0.1586,
+            "w": 0.2398,
+            "h": 0.0767
+          },
+          "area": 0.0184,
+          "text": "TOWARD THE FUTURE",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 325",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3763,
+            "y": 0.5516,
+            "w": 0.0591,
+            "h": 0.2394
+          },
+          "area": 0.0141,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5906,
+            "y": 0.5352,
+            "w": 0.0471,
+            "h": 0.2579
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 328",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.5551,
+            "w": 0.0458,
+            "h": 0.2473
+          },
+          "area": 0.0113,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "扁平风格-06-静态-2d098775-s28",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,top-left:2,bottom-left:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 59,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 59,
+        "connector_count": 3,
+        "text_area": 0.1983,
+        "image_area": 0,
+        "shape_area": 0.4521,
+        "text_blob": "未来展望 TOWARD THE FUTURE 运营组 OPERATION 作为小组长尽自己的努力,为了本组的发展,为了公司的发展,尽可能地协调好小组成员之间的合作 小组成员 众所周知,在效率为王的时代里,“用最少的时间创造最大的价值“所以应该继续加强培训小组之间的协调能力 协调办公 给自己时间,不要焦急,一步一步来,一日一日过,只要我们不断砥砺前行的行动,时间会告诉我们答案的 行动方面",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 105",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8993,
+            "w": 1.0,
+            "h": 0.1007
+          },
+          "area": 0.1007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 107",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.916,
+            "w": 1.0,
+            "h": 0.084
+          },
+          "area": 0.084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 301",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.6549,
+            "w": 0.2269,
+            "h": 0.1821
+          },
+          "area": 0.0413,
+          "text": "作为小组长尽自己的努力,为了本组的发展,为了公司的发展,尽可能地协调好小组成员之间的合作",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 113",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3953,
+            "y": 0.6549,
+            "w": 0.2269,
+            "h": 0.1821
+          },
+          "area": 0.0413,
+          "text": "众所周知,在效率为王的时代里,“用最少的时间创造最大的价值“所以应该继续加强培训小组之间的协调能力",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 115",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6908,
+            "y": 0.6549,
+            "w": 0.2269,
+            "h": 0.1821
+          },
+          "area": 0.0413,
+          "text": "给自己时间,不要焦急,一步一步来,一日一日过,只要我们不断砥砺前行的行动,时间会告诉我们答案的",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.328,
+            "w": 0.1336,
+            "h": 0.2375
+          },
+          "area": 0.0317,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4332,
+            "y": 0.328,
+            "w": 0.1336,
+            "h": 0.2375
+          },
+          "area": 0.0317,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7266,
+            "y": 0.328,
+            "w": 0.1336,
+            "h": 0.2375
+          },
+          "area": 0.0317,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "扁平风格-06-静态-2d098775-s29",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,middle-right:2,top-left:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 2,
+        "text_area": 0.1672,
+        "image_area": 0.0541,
+        "shape_area": 0.684,
+        "text_blob": "未来展望 TOWARD THE FUTURE 文化传媒有限公司近期和远期规划 近期规划 NEAR 远期规划 FORWARD 在1-3个月内实现销售额的快速增长,增强客户粘性,对公司的满意度 在三至五年内成为新上市公司中最有竞争力的传媒公司,力争上游",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 120",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0986,
+            "y": 0.3833,
+            "w": 0.3057,
+            "h": 0.5435
+          },
+          "area": 0.1661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 124",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5957,
+            "y": 0.3833,
+            "w": 0.3057,
+            "h": 0.5435
+          },
+          "area": 0.1661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 121",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1071,
+            "y": 0.3984,
+            "w": 0.2886,
+            "h": 0.5131
+          },
+          "area": 0.1481,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 125",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6042,
+            "y": 0.3984,
+            "w": 0.2886,
+            "h": 0.5131
+          },
+          "area": 0.1481,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 130",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4059,
+            "y": 0.5241,
+            "w": 0.2032,
+            "h": 0.2663
+          },
+          "area": 0.0541,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 16",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1422,
+            "y": 0.6383,
+            "w": 0.2185,
+            "h": 0.1523
+          },
+          "area": 0.0333,
+          "text": "在1-3个月内实现销售额的快速增长,增强客户粘性,对公司的满意度",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 129",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6393,
+            "y": 0.6383,
+            "w": 0.2185,
+            "h": 0.1521
+          },
+          "area": 0.0332,
+          "text": "在三至五年内成为新上市公司中最有竞争力的传媒公司,力争上游",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2866,
+            "y": 0.2644,
+            "w": 0.4418,
+            "h": 0.0628
+          },
+          "area": 0.0277,
+          "text": "文化传媒有限公司近期和远期规划",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 2,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "扁平风格-06-静态-2d098775-s30",
+      "title_guess": "未来展望",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 4,
+        "text_area": 0.1574,
+        "image_area": 0.0546,
+        "shape_area": 0.4306,
+        "text_blob": "未来展望 TOWARD THE FUTURE 客户 公司 员工 作为员工与客户之间共同的重要枢纽,应起到良好的“润滑剂”的作用 培养15名“精准员工”为公司的未来发展做完备的保障 在今年年底预计锁定15位“精准客户”不求服务最好,只求更好",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 65",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8993,
+            "w": 1.0,
+            "h": 0.1007
+          },
+          "area": 0.1007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 66",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.916,
+            "w": 1.0,
+            "h": 0.084
+          },
+          "area": 0.084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.412,
+            "y": 0.2499,
+            "w": 0.1759,
+            "h": 0.3128
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0909,
+            "y": 0.2579,
+            "w": 0.167,
+            "h": 0.2969
+          },
+          "area": 0.0496,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 52",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7421,
+            "y": 0.2579,
+            "w": 0.167,
+            "h": 0.2969
+          },
+          "area": 0.0496,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4286,
+            "y": 0.2794,
+            "w": 0.1428,
+            "h": 0.2539
+          },
+          "area": 0.0363,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3919,
+            "y": 0.6903,
+            "w": 0.2162,
+            "h": 0.1523
+          },
+          "area": 0.0329,
+          "text": "作为员工与客户之间共同的重要枢纽,应起到良好的“润滑剂”的作用",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 63",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7176,
+            "y": 0.6903,
+            "w": 0.2162,
+            "h": 0.1521
+          },
+          "area": 0.0329,
+          "text": "培养15名“精准员工”为公司的未来发展做完备的保障",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 64",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0663,
+            "y": 0.6903,
+            "w": 0.2162,
+            "h": 0.1521
+          },
+          "area": 0.0329,
+          "text": "在今年年底预计锁定15位“精准客户”不求服务最好,只求更好",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本占位符 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.1586,
+            "w": 0.3547,
+            "h": 0.0767
+          },
+          "area": 0.0272,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 31,
+      "slide_id": "31",
+      "framework_id": "扁平风格-06-静态-2d098775-s31",
+      "title_guess": "联系我们",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,bottom-center:2,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 31,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 4,
+        "text_area": 0.0538,
+        "image_area": 0.2829,
+        "shape_area": 1.3358,
+        "text_blob": "联系我们 CONTACT US 业务经理 张三 ZHANG SAN 联系电话 888-8888-8888 官方网址 WWW.OFFICEPIUS.COM 合作共赢 win-win cooperation",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5267,
+            "y": 0.2052,
+            "w": 0.3933,
+            "h": 0.5897
+          },
+          "area": 0.2319,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5397,
+            "y": 0.2393,
+            "w": 0.3674,
+            "h": 0.3679
+          },
+          "area": 0.1352,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 31",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8993,
+            "w": 1.0,
+            "h": 0.1007
+          },
+          "area": 0.1007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 33",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.916,
+            "w": 1.0,
+            "h": 0.084
+          },
+          "area": 0.084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图形 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6912,
+            "y": 0.313,
+            "w": 0.2032,
+            "h": 0.2508
+          },
+          "area": 0.051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0558,
+            "y": 0.0938,
+            "w": 0.1515,
+            "h": 0.0808
+          },
+          "area": 0.0122,
+          "text": "联系我们",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 32",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0598,
+            "y": 0.6841,
+            "w": 0.2209,
+            "h": 0.0404
+          },
+          "area": 0.0089,
+          "text": "WWW.OFFICEPIUS.COM",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0558,
+            "y": 0.2699,
+            "w": 0.1013,
+            "h": 0.0548
+          },
+          "area": 0.0056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0558,
+            "y": 0.4401,
+            "w": 0.1013,
+            "h": 0.0548
+          },
+          "area": 0.0056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0558,
+            "y": 0.6103,
+            "w": 0.1013,
+            "h": 0.0548
+          },
+          "area": 0.0056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 32,
+      "slide_id": "32",
+      "framework_id": "扁平风格-06-静态-2d098775-s32",
+      "title_guess": "感谢聆听",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:3,middle-center:3,middle-left:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 32,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1562,
+        "image_area": 0.1264,
+        "shape_area": 1.6609,
+        "text_blob": "感谢聆听 THANKYOU FOR YOUR LISTING THANKYOU",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 34",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0161,
+            "y": 0.0,
+            "w": 0.2762,
+            "h": 1.0
+          },
+          "area": 0.2762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 49",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2647,
+            "h": 1.0
+          },
+          "area": 0.2647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图形 44",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4063,
+            "y": 0.5676,
+            "w": 0.357,
+            "h": 0.3542
+          },
+          "area": 0.1264,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3187,
+            "y": 0.206,
+            "w": 0.4838,
+            "h": 0.2581
+          },
+          "area": 0.1249,
+          "text": "感谢聆听",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 38",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8584,
+            "y": 0.6444,
+            "w": 0.133,
+            "h": 0.4435
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 48",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8652,
+            "y": 0.6626,
+            "w": 0.129,
+            "h": 0.4254
+          },
+          "area": 0.0549,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 35",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3198,
+            "y": 0.4372,
+            "w": 0.4828,
+            "h": 0.0539
+          },
+          "area": 0.026,
+          "text": "THANKYOU FOR YOUR LISTING",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5203,
+            "y": 0.8371,
+            "w": 0.1425,
+            "h": 0.049
+          },
+          "area": 0.007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5063,
+            "y": 0.8257,
+            "w": 0.1171,
+            "h": 0.0449
+          },
+          "area": 0.0053,
+          "text": "THANKYOU",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 36",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4063,
+            "y": 0.4877,
+            "w": 0.0,
+            "h": 0.1548
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 32,
+    "layout_job_counts": {
+      "limitations-future": 8,
+      "claim-evidence": 6,
+      "flow-diagram": 4,
+      "matrix-grid": 4,
+      "process-strip": 4,
+      "kpi-grid": 2,
+      "cover-statement": 1,
+      "two-column": 1,
+      "architecture-diagram": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 17,
+      "image": 10,
+      "mixed": 2,
+      "chart": 2,
+      "text": 1
+    },
+    "density_counts": {
+      "high": 14,
+      "medium-high": 11,
+      "medium": 4,
+      "low": 3
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "claim-evidence",
+      "flow-diagram",
+      "matrix-grid",
+      "process-strip"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ]
+  }
+}

@@ -1,0 +1,5652 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:22.086401+00:00",
+  "template_id": "工作汇报-22-动态-47fbc809",
+  "template_profile_path": "assets/template-library/profiles/工作汇报-22-动态-47fbc809.json",
+  "source_template": {
+    "name": "工作汇报(22)—动态.pptx",
+    "category": "工作汇报（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(22)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 26,
+    "media_count": 19,
+    "image_media_count": 19,
+    "motion_hint": "dynamic",
+    "tags": [
+      "工作汇报",
+      "项目进展",
+      "部门总结",
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划",
+      "稳重",
+      "商务",
+      "清晰",
+      "中性",
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图",
+      "标题+要点",
+      "结果摘要",
+      "结论先行",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "工作汇报",
+    "scenario": [
+      "工作汇报",
+      "项目进展",
+      "部门总结"
+    ],
+    "best_for": [
+      "周报/月报/年度汇报",
+      "项目总结"
+    ],
+    "avoid": [
+      "儿童风",
+      "活动庆典风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "商务",
+      "清晰",
+      "中性"
+    ],
+    "image_strategy": [
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图"
+    ],
+    "text_strategy": [
+      "标题+要点",
+      "结果摘要",
+      "结论先行"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "process-strip",
+      "flow-diagram",
+      "kpi-grid",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "footer",
+      "body",
+      "diagram-block",
+      "image"
+    ],
+    "common_zones": [
+      "middle-left",
+      "bottom-left",
+      "top-center",
+      "middle-center",
+      "top-right",
+      "middle-right"
+    ],
+    "template_text_signature": "办公室工作总结 目录 Brief introduction of new employee induction train 专业 售前咨询 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说 加强校企合作 加大招工宣传、争取政府资源 礼仪 对象性 Brief introduction of new employee induction train 完成情况 75% 与客户保持友好,职业的眼部接触 A. 点击输入简要文字解说,解说文字",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "工作汇报-22-动态-47fbc809-s01",
+      "title_guess": "办公室工作总结",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-right:6,middle-left:2,middle-center:1",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 26,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.2015,
+        "image_area": 0,
+        "shape_area": 0.1656,
+        "text_blob": "办公室工作总结 工作总结 / 述职报告 / 总结计划 / 简约汇报 / 汇报人:某某某 时间:202X.08 Work report Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.063,
+            "y": 0.3168,
+            "w": 0.5594,
+            "h": 0.1481
+          },
+          "area": 0.0828,
+          "text": "办公室工作总结",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0133,
+            "y": 0.1926,
+            "w": 0.4561,
+            "h": 0.1235
+          },
+          "area": 0.0563,
+          "text": "Work report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8861,
+            "y": 0.0016,
+            "w": 0.1154,
+            "h": 0.3822
+          },
+          "area": 0.0441,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0714,
+            "y": 0.5263,
+            "w": 0.4161,
+            "h": 0.0673
+          },
+          "area": 0.028,
+          "text": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8925,
+            "y": 0.0334,
+            "w": 0.0798,
+            "h": 0.3495
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0692,
+            "y": 0.4651,
+            "w": 0.4629,
+            "h": 0.0539
+          },
+          "area": 0.025,
+          "text": "工作总结 / 述职报告 / 总结计划 / 简约汇报 /",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8242,
+            "y": 0.2247,
+            "w": 0.1481,
+            "h": 0.1671
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7189,
+            "y": 0.164,
+            "w": 0.1396,
+            "h": 0.173
+          },
+          "area": 0.0242,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "等腰三角形 25",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9036,
+            "y": -0.0,
+            "w": 0.0964,
+            "h": 0.2026
+          },
+          "area": 0.0195,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.638,
+            "y": 0.1096,
+            "w": 0.0894,
+            "h": 0.1151
+          },
+          "area": 0.0103,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 3,
+          "label": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "工作汇报-22-动态-47fbc809-s02",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:6,top-right:4",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 26,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1468,
+        "image_area": 0,
+        "shape_area": 0.2535,
+        "text_blob": "目录 CONTENTS 岗位工作概述 Brief introduction of new employee induction training enterprise and business process 01 工作完成情况 Brief introduction of new employee induction training enterprise and business process 02 工作不足之处 Brief introduction of new employee induction training enterprise and business process 03 未来工作计划 Brief introduction of new employee induction training enterprise and business process 04",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形 45",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1793,
+            "y": 0.0012,
+            "w": 0.6407,
+            "h": 0.3631
+          },
+          "area": 0.2326,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 39",
+          "role": "section_label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4339,
+            "y": 0.067,
+            "w": 0.1615,
+            "h": 0.1481
+          },
+          "area": 0.0239,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 109",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5707,
+            "y": 0.2133,
+            "w": 0.248,
+            "h": 0.0565
+          },
+          "area": 0.014,
+          "text": "Brief introduction of new employee induction training enterprise and business process",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 40",
+          "role": "section_label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4944,
+            "y": 0.0666,
+            "w": 0.0404,
+            "h": 0.3439
+          },
+          "area": 0.0139,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 33",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5707,
+            "y": 0.2133,
+            "w": 0.2389,
+            "h": 0.0565
+          },
+          "area": 0.0135,
+          "text": "Brief introduction of new employee induction training enterprise and business process",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 93",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5707,
+            "y": 0.2133,
+            "w": 0.2389,
+            "h": 0.0565
+          },
+          "area": 0.0135,
+          "text": "Brief introduction of new employee induction training enterprise and business process",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 101",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5707,
+            "y": 0.2133,
+            "w": 0.234,
+            "h": 0.0565
+          },
+          "area": 0.0132,
+          "text": "Brief introduction of new employee induction training enterprise and business process",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5671,
+            "y": 0.1563,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "岗位工作概述",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 92",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5671,
+            "y": 0.1563,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 100",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5671,
+            "y": 0.1563,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "工作不足之处",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 2,
+          "label": 8,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "工作汇报-22-动态-47fbc809-s03",
+      "title_guess": "Brief introduction of new employee induction train",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,top-right:4,middle-left:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 26,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2114,
+        "image_area": 0,
+        "shape_area": 0.622,
+        "text_blob": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank 岗位工作概述 PART ONE 01",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 12",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0517,
+            "y": 0.25,
+            "w": 0.3907,
+            "h": 0.6945
+          },
+          "area": 0.2713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0141,
+            "y": 0.3491,
+            "w": 0.3109,
+            "h": 0.3952
+          },
+          "area": 0.1229,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0255,
+            "y": 0.5823,
+            "w": 0.1998,
+            "h": 0.3028
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8135,
+            "y": -0.0,
+            "w": 0.1865,
+            "h": 0.3246
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7641,
+            "y": -0.0707,
+            "w": 0.1393,
+            "h": 0.4025
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6443,
+            "y": -0.0897,
+            "w": 0.1287,
+            "h": 0.4225
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0605,
+            "y": 0.7246,
+            "w": 0.3999,
+            "h": 0.1033
+          },
+          "area": 0.0413,
+          "text": "岗位工作概述",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 29",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9007,
+            "y": 0.15,
+            "w": 0.0993,
+            "h": 0.3057
+          },
+          "area": 0.0304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 9",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.8336,
+            "w": 0.4496,
+            "h": 0.0674
+          },
+          "area": 0.0303,
+          "text": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.07,
+            "y": 0.5729,
+            "w": 0.164,
+            "h": 0.1743
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "工作汇报-22-动态-47fbc809-s04",
+      "title_guess": "专业",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:2,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 26,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.314,
+        "image_area": 0.17,
+        "shape_area": 0.3105,
+        "text_blob": "专业 项目 管理 培训 点击输入简要文字内容 文字内容需概括精炼,不用多余的文字修饰, 言简意赅的说明该项内容。点击输入简要文字内容,文字内容需概括 精炼,不用多余的文字修饰,言简意赅的说明该项内容。 点击输入简要文字内容,文字内容 需概括精炼,不用多余的文字修饰言简意赅的说明该项内容。 阶段性工作述职报告 岗位工作概述 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 49",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.387,
+            "y": 0.2385,
+            "w": 0.5966,
+            "h": 0.4711
+          },
+          "area": 0.2811,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 74",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4331,
+            "y": 0.3916,
+            "w": 0.5316,
+            "h": 0.3797
+          },
+          "area": 0.2018,
+          "text": "点击输入简要文字内容 文字内容需概括精炼,不用多余的文字修饰, 言简意赅的说明该项内容。点击输入简要文字内容,文字内容需概括 精炼,不用多余的文字修饰,言简意赅的说明该项内容。 点击输入简要文字内容,文字内容 需概括精炼,不用多余的文字修饰",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0164,
+            "y": 0.2677,
+            "w": 0.3706,
+            "h": 0.4587
+          },
+          "area": 0.17,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 1",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4331,
+            "y": 0.3174,
+            "w": 0.4209,
+            "h": 0.0673
+          },
+          "area": 0.0283,
+          "text": "阶段性工作述职报告",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "岗位工作概述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 68",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0783,
+            "y": 0.817,
+            "w": 0.2155,
+            "h": 0.0583
+          },
+          "area": 0.0126,
+          "text": "专业",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 70",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3034,
+            "y": 0.817,
+            "w": 0.2155,
+            "h": 0.0583
+          },
+          "area": 0.0126,
+          "text": "项目",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 71",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5285,
+            "y": 0.817,
+            "w": 0.2155,
+            "h": 0.0583
+          },
+          "area": 0.0126,
+          "text": "管理",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 72",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7536,
+            "y": 0.8135,
+            "w": 0.1924,
+            "h": 0.0583
+          },
+          "area": 0.0112,
+          "text": "培训",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "工作汇报-22-动态-47fbc809-s05",
+      "title_guess": "售前咨询",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,bottom-left:3,top-center:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 26,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1693,
+        "image_area": 0,
+        "shape_area": 0.1592,
+        "text_blob": "售前咨询 项目管理 市场营销 售后回访 微笑是一种国际礼仪,是唯一一种不分国籍的通用语言。能充分体现一个人的热情、修养和魅力。是最能赋予人好感,增加友善和沟通,愉悦心情的表现方式。微笑是一种国际礼仪,是唯一一种不分国籍的通用语言。能充分体现一个人的热情、修养和魅力。 岗位工作概述 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 28",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0886,
+            "y": 0.3263,
+            "w": 0.8403,
+            "h": 0.0895
+          },
+          "area": 0.0752,
+          "text": "微笑是一种国际礼仪,是唯一一种不分国籍的通用语言。能充分体现一个人的热情、修养和魅力。是最能赋予人好感,增加友善和沟通,愉悦心情的表现方式。微笑是一种国际礼仪,是唯一一种不分国籍的通用语言。能充分体现一个人的热情、修养和魅力。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.36,
+            "w": 0.1597,
+            "h": 0.2495
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.36,
+            "w": 0.1597,
+            "h": 0.2495
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.36,
+            "w": 0.1597,
+            "h": 0.2495
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.36,
+            "w": 0.1597,
+            "h": 0.2495
+          },
+          "area": 0.0398,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "岗位工作概述",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 18",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.6295,
+            "w": 0.1597,
+            "h": 0.0924
+          },
+          "area": 0.0148,
+          "text": "售前咨询",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 21",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.6295,
+            "w": 0.1597,
+            "h": 0.0924
+          },
+          "area": 0.0148,
+          "text": "项目管理",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 24",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.6295,
+            "w": 0.1597,
+            "h": 0.0924
+          },
+          "area": 0.0148,
+          "text": "市场营销",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "工作汇报-22-动态-47fbc809-s06",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,middle-left:3,middle-center:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 26,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 4,
+        "text_area": 0.1563,
+        "image_area": 0,
+        "shape_area": 0.736,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说 需求类别一 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说 需求类别一 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说 需求类别一 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说 需求类别一 四大 项目 资源参考指数 资源参考指数 资源参考指数 资源参考指数 岗位工作概述 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2807,
+            "w": 1.0,
+            "h": 0.5474
+          },
+          "area": 0.5474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1382,
+            "y": 0.3275,
+            "w": 0.2395,
+            "h": 0.4257
+          },
+          "area": 0.102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.1988,
+            "h": 0.101
+          },
+          "area": 0.0201,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.1988,
+            "h": 0.101
+          },
+          "area": 0.0201,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.1988,
+            "h": 0.101
+          },
+          "area": 0.0201,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.1988,
+            "h": 0.101
+          },
+          "area": 0.0201,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1,
+            "y": 0.4468,
+            "w": 0.1053,
+            "h": 0.1871
+          },
+          "area": 0.0197,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2053,
+            "y": 0.2573,
+            "w": 0.1053,
+            "h": 0.1871
+          },
+          "area": 0.0197,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3158,
+            "y": 0.4468,
+            "w": 0.1053,
+            "h": 0.1871
+          },
+          "area": 0.0197,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2053,
+            "y": 0.6596,
+            "w": 0.1053,
+            "h": 0.1871
+          },
+          "area": 0.0197,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "工作汇报-22-动态-47fbc809-s07",
+      "title_guess": "加强校企合作 加大招工宣传、争取政府资源",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-left:3,top-center:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 26,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.1206,
+        "image_area": 0,
+        "shape_area": 0.2937,
+        "text_blob": "加强校企合作 加大招工宣传、争取政府资源 结合《劳动合同法》梳理人力资源管理业务流程 建立健全人力资源管理制度体系 ,拟定《人事管理制度》 完善员工福利、员工激励等三项制度 项目管理工作 项目培训工作 岗位工作概述 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3844,
+            "y": 0.3317,
+            "w": 0.1936,
+            "h": 0.3442
+          },
+          "area": 0.0666,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 24",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6643,
+            "y": 0.4843,
+            "w": 0.257,
+            "h": 0.1885
+          },
+          "area": 0.0484,
+          "text": "结合《劳动合同法》梳理人力资源管理业务流程 建立健全人力资源管理制度体系 ,拟定《人事管理制度》 完善员工福利、员工激励等三项制度",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "左弧形箭头 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3529,
+            "y": 0.2898,
+            "w": 0.0984,
+            "h": 0.4656
+          },
+          "area": 0.0458,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "左弧形箭头 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5134,
+            "y": 0.2545,
+            "w": 0.0984,
+            "h": 0.4656
+          },
+          "area": 0.0458,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 22",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0984,
+            "y": 0.4798,
+            "w": 0.1984,
+            "h": 0.1185
+          },
+          "area": 0.0235,
+          "text": "加强校企合作 加大招工宣传、争取政府资源",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "岗位工作概述",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 39",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2655,
+            "y": 0.6652,
+            "w": 0.0941,
+            "h": 0.1672
+          },
+          "area": 0.0157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2655,
+            "y": 0.6652,
+            "w": 0.0941,
+            "h": 0.1672
+          },
+          "area": 0.0157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2655,
+            "y": 0.6652,
+            "w": 0.0941,
+            "h": 0.1672
+          },
+          "area": 0.0157,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "claim": 1,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "工作汇报-22-动态-47fbc809-s08",
+      "title_guess": "礼仪 对象性",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:8,middle-right:1,top-center:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 26,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.2028,
+        "image_area": 0,
+        "shape_area": 0.4242,
+        "text_blob": "礼仪 对象性 点击在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明, A 简单来说,就是为公司的客户提供他们想要的服务,维护公司与客户之间的关系 B 引导客户消费公司的产品(服务),在客户使用产品(服务)的过程中提供有效的帮助和其他服务 C 满意的售后服务,最终完成产品(服务)的二次销售 工作 重点 岗位工作概述 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0921,
+            "y": 0.3149,
+            "w": 0.3169,
+            "h": 0.5634
+          },
+          "area": 0.1785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 53",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1395,
+            "y": 0.4,
+            "w": 0.2212,
+            "h": 0.3932
+          },
+          "area": 0.087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0983,
+            "y": 0.3245,
+            "w": 0.3549,
+            "h": 0.149
+          },
+          "area": 0.0529,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 44",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0983,
+            "y": 0.3245,
+            "w": 0.3549,
+            "h": 0.149
+          },
+          "area": 0.0529,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0983,
+            "y": 0.3245,
+            "w": 0.3549,
+            "h": 0.149
+          },
+          "area": 0.0529,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 55",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5059,
+            "y": 0.3627,
+            "w": 0.3249,
+            "h": 0.1185
+          },
+          "area": 0.0385,
+          "text": "点击在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1437,
+            "y": 0.3587,
+            "w": 0.2959,
+            "h": 0.0895
+          },
+          "area": 0.0265,
+          "text": "简单来说,就是为公司的客户提供他们想要的服务,维护公司与客户之间的关系",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 46",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1437,
+            "y": 0.3587,
+            "w": 0.2959,
+            "h": 0.0895
+          },
+          "area": 0.0265,
+          "text": "引导客户消费公司的产品(服务),在客户使用产品(服务)的过程中提供有效的帮助和其他服务",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1437,
+            "y": 0.3587,
+            "w": 0.2959,
+            "h": 0.0895
+          },
+          "area": 0.0265,
+          "text": "满意的售后服务,最终完成产品(服务)的二次销售",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "岗位工作概述",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "工作汇报-22-动态-47fbc809-s09",
+      "title_guess": "Brief introduction of new employee induction train",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,top-right:4,middle-left:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 26,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2114,
+        "image_area": 0,
+        "shape_area": 0.6206,
+        "text_blob": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank 工作完成情况 PART FOUR 02",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 49",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0517,
+            "y": 0.25,
+            "w": 0.3907,
+            "h": 0.6945
+          },
+          "area": 0.2713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0166,
+            "y": 0.3491,
+            "w": 0.3109,
+            "h": 0.3952
+          },
+          "area": 0.1229,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0255,
+            "y": 0.5823,
+            "w": 0.1998,
+            "h": 0.3028
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8135,
+            "y": -0.0,
+            "w": 0.1865,
+            "h": 0.3246
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7641,
+            "y": -0.0707,
+            "w": 0.1393,
+            "h": 0.4025
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6443,
+            "y": -0.0897,
+            "w": 0.1287,
+            "h": 0.4225
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0605,
+            "y": 0.7246,
+            "w": 0.3999,
+            "h": 0.1033
+          },
+          "area": 0.0413,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9007,
+            "y": 0.15,
+            "w": 0.0993,
+            "h": 0.3057
+          },
+          "area": 0.0304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 45",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.8336,
+            "w": 0.4496,
+            "h": 0.0674
+          },
+          "area": 0.0303,
+          "text": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.07,
+            "y": 0.5729,
+            "w": 0.164,
+            "h": 0.1743
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "工作汇报-22-动态-47fbc809-s10",
+      "title_guess": "完成情况",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:4,top-center:3,middle-center:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 26,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 4,
+        "text_area": 0.2221,
+        "image_area": 0.2712,
+        "shape_area": 0,
+        "text_blob": "完成情况 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼 需求类别一 完成情况 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼 需求类别一 完成情况 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼 需求类别一 完成情况 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼 需求类别一 工作完成情况 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1142,
+            "y": 0.3117,
+            "w": 0.7964,
+            "h": 0.3405
+          },
+          "area": 0.2712,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.2608,
+            "h": 0.1301
+          },
+          "area": 0.0339,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.2608,
+            "h": 0.1301
+          },
+          "area": 0.0339,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.2608,
+            "h": 0.1301
+          },
+          "area": 0.0339,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.668,
+            "y": 0.3469,
+            "w": 0.2608,
+            "h": 0.1301
+          },
+          "area": 0.0339,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准点击输入简要文字解说解说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 32",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1742,
+            "y": 0.2814,
+            "w": 0.1223,
+            "h": 0.0615
+          },
+          "area": 0.0075,
+          "text": "完成情况",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 12",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5859,
+            "y": 0.2814,
+            "w": 0.1223,
+            "h": 0.0615
+          },
+          "area": 0.0075,
+          "text": "完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1742,
+            "y": 0.6235,
+            "w": 0.1223,
+            "h": 0.0615
+          },
+          "area": 0.0075,
+          "text": "完成情况",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 4,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "工作汇报-22-动态-47fbc809-s11",
+      "title_guess": "75%",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:6,top-center:2,bottom-center:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 26,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.1342,
+        "image_area": 0,
+        "shape_area": 0.3813,
+        "text_blob": "75% 重点生产数据 66% 科技技术含量 45% 市场饱和力度 82% 就业人员规划 如果你今天不努力,明天也不努力,那么你的人生只是在重复而已你要坚信每天叫醒你的不是闹钟,而是心中的梦想,新的一天开始了,你唯一应该努力去超越的人,是过去的自己。如果你今天不努力 项目完成情况及成果 打造尖端品质服务 工作完成情况 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0727,
+            "y": 0.4677,
+            "w": 0.858,
+            "h": 0.4444
+          },
+          "area": 0.3813,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "TextBox 14",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4337,
+            "y": 0.3444,
+            "w": 0.431,
+            "h": 0.1144
+          },
+          "area": 0.0493,
+          "text": "如果你今天不努力,明天也不努力,那么你的人生只是在重复而已你要坚信每天叫醒你的不是闹钟,而是心中的梦想,新的一天开始了,你唯一应该努力去超越的人,是过去的自己。如果你今天不努力",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图表 4",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1278,
+            "y": 0.5315,
+            "w": 0.1067,
+            "h": 0.1956
+          },
+          "area": 0.0209,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 12",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1278,
+            "y": 0.5315,
+            "w": 0.1067,
+            "h": 0.1956
+          },
+          "area": 0.0209,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 17",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1278,
+            "y": 0.5315,
+            "w": 0.1067,
+            "h": 0.1956
+          },
+          "area": 0.0209,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 22",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1278,
+            "y": 0.5315,
+            "w": 0.1067,
+            "h": 0.1956
+          },
+          "area": 0.0209,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 33",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 25",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1043,
+            "y": 0.3449,
+            "w": 0.2276,
+            "h": 0.0583
+          },
+          "area": 0.0133,
+          "text": "项目完成情况及成果",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 26",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1043,
+            "y": 0.3982,
+            "w": 0.2276,
+            "h": 0.0539
+          },
+          "area": 0.0123,
+          "text": "打造尖端品质服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "body": 1,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "工作汇报-22-动态-47fbc809-s12",
+      "title_guess": "与客户保持友好,职业的眼部接触",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:5,top-center:2,bottom-center:1",
+      "counts": {
+        "text": 20,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 26,
+        "text_count": 20,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.2037,
+        "image_area": 0.1812,
+        "shape_area": 0.25,
+        "text_blob": "与客户保持友好,职业的眼部接触 项目 01 保持热情,温和雅致的形象 数据 02 自然、亲切、舒缓 营销 03 让客户决定是否握手,握手时让大 拇指向外竖起接纳对方,并确保大拇指与食指 业务 04 保持身体再舒适的状态下直立,必要是轻微弯腰或点头之间的部分与对方接触 客户 05 握手后用双手把名片递给客户,每次都要给名片,直到客户记住你为止 管理 06 工作完成情况 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本占位符 6146",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0716,
+            "y": 1.0825,
+            "w": 0.9364,
+            "h": 0.267
+          },
+          "area": 0.25,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 3",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6621,
+            "y": 0.2354,
+            "w": 0.2257,
+            "h": 0.2675
+          },
+          "area": 0.0604,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3964,
+            "y": 0.2354,
+            "w": 0.2257,
+            "h": 0.2675
+          },
+          "area": 0.0604,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1306,
+            "y": 0.2354,
+            "w": 0.2257,
+            "h": 0.2675
+          },
+          "area": 0.0604,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 43",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7206,
+            "y": 0.3613,
+            "w": 0.175,
+            "h": 0.1257
+          },
+          "area": 0.022,
+          "text": "让客户决定是否握手,握手时让大 拇指向外竖起接纳对方,并确保大拇指与食指",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 47",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7206,
+            "y": 0.3613,
+            "w": 0.175,
+            "h": 0.1221
+          },
+          "area": 0.0214,
+          "text": "保持身体再舒适的状态下直立,必要是轻微弯腰或点头之间的部分与对方接触",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 51",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7206,
+            "y": 0.3613,
+            "w": 0.175,
+            "h": 0.1221
+          },
+          "area": 0.0214,
+          "text": "握手后用双手把名片递给客户,每次都要给名片,直到客户记住你为止",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 43",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7206,
+            "y": 0.3613,
+            "w": 0.175,
+            "h": 0.0847
+          },
+          "area": 0.0148,
+          "text": "与客户保持友好,职业的眼部接触",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 15
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "工作汇报-22-动态-47fbc809-s13",
+      "title_guess": "A.",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 26,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1369,
+        "image_area": 0,
+        "shape_area": 0.0391,
+        "text_blob": "A. 点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。 标题关键字 10% B. 点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。 标题关键字 15% C. 点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。 标题关键字 30% D. 点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。 标题关键字 55% 工作完成情况 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 35",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6112,
+            "y": 0.2683,
+            "w": 0.3402,
+            "h": 0.6402
+          },
+          "area": 0.2178,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 28",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 5",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1505,
+            "y": 0.3976,
+            "w": 0.1546,
+            "h": 0.1073
+          },
+          "area": 0.0166,
+          "text": "点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.427,
+            "y": 0.3976,
+            "w": 0.1546,
+            "h": 0.1073
+          },
+          "area": 0.0166,
+          "text": "点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 5",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1505,
+            "y": 0.7217,
+            "w": 0.1546,
+            "h": 0.1073
+          },
+          "area": 0.0166,
+          "text": "点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 5",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.427,
+            "y": 0.7217,
+            "w": 0.1546,
+            "h": 0.1073
+          },
+          "area": 0.0166,
+          "text": "点击输入简要文字内容,文字内容需概括精炼,不用多余的文字修饰,言简意赅的说明该项内容。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0677,
+            "y": 0.3328,
+            "w": 0.0639,
+            "h": 0.126
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形 44",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3442,
+            "y": 0.3328,
+            "w": 0.0639,
+            "h": 0.126
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形 49",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0677,
+            "y": 0.6569,
+            "w": 0.0639,
+            "h": 0.126
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 13,
+          "label": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "工作汇报-22-动态-47fbc809-s14",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,top-center:2,bottom-center:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 26,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1594,
+        "image_area": 0.1,
+        "shape_area": 1.5623,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字 重点项目介绍 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字 重点项目介绍 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字 重点项目介绍 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字 重点项目介绍 工作完成情况 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rectangle 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2899,
+            "w": 1.0,
+            "h": 0.7101
+          },
+          "area": 0.7101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2899,
+            "w": 1.0,
+            "h": 0.7101
+          },
+          "area": 0.7101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3642,
+            "y": 0.4214,
+            "w": 0.2788,
+            "h": 0.4957
+          },
+          "area": 0.1382,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3547,
+            "y": 0.4851,
+            "w": 0.2905,
+            "h": 0.3443
+          },
+          "area": 0.1,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0495,
+            "y": 0.4953,
+            "w": 0.2158,
+            "h": 0.1144
+          },
+          "area": 0.0247,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 9",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7273,
+            "y": 0.506,
+            "w": 0.2215,
+            "h": 0.1098
+          },
+          "area": 0.0243,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Rectangle 17",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7273,
+            "y": 0.7912,
+            "w": 0.2215,
+            "h": 0.1098
+          },
+          "area": 0.0243,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 14",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0482,
+            "y": 0.7912,
+            "w": 0.2184,
+            "h": 0.1098
+          },
+          "area": 0.024,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 22",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "工作汇报-22-动态-47fbc809-s15",
+      "title_guess": "Brief introduction of new employee induction train",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,top-right:4,middle-left:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 26,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2114,
+        "image_area": 0,
+        "shape_area": 0.6206,
+        "text_blob": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank 工作不足之处 PART THREE 03",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 49",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0517,
+            "y": 0.25,
+            "w": 0.3907,
+            "h": 0.6945
+          },
+          "area": 0.2713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0166,
+            "y": 0.3491,
+            "w": 0.3109,
+            "h": 0.3952
+          },
+          "area": 0.1229,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0255,
+            "y": 0.5823,
+            "w": 0.1998,
+            "h": 0.3028
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8135,
+            "y": -0.0,
+            "w": 0.1865,
+            "h": 0.3246
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7641,
+            "y": -0.0707,
+            "w": 0.1393,
+            "h": 0.4025
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6443,
+            "y": -0.0897,
+            "w": 0.1287,
+            "h": 0.4225
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0605,
+            "y": 0.7246,
+            "w": 0.3999,
+            "h": 0.1033
+          },
+          "area": 0.0413,
+          "text": "工作不足之处",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9007,
+            "y": 0.15,
+            "w": 0.0993,
+            "h": 0.3057
+          },
+          "area": 0.0304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 45",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.8336,
+            "w": 0.4496,
+            "h": 0.0674
+          },
+          "area": 0.0303,
+          "text": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.07,
+            "y": 0.5729,
+            "w": 0.164,
+            "h": 0.1743
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "工作汇报-22-动态-47fbc809-s16",
+      "title_guess": "2018年劳动监察年检、申报社会保险缴费基数; 每月参保下保业务办理、各类保险金额的统计请款、补扣2",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:8,top-center:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 26,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.1299,
+        "image_area": 0,
+        "shape_area": 0.657,
+        "text_blob": "2018年劳动监察年检、申报社会保险缴费基数; 每月参保下保业务办理、各类保险金额的统计请款、补扣2018养老、失业等应补交金额 专业不足 绩效调薪、工龄工资调整; 年度工资调整; 拟定、核发特殊岗位津贴 认知不足 建立薪资、社保统计数据库等人力资源专项统计数据库 管理不足 工作不足之处 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆: 空心 22",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0807,
+            "y": 0.4638,
+            "w": 0.2833,
+            "h": 0.5037
+          },
+          "area": 0.1427,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 25",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0807,
+            "y": 0.4638,
+            "w": 0.2833,
+            "h": 0.5037
+          },
+          "area": 0.1427,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆: 空心 28",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0807,
+            "y": 0.4638,
+            "w": 0.2833,
+            "h": 0.5037
+          },
+          "area": 0.1427,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 23",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1188,
+            "y": 0.5315,
+            "w": 0.2071,
+            "h": 0.3682
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1188,
+            "y": 0.5315,
+            "w": 0.2071,
+            "h": 0.3682
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 29",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1188,
+            "y": 0.5315,
+            "w": 0.2071,
+            "h": 0.3682
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 34",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.033,
+            "y": 0.7963,
+            "w": 0.2743,
+            "h": 0.1011
+          },
+          "area": 0.0277,
+          "text": "绩效调薪、工龄工资调整; 年度工资调整; 拟定、核发特殊岗位津贴",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 31",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0377,
+            "y": 0.7963,
+            "w": 0.2648,
+            "h": 0.1011
+          },
+          "area": 0.0268,
+          "text": "2018年劳动监察年检、申报社会保险缴费基数; 每月参保下保业务办理、各类保险金额的统计请款、补扣2018养老、失业等应补交金额",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 40",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2539,
+            "y": 0.0639,
+            "w": 0.2247,
+            "h": 0.0853
+          },
+          "area": 0.0192,
+          "text": "工作不足之处",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 41",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "footer": 5,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "工作汇报-22-动态-47fbc809-s17",
+      "title_guess": "管理不够",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,top-center:2,bottom-center:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 26,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 0,
+        "text_area": 0.2615,
+        "image_area": 0,
+        "shape_area": 0.0909,
+        "text_blob": "管理不够 您的内容打在这或者通过复制您的文本后在此框中选择粘贴 认知不足 您的内容打在这或者通过复制您的文本后在此框中选择粘贴 四大服务 您的内容打在这或者通过复制您的文本后在此框中选择粘贴 培训不足 您的内容打在这或者通过复制您的文本后在此框中选择粘贴 管理不足 您的内容打在这或者通过复制您的文本后在此框中选择粘贴 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准 工作不足之处 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 43",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1092,
+            "y": 0.3134,
+            "w": 0.7799,
+            "h": 0.2027
+          },
+          "area": 0.1581,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.279,
+            "y": 0.3893,
+            "w": 0.153,
+            "h": 0.384
+          },
+          "area": 0.0588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 45",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作不足之处",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2855,
+            "y": 0.6221,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "管理不够",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 23",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2855,
+            "y": 0.6221,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "认知不足",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2855,
+            "y": 0.6221,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "四大服务",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 35",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2855,
+            "y": 0.6221,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "培训不足",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 41",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2855,
+            "y": 0.6221,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "管理不足",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 40",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2883,
+            "y": 0.6733,
+            "w": 0.1343,
+            "h": 0.0507
+          },
+          "area": 0.0068,
+          "text": "您的内容打在这或者通过复制您的文本后在此框中选择粘贴",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "body": 1,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "工作汇报-22-动态-47fbc809-s18",
+      "title_guess": "通过管理认知提升人员意识:",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:2,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 26,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 1,
+        "text_area": 0.147,
+        "image_area": 0.0989,
+        "shape_area": 0.3551,
+        "text_blob": "通过管理认知提升人员意识: 01 客户对公司产品(服务)是否满意? 02 如果不满意,问题出在什么地方? 03 如果是产品(服务),应该怎样让客户满意? 04 应该将客户意见递交到哪个部门? 只有有了“客户满意度”这个数据,才能更好的去完成客户服务工作。 管理措施 工作不足之处 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本占位符 6146",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.1372,
+            "y": 0.9969,
+            "w": 0.505,
+            "h": 0.3777
+          },
+          "area": 0.1907,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 47",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5668,
+            "y": 0.3086,
+            "w": 0.3747,
+            "h": 0.264
+          },
+          "area": 0.0989,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 41",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0816,
+            "y": 0.7037,
+            "w": 0.1812,
+            "h": 0.2102
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3079,
+            "y": 0.7037,
+            "w": 0.1812,
+            "h": 0.2102
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5341,
+            "y": 0.7037,
+            "w": 0.1812,
+            "h": 0.2102
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 44",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7604,
+            "y": 0.7037,
+            "w": 0.1812,
+            "h": 0.2102
+          },
+          "area": 0.0381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 55",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0806,
+            "y": 0.4077,
+            "w": 0.3238,
+            "h": 0.09
+          },
+          "area": 0.0291,
+          "text": "只有有了“客户满意度”这个数据,才能更好的去完成客户服务工作。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作不足之处",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 50",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0737,
+            "y": 0.563,
+            "w": 0.294,
+            "h": 0.0583
+          },
+          "area": 0.0171,
+          "text": "通过管理认知提升人员意识:",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "工作汇报-22-动态-47fbc809-s19",
+      "title_guess": "加强管理",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:2,top-center:2,middle-left:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 36,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 26,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 36,
+        "connector_count": 0,
+        "text_area": 0.299,
+        "image_area": 0,
+        "shape_area": 0.4702,
+        "text_blob": "加强管理 提升专业 营销管理 技术指标 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。 项目业务拓展的标准 工作不足之处 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 10",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0148,
+            "y": 0.5951,
+            "w": 0.9701,
+            "h": 0.4087
+          },
+          "area": 0.3965,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 54",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1396,
+            "y": 0.7253,
+            "w": 0.7799,
+            "h": 0.2888
+          },
+          "area": 0.2252,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 62",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "工作不足之处",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 63",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 46",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1437,
+            "y": 0.2919,
+            "w": 0.0938,
+            "h": 0.1667
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 47",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.353,
+            "y": 0.2919,
+            "w": 0.0938,
+            "h": 0.1667
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 48",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5622,
+            "y": 0.2919,
+            "w": 0.0938,
+            "h": 0.1667
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 49",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7714,
+            "y": 0.2919,
+            "w": 0.0938,
+            "h": 0.1667
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 55",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.6589,
+            "w": 0.1855,
+            "h": 0.0609
+          },
+          "area": 0.0113,
+          "text": "项目业务拓展的标准",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 50",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1199,
+            "y": 0.4796,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "加强管理",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "工作汇报-22-动态-47fbc809-s20",
+      "title_guess": "Brief introduction of new employee induction train",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,top-right:4,middle-left:2",
+      "counts": {
+        "text": 4,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 26,
+        "text_count": 4,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2114,
+        "image_area": 0,
+        "shape_area": 0.6206,
+        "text_blob": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank 未来工作计划 PART FOUR 04",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 49",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0517,
+            "y": 0.25,
+            "w": 0.3907,
+            "h": 0.6945
+          },
+          "area": 0.2713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0166,
+            "y": 0.3491,
+            "w": 0.3109,
+            "h": 0.3952
+          },
+          "area": 0.1229,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0255,
+            "y": 0.5823,
+            "w": 0.1998,
+            "h": 0.3028
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8135,
+            "y": -0.0,
+            "w": 0.1865,
+            "h": 0.3246
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7641,
+            "y": -0.0707,
+            "w": 0.1393,
+            "h": 0.4025
+          },
+          "area": 0.0561,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6443,
+            "y": -0.0897,
+            "w": 0.1287,
+            "h": 0.4225
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0605,
+            "y": 0.7246,
+            "w": 0.3999,
+            "h": 0.1033
+          },
+          "area": 0.0413,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9007,
+            "y": 0.15,
+            "w": 0.0993,
+            "h": 0.3057
+          },
+          "area": 0.0304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 45",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0662,
+            "y": 0.8336,
+            "w": 0.4496,
+            "h": 0.0674
+          },
+          "area": 0.0303,
+          "text": "Brief introduction of new employee induction training enterprise and business process of business finance insurance bank",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.07,
+            "y": 0.5729,
+            "w": 0.164,
+            "h": 0.1743
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "工作汇报-22-动态-47fbc809-s21",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-left:4,middle-left:3,top-center:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 26,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 4,
+        "text_area": 0.3433,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念 重点价值 01 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念 工作计划 02 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念 项目难点 03 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念 规划展望 04 点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准 未来工作计划 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 26",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1092,
+            "y": 0.2804,
+            "w": 0.7799,
+            "h": 0.2154
+          },
+          "area": 0.168,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,不用多余的",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.13,
+            "y": 0.5978,
+            "w": 0.1476,
+            "h": 0.1481
+          },
+          "area": 0.0219,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.13,
+            "y": 0.5978,
+            "w": 0.1476,
+            "h": 0.1481
+          },
+          "area": 0.0219,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.13,
+            "y": 0.5978,
+            "w": 0.1476,
+            "h": 0.1481
+          },
+          "area": 0.0219,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.13,
+            "y": 0.5978,
+            "w": 0.1476,
+            "h": 0.1481
+          },
+          "area": 0.0219,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 28",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1302,
+            "y": 0.3428,
+            "w": 0.0646,
+            "h": 0.1188
+          },
+          "area": 0.0077,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1302,
+            "y": 0.3428,
+            "w": 0.0646,
+            "h": 0.1188
+          },
+          "area": 0.0077,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 19",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1302,
+            "y": 0.3428,
+            "w": 0.0646,
+            "h": 0.1188
+          },
+          "area": 0.0077,
+          "text": "03",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 13,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "工作汇报-22-动态-47fbc809-s22",
+      "title_guess": "未来工作计划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 26,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 4,
+        "text_area": 0.2373,
+        "image_area": 0,
+        "shape_area": 0.0534,
+        "text_blob": "未来工作计划 用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片 阶段工作挑战 业务管理培训 用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片 阶段工作挑战 市场营销管理 用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片 阶段工作挑战 团队合作培训 用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片 阶段工作挑战 未来工作计划 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.063,
+            "y": 0.5123,
+            "w": 0.1544,
+            "h": 0.2154
+          },
+          "area": 0.0333,
+          "text": "用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.305,
+            "y": 0.5123,
+            "w": 0.1544,
+            "h": 0.2154
+          },
+          "area": 0.0333,
+          "text": "用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5465,
+            "y": 0.5123,
+            "w": 0.1544,
+            "h": 0.2154
+          },
+          "area": 0.0333,
+          "text": "用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7886,
+            "y": 0.5123,
+            "w": 0.1544,
+            "h": 0.2154
+          },
+          "area": 0.0333,
+          "text": "用户可以在 投影仪或者计 算机上进行演示也可 以将演示文 稿打印出来制 作成胶片",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 45",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1,
+            "y": 0.7344,
+            "w": 0.1607,
+            "h": 0.0593
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 9",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1,
+            "y": 0.7344,
+            "w": 0.1607,
+            "h": 0.0593
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1,
+            "y": 0.7344,
+            "w": 0.1607,
+            "h": 0.0593
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1,
+            "y": 0.7344,
+            "w": 0.1607,
+            "h": 0.0593
+          },
+          "area": 0.0095,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "body": 4,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "工作汇报-22-动态-47fbc809-s23",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,middle-left:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 26,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.1685,
+        "image_area": 0,
+        "shape_area": 0.1012,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼, 企业重点价值 科学重点 科学重点 科学重点 重点价值观 生产力提升 企业文化标准 人群消费 产品模式 未来工作计划 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0886,
+            "y": 0.4643,
+            "w": 0.2352,
+            "h": 0.4303
+          },
+          "area": 0.1012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3556,
+            "y": 0.5733,
+            "w": 0.5762,
+            "h": 0.1413
+          },
+          "area": 0.0814,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3546,
+            "y": 0.5023,
+            "w": 0.1287,
+            "h": 0.0609
+          },
+          "area": 0.0078,
+          "text": "企业重点价值",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.3457,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "重点价值观",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2557,
+            "y": 0.3457,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "生产力提升",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4352,
+            "y": 0.3457,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "企业文化标准",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6148,
+            "y": 0.3457,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "人群消费",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7943,
+            "y": 0.3457,
+            "w": 0.1401,
+            "h": 0.0494
+          },
+          "area": 0.0069,
+          "text": "产品模式",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 2,
+          "footer": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "工作汇报-22-动态-47fbc809-s24",
+      "title_guess": "单击此处添加简短说明,添加简短文字,具体文字添加此处。",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 26,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1242,
+        "image_area": 0,
+        "shape_area": 0.0755,
+        "text_blob": "单击此处添加简短说明,添加简短文字,具体文字添加此处。 团队协作能力强 单击此处添加简短说明,添加简短文字,具体文字添加此处。 操作方式科学 单击此处添加简短说明,添加简短文字,具体文字添加此处。 资金准备充足 单击此处添加简短说明,添加简短文字,具体文字添加此处。 主要任务 单击此处添加简短说明,添加简短文字,具体文字添加此处。 时间进度 单击此处添加简短说明,添加简短文字,具体文字添加此处。 效益预测 未来工作计划 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 32",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 41",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.6732,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 42",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3777,
+            "y": 0.6732,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 43",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6745,
+            "y": 0.6726,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 38",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.382,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 39",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3777,
+            "y": 0.382,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 40",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6745,
+            "y": 0.3814,
+            "w": 0.073,
+            "h": 0.144
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 13",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.172,
+            "y": 0.4245,
+            "w": 0.1615,
+            "h": 0.0634
+          },
+          "area": 0.0102,
+          "text": "单击此处添加简短说明,添加简短文字,具体文字添加此处。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 13",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4756,
+            "y": 0.7208,
+            "w": 0.1606,
+            "h": 0.0634
+          },
+          "area": 0.0102,
+          "text": "单击此处添加简短说明,添加简短文字,具体文字添加此处。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "claim": 6,
+          "footer": 7,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "工作汇报-22-动态-47fbc809-s25",
+      "title_guess": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:3,middle-center:3,top-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 26,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.256,
+        "image_area": 0,
+        "shape_area": 0.101,
+        "text_blob": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼, 点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼 01 / 重点未来的走势 点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼 02 / 科技兴农的发展步骤 点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼 03 / 重点产品成熟化 未来工作计划 Financial industry investment return analysis marketing report",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0659,
+            "y": 0.299,
+            "w": 0.4,
+            "h": 0.2525
+          },
+          "area": 0.101,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0579,
+            "y": 0.6019,
+            "w": 0.408,
+            "h": 0.2289
+          },
+          "area": 0.0934,
+          "text": "点击输入简要文字解说,解说文字尽量概括精炼,不用多余的文字修饰简洁精准的 解说所提炼的核心概念。点击输入简要文字解说说文字尽量概括精炼,不用多余的文字修饰洁精准的 解说所提炼的核心概念。点击输入简要文字解说,解说文字尽量概括精炼,",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.534,
+            "y": 0.3761,
+            "w": 0.3842,
+            "h": 0.0768
+          },
+          "area": 0.0295,
+          "text": "点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.534,
+            "y": 0.3761,
+            "w": 0.3842,
+            "h": 0.0768
+          },
+          "area": 0.0295,
+          "text": "点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.534,
+            "y": 0.3761,
+            "w": 0.3842,
+            "h": 0.0768
+          },
+          "area": 0.0295,
+          "text": "点击输入简要文字解说解说文字尽量概不用多余的文字修饰简洁精准的 解说所提炼的核心概念点击输入简要文字解说说文字尽量概括精炼",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2578,
+            "y": 0.0639,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "未来工作计划",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1425,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4853,
+            "y": 0.3071,
+            "w": 0.2405,
+            "h": 0.0609
+          },
+          "area": 0.0146,
+          "text": "02 / 科技兴农的发展步骤",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4853,
+            "y": 0.3071,
+            "w": 0.2026,
+            "h": 0.0609
+          },
+          "area": 0.0123,
+          "text": "01 / 重点未来的走势",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4853,
+            "y": 0.3071,
+            "w": 0.2026,
+            "h": 0.0609
+          },
+          "area": 0.0123,
+          "text": "03 / 重点产品成熟化",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 4,
+          "label": 4,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "工作汇报-22-动态-47fbc809-s26",
+      "title_guess": "谢谢观看",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-right:6,middle-left:1,middle-center:1",
+      "counts": {
+        "text": 2,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 26,
+        "text_count": 2,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.1783,
+        "image_area": 0,
+        "shape_area": 0.1656,
+        "text_blob": "谢谢观看 THANK YOU",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0129,
+            "y": 0.317,
+            "w": 0.5678,
+            "h": 0.1814
+          },
+          "area": 0.103,
+          "text": "THANK YOU",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0752,
+            "y": 0.4927,
+            "w": 0.5594,
+            "h": 0.1346
+          },
+          "area": 0.0753,
+          "text": "谢谢观看",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 26",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8861,
+            "y": 0.0016,
+            "w": 0.1154,
+            "h": 0.3822
+          },
+          "area": 0.0441,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8925,
+            "y": 0.0334,
+            "w": 0.0798,
+            "h": 0.3495
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8242,
+            "y": 0.2247,
+            "w": 0.1481,
+            "h": 0.1671
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7189,
+            "y": 0.164,
+            "w": 0.1396,
+            "h": 0.173
+          },
+          "area": 0.0242,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "等腰三角形 37",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9036,
+            "y": -0.0,
+            "w": 0.0964,
+            "h": 0.2026
+          },
+          "area": 0.0195,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.638,
+            "y": 0.1096,
+            "w": 0.0894,
+            "h": 0.1151
+          },
+          "area": 0.0103,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.641,
+            "y": 0.2851,
+            "w": 0.0689,
+            "h": 0.126
+          },
+          "area": 0.0087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "等腰三角形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7603,
+            "y": 0.63,
+            "w": 0.0381,
+            "h": 0.0877
+          },
+          "area": 0.0033,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 26,
+    "layout_job_counts": {
+      "limitations-future": 11,
+      "process-strip": 4,
+      "flow-diagram": 2,
+      "kpi-grid": 2,
+      "two-column": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "claim-evidence": 1,
+      "table": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 17,
+      "text": 4,
+      "mixed": 2,
+      "chart": 2,
+      "image": 1
+    },
+    "density_counts": {
+      "medium-high": 15,
+      "medium": 9,
+      "high": 2
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "process-strip",
+      "flow-diagram",
+      "kpi-grid",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "mixed"
+    ]
+  }
+}

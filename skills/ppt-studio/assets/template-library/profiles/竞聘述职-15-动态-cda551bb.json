@@ -1,0 +1,6923 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:29.630235+00:00",
+  "template_id": "竞聘述职-15-动态-cda551bb",
+  "template_profile_path": "assets/template-library/profiles/竞聘述职-15-动态-cda551bb.json",
+  "source_template": {
+    "name": "竞聘述职(15)—动态.pptx",
+    "category": "竞聘述职（2套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/竞聘述职（2套）/竞聘述职(15)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 32,
+    "media_count": 14,
+    "image_media_count": 13,
+    "motion_hint": "dynamic",
+    "tags": [
+      "竞聘述职",
+      "竞聘",
+      "述职",
+      "个人总结",
+      "封面",
+      "履历",
+      "工作成果",
+      "优势",
+      "展望",
+      "稳重",
+      "个人汇报",
+      "清晰",
+      "正式",
+      "个人照片",
+      "成果图",
+      "数据图",
+      "要点式",
+      "自我陈述",
+      "结果摘要",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "竞聘述职",
+    "scenario": [
+      "竞聘",
+      "述职",
+      "个人总结"
+    ],
+    "best_for": [
+      "竞聘汇报",
+      "述职答辩",
+      "晋升展示"
+    ],
+    "avoid": [
+      "品牌宣传",
+      "活动庆典"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "履历",
+      "成果",
+      "优势",
+      "展望"
+    ],
+    "visual": [
+      "稳重",
+      "个人汇报",
+      "清晰",
+      "正式"
+    ],
+    "image_strategy": [
+      "个人照片",
+      "成果图",
+      "数据图"
+    ],
+    "text_strategy": [
+      "要点式",
+      "自我陈述",
+      "结果摘要"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "claim-evidence",
+      "table",
+      "limitations-future",
+      "matrix-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "image"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "footer",
+      "body",
+      "image",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "middle-right",
+      "top-left",
+      "bottom-left",
+      "bottom-center"
+    ],
+    "template_text_signature": "岗位竞聘报告 CONTENTS 01 人之所以能,是相信能 ! Summary and report of atmospheric simple creative Summary and report of atmospheric simple creative 设计总监 Summary and report of atmospheric simple creative Summary and report of atmospheric simple creative 生命在",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s01",
+      "title_guess": "岗位竞聘报告",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 0,
+        "text_area": 0.199,
+        "image_area": 0,
+        "shape_area": 0.3543,
+        "text_blob": "竞聘人:某某某 时间:202X年.6月 LOGO 公司名称 岗位竞聘报告 岗位竞聘 | 工作汇报 | 岗位晋升 | 述职报告 POST COMPETITION REPORT Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6149,
+            "y": 0.2737,
+            "w": 0.2656,
+            "h": 0.4722
+          },
+          "area": 0.1254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6351,
+            "y": 0.3095,
+            "w": 0.2254,
+            "h": 0.4006
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 19",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0452,
+            "y": 0.3695,
+            "w": 0.4695,
+            "h": 0.175
+          },
+          "area": 0.0822,
+          "text": "岗位竞聘报告",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6432,
+            "y": 0.3239,
+            "w": 0.2091,
+            "h": 0.3718
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 22",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0547,
+            "y": 0.6201,
+            "w": 0.4756,
+            "h": 0.101
+          },
+          "area": 0.048,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 30",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9088,
+            "y": -0.0913,
+            "w": 0.1294,
+            "h": 0.23
+          },
+          "area": 0.0298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0504,
+            "y": 0.2969,
+            "w": 0.3748,
+            "h": 0.0763
+          },
+          "area": 0.0286,
+          "text": "POST COMPETITION REPORT",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0494,
+            "y": 0.5549,
+            "w": 0.3924,
+            "h": 0.0539
+          },
+          "area": 0.0212,
+          "text": "岗位竞聘 | 工作汇报 | 岗位晋升 | 述职报告",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.6256,
+            "y": 0.794,
+            "w": 0.0596,
+            "h": 0.106
+          },
+          "area": 0.0063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 10",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5473,
+            "y": 0.6912,
+            "w": 0.143,
+            "h": 0.0404
+          },
+          "area": 0.0058,
+          "text": "时间:202X年.6月",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 1,
+          "title": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "limitations-future",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:6,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 32,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.1842,
+        "image_area": 0,
+        "shape_area": 0.2226,
+        "text_blob": "CONTENTS 01 Summary and report of atmospheric simple creative work ppt 我的个人简介 02 Summary and report of atmospheric simple creative work ppt 岗位工作成效 03 Summary and report of atmospheric simple creative work ppt 工作履职能力 04 Summary and report of atmospheric simple creative work ppt 未来规划展望",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 82",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6149,
+            "y": 0.2737,
+            "w": 0.2656,
+            "h": 0.4722
+          },
+          "area": 0.1254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 83",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6315,
+            "y": 0.3032,
+            "w": 0.2324,
+            "h": 0.4131
+          },
+          "area": 0.096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 19",
+          "role": "section_label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3351,
+            "y": 0.0977,
+            "w": 0.3333,
+            "h": 0.0696
+          },
+          "area": 0.0232,
+          "text": "CONTENTS",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 25",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5804,
+            "y": 0.3144,
+            "w": 0.2146,
+            "h": 0.069
+          },
+          "area": 0.0148,
+          "text": "Summary and report of atmospheric simple creative work ppt",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 68",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5804,
+            "y": 0.3144,
+            "w": 0.2146,
+            "h": 0.069
+          },
+          "area": 0.0148,
+          "text": "Summary and report of atmospheric simple creative work ppt",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 88",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5804,
+            "y": 0.3144,
+            "w": 0.2146,
+            "h": 0.069
+          },
+          "area": 0.0148,
+          "text": "Summary and report of atmospheric simple creative work ppt",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 93",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5804,
+            "y": 0.3144,
+            "w": 0.2146,
+            "h": 0.069
+          },
+          "area": 0.0148,
+          "text": "Summary and report of atmospheric simple creative work ppt",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 43",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3314,
+            "y": 0.6083,
+            "w": 0.09,
+            "h": 0.16
+          },
+          "area": 0.0144,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 91",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3314,
+            "y": 0.6083,
+            "w": 0.09,
+            "h": 0.16
+          },
+          "area": 0.0144,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 40",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1023,
+            "y": 0.4942,
+            "w": 0.0892,
+            "h": 0.1585
+          },
+          "area": 0.0141,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 1,
+          "label": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s03",
+      "title_guess": "01",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.1571,
+        "image_area": 0,
+        "shape_area": 0.028,
+        "text_blob": "01 我的个人简介 Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report 个人简历 文化程度 专业介绍 学习成长 PART ONE",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 39",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2429,
+            "y": 0.3642,
+            "w": 0.1634,
+            "h": 0.2905
+          },
+          "area": 0.0475,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4992,
+            "y": 0.5208,
+            "w": 0.4423,
+            "h": 0.101
+          },
+          "area": 0.0447,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4922,
+            "y": 0.4086,
+            "w": 0.3197,
+            "h": 0.1212
+          },
+          "area": 0.0387,
+          "text": "我的个人简介",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 45",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1202,
+            "y": 0.1854,
+            "w": 0.0987,
+            "h": 0.1754
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 60",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4974,
+            "y": 0.354,
+            "w": 0.1389,
+            "h": 0.0673
+          },
+          "area": 0.0093,
+          "text": "PART ONE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2971,
+            "y": 0.7687,
+            "w": 0.0585,
+            "h": 0.104
+          },
+          "area": 0.0061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7038,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "专业介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7914,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "学习成长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3585,
+            "y": 0.205,
+            "w": 0.046,
+            "h": 0.0817
+          },
+          "area": 0.0038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5129,
+            "y": 0.6304,
+            "w": 0.0911,
+            "h": 0.0404
+          },
+          "area": 0.0037,
+          "text": "个人简历",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s04",
+      "title_guess": "人之所以能,是相信能 !",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,middle-left:3,middle-right:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 32,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1029,
+        "image_area": 0.3834,
+        "shape_area": 1.3076,
+        "text_blob": "人之所以能,是相信能 ! Workplace Quotes 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 竞聘宣言:",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0536,
+            "y": 0.1231,
+            "w": 0.8942,
+            "h": 0.756
+          },
+          "area": 0.676,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0635,
+            "y": 0.1392,
+            "w": 0.8728,
+            "h": 0.722
+          },
+          "area": 0.6302,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5636,
+            "y": 0.0,
+            "w": 0.3834,
+            "h": 1.0
+          },
+          "area": 0.3834,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 6",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1197,
+            "y": 0.5204,
+            "w": 0.2922,
+            "h": 0.1818
+          },
+          "area": 0.0531,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1186,
+            "y": 0.358,
+            "w": 0.3957,
+            "h": 0.0763
+          },
+          "area": 0.0302,
+          "text": "人之所以能,是相信能 !",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 5",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1209,
+            "y": 0.4361,
+            "w": 0.2502,
+            "h": 0.0449
+          },
+          "area": 0.0112,
+          "text": "Workplace Quotes",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 15",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1207,
+            "y": 0.2846,
+            "w": 0.1436,
+            "h": 0.0583
+          },
+          "area": 0.0084,
+          "text": "竞聘宣言:",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.586,
+            "y": 0.2053,
+            "w": 0.0253,
+            "h": 0.0451
+          },
+          "area": 0.0011,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.6527,
+            "y": 0.3749,
+            "w": 0.0113,
+            "h": 0.0201
+          },
+          "area": 0.0002,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5713,
+            "y": 0.5518,
+            "w": 0.0082,
+            "h": 0.0146
+          },
+          "area": 0.0001,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s05",
+      "title_guess": "Summary and report of atmospheric simple creative ",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:5,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 32,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.3592,
+        "image_area": 0,
+        "shape_area": 0.8244,
+        "text_blob": "Summary and report of atmospheric simple creative work 我的基本资料 姓名:某某某 性别:男 名族:汉族 学历:本科 升高:178cm 婚姻:未婚 政治面貌:党员 QQ号码:45651658 电话手机:15964885623 电子邮箱:www.agfrd15130.com 地址:湖北省武汉市开发区发展大道国际中心888号 人生伟业的建立,不在能知,乃在能行 I can do",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5923,
+            "y": 0.0,
+            "w": 0.4077,
+            "h": 1.0
+          },
+          "area": 0.4077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1237,
+            "y": 0.2367,
+            "w": 0.3966,
+            "h": 0.7459
+          },
+          "area": 0.2958,
+          "text": "姓名:某某某 性别:男 名族:汉族 学历:本科 升高:178cm 婚姻:未婚 政治面貌:党员 QQ号码:45651658 电话手机:15964885623 电子邮箱:www.agfrd15130.com 地址:湖北省武汉市开发区发展大道国际",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "弧形 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6746,
+            "y": 0.1972,
+            "w": 0.2517,
+            "h": 0.4474
+          },
+          "area": 0.1126,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 41",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6746,
+            "y": 0.1972,
+            "w": 0.2517,
+            "h": 0.4474
+          },
+          "area": 0.1126,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 42",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6746,
+            "y": 0.1972,
+            "w": 0.2517,
+            "h": 0.4474
+          },
+          "area": 0.1126,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6951,
+            "y": 0.2336,
+            "w": 0.2107,
+            "h": 0.3745
+          },
+          "area": 0.0789,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 45",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6043,
+            "y": 0.7631,
+            "w": 0.3957,
+            "h": 0.0583
+          },
+          "area": 0.0231,
+          "text": "I can do",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 44",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6043,
+            "y": 0.6994,
+            "w": 0.3957,
+            "h": 0.0494
+          },
+          "area": 0.0195,
+          "text": "人生伟业的建立,不在能知,乃在能行",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "我的基本资料",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 28",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s06",
+      "title_guess": "Summary and report of atmospheric simple creative ",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:7,middle-center:3",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 32,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 5,
+        "text_area": 0.2003,
+        "image_area": 0,
+        "shape_area": 0.1576,
+        "text_blob": "Summary and report of atmospheric simple creative work 我的岗位履历 某某网络公司 您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这 某某网络公司 您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这 某某网络公司 您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这 某某网络公司 您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这 某某网络公司 您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这 202X.01 202X.02 202X.03 202X.05 202X.06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5484,
+            "w": 1.0,
+            "h": 0.0906
+          },
+          "area": 0.0906,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1972,
+            "y": 0.3654,
+            "w": 0.1948,
+            "h": 0.1113
+          },
+          "area": 0.0217,
+          "text": "您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1972,
+            "y": 0.3654,
+            "w": 0.1948,
+            "h": 0.1113
+          },
+          "area": 0.0217,
+          "text": "您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1972,
+            "y": 0.3654,
+            "w": 0.1948,
+            "h": 0.1113
+          },
+          "area": 0.0217,
+          "text": "您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1972,
+            "y": 0.3654,
+            "w": 0.1948,
+            "h": 0.1113
+          },
+          "area": 0.0217,
+          "text": "您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1972,
+            "y": 0.3654,
+            "w": 0.1948,
+            "h": 0.1113
+          },
+          "area": 0.0217,
+          "text": "您的内容打在这里或者通过复 制您的文本后在此框中选择粘贴并选择只保留内容打在这",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0978,
+            "y": 0.5484,
+            "w": 0.148,
+            "h": 0.0906
+          },
+          "area": 0.0134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2504,
+            "y": 0.5484,
+            "w": 0.148,
+            "h": 0.0906
+          },
+          "area": 0.0134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "平行四边形 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4029,
+            "y": 0.5484,
+            "w": 0.148,
+            "h": 0.0906
+          },
+          "area": 0.0134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5555,
+            "y": 0.5484,
+            "w": 0.148,
+            "h": 0.0906
+          },
+          "area": 0.0134,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s07",
+      "title_guess": "设计总监",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:8,bottom-left:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 32,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 8,
+        "text_area": 0.1864,
+        "image_area": 0,
+        "shape_area": 0.5256,
+        "text_blob": "设计总监 Making a resume 简洁精准的 解说所提炼的核心概念点击输入简要文字解说 艺术总监 Making a resume 简洁精准的 解说所提炼的核心概念点击输入简要文字解说 网络设计师 Making a resume 简洁精准的 解说所提炼的核心概念点击输入简要文字解说 项目经理 Making a resume 简洁精准的 解说所提炼的核心概念点击输入简要文字解说 Summary and report of atmospheric simple creative work 职场岗位经验 5年 2年 3年 1年",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Rounded Rectangle 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0681,
+            "y": 0.299,
+            "w": 0.1959,
+            "h": 0.5802
+          },
+          "area": 0.1137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rounded Rectangle 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0681,
+            "y": 0.299,
+            "w": 0.1959,
+            "h": 0.5802
+          },
+          "area": 0.1137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rounded Rectangle 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0681,
+            "y": 0.299,
+            "w": 0.1959,
+            "h": 0.5802
+          },
+          "area": 0.1137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Rounded Rectangle 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0681,
+            "y": 0.299,
+            "w": 0.1959,
+            "h": 0.5802
+          },
+          "area": 0.1137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1272,
+            "y": 0.3142,
+            "w": 0.0997,
+            "h": 0.1773
+          },
+          "area": 0.0177,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 68",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1272,
+            "y": 0.3142,
+            "w": 0.0997,
+            "h": 0.1773
+          },
+          "area": 0.0177,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 77",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1272,
+            "y": 0.3142,
+            "w": 0.0997,
+            "h": 0.1773
+          },
+          "area": 0.0177,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 86",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1272,
+            "y": 0.3142,
+            "w": 0.0997,
+            "h": 0.1773
+          },
+          "area": 0.0177,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Title 3",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0822,
+            "y": 0.7604,
+            "w": 0.169,
+            "h": 0.0805
+          },
+          "area": 0.0136,
+          "text": "简洁精准的 解说所提炼的核心概念点击输入简要文字解说",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Title 3",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0822,
+            "y": 0.7604,
+            "w": 0.169,
+            "h": 0.0805
+          },
+          "area": 0.0136,
+          "text": "简洁精准的 解说所提炼的核心概念点击输入简要文字解说",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s08",
+      "title_guess": "Summary and report of atmospheric simple creative ",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:8,bottom-left:2",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1548,
+        "image_area": 0.272,
+        "shape_area": 0.2952,
+        "text_blob": "Summary and report of atmospheric simple creative work 我的荣誉证书 年度优秀设计师 您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这 年度优秀设计师 您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这 年度优秀设计师 您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这 年度优秀设计师 您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1458,
+            "y": 0.2717,
+            "w": 0.1726,
+            "h": 0.4277
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1458,
+            "y": 0.2717,
+            "w": 0.1726,
+            "h": 0.4277
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 38",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1458,
+            "y": 0.2717,
+            "w": 0.1726,
+            "h": 0.4277
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 44",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1458,
+            "y": 0.2717,
+            "w": 0.1726,
+            "h": 0.4277
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.3117,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 33",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.3117,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 39",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.3117,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 45",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.3117,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "TextBox 503",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0556,
+            "y": 0.8064,
+            "w": 0.2061,
+            "h": 0.1144
+          },
+          "area": 0.0236,
+          "text": "您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 503",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0556,
+            "y": 0.8064,
+            "w": 0.2061,
+            "h": 0.1144
+          },
+          "area": 0.0236,
+          "text": "您的内容打在这里或者通过复制您的文本后在此框中选择粘贴尽可能简介扼要主题明确。您的内容打在这",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 9
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s09",
+      "title_guess": "Summary and report of atmospheric simple creative ",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:6,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 32,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2175,
+        "image_area": 0,
+        "shape_area": 0.1464,
+        "text_blob": "Summary and report of atmospheric simple creative work 我的语言能力 汉语 精通力强 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 New Chapter Of Cohesion Spectrum 英语 89 % 法语 35 % 德语 60 % 日语 20 %",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1392,
+            "y": 0.4972,
+            "w": 0.2872,
+            "h": 0.3837
+          },
+          "area": 0.1102,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5396,
+            "y": 0.2566,
+            "w": 0.1436,
+            "h": 0.2552
+          },
+          "area": 0.0366,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 53",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5396,
+            "y": 0.2566,
+            "w": 0.1436,
+            "h": 0.2552
+          },
+          "area": 0.0366,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 57",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5396,
+            "y": 0.2566,
+            "w": 0.1436,
+            "h": 0.2552
+          },
+          "area": 0.0366,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 61",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5396,
+            "y": 0.2566,
+            "w": 0.1436,
+            "h": 0.2552
+          },
+          "area": 0.0366,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1381,
+            "y": 0.4187,
+            "w": 0.3076,
+            "h": 0.0608
+          },
+          "area": 0.0187,
+          "text": "New Chapter Of Cohesion Spectrum",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 370",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.3668,
+            "w": 0.1649,
+            "h": 0.0763
+          },
+          "area": 0.0126,
+          "text": "汉语 精通力强",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "我的语言能力",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 370",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.57,
+            "y": 0.3027,
+            "w": 0.0944,
+            "h": 0.1032
+          },
+          "area": 0.0097,
+          "text": "89 %",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 370",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.57,
+            "y": 0.3027,
+            "w": 0.0944,
+            "h": 0.1032
+          },
+          "area": 0.0097,
+          "text": "35 %",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 7,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s10",
+      "title_guess": "生命在于运动,丰富自己的生活",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 8,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1516,
+        "image_area": 0.1915,
+        "shape_area": 0,
+        "text_blob": "生命在于运动,丰富自己的生活 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴, Summary and report of atmospheric simple creative work 我的兴趣爱好 旅游 阅读 健身 篮球",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 28",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1339,
+            "y": 0.8329,
+            "w": 0.7352,
+            "h": 0.0808
+          },
+          "area": 0.0594,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0988,
+            "y": 0.4296,
+            "w": 0.1671,
+            "h": 0.2909
+          },
+          "area": 0.0486,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.523,
+            "y": 0.4381,
+            "w": 0.1655,
+            "h": 0.2887
+          },
+          "area": 0.0478,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 6",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7345,
+            "y": 0.4381,
+            "w": 0.1655,
+            "h": 0.2884
+          },
+          "area": 0.0477,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 3",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.312,
+            "y": 0.4321,
+            "w": 0.1651,
+            "h": 0.2871
+          },
+          "area": 0.0474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 44",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2805,
+            "y": 0.7773,
+            "w": 0.442,
+            "h": 0.0565
+          },
+          "area": 0.025,
+          "text": "生命在于运动,丰富自己的生活",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 22",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0948,
+            "y": 0.3209,
+            "w": 0.1807,
+            "h": 0.0641
+          },
+          "area": 0.0116,
+          "text": "旅游",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.305,
+            "y": 0.3209,
+            "w": 0.1807,
+            "h": 0.0641
+          },
+          "area": 0.0116,
+          "text": "阅读",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5152,
+            "y": 0.3209,
+            "w": 0.1807,
+            "h": 0.0641
+          },
+          "area": 0.0116,
+          "text": "健身",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 32",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7254,
+            "y": 0.3209,
+            "w": 0.1807,
+            "h": 0.0641
+          },
+          "area": 0.0116,
+          "text": "篮球",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 5
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s11",
+      "title_guess": "02",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.1573,
+        "image_area": 0,
+        "shape_area": 0.028,
+        "text_blob": "02 岗位工作成效 Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report 个人简历 文化程度 专业介绍 学习成长 PART TWO",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 39",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2429,
+            "y": 0.3642,
+            "w": 0.1634,
+            "h": 0.2905
+          },
+          "area": 0.0475,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4992,
+            "y": 0.5208,
+            "w": 0.4423,
+            "h": 0.101
+          },
+          "area": 0.0447,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4922,
+            "y": 0.4086,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "岗位工作成效",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 45",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1202,
+            "y": 0.1854,
+            "w": 0.0987,
+            "h": 0.1754
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 60",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4974,
+            "y": 0.354,
+            "w": 0.1433,
+            "h": 0.0673
+          },
+          "area": 0.0096,
+          "text": "PART TWO",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2971,
+            "y": 0.7687,
+            "w": 0.0585,
+            "h": 0.104
+          },
+          "area": 0.0061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7038,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "专业介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7914,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "学习成长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3585,
+            "y": 0.205,
+            "w": 0.046,
+            "h": 0.0817
+          },
+          "area": 0.0038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5129,
+            "y": 0.6304,
+            "w": 0.0911,
+            "h": 0.0404
+          },
+          "area": 0.0037,
+          "text": "个人简历",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s12",
+      "title_guess": "01",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,top-left:3,bottom-right:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1147,
+        "image_area": 0,
+        "shape_area": 0.306,
+        "text_blob": "01 项目一 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里, 02 项目二 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里, 03 项目一三 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里, Summary and report of atmospheric simple creative work 项目概述",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0991,
+            "y": 0.3581,
+            "w": 0.2028,
+            "h": 0.4842
+          },
+          "area": 0.0982,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 19",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4854,
+            "y": 0.3535,
+            "w": 0.408,
+            "h": 0.1221
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform 19",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4852,
+            "y": 0.5372,
+            "w": 0.408,
+            "h": 0.1221
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 19",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4852,
+            "y": 0.7157,
+            "w": 0.408,
+            "h": 0.1221
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 503",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5467,
+            "y": 0.3784,
+            "w": 0.3278,
+            "h": 0.0768
+          },
+          "area": 0.0252,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里,",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 503",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5465,
+            "y": 0.5621,
+            "w": 0.3278,
+            "h": 0.0768
+          },
+          "area": 0.0252,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 503",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5465,
+            "y": 0.7406,
+            "w": 0.3278,
+            "h": 0.0768
+          },
+          "area": 0.0252,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,尽可能简介扼要,主题明确。您的内容打在这里,",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1911,
+            "y": 0.2591,
+            "w": 0.1735,
+            "h": 0.0911
+          },
+          "area": 0.0158,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 19",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1922,
+            "y": 0.2594,
+            "w": 0.1722,
+            "h": 0.0904
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 35",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1911,
+            "y": 0.2621,
+            "w": 0.1735,
+            "h": 0.085
+          },
+          "area": 0.0147,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s13",
+      "title_guess": "项目介绍",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:4,middle-right:2,top-left:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 32,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1311,
+        "image_area": 0.1099,
+        "shape_area": 0.0522,
+        "text_blob": "项目介绍 您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保此您的内框中选择粘贴并选择只保留者通过复制您的文本后,在此框中选择粘贴并选择只保此您的内框中选择粘贴 69% 您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里, 计划经济 您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并 选择只保留 Summary and report of atmospheric simple creative work 重点参与项目",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Chart 26",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6109,
+            "y": 0.2479,
+            "w": 0.2894,
+            "h": 0.6226
+          },
+          "area": 0.1802,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.2899,
+            "w": 0.4123,
+            "h": 0.2666
+          },
+          "area": 0.1099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 16",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.5899,
+            "w": 0.4123,
+            "h": 0.1307
+          },
+          "area": 0.0539,
+          "text": "您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴并选择只保此您的内框中选择粘贴并选择只保留者通过复制您的文本后,在此框中选择粘贴并选择只保此您的内框中选择粘",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.2899,
+            "w": 0.1958,
+            "h": 0.2666
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Rectangle 27",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.676,
+            "y": 0.464,
+            "w": 0.1592,
+            "h": 0.1481
+          },
+          "area": 0.0236,
+          "text": "计划经济 您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并 选择只保留",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Rectangle 18",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2023,
+            "y": 0.8071,
+            "w": 0.3195,
+            "h": 0.0634
+          },
+          "area": 0.0203,
+          "text": "您的内容打在这里,或者通过复制您的文本在此框中选择粘贴并选择只保留文字您的您的内容打在这里,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "重点参与项目",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 14",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1526,
+            "y": 0.3915,
+            "w": 0.101,
+            "h": 0.0632
+          },
+          "area": 0.0064,
+          "text": "项目介绍",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1095,
+            "y": 0.7947,
+            "w": 0.0721,
+            "h": 0.0843
+          },
+          "area": 0.0061,
+          "text": "69%",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s14",
+      "title_guess": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,middle-left:2,bottom-right:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 3,
+        "text_area": 0.1888,
+        "image_area": 0,
+        "shape_area": 0.192,
+        "text_blob": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 岗位工作成就 艺术总监 设计能力第一 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 创新能力第一 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 完成效率第一 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这 Summary and report of atmospheric simple creative work 岗位工作成就",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形 46",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.116,
+            "y": 0.3502,
+            "w": 0.3398,
+            "h": 0.5
+          },
+          "area": 0.1699,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1484,
+            "y": 0.5074,
+            "w": 0.2986,
+            "h": 0.1818
+          },
+          "area": 0.0543,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5931,
+            "y": 0.3938,
+            "w": 0.2862,
+            "h": 0.0737
+          },
+          "area": 0.0211,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5931,
+            "y": 0.5756,
+            "w": 0.2862,
+            "h": 0.0737
+          },
+          "area": 0.0211,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 30",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5931,
+            "y": 0.7613,
+            "w": 0.2862,
+            "h": 0.0737
+          },
+          "area": 0.0211,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。您的内容打在这",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 5",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5856,
+            "y": 0.3437,
+            "w": 0.2404,
+            "h": 0.0541
+          },
+          "area": 0.013,
+          "text": "设计能力第一",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 62",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5897,
+            "y": 0.53,
+            "w": 0.2334,
+            "h": 0.0541
+          },
+          "area": 0.0126,
+          "text": "创新能力第一",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 68",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5897,
+            "y": 0.714,
+            "w": 0.2195,
+            "h": 0.0541
+          },
+          "area": 0.0119,
+          "text": "完成效率第一",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "岗位工作成就",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 24",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 5,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s15",
+      "title_guess": "85%",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:3,middle-right:2",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 32,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 4,
+        "text_area": 0.1869,
+        "image_area": 0,
+        "shape_area": 0.178,
+        "text_blob": "85% 第一项 工作概述 95% 第二项 工作概述 90% 第三项 工作概述 45% 第四项 工作概述 在此添加标题 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。 01 在此添加标题 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。 02 在此添加标题 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。 03 在此添加标题 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。 04 Summary and report of atmospheric simple creative work 岗位业务情况",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 47",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6228,
+            "y": 0.344,
+            "w": 0.2802,
+            "h": 0.065
+          },
+          "area": 0.0182,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6219,
+            "y": 0.5102,
+            "w": 0.2802,
+            "h": 0.065
+          },
+          "area": 0.0182,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 47",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6219,
+            "y": 0.6759,
+            "w": 0.2802,
+            "h": 0.065
+          },
+          "area": 0.0182,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 47",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6219,
+            "y": 0.8479,
+            "w": 0.2802,
+            "h": 0.065
+          },
+          "area": 0.0182,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1335,
+            "y": 0.2784,
+            "w": 0.0302,
+            "h": 0.5668
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2339,
+            "y": 0.2784,
+            "w": 0.0302,
+            "h": 0.5668
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3343,
+            "y": 0.2784,
+            "w": 0.0302,
+            "h": 0.5668
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4346,
+            "y": 0.2784,
+            "w": 0.0302,
+            "h": 0.5668
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2339,
+            "y": 0.3309,
+            "w": 0.0302,
+            "h": 0.5144
+          },
+          "area": 0.0155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3343,
+            "y": 0.3729,
+            "w": 0.0302,
+            "h": 0.4724
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 17,
+          "claim": 4,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s16",
+      "title_guess": "1,623,445",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:2,top-right:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 32,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1612,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "1,623,445 1,058,883 725,091 1,550,934 981,406 846,356 427,683 901,124 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。 3 季度 4 季度 1 季度 2 季度 Summary and report of atmospheric simple creative work 项目完成情况",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "TextBox 89",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2288,
+            "y": 0.3374,
+            "w": 0.2071,
+            "h": 0.0634
+          },
+          "area": 0.0131,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "TextBox 90",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2288,
+            "y": 0.4933,
+            "w": 0.2071,
+            "h": 0.0634
+          },
+          "area": 0.0131,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "TextBox 91",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2288,
+            "y": 0.6492,
+            "w": 0.2071,
+            "h": 0.0634
+          },
+          "area": 0.0131,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "TextBox 92",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2288,
+            "y": 0.8051,
+            "w": 0.2071,
+            "h": 0.0634
+          },
+          "area": 0.0131,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,并选择只保留文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 3",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5166,
+            "y": 0.2645,
+            "w": 0.4134,
+            "h": 0.028
+          },
+          "area": 0.0116,
+          "text": "1,623,445",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 23",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1674,
+            "h": 0.0673
+          },
+          "area": 0.0113,
+          "text": "项目完成情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 7",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5166,
+            "y": 0.4585,
+            "w": 0.3839,
+            "h": 0.028
+          },
+          "area": 0.0107,
+          "text": "1,550,934",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 22",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 4",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5166,
+            "y": 0.3037,
+            "w": 0.2894,
+            "h": 0.028
+          },
+          "area": 0.0081,
+          "text": "1,058,883",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 9",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5166,
+            "y": 0.5741,
+            "w": 0.2717,
+            "h": 0.028
+          },
+          "area": 0.0076,
+          "text": "981,406",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s17",
+      "title_guess": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 32,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 3,
+        "text_area": 0.2171,
+        "image_area": 0,
+        "shape_area": 0.1407,
+        "text_blob": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述图表的综合描此录入上述图表的综合说在此录入上述图表的综合描述说明。 影响力 带动效率 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入 01 提升能力 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述 02 开拓眼界 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述 03 Summary and report of atmospheric simple creative work 公司影响力",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 15",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1339,
+            "y": 0.2525,
+            "w": 0.7322,
+            "h": 0.1144
+          },
+          "area": 0.0838,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述图表的综合描此录入上述图表的综合说在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1803,
+            "y": 0.4384,
+            "w": 0.2033,
+            "h": 0.3614
+          },
+          "area": 0.0735,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 47",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5682,
+            "y": 0.4412,
+            "w": 0.3046,
+            "h": 0.0768
+          },
+          "area": 0.0234,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 47",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5673,
+            "y": 0.6301,
+            "w": 0.3046,
+            "h": 0.0768
+          },
+          "area": 0.0234,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 47",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5673,
+            "y": 0.8256,
+            "w": 0.3046,
+            "h": 0.0768
+          },
+          "area": 0.0234,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明,在此录入上述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 38",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5039,
+            "y": 0.403,
+            "w": 0.0492,
+            "h": 0.4607
+          },
+          "area": 0.0227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 33",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 42",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1414,
+            "h": 0.0673
+          },
+          "area": 0.0095,
+          "text": "公司影响力",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3501,
+            "y": 0.5061,
+            "w": 0.0697,
+            "h": 0.1239
+          },
+          "area": 0.0086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 40",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5682,
+            "y": 0.389,
+            "w": 0.1712,
+            "h": 0.0494
+          },
+          "area": 0.0085,
+          "text": "带动效率",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 8,
+          "label": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s18",
+      "title_guess": "03",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.159,
+        "image_area": 0,
+        "shape_area": 0.028,
+        "text_blob": "03 工作履职能力 Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report 个人简历 文化程度 专业介绍 学习成长 PART THREE",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 39",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2429,
+            "y": 0.3642,
+            "w": 0.1634,
+            "h": 0.2905
+          },
+          "area": 0.0475,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4992,
+            "y": 0.5208,
+            "w": 0.4423,
+            "h": 0.101
+          },
+          "area": 0.0447,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4922,
+            "y": 0.4086,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "工作履职能力",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 45",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1202,
+            "y": 0.1854,
+            "w": 0.0987,
+            "h": 0.1754
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 60",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4974,
+            "y": 0.354,
+            "w": 0.1681,
+            "h": 0.0673
+          },
+          "area": 0.0113,
+          "text": "PART THREE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2971,
+            "y": 0.7687,
+            "w": 0.0585,
+            "h": 0.104
+          },
+          "area": 0.0061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7038,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "专业介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7914,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "学习成长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3585,
+            "y": 0.205,
+            "w": 0.046,
+            "h": 0.0817
+          },
+          "area": 0.0038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5129,
+            "y": 0.6304,
+            "w": 0.0911,
+            "h": 0.0404
+          },
+          "area": 0.0037,
+          "text": "个人简历",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s19",
+      "title_guess": "自我 评价",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:3,middle-left:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 32,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0842,
+        "image_area": 0,
+        "shape_area": 0.2381,
+        "text_blob": "自我 评价 平时工作不积极做事不够细心 项目管理懒散安排到人不到位 业绩水平欠缺充空间较大 岗位培训力度不大需加强学习力度 Summary and report of atmospheric simple creative work 对自己的评价",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 16",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1675,
+            "y": 0.4311,
+            "w": 0.2161,
+            "h": 0.3841
+          },
+          "area": 0.083,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4636,
+            "y": 0.3323,
+            "w": 0.3616,
+            "h": 0.0889
+          },
+          "area": 0.0321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4644,
+            "y": 0.4817,
+            "w": 0.3616,
+            "h": 0.0889
+          },
+          "area": 0.0321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4644,
+            "y": 0.6368,
+            "w": 0.3616,
+            "h": 0.0889
+          },
+          "area": 0.0321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4653,
+            "y": 0.7861,
+            "w": 0.3616,
+            "h": 0.0889
+          },
+          "area": 0.0321,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2144,
+            "y": 0.5036,
+            "w": 0.1116,
+            "h": 0.2393
+          },
+          "area": 0.0267,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 3",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3511,
+            "y": 0.5374,
+            "w": 0.0871,
+            "h": 0.1716
+          },
+          "area": 0.0149,
+          "text": "自我 评价",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 22",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5208,
+            "y": 0.3564,
+            "w": 0.2802,
+            "h": 0.0494
+          },
+          "area": 0.0138,
+          "text": "平时工作不积极做事不够细心",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 37",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5208,
+            "y": 0.812,
+            "w": 0.2676,
+            "h": 0.0494
+          },
+          "area": 0.0132,
+          "text": "岗位培训力度不大需加强学习力度",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 27",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5208,
+            "y": 0.5076,
+            "w": 0.2339,
+            "h": 0.0494
+          },
+          "area": 0.0116,
+          "text": "项目管理懒散安排到人不到位",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s20",
+      "title_guess": "交流口才",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-right:2,bottom-right:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 32,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.1746,
+        "image_area": 0,
+        "shape_area": 0.4004,
+        "text_blob": "交流口才 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 团队合作 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 添加标题 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 销售能力 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 办事效率 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 添加标题 此处添加详细文本描述,建议与标题相关并符合整体语言风格此处 能力 分析 Summary and report of atmospheric simple creative work 能力自我分析",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.412,
+            "y": 0.4414,
+            "w": 0.1721,
+            "h": 0.3028
+          },
+          "area": 0.0521,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4195,
+            "y": 0.4545,
+            "w": 0.1572,
+            "h": 0.2765
+          },
+          "area": 0.0435,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 127",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5242,
+            "y": 0.2919,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 121",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6098,
+            "y": 0.5201,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 115",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5273,
+            "y": 0.7463,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1841,
+            "y": 0.2919,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 70",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0985,
+            "y": 0.5201,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 77",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.181,
+            "y": 0.7463,
+            "w": 0.2946,
+            "h": 0.1474
+          },
+          "area": 0.0434,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4154,
+            "y": 0.5199,
+            "w": 0.1655,
+            "h": 0.1616
+          },
+          "area": 0.0267,
+          "text": "能力 分析",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2051,
+            "y": 0.3459,
+            "w": 0.2521,
+            "h": 0.0729
+          },
+          "area": 0.0184,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格此处",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s21",
+      "title_guess": "岗位认知状况",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:3,top-left:3,middle-center:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 32,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 0,
+        "text_area": 0.1314,
+        "image_area": 0,
+        "shape_area": 0.0917,
+        "text_blob": "岗位认知状况 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴。 项目重点难点 请在此输入详细文字信息和简介,请在此输入详细文字信息和简介请在此输入详细文字信息和简介,请 岗位实施步骤 请在此输入详细文字信息和简介,请在此输入详细文字信息和简介请在此输入详细文字信息和简介, 工作操作规范 请在此输入详细文字信息和简介,请在此输入详细文字信息和简介请在此输入详细文字信息和简介,请 人员交接关系 请在此输入详细文字信息和简介,请在此输入详细文字信息和简介请在此输入详细文字信息和简介, 01 02 03 04 Summary and report of atmospheric simple creative work 工作岗位认知",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1317,
+            "y": 0.7007,
+            "w": 0.3252,
+            "h": 0.1746
+          },
+          "area": 0.0568,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 44",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1585,
+            "y": 0.7231,
+            "w": 0.2864,
+            "h": 0.1481
+          },
+          "area": 0.0424,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴。您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "Title 1",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1591,
+            "y": 0.6287,
+            "w": 0.2704,
+            "h": 0.0749
+          },
+          "area": 0.0203,
+          "text": "岗位认知状况",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 41",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "工作岗位认知",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 36",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5057,
+            "y": 0.297,
+            "w": 0.0637,
+            "h": 0.1133
+          },
+          "area": 0.0072,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5074,
+            "y": 0.4565,
+            "w": 0.0637,
+            "h": 0.1133
+          },
+          "area": 0.0072,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5074,
+            "y": 0.6117,
+            "w": 0.0637,
+            "h": 0.1133
+          },
+          "area": 0.0072,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 49",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5057,
+            "y": 0.7661,
+            "w": 0.0637,
+            "h": 0.1133
+          },
+          "area": 0.0072,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 34",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1877,
+            "y": 0.2557,
+            "w": 0.0865,
+            "h": 0.0767
+          },
+          "area": 0.0066,
+          "text": "请在此输入详细文字信息和简介,请在此输入详细文字信息和简介请在此输入详细文字信息和简介,请",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 14,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s22",
+      "title_guess": "岗位认知 添加文字详细的标题信息",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:4,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.185,
+        "image_area": 0.2,
+        "shape_area": 0.0144,
+        "text_blob": "岗位认知 添加文字详细的标题信息 在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明。 工作操作流程 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图录入上述图表的综合描述说明。 01 在此添加标题 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述上述图表的综合描述说明。 02 Summary and report of atmospheric simple creative work 项目认知情况",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1171,
+            "y": 0.3275,
+            "w": 0.3653,
+            "h": 0.5476
+          },
+          "area": 0.2,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 44",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5503,
+            "y": 0.3136,
+            "w": 0.442,
+            "h": 0.1212
+          },
+          "area": 0.0536,
+          "text": "岗位认知 添加文字详细的标题信息",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6223,
+            "y": 0.5907,
+            "w": 0.3136,
+            "h": 0.1144
+          },
+          "area": 0.0359,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6215,
+            "y": 0.7924,
+            "w": 0.3136,
+            "h": 0.1144
+          },
+          "area": 0.0359,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 28",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5519,
+            "y": 0.4327,
+            "w": 0.384,
+            "h": 0.0381
+          },
+          "area": 0.0146,
+          "text": "在此录入上述图表的综合描述说明,在此录入上述图表的综合描述说明。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "项目认知情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 30",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6223,
+            "y": 0.5402,
+            "w": 0.1712,
+            "h": 0.0494
+          },
+          "area": 0.0085,
+          "text": "工作操作流程",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 37",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6215,
+            "y": 0.7419,
+            "w": 0.1712,
+            "h": 0.0494
+          },
+          "area": 0.0085,
+          "text": "在此添加标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 44",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5497,
+            "y": 0.5382,
+            "w": 0.0637,
+            "h": 0.1133
+          },
+          "area": 0.0072,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "claim": 1,
+          "footer": 5,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s23",
+      "title_guess": "用户可以在投影仪或者计算机上可以将演示文稿打印出来",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 32,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1099,
+        "image_area": 0,
+        "shape_area": 0.2478,
+        "text_blob": "用户可以在投影仪或者计算机上可以将演示文稿打印出来 平面设计 用户可以在投影仪或者计算机上可以将演示文稿打印出来 网络设计 用户可以在投影仪或者计算机上可以将演示文稿打印出来 网页设计 用户可以在投影仪或者计算机上可以将演示文稿打印出来 艺术设计 用户可以在投影仪或者计算机上可以将演示文稿打印出来 动画设计 用户可以在投影仪或者计算机上可以将演示文稿打印出来 海报设计 Summary and report of atmospheric simple creative work 我的工作技能",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1311,
+            "y": 0.3592,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1311,
+            "y": 0.5413,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1311,
+            "y": 0.7233,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5133,
+            "y": 0.3592,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5133,
+            "y": 0.5413,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "íṡľíḍè-Arrow: Chevron 37",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5133,
+            "y": 0.7233,
+            "w": 0.2537,
+            "h": 0.1063
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3596,
+            "y": 0.3592,
+            "w": 0.1349,
+            "h": 0.1063
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3596,
+            "y": 0.5413,
+            "w": 0.1349,
+            "h": 0.1063
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3596,
+            "y": 0.7233,
+            "w": 0.1349,
+            "h": 0.1063
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "íṡľíḍè-Arrow: Chevron 31",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7418,
+            "y": 0.3592,
+            "w": 0.1349,
+            "h": 0.1063
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s24",
+      "title_guess": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-right:3,top-center:3,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1357,
+        "image_area": 0.118,
+        "shape_area": 0.0301,
+        "text_blob": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 我的优势一 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 我的优势二 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 我的优势三 Summary and report of atmospheric simple creative work 我的竞争优势",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 42",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.3649,
+            "w": 0.2609,
+            "h": 0.4523
+          },
+          "area": 0.118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 19",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2926,
+            "w": 0.4224,
+            "h": 0.0673
+          },
+          "area": 0.0284,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 22",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2961,
+            "w": 0.4224,
+            "h": 0.0673
+          },
+          "area": 0.0284,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 25",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2961,
+            "w": 0.4224,
+            "h": 0.0673
+          },
+          "area": 0.0284,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 28",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "我的竞争优势",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 20",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2447,
+            "w": 0.1839,
+            "h": 0.0539
+          },
+          "area": 0.0099,
+          "text": "我的优势一",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 23",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2447,
+            "w": 0.1839,
+            "h": 0.0539
+          },
+          "area": 0.0099,
+          "text": "我的优势二",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 26",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2447,
+            "w": 0.1839,
+            "h": 0.0539
+          },
+          "area": 0.0099,
+          "text": "我的优势三",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 27",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4693,
+            "y": 0.3503,
+            "w": 0.0666,
+            "h": 0.1184
+          },
+          "area": 0.0079,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 3,
+          "footer": 4,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s25",
+      "title_guess": "思维 方式",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-center:2,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.1753,
+        "image_area": 0,
+        "shape_area": 0.437,
+        "text_blob": "思维 方式 思维活跃 添加标题 超前意识 添加标题 此处添加详细文本描述,建议与标题相关并符合整体语言风格 此处添加详细文本描述,建议与标题相关并符合整体语言风格 此处添加详细文本描述,建议与标题相关并符合整体语言风格 此处添加详细文本描述,建议与标题相关并符合整体语言风格 Summary and report of atmospheric simple creative work 工作思维方式",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 26",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.332,
+            "y": 0.2904,
+            "w": 0.3359,
+            "h": 0.5972
+          },
+          "area": 0.2006,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1151,
+            "y": 0.3647,
+            "w": 0.2011,
+            "h": 0.3575
+          },
+          "area": 0.0719,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1264,
+            "y": 0.3848,
+            "w": 0.1786,
+            "h": 0.3174
+          },
+          "area": 0.0567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4163,
+            "y": 0.4401,
+            "w": 0.1674,
+            "h": 0.2977
+          },
+          "area": 0.0498,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1397,
+            "y": 0.4538,
+            "w": 0.1555,
+            "h": 0.1912
+          },
+          "area": 0.0297,
+          "text": "思维 方式",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7044,
+            "y": 0.3498,
+            "w": 0.2217,
+            "h": 0.0768
+          },
+          "area": 0.017,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7044,
+            "y": 0.7511,
+            "w": 0.2217,
+            "h": 0.0768
+          },
+          "area": 0.017,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0773,
+            "y": 0.3498,
+            "w": 0.2217,
+            "h": 0.0768
+          },
+          "area": 0.017,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0773,
+            "y": 0.7511,
+            "w": 0.2217,
+            "h": 0.0768
+          },
+          "area": 0.017,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 17",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7051,
+            "y": 0.2989,
+            "w": 0.2441,
+            "h": 0.0583
+          },
+          "area": 0.0142,
+          "text": "思维活跃",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s26",
+      "title_guess": "04",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 32,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.1581,
+        "image_area": 0,
+        "shape_area": 0.028,
+        "text_blob": "04 未来规划展望 Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report 个人简历 文化程度 专业介绍 学习成长 PART FOUR",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 39",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2429,
+            "y": 0.3642,
+            "w": 0.1634,
+            "h": 0.2905
+          },
+          "area": 0.0475,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 47",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4992,
+            "y": 0.5208,
+            "w": 0.4423,
+            "h": 0.101
+          },
+          "area": 0.0447,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4922,
+            "y": 0.4086,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "未来规划展望",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 45",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1202,
+            "y": 0.1854,
+            "w": 0.0987,
+            "h": 0.1754
+          },
+          "area": 0.0173,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 60",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4974,
+            "y": 0.354,
+            "w": 0.1551,
+            "h": 0.0673
+          },
+          "area": 0.0104,
+          "text": "PART FOUR",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2971,
+            "y": 0.7687,
+            "w": 0.0585,
+            "h": 0.104
+          },
+          "area": 0.0061,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7038,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "专业介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 15",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7914,
+            "y": 0.6304,
+            "w": 0.1185,
+            "h": 0.0404
+          },
+          "area": 0.0048,
+          "text": "学习成长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3585,
+            "y": 0.205,
+            "w": 0.046,
+            "h": 0.0817
+          },
+          "area": 0.0038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 13",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5129,
+            "y": 0.6304,
+            "w": 0.0911,
+            "h": 0.0404
+          },
+          "area": 0.0037,
+          "text": "个人简历",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s27",
+      "title_guess": "工作 方向",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:5,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.193,
+        "image_area": 0,
+        "shape_area": 0.165,
+        "text_blob": "工作 方向 业务 拓展 职场 能力 Summary and report of atmospheric simple creative work 总体思路规划 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 添加标题文字 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 添加标题文字 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 添加标题文字",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1424,
+            "y": 0.3188,
+            "w": 0.1758,
+            "h": 0.3126
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4123,
+            "y": 0.3188,
+            "w": 0.1758,
+            "h": 0.3126
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6822,
+            "y": 0.3188,
+            "w": 0.1758,
+            "h": 0.3126
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 17",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.1109
+          },
+          "area": 0.038,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 20",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.1109
+          },
+          "area": 0.038,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 23",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.1109
+          },
+          "area": 0.038,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "总体思路规划",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1933,
+            "y": 0.4133,
+            "w": 0.074,
+            "h": 0.1391
+          },
+          "area": 0.0103,
+          "text": "工作 方向",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4642,
+            "y": 0.4128,
+            "w": 0.074,
+            "h": 0.1391
+          },
+          "area": 0.0103,
+          "text": "业务 拓展",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7354,
+            "y": 0.4128,
+            "w": 0.074,
+            "h": 0.1391
+          },
+          "area": 0.0103,
+          "text": "职场 能力",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s28",
+      "title_guess": "01",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,top-right:4,bottom-center:1",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 32,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1854,
+        "image_area": 0,
+        "shape_area": 0.1024,
+        "text_blob": "01 02 03 04 S W O T 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 添加标题文字 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合 添加标题文字 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。 添加标题文字 在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合 添加标题文字 Summary and report of atmospheric simple creative work 指导思想",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 25",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.0771
+          },
+          "area": 0.0264,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 28",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.0772
+          },
+          "area": 0.0264,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 31",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.0771
+          },
+          "area": 0.0264,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合说明。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 34",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5576,
+            "y": 0.2838,
+            "w": 0.3426,
+            "h": 0.0772
+          },
+          "area": 0.0264,
+          "text": "在此录入上述图表的综合说明,在此录入上述图表的综合描述说明。在此录入上述图表的综合",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形 55",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4526,
+            "y": 0.2764,
+            "w": 0.0759,
+            "h": 0.2033
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形 57",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5917,
+            "y": 0.494,
+            "w": 0.0759,
+            "h": 0.2033
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形 59",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4493,
+            "y": 0.706,
+            "w": 0.0759,
+            "h": 0.2033
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 61",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3105,
+            "y": 0.4853,
+            "w": 0.0759,
+            "h": 0.2033
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 56",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4526,
+            "y": 0.4421,
+            "w": 0.0759,
+            "h": 0.1343
+          },
+          "area": 0.0102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 58",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5178,
+            "y": 0.5285,
+            "w": 0.0759,
+            "h": 0.1343
+          },
+          "area": 0.0102,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 5,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s29",
+      "title_guess": "计划之后",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,top-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 6,
+        "text_area": 0.1488,
+        "image_area": 0,
+        "shape_area": 0.1126,
+        "text_blob": "计划之后 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关此处添加详细文本此处添加详细文本描述,建议与标题相关并符合整体语言风格 计划之前 此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关此处添加详细文本此处添加详细文本描述,建议与标题相关并符合整体语言风格 项目咨询 业务范畴 费用情况 采购清单 Summary and report of atmospheric simple creative work 准备工作",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 43",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5142,
+            "y": 0.7518,
+            "w": 0.3924,
+            "h": 0.1144
+          },
+          "area": 0.0449,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关此处添加详细文本此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 45",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0927,
+            "y": 0.7518,
+            "w": 0.3924,
+            "h": 0.1144
+          },
+          "area": 0.0449,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格,建议与标题相关此处添加详细文本此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1042,
+            "y": 0.2969,
+            "w": 0.1102,
+            "h": 0.1959
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3313,
+            "y": 0.2969,
+            "w": 0.1102,
+            "h": 0.1959
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.2969,
+            "w": 0.1102,
+            "h": 0.1959
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 40",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7856,
+            "y": 0.2969,
+            "w": 0.1102,
+            "h": 0.1959
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 39",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1271,
+            "y": 0.1295,
+            "w": 0.2775,
+            "h": 0.0345
+          },
+          "area": 0.0096,
+          "text": "Summary and report of atmospheric simple creative work",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1161,
+            "h": 0.0673
+          },
+          "area": 0.0078,
+          "text": "准备工作",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0927,
+            "y": 0.5184,
+            "w": 0.1351,
+            "h": 0.056
+          },
+          "area": 0.0076,
+          "text": "项目咨询",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 47",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3181,
+            "y": 0.5184,
+            "w": 0.1351,
+            "h": 0.056
+          },
+          "area": 0.0076,
+          "text": "业务范畴",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 2,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s30",
+      "title_guess": "目标一",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-right:4,middle-center:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 32,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 0,
+        "text_area": 0.1292,
+        "image_area": 0,
+        "shape_area": 0.4164,
+        "text_blob": "目标一 此处添加详细文本描述 建议与标题相关 此处添加详细文本描述 建议与标题相关 此处添加详细文本描述 建议与标题相关 此处添加详细文本描述 建议与标题相关 此处添加详细文本描述 建议与标题相关 目标三 目标五 目标二 目标四 Summary and report of atmospheric simple creative work 长期目标规划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0938,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0938,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4347,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4347,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 9",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7756,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 10",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7756,
+            "y": 0.3033,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2575,
+            "y": 0.4516,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "弧形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2575,
+            "y": 0.4516,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "弧形 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6109,
+            "y": 0.4546,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "弧形 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6109,
+            "y": 0.4546,
+            "w": 0.1314,
+            "h": 0.2337
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 31,
+      "slide_id": "31",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s31",
+      "title_guess": "信守承诺,勤奋努力同心才能走得更远,同德才能走得更近",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,middle-right:1,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 31,
+        "total_slides": 32,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1665,
+        "image_area": 0.2788,
+        "shape_area": 0.3408,
+        "text_blob": "信守承诺,勤奋努力同心才能走得更远,同德才能走得更近 此处添加详细文本描述,建议与标题相关并符合整体语言风格 学习任务 此处添加详细文本描述,建议与标题相关并符合整体语言风格 能力提升 此处添加详细文本描述,建议与标题相关并符合整体语言风格 业务能力 Summary and report of atmospheric simple creative work 未来规划展望",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0635,
+            "y": 0.268,
+            "w": 0.8636,
+            "h": 0.3228
+          },
+          "area": 0.2788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 20",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0635,
+            "y": 0.268,
+            "w": 0.8636,
+            "h": 0.3228
+          },
+          "area": 0.2788,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0933,
+            "y": 0.3526,
+            "w": 0.7978,
+            "h": 0.092
+          },
+          "area": 0.0734,
+          "text": "信守承诺,勤奋努力同心才能走得更远,同德才能走得更近",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 23",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7402,
+            "y": 0.5089,
+            "w": 0.1012,
+            "h": 0.1799
+          },
+          "area": 0.0182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4494,
+            "y": 0.5089,
+            "w": 0.1012,
+            "h": 0.1799
+          },
+          "area": 0.0182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1586,
+            "y": 0.5089,
+            "w": 0.1012,
+            "h": 0.1799
+          },
+          "area": 0.0182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 26",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1005,
+            "y": 0.8151,
+            "w": 0.2173,
+            "h": 0.0768
+          },
+          "area": 0.0167,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 31",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3969,
+            "y": 0.8151,
+            "w": 0.2173,
+            "h": 0.0768
+          },
+          "area": 0.0167,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 33",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6854,
+            "y": 0.8151,
+            "w": 0.2173,
+            "h": 0.0768
+          },
+          "area": 0.0167,
+          "text": "此处添加详细文本描述,建议与标题相关并符合整体语言风格",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1253,
+            "y": 0.0748,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "未来规划展望",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 4,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 32,
+      "slide_id": "32",
+      "framework_id": "竞聘述职-15-动态-cda551bb-s32",
+      "title_guess": "LOGO",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 32,
+        "total_slides": 32,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.185,
+        "image_area": 0,
+        "shape_area": 0.346,
+        "text_blob": "LOGO 公司名称 谢谢观看 THANK.YOU Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6149,
+            "y": 0.2737,
+            "w": 0.2656,
+            "h": 0.4722
+          },
+          "area": 0.1254,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6351,
+            "y": 0.3095,
+            "w": 0.2254,
+            "h": 0.4006
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0358,
+            "y": 0.3302,
+            "w": 0.4599,
+            "h": 0.193
+          },
+          "area": 0.0888,
+          "text": "THANK.YOU",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6432,
+            "y": 0.3239,
+            "w": 0.2091,
+            "h": 0.3718
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 22",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0547,
+            "y": 0.6515,
+            "w": 0.4756,
+            "h": 0.101
+          },
+          "area": 0.048,
+          "text": "Summary and report of atmospheric simple creative work ppt template of microsomal Business ReportSummary and report",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0462,
+            "y": 0.4982,
+            "w": 0.2676,
+            "h": 0.1481
+          },
+          "area": 0.0396,
+          "text": "谢谢观看",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 30",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.9088,
+            "y": -0.0913,
+            "w": 0.1294,
+            "h": 0.23
+          },
+          "area": 0.0298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.6256,
+            "y": 0.794,
+            "w": 0.0596,
+            "h": 0.106
+          },
+          "area": 0.0063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0631,
+            "y": 0.067,
+            "w": 0.0787,
+            "h": 0.0617
+          },
+          "area": 0.0049,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8783,
+            "y": 0.8332,
+            "w": 0.0517,
+            "h": 0.0919
+          },
+          "area": 0.0048,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "履历",
+        "成果",
+        "优势",
+        "展望"
+      ],
+      "avoid_for": [
+        "品牌宣传",
+        "活动庆典"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 32,
+    "layout_job_counts": {
+      "flow-diagram": 11,
+      "claim-evidence": 5,
+      "table": 4,
+      "limitations-future": 3,
+      "matrix-grid": 2,
+      "process-strip": 2,
+      "cover-statement": 1,
+      "image-hero": 1,
+      "kpi-grid": 1,
+      "two-column": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 22,
+      "text": 3,
+      "image": 3,
+      "mixed": 3,
+      "chart": 1
+    },
+    "density_counts": {
+      "medium-high": 17,
+      "medium": 9,
+      "high": 6
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "claim-evidence",
+      "table",
+      "limitations-future",
+      "matrix-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "text",
+      "image"
+    ]
+  }
+}

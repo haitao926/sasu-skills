@@ -1,0 +1,5596 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-11T02:46:31.050708+00:00",
+  "template_id": "扁平风格-01-静态-f9c1b891",
+  "template_profile_path": "assets/template-library/profiles/扁平风格-01-静态-f9c1b891.json",
+  "source_template": {
+    "name": "扁平风格(01)—静态.pptx",
+    "category": "扁平风格（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/扁平风格（5套）/扁平风格(01)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 19,
+    "media_count": 13,
+    "image_media_count": 9,
+    "motion_hint": "static",
+    "tags": [
+      "通用扁平",
+      "通用汇报",
+      "基础展示",
+      "轻量介绍",
+      "封面",
+      "概览",
+      "要点",
+      "总结",
+      "扁平",
+      "简洁",
+      "轻图标",
+      "通用",
+      "图标",
+      "扁平插画",
+      "示意图",
+      "短句",
+      "低复杂度标题",
+      "静态版",
+      "中",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "通用扁平",
+    "scenario": [
+      "通用汇报",
+      "基础展示",
+      "轻量介绍"
+    ],
+    "best_for": [
+      "轻量介绍",
+      "普通汇报"
+    ],
+    "avoid": [
+      "高证据科研",
+      "高强度数据说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "概览",
+      "要点",
+      "总结"
+    ],
+    "visual": [
+      "扁平",
+      "简洁",
+      "轻图标",
+      "通用"
+    ],
+    "image_strategy": [
+      "图标",
+      "扁平插画",
+      "示意图"
+    ],
+    "text_strategy": [
+      "短句",
+      "低复杂度标题"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "theme_fonts": {
+      "major_latin": "思源黑体 CN Light",
+      "minor_latin": "思源黑体 CN Light",
+      "major_east_asian": "",
+      "minor_east_asian": "",
+      "major_complex_script": "",
+      "minor_complex_script": ""
+    },
+    "default_text_font": "思源黑体 CN Light",
+    "dominant_layout_jobs": [
+      "research-question",
+      "two-column",
+      "process-strip",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "text"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "body",
+      "label",
+      "diagram-block",
+      "image",
+      "footer"
+    ],
+    "common_zones": [
+      "top-left",
+      "middle-left",
+      "middle-center",
+      "middle-right",
+      "bottom-center",
+      "bottom-left"
+    ],
+    "template_text_signature": "简约3D风 CONTENTS 01 Review of previous work Review of previous work Review of previous work 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 Highlights performance Display Highlights performance Display 03 Analysis of existing problems A",
+    "text_style_tokens": {
+      "label": {
+        "font": "思源宋体 CN Heavy",
+        "font_size": 30.0,
+        "bold": true,
+        "align": "left",
+        "line_spacing": 1.5,
+        "space_before": 0.0,
+        "space_after": 0.0,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      },
+      "body": {
+        "font": "微软雅黑",
+        "font_size": 12.0,
+        "bold": false,
+        "align": "center",
+        "line_spacing": 1.5,
+        "space_after": 0.0,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      },
+      "footer": {
+        "font": "微软雅黑",
+        "font_size": 13.0,
+        "margin_left": 0.1,
+        "margin_right": 0.1,
+        "margin_top": 0.05,
+        "margin_bottom": 0.05
+      }
+    },
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s01",
+      "title_guess": "简约3D风",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,top-left:3,middle-center:2",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.142,
+        "image_area": 0.1417,
+        "shape_area": 1.0588,
+        "text_blob": "简约3D风 商务工作总结汇报 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 汇报人:xxx 汇报时间:1月1日",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6064,
+            "y": 0.2474,
+            "w": 0.2477,
+            "h": 0.5722
+          },
+          "area": 0.1417,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1178,
+            "y": 0.4006,
+            "w": 0.4303,
+            "h": 0.1257
+          },
+          "area": 0.0541,
+          "text": "商务工作总结汇报",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 48.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1186,
+            "y": 0.5492,
+            "w": 0.4176,
+            "h": 0.0901
+          },
+          "area": 0.0376,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1186,
+            "y": 0.2635,
+            "w": 0.2744,
+            "h": 0.1346
+          },
+          "area": 0.0369,
+          "text": "简约3D风",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 54.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 51.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 16.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 19,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.228,
+        "image_area": 0,
+        "shape_area": 0.6807,
+        "text_blob": "01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 04 CONTENTS 目录 Review of previous work 前期工作回顾 Highlights performance Display 亮点业绩展示 Analysis of existing problems 存在问题分析 Work plan for the next stage 后期工作计划",
+        "title_like": 2,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8423,
+            "w": 1.0,
+            "h": 0.1577
+          },
+          "area": 0.1577,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0868,
+            "y": 0.2788,
+            "w": 0.1942,
+            "h": 0.548
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2977,
+            "y": 0.2788,
+            "w": 0.1942,
+            "h": 0.548
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5087,
+            "y": 0.2788,
+            "w": 0.1942,
+            "h": 0.548
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 35",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7196,
+            "y": 0.2788,
+            "w": 0.1942,
+            "h": 0.548
+          },
+          "area": 0.1064,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 53",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0993,
+            "y": 0.4797,
+            "w": 0.1693,
+            "h": 0.1703
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "bold": false,
+            "align": "left",
+            "line_spacing": 1.5,
+            "space_after": 0.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3111,
+            "y": 0.4797,
+            "w": 0.1693,
+            "h": 0.1703
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "bold": false,
+            "align": "left",
+            "line_spacing": 1.5,
+            "space_after": 0.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 26",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5216,
+            "y": 0.4797,
+            "w": 0.1693,
+            "h": 0.1703
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 45",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7353,
+            "y": 0.4797,
+            "w": 0.1693,
+            "h": 0.1703
+          },
+          "area": 0.0288,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 4,
+          "section_label": 2,
+          "footer": 8
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 24.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.0,
+          "space_before": 0.0,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.5,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "section_label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 36.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 14.0,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s03",
+      "title_guess": "01",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-right:3,top-left:3",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.3173,
+        "image_area": 0.1073,
+        "shape_area": 1.034,
+        "text_blob": "01 PART ONE 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; Review of previous work 前期工作回顾",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5212,
+            "y": 0.21,
+            "w": 0.2363,
+            "h": 0.8213
+          },
+          "area": 0.1941,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 180.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1423,
+            "y": 0.2779,
+            "w": 0.2471,
+            "h": 0.4343
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5328,
+            "y": 0.4913,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "前期工作回顾",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5225,
+            "y": 0.3716,
+            "w": 0.2043,
+            "h": 0.175
+          },
+          "area": 0.0358,
+          "text": "PART ONE",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 36.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 108.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.5,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s04",
+      "title_guess": "Review of previous work",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:7,bottom-center:1,middle-right:1",
+      "counts": {
+        "text": 17,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 19,
+        "text_count": 17,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2637,
+        "image_area": 0.244,
+        "shape_area": 0.6001,
+        "text_blob": "Review of previous work 前期工作回顾 Review of previous work 前期工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 01 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 04",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6356,
+            "w": 1.0,
+            "h": 0.3644
+          },
+          "area": 0.3644,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 69",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.557,
+            "y": 0.1814,
+            "w": 0.362,
+            "h": 0.6739
+          },
+          "area": 0.244,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0869,
+            "y": 0.2706,
+            "w": 0.5,
+            "h": 0.1499
+          },
+          "area": 0.075,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 43",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 6,
+          "body": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 28.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s05",
+      "title_guess": "Review of previous work",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,bottom-center:3,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 3,
+        "text_area": 0.1667,
+        "image_area": 0,
+        "shape_area": 1.1891,
+        "text_blob": "Review of previous work 前期工作回顾 100,00+ 插入标题 单击此处添加您的文字内容 3,000+ 插入标题 单击此处添加您的文字内容 20,000+ 插入标题 单击此处添加您的文字内容",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 62",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0006,
+            "y": 0.6298,
+            "w": 1.0006,
+            "h": 0.3687
+          },
+          "area": 0.3689,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 64",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0442,
+            "y": 0.6326,
+            "w": 1.0884,
+            "h": 0.2671
+          },
+          "area": 0.2907,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6695,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.4815
+          },
+          "area": 0.131,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.364,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.4815
+          },
+          "area": 0.131,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.4815
+          },
+          "area": 0.131,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "矩形 32",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.3668,
+            "w": 0.2564,
+            "h": 0.1346
+          },
+          "area": 0.0345,
+          "text": "100,00+",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 54.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "矩形 53",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.3668,
+            "w": 0.2564,
+            "h": 0.1346
+          },
+          "area": 0.0345,
+          "text": "3,000+",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 54.0,
+            "bold": false,
+            "align": "left",
+            "line_spacing": 1.0,
+            "space_before": 0.0,
+            "space_after": 0.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "矩形 58",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.3668,
+            "w": 0.2564,
+            "h": 0.1346
+          },
+          "area": 0.0345,
+          "text": "20,000+",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 54.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 23",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8235,
+            "y": 0.6424,
+            "w": 0.048,
+            "h": 0.3576
+          },
+          "area": 0.0172,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4654,
+            "y": 0.6764,
+            "w": 0.048,
+            "h": 0.3564
+          },
+          "area": 0.0171,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "label": 4
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 14.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.0,
+          "space_before": 0.0,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 54.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.0,
+          "space_before": 0.0,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s06",
+      "title_guess": "Review of previous work",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:5,top-left:4,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1896,
+        "image_area": 0.2357,
+        "shape_area": 0.704,
+        "text_blob": "Review of previous work 前期工作回顾 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 01 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 02 工作回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 03",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 14",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0546,
+            "y": 0.2178,
+            "w": 0.8,
+            "h": 0.6499
+          },
+          "area": 0.5199,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 48",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6475,
+            "y": 0.171,
+            "w": 0.3294,
+            "h": 0.7156
+          },
+          "area": 0.2357,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0546,
+            "y": 0.4327,
+            "w": 0.8,
+            "h": 0.22
+          },
+          "area": 0.176,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1453,
+            "y": 0.3526,
+            "w": 0.5272,
+            "h": 0.0901
+          },
+          "area": 0.0475,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1453,
+            "y": 0.3526,
+            "w": 0.5272,
+            "h": 0.0901
+          },
+          "area": 0.0475,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1453,
+            "y": 0.3526,
+            "w": 0.5272,
+            "h": 0.0901
+          },
+          "area": 0.0475,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "前期工作回顾",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0187,
+            "y": 0.0278,
+            "w": 0.0675,
+            "h": 0.12
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "旁门左道PPT出品",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0857,
+            "w": 0.1614,
+            "h": 0.0404
+          },
+          "area": 0.0065,
+          "text": "Review of previous work",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 28",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0922,
+            "y": 0.2867,
+            "w": 0.0637,
+            "h": 0.0853
+          },
+          "area": 0.0054,
+          "text": "01",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 32.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 32.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s07",
+      "title_guess": "02",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-right:3,top-left:3",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.3179,
+        "image_area": 0.1073,
+        "shape_area": 1.034,
+        "text_blob": "02 PART TWO 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; Highlights performance Display 亮点业绩展示",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5212,
+            "y": 0.21,
+            "w": 0.2363,
+            "h": 0.8213
+          },
+          "area": 0.1941,
+          "text": "02",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 180.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1423,
+            "y": 0.2779,
+            "w": 0.2471,
+            "h": 0.4343
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5328,
+            "y": 0.4913,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "亮点业绩展示",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5225,
+            "y": 0.3716,
+            "w": 0.2072,
+            "h": 0.175
+          },
+          "area": 0.0363,
+          "text": "PART TWO",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 36.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 108.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.5,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s08",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,bottom-center:3,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 4,
+        "text_area": 0.198,
+        "image_area": 0.3106,
+        "shape_area": 1.9053,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 6000万+ 关键词语 400万+ 关键词语 6000万+ 关键词语 存亮点业绩展示 Highlights performance Display Highlights performance Display 亮点业绩展示",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0725,
+            "y": 0.0285,
+            "w": 0.5513,
+            "h": 0.98
+          },
+          "area": 0.5403,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6088,
+            "y": 0.1081,
+            "w": 0.3725,
+            "h": 0.8338
+          },
+          "area": 0.3106,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0032,
+            "y": 0.1532,
+            "w": 0.4127,
+            "h": 0.7336
+          },
+          "area": 0.3028,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0581,
+            "y": 0.2607,
+            "w": 0.29,
+            "h": 0.5156
+          },
+          "area": 0.1495,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.09,
+            "y": 0.3757,
+            "w": 0.4479,
+            "h": 0.2914
+          },
+          "area": 0.1305,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5991,
+            "y": 0.7339,
+            "w": 0.1013,
+            "h": 0.1801
+          },
+          "area": 0.0182,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.095,
+            "y": 0.2081,
+            "w": 0.2213,
+            "h": 0.0763
+          },
+          "area": 0.0169,
+          "text": "存亮点业绩展示",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 28.0,
+            "bold": false,
+            "align": "left",
+            "line_spacing": 1.0,
+            "space_before": 0.0,
+            "space_after": 0.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "椭圆 30",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4463,
+            "y": 0.7505,
+            "w": 0.0826,
+            "h": 0.1469
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4463,
+            "y": 0.7505,
+            "w": 0.0826,
+            "h": 0.1469
+          },
+          "area": 0.0121,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "旁门左道PPT出品",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.095,
+            "y": 0.2731,
+            "w": 0.2385,
+            "h": 0.0449
+          },
+          "area": 0.0107,
+          "text": "Highlights performance Display",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 8,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 14.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 14.0,
+          "bold": false,
+          "align": "center",
+          "line_spacing": 0.95,
+          "space_before": 0.0,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 25.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.0,
+          "space_before": 0.0,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s09",
+      "title_guess": "Highlights performance Display",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:7,middle-right:2,middle-center:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1728,
+        "image_area": 0.1552,
+        "shape_area": 0.4918,
+        "text_blob": "Highlights performance Display 亮点业绩展示 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 01 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4101,
+            "y": 0.1837,
+            "w": 0.2312,
+            "h": 0.6712
+          },
+          "area": 0.1552,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 46",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 53",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.4778,
+            "w": 0.2587,
+            "h": 0.22
+          },
+          "area": 0.0569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "right",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "right",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 49",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0928,
+            "y": 0.5458,
+            "w": 0.2281,
+            "h": 0.1305
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 5,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 28.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "right",
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s10",
+      "title_guess": "Highlights performance Display",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:9,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.228,
+        "image_area": 0.2115,
+        "shape_area": 0.327,
+        "text_blob": "Highlights performance Display 亮点业绩展示 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 30% 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 30% 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 30%",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 90",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6225,
+            "y": 0.2116,
+            "w": 0.3449,
+            "h": 0.6131
+          },
+          "area": 0.2115,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 61",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0704,
+            "y": 0.1733,
+            "w": 0.4831,
+            "h": 0.22
+          },
+          "area": 0.1063,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 72",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0704,
+            "y": 0.1577,
+            "w": 0.4831,
+            "h": 0.22
+          },
+          "area": 0.1063,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 77",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0704,
+            "y": 0.1733,
+            "w": 0.4831,
+            "h": 0.22
+          },
+          "area": 0.1063,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 63",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0857,
+            "y": 0.2413,
+            "w": 0.4524,
+            "h": 0.1305
+          },
+          "area": 0.059,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 74",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0857,
+            "y": 0.2413,
+            "w": 0.4524,
+            "h": 0.1305
+          },
+          "area": 0.059,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "文本框 79",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0857,
+            "y": 0.2413,
+            "w": 0.4524,
+            "h": 0.1305
+          },
+          "area": 0.059,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "亮点业绩展示",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "旁门左道PPT出品",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0857,
+            "w": 0.2059,
+            "h": 0.0404
+          },
+          "area": 0.0083,
+          "text": "Highlights performance Display",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0187,
+            "y": 0.0278,
+            "w": 0.0675,
+            "h": 0.12
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 28.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s11",
+      "title_guess": "03",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-right:3,top-left:3",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.3235,
+        "image_area": 0.1073,
+        "shape_area": 1.034,
+        "text_blob": "03 PART THREE 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; Analysis of existing problems 存在问题分析",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5212,
+            "y": 0.21,
+            "w": 0.2363,
+            "h": 0.8213
+          },
+          "area": 0.1941,
+          "text": "03",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 180.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1423,
+            "y": 0.2779,
+            "w": 0.2471,
+            "h": 0.4343
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5058,
+            "y": 0.3716,
+            "w": 0.2482,
+            "h": 0.175
+          },
+          "area": 0.0434,
+          "text": "PART THREE",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 36.0,
+            "bold": true,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5328,
+            "y": 0.4913,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 108.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.5,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s12",
+      "title_guess": "Analysis of existing problems",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,bottom-left:3,middle-center:2",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.2409,
+        "image_area": 0.1472,
+        "shape_area": 0.1688,
+        "text_blob": "Analysis of existing problems 存在问题分析 Analysis of existing problems 存在问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。 01 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。 02 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。 03",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "对话气泡: 圆角矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5402,
+            "y": -0.1721,
+            "w": 0.15,
+            "h": 1.0711
+          },
+          "area": 0.1607,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0525,
+            "y": 0.187,
+            "w": 0.203,
+            "h": 0.7251
+          },
+          "area": 0.1472,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3465,
+            "y": 0.3202,
+            "w": 0.5486,
+            "h": 0.1499
+          },
+          "area": 0.0822,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 24",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2312,
+            "y": 0.7251,
+            "w": 0.1866,
+            "h": 0.1709
+          },
+          "area": 0.0319,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 35",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2312,
+            "y": 0.7251,
+            "w": 0.1866,
+            "h": 0.1709
+          },
+          "area": 0.0319,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 44",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2312,
+            "y": 0.7251,
+            "w": 0.1866,
+            "h": 0.1709
+          },
+          "area": 0.0319,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 24.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0187,
+            "y": 0.0278,
+            "w": 0.0675,
+            "h": 0.12
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "旁门左道PPT出品",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0857,
+            "w": 0.1906,
+            "h": 0.0404
+          },
+          "area": 0.0077,
+          "text": "Analysis of existing problems",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 5,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 28.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s13",
+      "title_guess": "Analysis of existing problems",
+      "layout_job": "research-question",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.2004,
+        "image_area": 0,
+        "shape_area": 0.5628,
+        "text_blob": "Analysis of existing problems 存在问题分析 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 01 02 03",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.378,
+            "y": 0.2244,
+            "w": 0.2525,
+            "h": 0.6444
+          },
+          "area": 0.1627,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6694,
+            "y": 0.2244,
+            "w": 0.2525,
+            "h": 0.6444
+          },
+          "area": 0.1627,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0911,
+            "y": 0.2244,
+            "w": 0.2525,
+            "h": 0.6444
+          },
+          "area": 0.1627,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "文本框 87",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1207,
+            "y": 0.5538,
+            "w": 0.1931,
+            "h": 0.2517
+          },
+          "area": 0.0486,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "文本框 90",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4077,
+            "y": 0.5538,
+            "w": 0.1931,
+            "h": 0.2517
+          },
+          "area": 0.0486,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 94",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6991,
+            "y": 0.5538,
+            "w": 0.1931,
+            "h": 0.2517
+          },
+          "area": 0.0486,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "Oval 25",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1611,
+            "y": 0.2581,
+            "w": 0.1123,
+            "h": 0.1978
+          },
+          "area": 0.0222,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "Oval 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4481,
+            "y": 0.2581,
+            "w": 0.1123,
+            "h": 0.1981
+          },
+          "area": 0.0222,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "Oval 36",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7395,
+            "y": 0.2581,
+            "w": 0.1123,
+            "h": 0.1981
+          },
+          "area": 0.0222,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 36.0,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s14",
+      "title_guess": "Analysis of existing problems",
+      "layout_job": "research-question",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,bottom-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 19,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.2188,
+        "image_area": 0,
+        "shape_area": 0.3903,
+        "text_blob": "Analysis of existing problems 存在问题分析 问题分析 问题分析 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 101",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.105,
+            "y": 0.2898,
+            "w": 0.395,
+            "h": 0.48
+          },
+          "area": 0.1896,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形 102",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.2898,
+            "w": 0.395,
+            "h": 0.48
+          },
+          "area": 0.1896,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "文本框 128",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2312,
+            "y": 0.7251,
+            "w": 0.3111,
+            "h": 0.2921
+          },
+          "area": 0.0909,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 4,
+          "name": "文本框 132",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2312,
+            "y": 0.7251,
+            "w": 0.3111,
+            "h": 0.2921
+          },
+          "area": 0.0909,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 5,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0187,
+            "y": 0.0278,
+            "w": 0.0675,
+            "h": 0.12
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "旁门左道PPT出品",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0857,
+            "w": 0.1906,
+            "h": 0.0404
+          },
+          "area": 0.0077,
+          "text": "Analysis of existing problems",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 104",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.105,
+            "y": 0.228,
+            "w": 0.0908,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 18.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 124",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.105,
+            "y": 0.228,
+            "w": 0.0908,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 18.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "文本框 127",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2312,
+            "y": 0.6786,
+            "w": 0.0908,
+            "h": 0.0539
+          },
+          "area": 0.0049,
+          "text": "问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 18.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 22.0,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s15",
+      "title_guess": "YOUR LOGO",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,top-left:3,middle-center:2",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 19,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.3105,
+        "image_area": 0.1073,
+        "shape_area": 1.034,
+        "text_blob": "YOUR LOGO 04 PART FOUR 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; Work plan for the next stage 后期工作计划",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5212,
+            "y": 0.21,
+            "w": 0.2363,
+            "h": 0.8213
+          },
+          "area": 0.1941,
+          "text": "04",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 180.0,
+            "align": "center",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 3,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1423,
+            "y": 0.2779,
+            "w": 0.2471,
+            "h": 0.4343
+          },
+          "area": 0.1073,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5328,
+            "y": 0.4913,
+            "w": 0.3181,
+            "h": 0.1212
+          },
+          "area": 0.0386,
+          "text": "后期工作计划",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5332,
+            "y": 0.681,
+            "w": 0.3288,
+            "h": 0.0895
+          },
+          "area": 0.0294,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "bold": false,
+            "align": "left",
+            "line_spacing": 1.5,
+            "space_after": 0.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 108.0,
+          "bold": true,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "bold": false,
+          "align": "left",
+          "line_spacing": 1.5,
+          "space_after": 0.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 20.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s16",
+      "title_guess": "Work plan for the next stage",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:7,middle-right:1,middle-left:1",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 19,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1997,
+        "image_area": 0.1892,
+        "shape_area": 0.4911,
+        "text_blob": "Work plan for the next stage 后期工作计划 Analysis of existing problems 存在问题分析 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 业绩展示 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 29",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7,
+            "y": 0.0,
+            "w": 0.3,
+            "h": 1.0
+          },
+          "area": 0.3,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0783,
+            "y": 0.1862,
+            "w": 0.2873,
+            "h": 0.6585
+          },
+          "area": 0.1892,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0704,
+            "y": 0.1577,
+            "w": 0.4831,
+            "h": 0.1894
+          },
+          "area": 0.0915,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 25",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0704,
+            "y": 0.1577,
+            "w": 0.4831,
+            "h": 0.1894
+          },
+          "area": 0.0915,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3465,
+            "y": 0.3202,
+            "w": 0.4808,
+            "h": 0.1499
+          },
+          "area": 0.0721,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 14.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0857,
+            "y": 0.229,
+            "w": 0.4524,
+            "h": 0.0901
+          },
+          "area": 0.0408,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0857,
+            "y": 0.229,
+            "w": 0.4524,
+            "h": 0.0901
+          },
+          "area": 0.0408,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.1666,
+            "h": 0.0673
+          },
+          "area": 0.0112,
+          "text": "存在问题分析",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 24.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "后期工作计划",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0187,
+            "y": 0.0278,
+            "w": 0.0675,
+            "h": 0.12
+          },
+          "area": 0.0081,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 2,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "微软雅黑",
+          "font_size": 15.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 23.0,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s17",
+      "title_guess": "Work plan for the next stage",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-right:2,bottom-left:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 19,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1321,
+        "image_area": 0,
+        "shape_area": 0.8864,
+        "text_blob": "Work plan for the next stage 后期工作计划 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 工作计划",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 71",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6942,
+            "w": 1.0,
+            "h": 0.3058
+          },
+          "area": 0.3058,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 72",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5229,
+            "y": 0.2209,
+            "w": 0.43,
+            "h": 0.6444
+          },
+          "area": 0.2771,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图表 75",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5401,
+            "y": 0.2769,
+            "w": 0.3833,
+            "h": 0.5081
+          },
+          "area": 0.1948,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 57",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0865,
+            "y": 0.2287,
+            "w": 0.2292,
+            "h": 0.6444
+          },
+          "area": 0.1477,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 67",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0865,
+            "y": 0.2287,
+            "w": 0.2292,
+            "h": 0.6444
+          },
+          "area": 0.1477,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "文本框 59",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1045,
+            "y": 0.558,
+            "w": 0.1931,
+            "h": 0.2517
+          },
+          "area": 0.0486,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "文本框 69",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1045,
+            "y": 0.558,
+            "w": 0.1931,
+            "h": 0.2517
+          },
+          "area": 0.0486,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "align": "center",
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "图表 63",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1237,
+            "y": 0.2425,
+            "w": 0.1547,
+            "h": 0.2751
+          },
+          "area": 0.0426,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 9,
+          "name": "图表 70",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1237,
+            "y": 0.2425,
+            "w": 0.1547,
+            "h": 0.2751
+          },
+          "area": 0.0426,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 10,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "后期工作计划",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 2,
+          "body": 2
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 23.0,
+          "align": "left",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "center",
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s18",
+      "title_guess": "Work plan for the next stage",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,top-left:3,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1429,
+        "image_area": 0,
+        "shape_area": 0.252,
+        "text_blob": "Work plan for the next stage 后期工作计划 01 02 03 04 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 工作计划 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 右 80",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0707,
+            "y": 0.4386,
+            "w": 0.8582,
+            "h": 0.0796
+          },
+          "area": 0.0683,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "对话气泡: 圆角矩形 95",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.214,
+            "w": 0.2037,
+            "h": 0.2027
+          },
+          "area": 0.0413,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "对话气泡: 圆角矩形 106",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0761,
+            "y": 0.214,
+            "w": 0.2037,
+            "h": 0.2027
+          },
+          "area": 0.0413,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "对话气泡: 圆角矩形 110",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2648,
+            "y": 0.6227,
+            "w": 0.2037,
+            "h": 0.2027
+          },
+          "area": 0.0413,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "对话气泡: 圆角矩形 115",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2648,
+            "y": 0.6227,
+            "w": 0.2037,
+            "h": 0.2027
+          },
+          "area": 0.0413,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 6,
+          "name": "文本框 102",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0884,
+            "y": 0.2757,
+            "w": 0.1866,
+            "h": 0.1305
+          },
+          "area": 0.0244,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 7,
+          "name": "文本框 108",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0884,
+            "y": 0.2757,
+            "w": 0.1866,
+            "h": 0.1305
+          },
+          "area": 0.0244,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 8,
+          "name": "文本框 112",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2771,
+            "y": 0.6843,
+            "w": 0.1866,
+            "h": 0.1305
+          },
+          "area": 0.0244,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 117",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2771,
+            "y": 0.6843,
+            "w": 0.1866,
+            "h": 0.1305
+          },
+          "area": 0.0244,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "旁门左道PPT出品",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.0407,
+            "w": 0.154,
+            "h": 0.0628
+          },
+          "area": 0.0097,
+          "text": "后期工作计划",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 22.0,
+            "align": "left",
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 5
+        },
+        "image": {}
+      },
+      "text_style_tokens": {
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 18.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "label": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "align": "left",
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "扁平风格-01-静态-f9c1b891-s19",
+      "title_guess": "感谢聆听!",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,top-left:3,middle-center:2",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.1557,
+        "image_area": 0.1417,
+        "shape_area": 1.0588,
+        "text_blob": "感谢聆听! 商务工作总结汇报 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 汇报人:xxx 汇报时间:1月1日",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.1666,
+            "w": 0.8625,
+            "h": 0.7068
+          },
+          "area": 0.6096,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 2,
+          "name": "椭圆 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5721,
+            "y": 0.2123,
+            "w": 0.2971,
+            "h": 0.5282
+          },
+          "area": 0.1569,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 3,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6064,
+            "y": 0.2474,
+            "w": 0.2477,
+            "h": 0.5722
+          },
+          "area": 0.1417,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 4,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6025,
+            "y": 0.2664,
+            "w": 0.2362,
+            "h": 0.4199
+          },
+          "area": 0.0992,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 5,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1178,
+            "y": 0.4006,
+            "w": 0.4303,
+            "h": 0.1257
+          },
+          "area": 0.0541,
+          "text": "商务工作总结汇报",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 48.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1637,
+            "h": 0.3111
+          },
+          "area": 0.0509,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1186,
+            "y": 0.2635,
+            "w": 0.3763,
+            "h": 0.1346
+          },
+          "area": 0.0506,
+          "text": "感谢聆听!",
+          "editable": true,
+          "text_style": {
+            "font": "思源宋体 CN Heavy",
+            "font_size": 54.0,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 9,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1186,
+            "y": 0.5492,
+            "w": 0.4176,
+            "h": 0.0901
+          },
+          "area": 0.0376,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true,
+          "text_style": {
+            "font": "微软雅黑",
+            "font_size": 12.0,
+            "line_spacing": 1.5,
+            "margin_left": 0.1,
+            "margin_right": 0.1,
+            "margin_top": 0.05,
+            "margin_bottom": 0.05
+          }
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 14",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1316,
+            "h": 0.2559
+          },
+          "area": 0.0337,
+          "text": "",
+          "editable": false,
+          "text_style": {}
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "text_style_tokens": {
+        "label": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 51.0,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "body": {
+          "font": "微软雅黑",
+          "font_size": 12.0,
+          "line_spacing": 1.5,
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        },
+        "footer": {
+          "font": "思源宋体 CN Heavy",
+          "font_size": 16.0,
+          "align": "center",
+          "margin_left": 0.1,
+          "margin_right": 0.1,
+          "margin_top": 0.05,
+          "margin_bottom": 0.05
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高证据科研",
+        "高强度数据说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 19,
+    "layout_job_counts": {
+      "research-question": 5,
+      "two-column": 4,
+      "process-strip": 3,
+      "flow-diagram": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "image-hero": 1,
+      "kpi-grid": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 11,
+      "image": 5,
+      "text": 2,
+      "chart": 1
+    },
+    "density_counts": {
+      "medium-high": 15,
+      "high": 2,
+      "medium": 2
+    },
+    "dominant_layout_jobs": [
+      "research-question",
+      "two-column",
+      "process-strip",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "text"
+    ]
+  }
+}

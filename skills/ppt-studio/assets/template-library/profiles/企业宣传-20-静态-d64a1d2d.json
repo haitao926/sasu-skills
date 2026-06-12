@@ -1,0 +1,4195 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:16.356287+00:00",
+  "template_id": "企业宣传-20-静态-d64a1d2d",
+  "template_profile_path": "assets/template-library/profiles/企业宣传-20-静态-d64a1d2d.json",
+  "source_template": {
+    "name": "企业宣传(20)—静态.pptx",
+    "category": "企业宣传（2套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/企业宣传（2套）/企业宣传(20)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 19,
+    "media_count": 37,
+    "image_media_count": 29,
+    "motion_hint": "static",
+    "tags": [
+      "企业宣传",
+      "品牌介绍",
+      "公司画册",
+      "封面",
+      "公司介绍",
+      "业务板块",
+      "案例展示",
+      "结束页",
+      "品牌感",
+      "大图",
+      "宣传画册",
+      "现代",
+      "品牌图",
+      "产品图",
+      "团队照",
+      "案例图",
+      "短口号",
+      "品牌标签",
+      "少量说明",
+      "静态版",
+      "中",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "企业宣传",
+    "scenario": [
+      "企业宣传",
+      "品牌介绍",
+      "公司画册"
+    ],
+    "best_for": [
+      "品牌介绍",
+      "宣传手册",
+      "企业展示"
+    ],
+    "avoid": [
+      "科研答辩",
+      "高密度长文"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "公司介绍",
+      "业务板块",
+      "案例",
+      "结束页"
+    ],
+    "visual": [
+      "品牌感",
+      "大图",
+      "宣传画册",
+      "现代"
+    ],
+    "image_strategy": [
+      "品牌图",
+      "产品图",
+      "团队照",
+      "案例图"
+    ],
+    "text_strategy": [
+      "短口号",
+      "品牌标签",
+      "少量说明"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "process-strip",
+      "flow-diagram",
+      "table",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "mixed",
+      "image"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "diagram-block",
+      "image",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-left",
+      "middle-center",
+      "bottom-center",
+      "top-left",
+      "middle-right",
+      "bottom-left"
+    ],
+    "template_text_signature": "企业宣传 / 企业介绍 / 公司画册 Contents Part one 企业简介 企业简介 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据 Part TWO 产品介绍 产品介绍 产品介绍 Part THREE 成功案例 成功案例 成功案例 Part FOUR 标题 添加 标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 企业宣传 / 企业介绍 / 公司画册",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s01",
+      "title_guess": "企业宣传 / 企业介绍 / 公司画册",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 102,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 19,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 102,
+        "connector_count": 1,
+        "text_area": 0.1546,
+        "image_area": 0.3688,
+        "shape_area": 0.437,
+        "text_blob": "企业宣传 / 企业介绍 / 公司画册 公司介绍 Company introduction 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 公司: XXXX有限公司 汇报 : 某某某",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5402,
+            "y": 0.0873,
+            "w": 0.4598,
+            "h": 0.802
+          },
+          "area": 0.3688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 34",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6186,
+            "y": 0.0775,
+            "w": 0.3656,
+            "h": 0.6499
+          },
+          "area": 0.2376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 151",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8833,
+            "w": 1.0,
+            "h": 0.1174
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.2588,
+            "w": 0.312,
+            "h": 0.1705
+          },
+          "area": 0.0532,
+          "text": "公司介绍",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0862,
+            "y": 0.5303,
+            "w": 0.4138,
+            "h": 0.0901
+          },
+          "area": 0.0373,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3947,
+            "y": 0.268,
+            "w": 0.2469,
+            "h": 0.1391
+          },
+          "area": 0.0343,
+          "text": "Company introduction",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0544,
+            "y": 0.5049,
+            "w": 0.4731,
+            "h": 0.072
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0718,
+            "y": 0.5162,
+            "w": 0.3716,
+            "h": 0.0494
+          },
+          "area": 0.0184,
+          "text": "企业宣传 / 企业介绍 / 公司画册",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 单圆角 1",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.8464,
+            "w": 0.0924,
+            "h": 0.1549
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 47",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2814,
+            "y": 0.6818,
+            "w": 0.1732,
+            "h": 0.069
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s02",
+      "title_guess": "Contents",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-right:3,top-center:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 56,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 19,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 56,
+        "connector_count": 0,
+        "text_area": 0.2928,
+        "image_area": 0,
+        "shape_area": 1.8511,
+        "text_blob": "Contents 企业简介 01 合作伙伴 04 产品介绍 02 成功案例 03 Company profile Business partner Product introduction Successful case 目录 Contents",
+        "title_like": 3,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆: 空心 43",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.088,
+            "y": -0.0634,
+            "w": 0.6553,
+            "h": 1.165
+          },
+          "area": 0.7634,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 21",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0661,
+            "y": 0.0424,
+            "w": 0.5148,
+            "h": 0.9152
+          },
+          "area": 0.4711,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 31",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.1883,
+            "w": 0.3719,
+            "h": 0.6235
+          },
+          "area": 0.2319,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "title",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.873,
+            "y": -0.0,
+            "w": 0.1484,
+            "h": 1.0
+          },
+          "area": 0.1484,
+          "text": "Contents",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0608,
+            "y": 0.2586,
+            "w": 0.2715,
+            "h": 0.4827
+          },
+          "area": 0.1311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3931,
+            "y": 0.2012,
+            "w": 0.5148,
+            "h": 0.1208
+          },
+          "area": 0.0622,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4235,
+            "y": 0.3601,
+            "w": 0.5148,
+            "h": 0.1208
+          },
+          "area": 0.0622,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4235,
+            "y": 0.519,
+            "w": 0.5148,
+            "h": 0.1208
+          },
+          "area": 0.0622,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 26",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3931,
+            "y": 0.6779,
+            "w": 0.5148,
+            "h": 0.1208
+          },
+          "area": 0.0622,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 10",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1223,
+            "y": 0.3931,
+            "w": 0.1485,
+            "h": 0.1481
+          },
+          "area": 0.022,
+          "text": "目录",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 8,
+          "footer": 4,
+          "section_label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s03",
+      "title_guess": "Part one",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:3,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 82,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 82,
+        "connector_count": 1,
+        "text_area": 0.1688,
+        "image_area": 0.2129,
+        "shape_area": 1.3659,
+        "text_blob": "Part one 企业简介 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 Company profile",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 17",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0464,
+            "y": 0.0757,
+            "w": 0.9071,
+            "h": 0.8486
+          },
+          "area": 0.7698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 95",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7138,
+            "w": 1.0,
+            "h": 0.2862
+          },
+          "area": 0.2862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0464,
+            "y": 0.4734,
+            "w": 0.4702,
+            "h": 0.4527
+          },
+          "area": 0.2129,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆: 空心 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1036,
+            "y": 0.2359,
+            "w": 0.2859,
+            "h": 0.4794
+          },
+          "area": 0.1371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.2739,
+            "w": 0.2135,
+            "h": 0.5116
+          },
+          "area": 0.1092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5592,
+            "y": 0.7158,
+            "w": 0.3518,
+            "h": 0.1396
+          },
+          "area": 0.0491,
+          "text": "Part one",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.3527,
+            "w": 0.304,
+            "h": 0.1616
+          },
+          "area": 0.0491,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.5255,
+            "w": 0.4217,
+            "h": 0.0901
+          },
+          "area": 0.038,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 165",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1816,
+            "y": 0.3327,
+            "w": 0.1278,
+            "h": 0.2272
+          },
+          "area": 0.029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 100",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.123,
+            "h": 0.2198
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s04",
+      "title_guess": "企业简介",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 3,
+        "text_area": 0.2387,
+        "image_area": 0.154,
+        "shape_area": 0.0915,
+        "text_blob": "企业简介 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 890+ 添加标题文本 200% 添加标题文本 160 添加标题文本 Company profile 企业简介 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6947,
+            "y": 0.2481,
+            "w": 0.2424,
+            "h": 0.6352
+          },
+          "area": 0.154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.4918,
+            "w": 0.4246,
+            "h": 0.31
+          },
+          "area": 0.1316,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5352,
+            "y": 0.2481,
+            "w": 0.1441,
+            "h": 0.6352
+          },
+          "area": 0.0915,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3032,
+            "w": 0.2295,
+            "h": 0.1032
+          },
+          "area": 0.0237,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 32",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.4103,
+            "w": 0.4009,
+            "h": 0.0449
+          },
+          "area": 0.018,
+          "text": "Company profile",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.0493,
+            "w": 0.0904,
+            "h": 0.1212
+          },
+          "area": 0.011,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5259,
+            "y": 0.2758,
+            "w": 0.1325,
+            "h": 0.0763
+          },
+          "area": 0.0101,
+          "text": "890+",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5335,
+            "y": 0.4392,
+            "w": 0.1325,
+            "h": 0.0763
+          },
+          "area": 0.0101,
+          "text": "200%",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5259,
+            "y": 0.6586,
+            "w": 0.1325,
+            "h": 0.0763
+          },
+          "area": 0.0101,
+          "text": "160",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s05",
+      "title_guess": "企业简介",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-right:4,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 19,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2536,
+        "image_area": 0.0101,
+        "shape_area": 0.3093,
+        "text_blob": "企业简介 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 企业简介 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 Company profile",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3965,
+            "y": 0.2865,
+            "w": 0.5403,
+            "h": 0.1728
+          },
+          "area": 0.0934,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 22",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3965,
+            "y": 0.4867,
+            "w": 0.5403,
+            "h": 0.1728
+          },
+          "area": 0.0934,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3965,
+            "y": 0.6868,
+            "w": 0.5403,
+            "h": 0.1728
+          },
+          "area": 0.0934,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0716,
+            "y": 0.5796,
+            "w": 0.2812,
+            "h": 0.2629
+          },
+          "area": 0.0739,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.319,
+            "w": 0.3958,
+            "h": 0.1026
+          },
+          "area": 0.0406,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 29",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.5167,
+            "w": 0.3958,
+            "h": 0.1026
+          },
+          "area": 0.0406,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5084,
+            "y": 0.7194,
+            "w": 0.3958,
+            "h": 0.1026
+          },
+          "area": 0.0406,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0716,
+            "y": 0.4112,
+            "w": 0.2014,
+            "h": 0.0942
+          },
+          "area": 0.019,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.0493,
+            "w": 0.0904,
+            "h": 0.1212
+          },
+          "area": 0.011,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s06",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,bottom-center:3,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 19,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2359,
+        "image_area": 0.1516,
+        "shape_area": 0.2326,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 企业简介 01 添加标题 添加标题 添加标题",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 2",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0618,
+            "y": 0.2476,
+            "w": 0.5072,
+            "h": 0.4249
+          },
+          "area": 0.2155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5802,
+            "y": 0.2476,
+            "w": 0.3569,
+            "h": 0.4249
+          },
+          "area": 0.1516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0792,
+            "y": 0.7413,
+            "w": 0.8688,
+            "h": 0.1305
+          },
+          "area": 0.1134,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0917,
+            "y": 0.3739,
+            "w": 0.4408,
+            "h": 0.15
+          },
+          "area": 0.0661,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0917,
+            "y": 0.2999,
+            "w": 0.2769,
+            "h": 0.0673
+          },
+          "area": 0.0186,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "企业简介",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.0493,
+            "w": 0.0904,
+            "h": 0.1212
+          },
+          "area": 0.011,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 32",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4337,
+            "y": 0.7627,
+            "w": 0.1046,
+            "h": 0.0541
+          },
+          "area": 0.0057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5537,
+            "y": 0.7627,
+            "w": 0.1046,
+            "h": 0.0541
+          },
+          "area": 0.0057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 34",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6737,
+            "y": 0.7627,
+            "w": 0.1046,
+            "h": 0.0541
+          },
+          "area": 0.0057,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 2,
+          "label": 3,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s07",
+      "title_guess": "Part TWO",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:3,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 82,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 82,
+        "connector_count": 1,
+        "text_area": 0.1728,
+        "image_area": 0.2129,
+        "shape_area": 1.3659,
+        "text_blob": "Part TWO 产品介绍 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 Product introduction 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 17",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0464,
+            "y": 0.0757,
+            "w": 0.9071,
+            "h": 0.8486
+          },
+          "area": 0.7698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 95",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7138,
+            "w": 1.0,
+            "h": 0.2862
+          },
+          "area": 0.2862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0464,
+            "y": 0.4734,
+            "w": 0.4702,
+            "h": 0.4527
+          },
+          "area": 0.2129,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆: 空心 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.2322,
+            "w": 0.2859,
+            "h": 0.4794
+          },
+          "area": 0.1371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.2739,
+            "w": 0.2135,
+            "h": 0.5116
+          },
+          "area": 0.1092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5592,
+            "y": 0.7158,
+            "w": 0.3518,
+            "h": 0.1396
+          },
+          "area": 0.0491,
+          "text": "Part TWO",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.3527,
+            "w": 0.304,
+            "h": 0.1616
+          },
+          "area": 0.0491,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.5255,
+            "w": 0.4217,
+            "h": 0.0901
+          },
+          "area": 0.038,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1816,
+            "y": 0.3327,
+            "w": 0.1278,
+            "h": 0.2272
+          },
+          "area": 0.029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 100",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.123,
+            "h": 0.2198
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s08",
+      "title_guess": "产品介绍",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 19,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1885,
+        "image_area": 0.2956,
+        "shape_area": 0.4425,
+        "text_blob": "产品介绍 02 产品介绍 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 Product introduction 添加标题 添加标题 添加标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 7",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0159,
+            "y": 0.2426,
+            "w": 0.393,
+            "h": 0.6986
+          },
+          "area": 0.2745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0233,
+            "y": 0.3333,
+            "w": 0.3198,
+            "h": 0.6667
+          },
+          "area": 0.2132,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.074,
+            "y": 0.3459,
+            "w": 0.2768,
+            "h": 0.492
+          },
+          "area": 0.1362,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4257,
+            "y": 0.4918,
+            "w": 0.5122,
+            "h": 0.2158
+          },
+          "area": 0.1105,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 30",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1281,
+            "y": 0.3537,
+            "w": 0.1479,
+            "h": 0.5571
+          },
+          "area": 0.0824,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4257,
+            "y": 0.3032,
+            "w": 0.2198,
+            "h": 0.1032
+          },
+          "area": 0.0227,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4257,
+            "y": 0.4103,
+            "w": 0.3972,
+            "h": 0.0449
+          },
+          "area": 0.0178,
+          "text": "Product introduction",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.0493,
+            "w": 0.0904,
+            "h": 0.1212
+          },
+          "area": 0.011,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4285,
+            "y": 0.7688,
+            "w": 0.1455,
+            "h": 0.0726
+          },
+          "area": 0.0106,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s09",
+      "title_guess": "产品介绍",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 9,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 19,
+        "text_count": 9,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1875,
+        "image_area": 0.1837,
+        "shape_area": 0.4628,
+        "text_blob": "产品介绍 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 Product introduction",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2841,
+            "w": 0.5624,
+            "h": 0.6014
+          },
+          "area": 0.3382,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.637,
+            "y": 0.2841,
+            "w": 0.3001,
+            "h": 0.6014
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0938,
+            "y": 0.5578,
+            "w": 0.2444,
+            "h": 0.2551
+          },
+          "area": 0.0623,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.35,
+            "y": 0.5578,
+            "w": 0.2444,
+            "h": 0.2551
+          },
+          "area": 0.0623,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0938,
+            "y": 0.3996,
+            "w": 0.5005,
+            "h": 0.0901
+          },
+          "area": 0.0451,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6461,
+            "y": 0.7159,
+            "w": 0.282,
+            "h": 0.1571
+          },
+          "area": 0.0443,
+          "text": "Product introduction",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0938,
+            "y": 0.3256,
+            "w": 0.2769,
+            "h": 0.0673
+          },
+          "area": 0.0186,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3639,
+            "y": 0.6764,
+            "w": 0.2207,
+            "h": 0.08
+          },
+          "area": 0.0177,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1063,
+            "y": 0.6764,
+            "w": 0.2125,
+            "h": 0.08
+          },
+          "area": 0.017,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s10",
+      "title_guess": "产品介绍",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:3,middle-left:2,top-left:2",
+      "counts": {
+        "text": 9,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 19,
+        "text_count": 9,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1895,
+        "image_area": 0.0826,
+        "shape_area": 0.2946,
+        "text_blob": "产品介绍 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息,但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 产品介绍 Product introduction",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0629,
+            "y": 0.5783,
+            "w": 0.8742,
+            "h": 0.3072
+          },
+          "area": 0.2686,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 22",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6462,
+            "y": 0.2678,
+            "w": 0.2909,
+            "h": 0.2591
+          },
+          "area": 0.0754,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.4024,
+            "w": 0.4955,
+            "h": 0.1305
+          },
+          "area": 0.0647,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息,但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2088,
+            "y": 0.7201,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6273,
+            "y": 0.7201,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3508,
+            "w": 0.3972,
+            "h": 0.0449
+          },
+          "area": 0.0178,
+          "text": "Product introduction",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2678,
+            "w": 0.2198,
+            "h": 0.0763
+          },
+          "area": 0.0168,
+          "text": "产品介绍",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1025,
+            "y": 0.6558,
+            "w": 0.0855,
+            "h": 0.1521
+          },
+          "area": 0.013,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5448,
+            "y": 0.6558,
+            "w": 0.0855,
+            "h": 0.1521
+          },
+          "area": 0.013,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s11",
+      "title_guess": "Part THREE",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:3,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 82,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 82,
+        "connector_count": 1,
+        "text_area": 0.1777,
+        "image_area": 0.2129,
+        "shape_area": 1.3659,
+        "text_blob": "Part THREE 成功案例 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 Successful case 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 17",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0464,
+            "y": 0.0757,
+            "w": 0.9071,
+            "h": 0.8486
+          },
+          "area": 0.7698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 95",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7138,
+            "w": 1.0,
+            "h": 0.2862
+          },
+          "area": 0.2862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0464,
+            "y": 0.4734,
+            "w": 0.4702,
+            "h": 0.4527
+          },
+          "area": 0.2129,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆: 空心 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.2322,
+            "w": 0.2859,
+            "h": 0.4794
+          },
+          "area": 0.1371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.2739,
+            "w": 0.2135,
+            "h": 0.5116
+          },
+          "area": 0.1092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5242,
+            "y": 0.7158,
+            "w": 0.3868,
+            "h": 0.1396
+          },
+          "area": 0.054,
+          "text": "Part THREE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.3527,
+            "w": 0.304,
+            "h": 0.1616
+          },
+          "area": 0.0491,
+          "text": "成功案例",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.5255,
+            "w": 0.4217,
+            "h": 0.0901
+          },
+          "area": 0.038,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1816,
+            "y": 0.3327,
+            "w": 0.1278,
+            "h": 0.2272
+          },
+          "area": 0.029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 100",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.123,
+            "h": 0.2198
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s12",
+      "title_guess": "成功案例",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2287,
+        "image_area": 0,
+        "shape_area": 0.3912,
+        "text_blob": "成功案例 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,请尽量言简意赅的阐述观点 添加标题 80% 单击此处输入你的正文,请尽量言简意赅的阐述观点 添加标题 80% 单击此处输入你的正文,请尽量言简意赅的阐述观点 添加标题 80%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.242,
+            "w": 0.2835,
+            "h": 0.4598
+          },
+          "area": 0.1304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3582,
+            "y": 0.242,
+            "w": 0.2835,
+            "h": 0.4598
+          },
+          "area": 0.1304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6543,
+            "y": 0.242,
+            "w": 0.2835,
+            "h": 0.4598
+          },
+          "area": 0.1304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.074,
+            "y": 0.753,
+            "w": 0.8632,
+            "h": 0.1305
+          },
+          "area": 0.1126,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图表 9",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6469,
+            "y": 0.3927,
+            "w": 0.2909,
+            "h": 0.291
+          },
+          "area": 0.0847,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 28",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.074,
+            "y": 0.4374,
+            "w": 0.2589,
+            "h": 0.2463
+          },
+          "area": 0.0638,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 21",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3731,
+            "y": 0.4464,
+            "w": 0.2589,
+            "h": 0.2374
+          },
+          "area": 0.0615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "成功案例",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4717,
+            "y": 0.3158,
+            "w": 0.154,
+            "h": 0.0773
+          },
+          "area": 0.0119,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4717,
+            "y": 0.3158,
+            "w": 0.154,
+            "h": 0.0773
+          },
+          "area": 0.0119,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s13",
+      "title_guess": "成功案例",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:5,middle-right:1,bottom-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.247,
+        "image_area": 0,
+        "shape_area": 0.7604,
+        "text_blob": "成功案例 03 成功 案例 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 61",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2896,
+            "y": 0.1839,
+            "w": 0.4208,
+            "h": 0.7481
+          },
+          "area": 0.3148,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 37",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3302,
+            "y": 0.2561,
+            "w": 0.3396,
+            "h": 0.6037
+          },
+          "area": 0.205,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆: 空心 33",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3299,
+            "y": 0.2736,
+            "w": 0.302,
+            "h": 0.5369
+          },
+          "area": 0.1621,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3767,
+            "y": 0.3567,
+            "w": 0.2086,
+            "h": 0.3708
+          },
+          "area": 0.0773,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 51",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7071,
+            "y": 0.3415,
+            "w": 0.2418,
+            "h": 0.1708
+          },
+          "area": 0.0413,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 53",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7071,
+            "y": 0.689,
+            "w": 0.2418,
+            "h": 0.1708
+          },
+          "area": 0.0413,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 57",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.3415,
+            "w": 0.2418,
+            "h": 0.1708
+          },
+          "area": 0.0413,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 59",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.689,
+            "w": 0.2418,
+            "h": 0.1708
+          },
+          "area": 0.0413,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点,单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4417,
+            "y": 0.4705,
+            "w": 0.1166,
+            "h": 0.175
+          },
+          "area": 0.0204,
+          "text": "成功 案例",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "成功案例",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s14",
+      "title_guess": "成功案例",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 14,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1954,
+        "image_area": 0.298,
+        "shape_area": 0.4411,
+        "text_blob": "成功案例 03 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 添加标题 添加标题 添加标题 03 04 01 02",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 23",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0238,
+            "y": 0.5035,
+            "w": 0.9561,
+            "h": 0.4095
+          },
+          "area": 0.3915,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 26",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.2547,
+            "w": 0.2095,
+            "h": 0.3554
+          },
+          "area": 0.0745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5058,
+            "y": 0.2547,
+            "w": 0.2095,
+            "h": 0.3554
+          },
+          "area": 0.0745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2839,
+            "y": 0.2547,
+            "w": 0.2095,
+            "h": 0.3554
+          },
+          "area": 0.0745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 39",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7276,
+            "y": 0.2547,
+            "w": 0.2095,
+            "h": 0.3554
+          },
+          "area": 0.0745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0711,
+            "y": 0.7178,
+            "w": 0.1915,
+            "h": 0.1305
+          },
+          "area": 0.025,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2929,
+            "y": 0.7178,
+            "w": 0.1915,
+            "h": 0.1305
+          },
+          "area": 0.025,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5147,
+            "y": 0.7178,
+            "w": 0.1915,
+            "h": 0.1305
+          },
+          "area": 0.025,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7366,
+            "y": 0.7178,
+            "w": 0.1915,
+            "h": 0.1305
+          },
+          "area": 0.025,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "成功案例",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "footer": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s15",
+      "title_guess": "Part FOUR",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:3,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 82,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 82,
+        "connector_count": 1,
+        "text_area": 0.1777,
+        "image_area": 0.2129,
+        "shape_area": 1.3659,
+        "text_blob": "Part FOUR 合作伙伴 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 Business partner 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 17",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0464,
+            "y": 0.0757,
+            "w": 0.9071,
+            "h": 0.8486
+          },
+          "area": 0.7698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 95",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7138,
+            "w": 1.0,
+            "h": 0.2862
+          },
+          "area": 0.2862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0464,
+            "y": 0.4734,
+            "w": 0.4702,
+            "h": 0.4527
+          },
+          "area": 0.2129,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆: 空心 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1026,
+            "y": 0.2322,
+            "w": 0.2859,
+            "h": 0.4794
+          },
+          "area": 0.1371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1398,
+            "y": 0.2739,
+            "w": 0.2135,
+            "h": 0.5116
+          },
+          "area": 0.1092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5242,
+            "y": 0.7158,
+            "w": 0.3868,
+            "h": 0.1396
+          },
+          "area": 0.054,
+          "text": "Part FOUR",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.3527,
+            "w": 0.304,
+            "h": 0.1616
+          },
+          "area": 0.0491,
+          "text": "合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4229,
+            "y": 0.5255,
+            "w": 0.4217,
+            "h": 0.0901
+          },
+          "area": 0.038,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1816,
+            "y": 0.3327,
+            "w": 0.1278,
+            "h": 0.2272
+          },
+          "area": 0.029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 100",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.123,
+            "h": 0.2198
+          },
+          "area": 0.027,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s16",
+      "title_guess": "标题",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:5,bottom-left:2,middle-center:1",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.2379,
+        "image_area": 0.2304,
+        "shape_area": 0.1521,
+        "text_blob": "标题 标题 标题 合作伙伴 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 Business partner 合作伙伴 04 添加标题 添加标题 添加标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0528,
+            "y": 0.4397,
+            "w": 0.4482,
+            "h": 0.31
+          },
+          "area": 0.1389,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2307,
+            "w": 0.1258,
+            "h": 0.6107
+          },
+          "area": 0.0768,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1899,
+            "y": 0.2307,
+            "w": 0.1258,
+            "h": 0.6107
+          },
+          "area": 0.0768,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3227,
+            "y": 0.2307,
+            "w": 0.1258,
+            "h": 0.6107
+          },
+          "area": 0.0768,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1896,
+            "y": 0.5033,
+            "w": 0.1258,
+            "h": 0.3403
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3227,
+            "y": 0.5033,
+            "w": 0.1258,
+            "h": 0.3403
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.5033,
+            "w": 0.1258,
+            "h": 0.3403
+          },
+          "area": 0.0428,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0528,
+            "y": 0.2785,
+            "w": 0.2198,
+            "h": 0.1032
+          },
+          "area": 0.0227,
+          "text": "合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0528,
+            "y": 0.3856,
+            "w": 0.3839,
+            "h": 0.0449
+          },
+          "area": 0.0172,
+          "text": "Business partner",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "合作伙伴",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s17",
+      "title_guess": "添加 标题",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,bottom-center:2,top-left:1",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 19,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.2598,
+        "image_area": 0,
+        "shape_area": 0.3387,
+        "text_blob": "添加 标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 04 合作伙伴 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "菱形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2871,
+            "y": 0.5356,
+            "w": 0.3768,
+            "h": 0.3402
+          },
+          "area": 0.1282,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "菱形 4",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.6023,
+            "w": 0.2464,
+            "h": 0.198
+          },
+          "area": 0.0488,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "菱形 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.5249,
+            "w": 0.2464,
+            "h": 0.198
+          },
+          "area": 0.0488,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "菱形 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.4475,
+            "w": 0.2464,
+            "h": 0.198
+          },
+          "area": 0.0488,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "菱形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.3701,
+            "w": 0.2464,
+            "h": 0.198
+          },
+          "area": 0.0488,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 32",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.1305
+          },
+          "area": 0.0329,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 36",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.1305
+          },
+          "area": 0.0329,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 47",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.1305
+          },
+          "area": 0.0329,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 45",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.1305
+          },
+          "area": 0.0329,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 49",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "合作伙伴",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 4,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s18",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:8,middle-left:1,top-left:1",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 19,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.2538,
+        "image_area": 0,
+        "shape_area": 0.9369,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 添加标题 03 01 04 02 keyword keyword keyword keyword 合作伙伴 04",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2896,
+            "y": 0.2426,
+            "w": 0.6475,
+            "h": 0.6426
+          },
+          "area": 0.4161,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2374,
+            "y": 0.1139,
+            "w": 0.4639,
+            "h": 0.8247
+          },
+          "area": 0.3826,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.2426,
+            "w": 0.215,
+            "h": 0.6426
+          },
+          "area": 0.1382,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3598,
+            "y": 0.473,
+            "w": 0.2518,
+            "h": 0.0901
+          },
+          "area": 0.0227,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1372,
+            "y": 0.0614,
+            "w": 0.1826,
+            "h": 0.0942
+          },
+          "area": 0.0172,
+          "text": "合作伙伴",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4658,
+            "y": 0.5905,
+            "w": 0.1069,
+            "h": 0.1346
+          },
+          "area": 0.0144,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4658,
+            "y": 0.3117,
+            "w": 0.1069,
+            "h": 0.1346
+          },
+          "area": 0.0144,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 14,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "企业宣传-20-静态-d64a1d2d-s19",
+      "title_guess": "企业宣传 / 企业介绍 / 公司画册",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 6,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 102,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 19,
+        "text_count": 6,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 102,
+        "connector_count": 1,
+        "text_area": 0.1546,
+        "image_area": 0.3688,
+        "shape_area": 0.437,
+        "text_blob": "企业宣传 / 企业介绍 / 公司画册 感谢观看 Company introduction 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 公司: XXXX有限公司 汇报 : 某某某",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5402,
+            "y": 0.0873,
+            "w": 0.4598,
+            "h": 0.802
+          },
+          "area": 0.3688,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 34",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6186,
+            "y": 0.0775,
+            "w": 0.3656,
+            "h": 0.6499
+          },
+          "area": 0.2376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 151",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8833,
+            "w": 1.0,
+            "h": 0.1174
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.2588,
+            "w": 0.312,
+            "h": 0.1705
+          },
+          "area": 0.0532,
+          "text": "感谢观看",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0862,
+            "y": 0.5303,
+            "w": 0.4138,
+            "h": 0.0901
+          },
+          "area": 0.0373,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3947,
+            "y": 0.268,
+            "w": 0.2469,
+            "h": 0.1391
+          },
+          "area": 0.0343,
+          "text": "Company introduction",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0544,
+            "y": 0.5049,
+            "w": 0.4731,
+            "h": 0.072
+          },
+          "area": 0.0341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0718,
+            "y": 0.5162,
+            "w": 0.3716,
+            "h": 0.0494
+          },
+          "area": 0.0184,
+          "text": "企业宣传 / 企业介绍 / 公司画册",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 单圆角 1",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.8464,
+            "w": 0.0924,
+            "h": 0.1549
+          },
+          "area": 0.0143,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 47",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2814,
+            "y": 0.6818,
+            "w": 0.1732,
+            "h": 0.069
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "公司介绍",
+        "业务板块",
+        "案例",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研答辩",
+        "高密度长文"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 19,
+    "layout_job_counts": {
+      "two-column": 6,
+      "process-strip": 4,
+      "flow-diagram": 2,
+      "table": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "kpi-grid": 1,
+      "matrix-grid": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 11,
+      "mixed": 4,
+      "image": 3,
+      "chart": 1
+    },
+    "density_counts": {
+      "medium-high": 11,
+      "high": 8
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "process-strip",
+      "flow-diagram",
+      "table",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "mixed",
+      "image"
+    ]
+  }
+}

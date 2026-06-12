@@ -1,0 +1,6302 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:22.365150+00:00",
+  "template_id": "工作汇报-29-动态-9d5b02eb",
+  "template_profile_path": "assets/template-library/profiles/工作汇报-29-动态-9d5b02eb.json",
+  "source_template": {
+    "name": "工作汇报(29)—动态.pptx",
+    "category": "工作汇报（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(29)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 29,
+    "media_count": 21,
+    "image_media_count": 19,
+    "motion_hint": "dynamic",
+    "tags": [
+      "工作汇报",
+      "项目进展",
+      "部门总结",
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划",
+      "稳重",
+      "商务",
+      "清晰",
+      "中性",
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图",
+      "标题+要点",
+      "结果摘要",
+      "结论先行",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "工作汇报",
+    "scenario": [
+      "工作汇报",
+      "项目进展",
+      "部门总结"
+    ],
+    "best_for": [
+      "周报/月报/年度汇报",
+      "项目总结"
+    ],
+    "avoid": [
+      "儿童风",
+      "活动庆典风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "商务",
+      "清晰",
+      "中性"
+    ],
+    "image_strategy": [
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图"
+    ],
+    "text_strategy": [
+      "标题+要点",
+      "结果摘要",
+      "结论先行"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "flow-diagram",
+      "limitations-future",
+      "research-question",
+      "matrix-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "table",
+      "chart"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "diagram-block",
+      "image",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "bottom-center",
+      "bottom-left",
+      "bottom-right",
+      "top-left"
+    ],
+    "template_text_signature": "REPORT CONTENTS 01 工作内容概述 工作内容概述 工作内容概述 工作内容概述 02 工作完成情况 工作具体目标 工作具体目标 工作完成情况 工作完成情况 03 项目成果展示 项目成果展示 项目成果展示 项目成果展示 04 存在主要问题 问题分析 改进措施 工作问题罗列 05 未来工作计划 工作进度规划 工作进度规划 未来工作规划 谢谢观看",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s01",
+      "title_guess": "REPORT",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,middle-left:2,top-left:2",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 5,
+        "text_area": 0.3087,
+        "image_area": 0.2429,
+        "shape_area": 0.701,
+        "text_blob": "个人工作总结汇报 拼搏 创新 梦想 商务风 汇报人:某某某 时间:2025.04 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam amet magna aliquam REPORT 2025 凝心聚力 共创辉煌 Work Report",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "等腰三角形 3",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5253,
+            "y": 0.1456,
+            "w": 0.4747,
+            "h": 0.8544
+          },
+          "area": 0.4056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4948,
+            "y": 0.0515,
+            "w": 0.6044,
+            "h": 0.4019
+          },
+          "area": 0.2429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6155,
+            "y": 0.3226,
+            "w": 0.2715,
+            "h": 0.4827
+          },
+          "area": 0.1311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6295,
+            "y": 0.3476,
+            "w": 0.2434,
+            "h": 0.4327
+          },
+          "area": 0.1053,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 38",
+          "role": "title",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0048,
+            "y": 0.838,
+            "w": 0.4254,
+            "h": 0.2109
+          },
+          "area": 0.0897,
+          "text": "REPORT",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0479,
+            "y": 0.3414,
+            "w": 0.52,
+            "h": 0.1481
+          },
+          "area": 0.077,
+          "text": "个人工作总结汇报",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "等腰三角形 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0009,
+            "w": 0.1546,
+            "h": 0.2783
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0638,
+            "y": 0.4903,
+            "w": 0.4496,
+            "h": 0.0942
+          },
+          "area": 0.0424,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 33",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.055,
+            "y": 0.1946,
+            "w": 0.2234,
+            "h": 0.1616
+          },
+          "area": 0.0361,
+          "text": "商务风",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 61",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4972,
+            "y": 0.803,
+            "w": 0.1105,
+            "h": 0.1964
+          },
+          "area": 0.0217,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 8,
+          "body": 1,
+          "title": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-right:5,middle-right:2,top-left:1",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 29,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 9,
+        "text_area": 0.1909,
+        "image_area": 0,
+        "shape_area": 0.671,
+        "text_blob": "WORK REPORT 01. 工作内容概述 WORK REPORT 02. 工作完成情况 WORK REPORT 03. 项目成果展示 WORK REPORT 04. 工作问题罗列 WORK REPORT 05. 未来工作规划 CONTENTS 目录 拼搏 创新 梦想",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6419,
+            "y": 0.155,
+            "w": 0.3897,
+            "h": 0.6928
+          },
+          "area": 0.27,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0002,
+            "y": -0.0,
+            "w": 0.4362,
+            "h": 0.3892
+          },
+          "area": 0.1698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 47",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7072,
+            "y": 0.2711,
+            "w": 0.2591,
+            "h": 0.4606
+          },
+          "area": 0.1193,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 20",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0937,
+            "y": 0.3686,
+            "w": 0.2483,
+            "h": 0.1481
+          },
+          "area": 0.0368,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 50",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0889,
+            "y": 0.8442,
+            "w": 0.1793,
+            "h": 0.16
+          },
+          "area": 0.0287,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 14",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6855,
+            "y": 0.2583,
+            "w": 0.2248,
+            "h": 0.0673
+          },
+          "area": 0.0151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 23",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6855,
+            "y": 0.2583,
+            "w": 0.2248,
+            "h": 0.0673
+          },
+          "area": 0.0151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6855,
+            "y": 0.2583,
+            "w": 0.2248,
+            "h": 0.0673
+          },
+          "area": 0.0151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 35",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6855,
+            "y": 0.2583,
+            "w": 0.2248,
+            "h": 0.0673
+          },
+          "area": 0.0151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 41",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6855,
+            "y": 0.2583,
+            "w": 0.2248,
+            "h": 0.0673
+          },
+          "area": 0.0151,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8,
+          "label": 10,
+          "section_label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s03",
+      "title_guess": "01",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1792,
+        "image_area": 0.2021,
+        "shape_area": 0.4392,
+        "text_blob": "01 工作内容概述 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam PART ONE 拼搏 创新 梦想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6921,
+            "y": 0.5095,
+            "w": 0.4124,
+            "h": 0.49
+          },
+          "area": 0.2021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6831,
+            "y": 0.4701,
+            "w": 0.3183,
+            "h": 0.5316
+          },
+          "area": 0.1692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7198,
+            "y": 0.5289,
+            "w": 0.2816,
+            "h": 0.4703
+          },
+          "area": 0.1324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 2",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1115,
+            "y": 0.3633,
+            "w": 0.1998,
+            "h": 0.3388
+          },
+          "area": 0.0677,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.3886,
+            "w": 0.3615,
+            "h": 0.1557
+          },
+          "area": 0.0563,
+          "text": "工作内容概述",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3674,
+            "y": 0.545,
+            "w": 0.4385,
+            "h": 0.0942
+          },
+          "area": 0.0413,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 43",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6457,
+            "y": 0.8071,
+            "w": 0.1167,
+            "h": 0.1969
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9431,
+            "y": 0.8407,
+            "w": 0.0884,
+            "h": 0.1633
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s04",
+      "title_guess": "工作内容概述",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:4,middle-center:2,top-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 235,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 29,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 235,
+        "connector_count": 0,
+        "text_area": 0.2456,
+        "image_area": 0.1997,
+        "shape_area": 0.8493,
+        "text_blob": "工作内容概述 Financial industry investment return analysis marketing report 在全体同事的共同努力下,在公司领导的全面支持、关心下,本着一切为客户服务的宗旨,围绕优化服务、拓展xxx和xxx的宣传和信息的功能,从客户的利益角度服务、业务管理、提高企业的知名度和利益最大化,通过扎扎实实的努力,圆满地完成了XXXX年的工作。 回顾这一年的工作,在取得成绩的同时,我们也找到了工作中的不足和问题,展望新的一年,我们将继续努力,力争各项工作更上一个新台阶。 工作内容 添加您的内容 工作内容 添加您的内容 工作内容 添加您的内容 工作内容 添加您的内容 主要内容",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2338,
+            "w": 1.0,
+            "h": 0.4929
+          },
+          "area": 0.4929,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 14",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0718,
+            "y": 0.5657,
+            "w": 0.8564,
+            "h": 0.3505
+          },
+          "area": 0.3002,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5893,
+            "y": 0.2371,
+            "w": 0.4107,
+            "h": 0.4862
+          },
+          "area": 0.1997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 13",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.066,
+            "y": 0.2828,
+            "w": 0.5683,
+            "h": 0.2585
+          },
+          "area": 0.1469,
+          "text": "在全体同事的共同努力下,在公司领导的全面支持、关心下,本着一切为客户服务的宗旨,围绕优化服务、拓展xxx和xxx的宣传和信息的功能,从客户的利益角度服务、业务管理、提高企业的知名度和利益最大化,通过扎扎实实的努力,圆满地完成了XXXX年的工",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "工作内容概述",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.141,
+            "y": 0.6698,
+            "w": 0.1287,
+            "h": 0.1104
+          },
+          "area": 0.0142,
+          "text": "工作内容 添加您的内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 79",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.141,
+            "y": 0.6698,
+            "w": 0.1287,
+            "h": 0.1063
+          },
+          "area": 0.0137,
+          "text": "工作内容 添加您的内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 142",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.141,
+            "y": 0.6698,
+            "w": 0.1287,
+            "h": 0.1063
+          },
+          "area": 0.0137,
+          "text": "工作内容 添加您的内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 205",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.141,
+            "y": 0.6698,
+            "w": 0.1287,
+            "h": 0.1063
+          },
+          "area": 0.0137,
+          "text": "工作内容 添加您的内容",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 1,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s05",
+      "title_guess": "工作内容概述",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 21,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 29,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 0,
+        "text_area": 0.1837,
+        "image_area": 0,
+        "shape_area": 0.6788,
+        "text_blob": "工作内容概述 Financial industry investment return analysis marketing report 内容概述 内容概述 内容概述 内容概述 Feedback Commissioning test Expert analysis Market research 此处添加详细文本描述建议与标题相关此处添加详细 此处添加详细文本描述建议与标题相关此处添加详细文 此处添加详细文本描述建议与标题相关此处添加详细文 此处添加详细文本描述建议与标题相关此处添加详细文",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1556,
+            "y": 0.2668,
+            "w": 0.6863,
+            "h": 0.1987
+          },
+          "area": 0.1364,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 73",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3022,
+            "y": 0.3662,
+            "w": 0.1718,
+            "h": 0.4672
+          },
+          "area": 0.0803,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 74",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5293,
+            "y": 0.3662,
+            "w": 0.1718,
+            "h": 0.4672
+          },
+          "area": 0.0803,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 75",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7564,
+            "y": 0.3662,
+            "w": 0.1718,
+            "h": 0.4672
+          },
+          "area": 0.0803,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 64",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.3662,
+            "w": 0.1718,
+            "h": 0.4672
+          },
+          "area": 0.0803,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7564,
+            "y": 0.2134,
+            "w": 0.1718,
+            "h": 0.3055
+          },
+          "area": 0.0525,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5293,
+            "y": 0.2134,
+            "w": 0.1718,
+            "h": 0.3055
+          },
+          "area": 0.0525,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3022,
+            "y": 0.2134,
+            "w": 0.1718,
+            "h": 0.3055
+          },
+          "area": 0.0525,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.2134,
+            "w": 0.1718,
+            "h": 0.3055
+          },
+          "area": 0.0525,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 34",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0835,
+            "y": 0.7106,
+            "w": 0.1551,
+            "h": 0.1548
+          },
+          "area": 0.024,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s06",
+      "title_guess": "工作内容概述",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,middle-center:1,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 29,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1703,
+        "image_area": 0,
+        "shape_area": 0.6725,
+        "text_blob": "工作内容概述 Financial industry investment return analysis marketing report 第一阶段 第二阶段 第三阶段 总体目标顺利完成 团队建设更加完善 业绩完成进度 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "平行四边形 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3186,
+            "y": 0.3739,
+            "w": 0.34,
+            "h": 0.5355
+          },
+          "area": 0.1821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 12",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6066,
+            "y": 0.3739,
+            "w": 0.34,
+            "h": 0.5355
+          },
+          "area": 0.1821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 14",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0334,
+            "y": 0.3739,
+            "w": 0.34,
+            "h": 0.5355
+          },
+          "area": 0.1821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3911,
+            "y": 0.2422,
+            "w": 0.2852,
+            "h": 0.13
+          },
+          "area": 0.0371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6792,
+            "y": 0.2422,
+            "w": 0.2852,
+            "h": 0.13
+          },
+          "area": 0.0371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.106,
+            "y": 0.2422,
+            "w": 0.2852,
+            "h": 0.13
+          },
+          "area": 0.0371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 26",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3782,
+            "y": 0.693,
+            "w": 0.2028,
+            "h": 0.1266
+          },
+          "area": 0.0257,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0902,
+            "y": 0.693,
+            "w": 0.1926,
+            "h": 0.1266
+          },
+          "area": 0.0244,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6715,
+            "y": 0.693,
+            "w": 0.1848,
+            "h": 0.1266
+          },
+          "area": 0.0234,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s07",
+      "title_guess": "工作内容概述",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:6,middle-center:4",
+      "counts": {
+        "text": 15,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 29,
+        "text_count": 15,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.2022,
+        "image_area": 0.012,
+        "shape_area": 3.2893,
+        "text_blob": "工作内容概述 Financial industry investment return analysis marketing report 工作 内容 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容。 添加标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3478,
+            "y": 0.2882,
+            "w": 0.3045,
+            "h": 0.5413
+          },
+          "area": 0.1648,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4085,
+            "y": 0.3961,
+            "w": 0.1831,
+            "h": 0.3255
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4085,
+            "y": 0.3961,
+            "w": 0.1831,
+            "h": 0.3255
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4262,
+            "y": 0.4276,
+            "w": 0.1476,
+            "h": 0.2625
+          },
+          "area": 0.0387,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1218,
+            "y": 0.3279,
+            "w": 0.223,
+            "h": 0.095
+          },
+          "area": 0.0212,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 7
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s08",
+      "title_guess": "02",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1792,
+        "image_area": 0.2021,
+        "shape_area": 0.4392,
+        "text_blob": "02 工作完成情况 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam PART TWO 拼搏 创新 梦想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6921,
+            "y": 0.5095,
+            "w": 0.4124,
+            "h": 0.49
+          },
+          "area": 0.2021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6831,
+            "y": 0.4701,
+            "w": 0.3183,
+            "h": 0.5316
+          },
+          "area": 0.1692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7198,
+            "y": 0.5289,
+            "w": 0.2816,
+            "h": 0.4703
+          },
+          "area": 0.1324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 2",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1076,
+            "y": 0.3633,
+            "w": 0.1998,
+            "h": 0.3388
+          },
+          "area": 0.0677,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.3886,
+            "w": 0.3615,
+            "h": 0.1557
+          },
+          "area": 0.0563,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3674,
+            "y": 0.545,
+            "w": 0.4385,
+            "h": 0.0942
+          },
+          "area": 0.0413,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 43",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6457,
+            "y": 0.8071,
+            "w": 0.1167,
+            "h": 0.1969
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9431,
+            "y": 0.8407,
+            "w": 0.0884,
+            "h": 0.1633
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s09",
+      "title_guess": "工作完成情况",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-center:4,top-center:2,middle-center:1",
+      "counts": {
+        "text": 6,
+        "image": 3,
+        "chart": 0,
+        "table": 1,
+        "shape": 8,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 29,
+        "text_count": 6,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 8,
+        "connector_count": 3,
+        "text_area": 0.1421,
+        "image_area": 0.2798,
+        "shape_area": 0.1792,
+        "text_blob": "工作完成情况 Financial industry investment return analysis marketing report 此处添加详细文本描述关此处添加详细 此处添加详细文本描述建议与标题相关此处添加详细 此处添加详细文本描述建议与标题相关此处添加详细 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 37",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2967,
+            "w": 0.5839,
+            "h": 0.3844
+          },
+          "area": 0.2245,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6848,
+            "y": 0.295,
+            "w": 0.2435,
+            "h": 0.5996
+          },
+          "area": 0.146,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3402,
+            "y": 0.6539,
+            "w": 0.4299,
+            "h": 0.2407
+          },
+          "area": 0.1035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.127,
+            "y": 0.6539,
+            "w": 0.4099,
+            "h": 0.2407
+          },
+          "area": 0.0987,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0209,
+            "y": 0.6539,
+            "w": 0.3223,
+            "h": 0.2407
+          },
+          "area": 0.0776,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.703,
+            "y": 0.594,
+            "w": 0.207,
+            "h": 0.2907
+          },
+          "area": 0.0602,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2338,
+            "y": 0.7417,
+            "w": 0.2012,
+            "h": 0.0942
+          },
+          "area": 0.019,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4497,
+            "y": 0.7417,
+            "w": 0.194,
+            "h": 0.0942
+          },
+          "area": 0.0183,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "工作完成情况",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s10",
+      "title_guess": "工作具体目标",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:7,middle-center:3",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 29,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 29,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 29,
+        "connector_count": 8,
+        "text_area": 0.2642,
+        "image_area": 0,
+        "shape_area": 0.647,
+        "text_blob": "工作具体目标 Financial industry investment return analysis marketing report 公司项目阶段完成情况汇报工作完成目标 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与",
+        "title_like": 0,
+        "body_like": 8
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形 11",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0505,
+            "y": 0.3723,
+            "w": 0.8832,
+            "h": 0.2182
+          },
+          "area": 0.1927,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 14",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0505,
+            "y": 0.3723,
+            "w": 0.8832,
+            "h": 0.2182
+          },
+          "area": 0.1927,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2638,
+            "y": 0.5358,
+            "w": 0.4695,
+            "h": 0.0673
+          },
+          "area": 0.0316,
+          "text": "公司项目阶段完成情况汇报工作完成目标",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 22",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 36",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 43",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 51",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 59",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 67",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0964,
+            "y": 0.1994,
+            "w": 0.1714,
+            "h": 0.1735
+          },
+          "area": 0.0297,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 1,
+          "body": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s11",
+      "title_guess": "工作具体目标",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:6,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 68,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 68,
+        "connector_count": 0,
+        "text_area": 0.0834,
+        "image_area": 0,
+        "shape_area": 1.2797,
+        "text_blob": "工作具体目标 Financial industry investment return analysis marketing report 项目工作重点难点 项目工作重点难点 项目工作重点难点 项目工作重点难点 工作具体目标",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 15",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1992,
+            "y": 0.5685,
+            "w": 0.6017,
+            "h": 1.0696
+          },
+          "area": 0.6436,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2083,
+            "y": 0.7577,
+            "w": 0.5835,
+            "h": 0.1874
+          },
+          "area": 0.1093,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2572,
+            "y": 0.7302,
+            "w": 0.4855,
+            "h": 0.1791
+          },
+          "area": 0.087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2572,
+            "y": 0.7515,
+            "w": 0.4855,
+            "h": 0.1791
+          },
+          "area": 0.087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3008,
+            "y": 0.8514,
+            "w": 0.3983,
+            "h": 0.1288
+          },
+          "area": 0.0513,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图形 49",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0784,
+            "y": 0.4011,
+            "w": 0.1423,
+            "h": 0.285
+          },
+          "area": 0.0406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图形 49",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7793,
+            "y": 0.4011,
+            "w": 0.1423,
+            "h": 0.285
+          },
+          "area": 0.0406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图形 49",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3103,
+            "y": 0.1926,
+            "w": 0.1423,
+            "h": 0.285
+          },
+          "area": 0.0406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图形 49",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5474,
+            "y": 0.1926,
+            "w": 0.1423,
+            "h": 0.285
+          },
+          "area": 0.0406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3788,
+            "y": 0.7087,
+            "w": 0.2423,
+            "h": 0.0942
+          },
+          "area": 0.0228,
+          "text": "工作具体目标",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s12",
+      "title_guess": "工作完成情况",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:2,middle-left:2,top-center:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 29,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.1382,
+        "image_area": 0,
+        "shape_area": 0.2596,
+        "text_blob": "工作完成情况 Financial industry investment return analysis marketing report 项目完成情况 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文。 项目完成情况 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.056,
+            "y": 0.6302,
+            "w": 0.8879,
+            "h": 0.2857
+          },
+          "area": 0.2537,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 69",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0638,
+            "y": 0.2409,
+            "w": 0.5409,
+            "h": 0.339
+          },
+          "area": 0.1834,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 70",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6587,
+            "y": 0.1965,
+            "w": 0.2874,
+            "h": 0.4225
+          },
+          "area": 0.1214,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0669,
+            "y": 0.3051,
+            "w": 0.322,
+            "h": 0.136
+          },
+          "area": 0.0438,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0669,
+            "y": 0.3051,
+            "w": 0.322,
+            "h": 0.136
+          },
+          "area": 0.0438,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。单击此处输入你的正文。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Bullet2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0669,
+            "y": 0.2381,
+            "w": 0.1612,
+            "h": 0.0606
+          },
+          "area": 0.0098,
+          "text": "项目完成情况",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Bullet2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0669,
+            "y": 0.2381,
+            "w": 0.1612,
+            "h": 0.0606
+          },
+          "area": 0.0098,
+          "text": "项目完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "î$ḷïďê",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5166,
+            "y": 0.6941,
+            "w": 0.0364,
+            "h": 0.0648
+          },
+          "area": 0.0024,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s13",
+      "title_guess": "工作完成情况",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:3,top-center:2",
+      "counts": {
+        "text": 39,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 12
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 29,
+        "text_count": 39,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 12,
+        "text_area": 0.2146,
+        "image_area": 0,
+        "shape_area": 0.8071,
+        "text_blob": "工作完成情况 Financial industry investment return analysis marketing report 项目数据的确定见下表所示 数据 单位 单位 项目数据(m) 设计 1046.54 1.6 30.9 13.73 38 0.458 1.414 0.5 2.711 1049.25 校核 1047.76 1.6 20.6 9.149 38 0.249 0.853 0.4 1.705 1049.465 单位 单位 单位 单位 单位 单位 月度完成项目数据汇总 项目完成情况 项目数据1049.465万 项目数据993万 项目数据 56.465万",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.2724,
+            "w": 0.8594,
+            "h": 0.4298
+          },
+          "area": 0.3694,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7161,
+            "w": 1.0,
+            "h": 0.2861
+          },
+          "area": 0.2861,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 39",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.5597,
+            "w": 0.8594,
+            "h": 0.0881
+          },
+          "area": 0.0757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.4232,
+            "w": 0.8594,
+            "h": 0.0881
+          },
+          "area": 0.0757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 58",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0608,
+            "y": 0.7752,
+            "w": 0.2268,
+            "h": 0.1301
+          },
+          "area": 0.0295,
+          "text": "月度完成项目数据汇总 项目完成情况",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 61",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7522,
+            "y": 0.7851,
+            "w": 0.1583,
+            "h": 0.1158
+          },
+          "area": 0.0183,
+          "text": "项目数据 56.465万",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3461,
+            "y": 0.7851,
+            "w": 0.1479,
+            "h": 0.1212
+          },
+          "area": 0.0179,
+          "text": "项目数据1049.465万",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 60",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5754,
+            "y": 0.7851,
+            "w": 0.0955,
+            "h": 0.1157
+          },
+          "area": 0.011,
+          "text": "项目数据993万",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 34
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s14",
+      "title_guess": "03",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1826,
+        "image_area": 0.2021,
+        "shape_area": 0.4392,
+        "text_blob": "03 项目成果展示 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam PART THREE 拼搏 创新 梦想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6921,
+            "y": 0.5095,
+            "w": 0.4124,
+            "h": 0.49
+          },
+          "area": 0.2021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6831,
+            "y": 0.4701,
+            "w": 0.3183,
+            "h": 0.5316
+          },
+          "area": 0.1692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7198,
+            "y": 0.5289,
+            "w": 0.2816,
+            "h": 0.4703
+          },
+          "area": 0.1324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 2",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1057,
+            "y": 0.3633,
+            "w": 0.1998,
+            "h": 0.3388
+          },
+          "area": 0.0677,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.3886,
+            "w": 0.3615,
+            "h": 0.1557
+          },
+          "area": 0.0563,
+          "text": "项目成果展示",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3674,
+            "y": 0.545,
+            "w": 0.4385,
+            "h": 0.0942
+          },
+          "area": 0.0413,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 43",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6457,
+            "y": 0.8071,
+            "w": 0.1167,
+            "h": 0.1969
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9431,
+            "y": 0.8407,
+            "w": 0.0884,
+            "h": 0.1633
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s15",
+      "title_guess": "项目成果展示",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,top-center:3,bottom-right:2",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 45,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 29,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 45,
+        "connector_count": 5,
+        "text_area": 0.2872,
+        "image_area": 0,
+        "shape_area": 0.8891,
+        "text_blob": "项目成果展示 Financial industry investment return analysis marketing report 请在此处添加您的大标题或者其他标题 项目成果展示 单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处 项目成果展示 单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处输入 项目成果展示 单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处输入 项目成果展示 单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处输入 项目成果展示 单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处输入",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2162,
+            "w": 1.0,
+            "h": 0.2216
+          },
+          "area": 0.2216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 11",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.2162,
+            "w": 1.0,
+            "h": 0.2216
+          },
+          "area": 0.2216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0439,
+            "y": 0.4533,
+            "w": 0.1673,
+            "h": 0.4569
+          },
+          "area": 0.0764,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 25",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2294,
+            "y": 0.4533,
+            "w": 0.1673,
+            "h": 0.4569
+          },
+          "area": 0.0764,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 30",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4149,
+            "y": 0.4533,
+            "w": 0.1673,
+            "h": 0.4569
+          },
+          "area": 0.0764,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 35",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6005,
+            "y": 0.4533,
+            "w": 0.1673,
+            "h": 0.4569
+          },
+          "area": 0.0764,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 40",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.786,
+            "y": 0.4533,
+            "w": 0.1673,
+            "h": 0.4569
+          },
+          "area": 0.0764,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 26",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.084,
+            "y": 0.2789,
+            "w": 0.5855,
+            "h": 0.0763
+          },
+          "area": 0.0447,
+          "text": "请在此处添加您的大标题或者其他标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0585,
+            "y": 0.6344,
+            "w": 0.1382,
+            "h": 0.2558
+          },
+          "area": 0.0354,
+          "text": "单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.244,
+            "y": 0.6344,
+            "w": 0.1382,
+            "h": 0.2558
+          },
+          "area": 0.0354,
+          "text": "单击此处输入你的正文文字是您思想是您思想的提炼单击此处单击你思想的提炼单击此处输入你是您思想的提炼单击此处单击你单击此处输入",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 6,
+          "body": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s16",
+      "title_guess": "项目成果展示",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 26,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 29,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 26,
+        "connector_count": 3,
+        "text_area": 0.247,
+        "image_area": 0,
+        "shape_area": 0.5885,
+        "text_blob": "项目成果展示 Financial industry investment return analysis marketing report 单击此处输入你的正文文字是您思想是您思想的提炼单击入你是思想的提炼 单击此处输入你的正文文字是您思想是您思想的处提炼单击此处单击你思想的提炼 项目成果展示 单击此处输入你的正文文字是您单击你思想的提炼单击此处输入你是您思想的提炼 单击此处输入你的正文文字是您思想是您思想的提炼单击此处 项目成果展示 单击此处输入你的正文文字是您思想是你思想的提炼单击此处输入你是您思想的提炼 单击此处输入你的正文文字是您思想是您思想的提炼单击此处 项目成果展示",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0709,
+            "y": 0.2459,
+            "w": 0.2414,
+            "h": 0.5819
+          },
+          "area": 0.1405,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.377,
+            "y": 0.2459,
+            "w": 0.2414,
+            "h": 0.5819
+          },
+          "area": 0.1405,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6832,
+            "y": 0.2459,
+            "w": 0.2414,
+            "h": 0.5819
+          },
+          "area": 0.1405,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0966,
+            "y": 0.4643,
+            "w": 0.1884,
+            "h": 0.3218
+          },
+          "area": 0.0606,
+          "text": "单击此处输入你的正文文字是您思想是您思想的提炼单击入你是思想的提炼 单击此处输入你的正文文字是您思想是您思想的处提炼单击此处单击你思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3985,
+            "y": 0.4643,
+            "w": 0.1884,
+            "h": 0.3218
+          },
+          "area": 0.0606,
+          "text": "单击此处输入你的正文文字是您单击你思想的提炼单击此处输入你是您思想的提炼 单击此处输入你的正文文字是您思想是您思想的提炼单击此处",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7114,
+            "y": 0.4643,
+            "w": 0.1884,
+            "h": 0.3218
+          },
+          "area": 0.0606,
+          "text": "单击此处输入你的正文文字是您思想是你思想的提炼单击此处输入你是您思想的提炼 单击此处输入你的正文文字是您思想是您思想的提炼单击此处",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1693,
+            "y": 0.7315,
+            "w": 0.3854,
+            "h": 0.0679
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1693,
+            "y": 0.7315,
+            "w": 0.3854,
+            "h": 0.0679
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1693,
+            "y": 0.7315,
+            "w": 0.3854,
+            "h": 0.0679
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s17",
+      "title_guess": "项目成果展示",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 26,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 29,
+        "text_count": 26,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 4,
+        "text_area": 0.212,
+        "image_area": 0,
+        "shape_area": 0.3262,
+        "text_blob": "项目成果展示 Financial industry investment return analysis marketing report 项目工作完成情况 项目工作完成情况 数据一 数据二 项目工作完成情况 数据一 数据二 项目工作完成情况 项目工作完成情况 方案一 方案二 方案三 421.9 1046.73 650.0 1048.26 570.1 839.0 1046.54 1047.76 707.2 998.3 1046.39 1047.40",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 16",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2572,
+            "y": 0.3662,
+            "w": 0.1407,
+            "h": 0.558
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4214,
+            "y": 0.3662,
+            "w": 0.1407,
+            "h": 0.558
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 21",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.629,
+            "y": 0.3662,
+            "w": 0.1407,
+            "h": 0.558
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7873,
+            "y": 0.3662,
+            "w": 0.1407,
+            "h": 0.558
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 20",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2572,
+            "y": 0.2143,
+            "w": 0.3049,
+            "h": 0.0777
+          },
+          "area": 0.0237,
+          "text": "项目工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 41",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6232,
+            "y": 0.2143,
+            "w": 0.3049,
+            "h": 0.0777
+          },
+          "area": 0.0237,
+          "text": "项目工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "项目成果展示",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0611,
+            "y": 0.4787,
+            "w": 0.1992,
+            "h": 0.0449
+          },
+          "area": 0.0089,
+          "text": "项目工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 28",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0611,
+            "y": 0.6575,
+            "w": 0.1992,
+            "h": 0.0449
+          },
+          "area": 0.0089,
+          "text": "项目工作完成情况",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 23
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s18",
+      "title_guess": "项目成果展示",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:8,top-left:2",
+      "counts": {
+        "text": 14,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 29,
+        "text_count": 14,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 4,
+        "text_area": 0.4137,
+        "image_area": 0.2057,
+        "shape_area": 0.6194,
+        "text_blob": "项目成果展示 Financial industry investment return analysis marketing report 项目成果展示 Engineering project 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题 项目成果展示 Engineering project 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题 项目成果展示 Engineering project 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题 项目成果展示 Engineering project 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.4347,
+            "w": 0.2356,
+            "h": 0.439
+          },
+          "area": 0.1034,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.4347,
+            "w": 0.2356,
+            "h": 0.439
+          },
+          "area": 0.1034,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.4347,
+            "w": 0.2356,
+            "h": 0.439
+          },
+          "area": 0.1034,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.4347,
+            "w": 0.2356,
+            "h": 0.439
+          },
+          "area": 0.1034,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0635,
+            "y": 0.4624,
+            "w": 0.205,
+            "h": 0.3557
+          },
+          "area": 0.0729,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0635,
+            "y": 0.4624,
+            "w": 0.205,
+            "h": 0.3557
+          },
+          "area": 0.0729,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0635,
+            "y": 0.4624,
+            "w": 0.205,
+            "h": 0.3557
+          },
+          "area": 0.0729,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 41",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0635,
+            "y": 0.4624,
+            "w": 0.205,
+            "h": 0.3557
+          },
+          "area": 0.0729,
+          "text": "此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本描建议与题相关此处添加详细文本描述建议与标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Picture 36",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0496,
+            "y": 0.2164,
+            "w": 0.2358,
+            "h": 0.2182
+          },
+          "area": 0.0515,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 36",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0497,
+            "y": 0.2164,
+            "w": 0.2356,
+            "h": 0.2182
+          },
+          "area": 0.0514,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5,
+          "body": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s19",
+      "title_guess": "04",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1816,
+        "image_area": 0.2021,
+        "shape_area": 0.4392,
+        "text_blob": "04 工作问题罗列 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam PART FOUR 拼搏 创新 梦想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6921,
+            "y": 0.5095,
+            "w": 0.4124,
+            "h": 0.49
+          },
+          "area": 0.2021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6831,
+            "y": 0.4701,
+            "w": 0.3183,
+            "h": 0.5316
+          },
+          "area": 0.1692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7198,
+            "y": 0.5289,
+            "w": 0.2816,
+            "h": 0.4703
+          },
+          "area": 0.1324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 2",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.3633,
+            "w": 0.1998,
+            "h": 0.3388
+          },
+          "area": 0.0677,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.3886,
+            "w": 0.3615,
+            "h": 0.1557
+          },
+          "area": 0.0563,
+          "text": "工作问题罗列",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3674,
+            "y": 0.545,
+            "w": 0.4385,
+            "h": 0.0942
+          },
+          "area": 0.0413,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 43",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6457,
+            "y": 0.8071,
+            "w": 0.1167,
+            "h": 0.1969
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9431,
+            "y": 0.8407,
+            "w": 0.0884,
+            "h": 0.1633
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s20",
+      "title_guess": "存在主要问题",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:1",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 29,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 1,
+        "text_area": 0.249,
+        "image_area": 0,
+        "shape_area": 0.6464,
+        "text_blob": "存在主要问题 Financial industry investment return analysis marketing report 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击 01 工作存在问题一 02 工作存在问题二 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 11",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6602,
+            "y": 0.2808,
+            "w": 0.2871,
+            "h": 0.6545
+          },
+          "area": 0.1879,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.053,
+            "y": 0.2808,
+            "w": 0.2871,
+            "h": 0.6545
+          },
+          "area": 0.1879,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7005,
+            "y": 0.4404,
+            "w": 0.2238,
+            "h": 0.4578
+          },
+          "area": 0.1025,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3591,
+            "y": 0.3313,
+            "w": 0.1466,
+            "h": 0.5152
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3591,
+            "y": 0.3313,
+            "w": 0.1466,
+            "h": 0.5152
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.085,
+            "y": 0.6876,
+            "w": 0.2238,
+            "h": 0.2558
+          },
+          "area": 0.0572,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.085,
+            "y": 0.4404,
+            "w": 0.2238,
+            "h": 0.1703
+          },
+          "area": 0.0381,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处输入你的正文文字是您思想的提炼单击",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4059,
+            "y": 0.4384,
+            "w": 0.0597,
+            "h": 0.301
+          },
+          "area": 0.018,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4059,
+            "y": 0.4384,
+            "w": 0.0597,
+            "h": 0.301
+          },
+          "area": 0.018,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 3,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s21",
+      "title_guess": "问题分析",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-right:3,middle-center:3",
+      "counts": {
+        "text": 15,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 29,
+        "text_count": 15,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.2085,
+        "image_area": 0.088,
+        "shape_area": 0.4848,
+        "text_blob": "问题分析 Financial industry investment return analysis marketing report 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处 01 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击 02 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击 03 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处 04 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击 05 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击 06 工作问题分析",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0839,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0839,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0839,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 36",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5998,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 42",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5998,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 48",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5998,
+            "y": 0.2327,
+            "w": 0.3347,
+            "h": 0.2012
+          },
+          "area": 0.0673,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4436,
+            "y": 0.2209,
+            "w": 0.0646,
+            "h": 0.7076
+          },
+          "area": 0.0457,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3297,
+            "y": 0.5377,
+            "w": 0.344,
+            "h": 0.1326
+          },
+          "area": 0.0456,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 13",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5027,
+            "y": 0.2209,
+            "w": 0.0598,
+            "h": 0.7076
+          },
+          "area": 0.0423,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1204,
+            "y": 0.294,
+            "w": 0.2769,
+            "h": 0.0942
+          },
+          "area": 0.0261,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您思想的提炼单击此处单击此处",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 7,
+          "body": 6
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s22",
+      "title_guess": "改进措施",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:5,middle-left:3,middle-center:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 29,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 6,
+        "text_area": 0.2965,
+        "image_area": 0,
+        "shape_area": 0.8749,
+        "text_blob": "改进措施 Financial industry investment return analysis marketing report 01 02 03 改进措施 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 改进措施 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 改进措施 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0577,
+            "y": 0.2544,
+            "w": 0.2631,
+            "h": 0.5941
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0577,
+            "y": 0.2544,
+            "w": 0.2631,
+            "h": 0.5941
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0577,
+            "y": 0.2544,
+            "w": 0.2631,
+            "h": 0.5941
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2157,
+            "y": 0.2278,
+            "w": 0.2729,
+            "h": 0.2256
+          },
+          "area": 0.0616,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5193,
+            "y": 0.2172,
+            "w": 0.2729,
+            "h": 0.2256
+          },
+          "area": 0.0616,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1725
+          },
+          "area": 0.0471,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 31",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1725
+          },
+          "area": 0.0471,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1725
+          },
+          "area": 0.0471,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 42",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1725
+          },
+          "area": 0.0471,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 48",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1725
+          },
+          "area": 0.0471,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 4,
+          "body": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s23",
+      "title_guess": "工作问题罗列",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 29,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.6348,
+        "image_area": 0.0136,
+        "shape_area": 0.361,
+        "text_blob": "工作问题罗列 Financial industry investment return analysis marketing report 营销问题 团队问题 策划问题 管理问题 市场欠缺 专业不强 市场营销 培训不足 营销方面 竞争对手 管理不足 设计缺乏",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3594,
+            "y": 0.3541,
+            "w": 0.2784,
+            "h": 0.5
+          },
+          "area": 0.1392,
+          "text": "团队问题",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3608,
+            "y": 0.3418,
+            "w": 0.2784,
+            "h": 0.4949
+          },
+          "area": 0.1378,
+          "text": "营销问题",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3637,
+            "y": 0.3418,
+            "w": 0.2784,
+            "h": 0.4949
+          },
+          "area": 0.1378,
+          "text": "策划问题",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3617,
+            "y": 0.3566,
+            "w": 0.2784,
+            "h": 0.4949
+          },
+          "area": 0.1378,
+          "text": "管理问题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5033,
+            "y": 0.1749,
+            "w": 0.1796,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3171,
+            "y": 0.1749,
+            "w": 0.1796,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3171,
+            "y": 0.5058,
+            "w": 0.1796,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5033,
+            "y": 0.5058,
+            "w": 0.1796,
+            "h": 0.3192
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4155,
+            "y": 0.439,
+            "w": 0.169,
+            "h": 0.3005
+          },
+          "area": 0.0508,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 9
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s24",
+      "title_guess": "05",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:5,top-left:2,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 29,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1792,
+        "image_area": 0.2021,
+        "shape_area": 0.4392,
+        "text_blob": "05 未来工作规划 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam PART FIVE 拼搏 创新 梦想",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6921,
+            "y": 0.5095,
+            "w": 0.4124,
+            "h": 0.49
+          },
+          "area": 0.2021,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "等腰三角形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6831,
+            "y": 0.4701,
+            "w": 0.3183,
+            "h": 0.5316
+          },
+          "area": 0.1692,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "等腰三角形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7198,
+            "y": 0.5289,
+            "w": 0.2816,
+            "h": 0.4703
+          },
+          "area": 0.1324,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "等腰三角形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 2",
+          "role": "connector",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0038,
+            "y": 0.0,
+            "w": 0.2499,
+            "h": 0.4174
+          },
+          "area": 0.1043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1066,
+            "y": 0.3633,
+            "w": 0.1998,
+            "h": 0.3388
+          },
+          "area": 0.0677,
+          "text": "05",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3592,
+            "y": 0.3886,
+            "w": 0.3615,
+            "h": 0.1557
+          },
+          "area": 0.0563,
+          "text": "未来工作规划",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3674,
+            "y": 0.545,
+            "w": 0.4385,
+            "h": 0.0942
+          },
+          "area": 0.0413,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 43",
+          "role": "connector",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6457,
+            "y": 0.8071,
+            "w": 0.1167,
+            "h": 0.1969
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9431,
+            "y": 0.8407,
+            "w": 0.0884,
+            "h": 0.1633
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s25",
+      "title_guess": "未来工作计划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:8,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 29,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 29,
+        "connector_count": 0,
+        "text_area": 0.2713,
+        "image_area": 0,
+        "shape_area": 0.3819,
+        "text_blob": "未来工作计划 Financial industry investment return analysis marketing report 未来工作计划 未来工作计划 未来工作计划 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 52",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.4011,
+            "w": 0.2732,
+            "h": 0.3501
+          },
+          "area": 0.0956,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.4124,
+            "w": 0.2391,
+            "h": 0.2993
+          },
+          "area": 0.0716,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1573
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 40",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1573
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 44",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1573
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 48",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0364,
+            "y": 0.5939,
+            "w": 0.2732,
+            "h": 0.1573
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.6032,
+            "w": 0.2391,
+            "h": 0.136
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.6032,
+            "w": 0.2391,
+            "h": 0.136
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.6032,
+            "w": 0.2391,
+            "h": 0.136
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0534,
+            "y": 0.6058,
+            "w": 0.2391,
+            "h": 0.136
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s26",
+      "title_guess": "工作进度规划",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:8,middle-left:1,middle-right:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 36,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 29,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 36,
+        "connector_count": 2,
+        "text_area": 0.1544,
+        "image_area": 0,
+        "shape_area": 1.1264,
+        "text_blob": "工作进度规划 Financial industry investment return analysis marketing report 此处添加详细文本描述建议与标题相关此处添加详细文描议与题相关此处添加详细 决 定 进度规划 进度管理 决 定 此处添加详细文本描述建议与标题相关此处添加详细文描议与题相关此处添加详细",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 6",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1622,
+            "y": 0.1887,
+            "w": 0.395,
+            "h": 0.7022
+          },
+          "area": 0.2774,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 22",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7672,
+            "y": 0.1887,
+            "w": 0.395,
+            "h": 0.7022
+          },
+          "area": 0.2774,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.2919,
+            "w": 0.2789,
+            "h": 0.4959
+          },
+          "area": 0.1383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.2919,
+            "w": 0.2789,
+            "h": 0.4959
+          },
+          "area": 0.1383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 47",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.479,
+            "y": 0.3992,
+            "w": 0.1261,
+            "h": 0.4483
+          },
+          "area": 0.0565,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 48",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3949,
+            "y": 0.2322,
+            "w": 0.1261,
+            "h": 0.4483
+          },
+          "area": 0.0565,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 52",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5552,
+            "y": 0.3902,
+            "w": 0.1683,
+            "h": 0.2992
+          },
+          "area": 0.0504,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 53",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2765,
+            "y": 0.3902,
+            "w": 0.1683,
+            "h": 0.2992
+          },
+          "area": 0.0504,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.286,
+            "y": 0.4071,
+            "w": 0.1493,
+            "h": 0.2655
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5647,
+            "y": 0.4071,
+            "w": 0.1493,
+            "h": 0.2655
+          },
+          "area": 0.0396,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 1,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s27",
+      "title_guess": "工作进度规划",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,top-left:3,bottom-center:2",
+      "counts": {
+        "text": 14,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 56,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 29,
+        "text_count": 14,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 56,
+        "connector_count": 5,
+        "text_area": 0.1072,
+        "image_area": 0.007,
+        "shape_area": 1.7755,
+        "text_blob": "工作进度规划 Financial industry investment return analysis marketing report 2025.12 项目工作 进度规划 2025.04 项目工作 进度规划 2025.08 项目工作 进度规划 2025.10 项目工作 进度规划 2025.04 项目工作 进度规划 2025.04 项目工作 进度规划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 37",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.2305,
+            "w": 0.8594,
+            "h": 0.6894
+          },
+          "area": 0.5925,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 58",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0449,
+            "y": 0.6075,
+            "w": 1.1286,
+            "h": 0.4682
+          },
+          "area": 0.5284,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 56",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0449,
+            "y": 0.6031,
+            "w": 1.1286,
+            "h": 0.3285
+          },
+          "area": 0.3707,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3077,
+            "y": -1.1861,
+            "w": 0.1747,
+            "h": 0.311
+          },
+          "area": 0.0543,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 49",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1774,
+            "y": -0.1559,
+            "w": 0.1587,
+            "h": 0.295
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 77",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1583,
+            "y": -0.9801,
+            "w": 0.1524,
+            "h": 0.2711
+          },
+          "area": 0.0413,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 80",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1582,
+            "y": -0.9256,
+            "w": 0.1013,
+            "h": 0.2166
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2704,
+            "y": 0.0639,
+            "w": 0.1919,
+            "h": 0.0763
+          },
+          "area": 0.0146,
+          "text": "工作进度规划",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0967,
+            "y": 0.2687,
+            "w": 0.0879,
+            "h": 0.1563
+          },
+          "area": 0.0137,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s28",
+      "title_guess": "未来工作规划",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:5,middle-left:4,top-center:1",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 35,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 29,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 35,
+        "connector_count": 0,
+        "text_area": 0.1849,
+        "image_area": 0,
+        "shape_area": 1.8575,
+        "text_blob": "未来工作规划 Financial industry investment return analysis marketing report 单击此处输入你的正文文字是您思想的提炼单击 发展方向 单击此处输入你的正文文字是您思想的提炼单击此处输入 发展方向 单击此处输入你的正文文字是您思想的提炼单击此处输入 发展方向 单击此处输入你的正文文字是您思想的提炼单击此处输入 发展方向 单击此处输入你的正文文字是您思想的提炼单击此处输入 发展方向 单击此处输入你的正文文字是您思想的提炼单击此处输入 发展方向 单击此处输入你的正文文字是您思想的提炼单击 发展方向 工作规划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 6",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1762,
+            "y": 0.4868,
+            "w": 0.6512,
+            "h": 1.1577
+          },
+          "area": 0.7539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 11",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2476,
+            "y": 0.6138,
+            "w": 0.5083,
+            "h": 0.9037
+          },
+          "area": 0.4594,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 12",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3083,
+            "y": 0.7217,
+            "w": 0.3869,
+            "h": 0.6878
+          },
+          "area": 0.2661,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3429,
+            "y": 0.7831,
+            "w": 0.3179,
+            "h": 0.5651
+          },
+          "area": 0.1796,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3744,
+            "y": 0.8392,
+            "w": 0.2548,
+            "h": 0.4529
+          },
+          "area": 0.1154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0835
+          },
+          "area": 0.0166,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0835
+          },
+          "area": 0.0166,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1378,
+            "y": 0.1305,
+            "w": 0.4571,
+            "h": 0.0359
+          },
+          "area": 0.0164,
+          "text": "Financial industry investment return analysis marketing report",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1048,
+            "y": 0.3631,
+            "w": 0.1991,
+            "h": 0.0801
+          },
+          "area": 0.0159,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "工作汇报-29-动态-9d5b02eb-s29",
+      "title_guess": "谢谢观看",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 29,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 5,
+        "text_area": 0.3267,
+        "image_area": 0.2429,
+        "shape_area": 0.701,
+        "text_blob": "谢谢观看 拼搏 创新 梦想 THANK.YOU Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam amet magna aliquam REPORT 2025 凝心聚力 共创辉煌",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "等腰三角形 3",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5253,
+            "y": 0.1456,
+            "w": 0.4747,
+            "h": 0.8544
+          },
+          "area": 0.4056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4948,
+            "y": 0.0515,
+            "w": 0.6044,
+            "h": 0.4019
+          },
+          "area": 0.2429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6155,
+            "y": 0.3226,
+            "w": 0.2715,
+            "h": 0.4827
+          },
+          "area": 0.1311,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 33",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0311,
+            "y": 0.2865,
+            "w": 0.5571,
+            "h": 0.193
+          },
+          "area": 0.1075,
+          "text": "THANK.YOU",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6295,
+            "y": 0.3476,
+            "w": 0.2434,
+            "h": 0.4327
+          },
+          "area": 0.1053,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 38",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0048,
+            "y": 0.838,
+            "w": 0.4254,
+            "h": 0.2109
+          },
+          "area": 0.0897,
+          "text": "REPORT",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0343,
+            "y": 0.4556,
+            "w": 0.2928,
+            "h": 0.1616
+          },
+          "area": 0.0473,
+          "text": "谢谢观看",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "等腰三角形 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0009,
+            "w": 0.1546,
+            "h": 0.2783
+          },
+          "area": 0.043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0487,
+            "y": 0.6162,
+            "w": 0.4496,
+            "h": 0.0942
+          },
+          "area": 0.0424,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 61",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4972,
+            "y": 0.803,
+            "w": 0.1105,
+            "h": 0.1964
+          },
+          "area": 0.0217,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 7,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 29,
+    "layout_job_counts": {
+      "process-strip": 8,
+      "flow-diagram": 7,
+      "limitations-future": 5,
+      "research-question": 3,
+      "matrix-grid": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "table": 1,
+      "kpi-grid": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 27,
+      "table": 1,
+      "chart": 1
+    },
+    "density_counts": {
+      "high": 17,
+      "medium-high": 11,
+      "medium": 1
+    },
+    "dominant_layout_jobs": [
+      "process-strip",
+      "flow-diagram",
+      "limitations-future",
+      "research-question",
+      "matrix-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "table",
+      "chart"
+    ]
+  }
+}

@@ -1,0 +1,3520 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:22.777449+00:00",
+  "template_id": "年会颁奖-03-动态-251099f0",
+  "template_profile_path": "assets/template-library/profiles/年会颁奖-03-动态-251099f0.json",
+  "source_template": {
+    "name": "年会颁奖(03)—动态.pptx",
+    "category": "年会颁奖（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(03)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 18,
+    "media_count": 18,
+    "image_media_count": 17,
+    "motion_hint": "dynamic",
+    "tags": [
+      "庆典活动",
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会",
+      "封面",
+      "节目/奖项",
+      "致辞",
+      "颁奖",
+      "合影/结束",
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈",
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片",
+      "短口号",
+      "奖项名称",
+      "名单",
+      "动态版",
+      "可动效",
+      "中",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "庆典活动",
+    "scenario": [
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会"
+    ],
+    "best_for": [
+      "年会",
+      "颁奖",
+      "活动开场"
+    ],
+    "avoid": [
+      "科研申报",
+      "技术说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "节目单",
+      "奖项页",
+      "致辞页",
+      "结束页"
+    ],
+    "visual": [
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈"
+    ],
+    "image_strategy": [
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片"
+    ],
+    "text_strategy": [
+      "短口号",
+      "奖项名称",
+      "名单"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "claim-evidence",
+      "cover-statement",
+      "toc",
+      "image-hero"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "mixed"
+    ],
+    "dominant_density": "medium",
+    "common_text_roles": [
+      "label",
+      "image",
+      "decorative-shape",
+      "footer",
+      "title",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "top-center",
+      "middle-center",
+      "middle-left",
+      "bottom-center",
+      "top-left",
+      "bottom-left"
+    ],
+    "template_text_signature": "蛇/年/祥/瑞 辉/煌/再/续 目录 第一部分 集团总裁:李女士 第二部分 全年收益 全年收益 销量直升 获得荣誉 第三部分 优秀团队 优秀个人 第四部分 晚会表演 晚会表演 第五部分 幸运抽奖 蛇/年/祥/瑞 辉/煌/再/续",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年会颁奖-03-动态-251099f0-s01",
+      "title_guess": "蛇/年/祥/瑞 辉/煌/再/续",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,middle-left:3,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 18,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.2677,
+        "image_area": 1.1573,
+        "shape_area": 0.0312,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 年度总结表彰暨2025年迎新年会 荣 盛会 耀 HONOR GRAND EVENT 感 同行 恩 GRATEFUL COLLEAGUES",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3877,
+            "y": 0.1474,
+            "w": 0.2357,
+            "h": 0.4539
+          },
+          "area": 0.107,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0818,
+            "y": 0.2623,
+            "w": 0.127,
+            "h": 0.3231
+          },
+          "area": 0.041,
+          "text": "感",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0699,
+            "y": 0.2549,
+            "w": 0.1185,
+            "h": 0.3231
+          },
+          "area": 0.0383,
+          "text": "荣",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "六边形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3233,
+            "y": 0.6402,
+            "w": 0.4063,
+            "h": 0.0769
+          },
+          "area": 0.0312,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2812,
+            "y": 0.4129,
+            "w": 0.1679,
+            "h": 0.175
+          },
+          "area": 0.0294,
+          "text": "同行",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.284,
+            "y": 0.4086,
+            "w": 0.1657,
+            "h": 0.175
+          },
+          "area": 0.029,
+          "text": "盛会",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.192,
+            "y": 0.386,
+            "w": 0.1185,
+            "h": 0.2289
+          },
+          "area": 0.0271,
+          "text": "耀",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 6
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年会颁奖-03-动态-251099f0-s02",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:7,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 18,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.3005,
+        "image_area": 1.0494,
+        "shape_area": 0.4615,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 目录 第一部分 领导致辞 第二部分 业绩回顾 第三部分 表彰颁奖 第四部分 表演晚会 第五部分 幸运抽奖",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 21",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 42",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 46",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 50",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 54",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "section_label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0634,
+            "y": 0.2242,
+            "w": 0.1262,
+            "h": 0.4069
+          },
+          "area": 0.0514,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 48",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4272,
+            "y": 0.1523,
+            "w": 0.1425,
+            "h": 0.2354
+          },
+          "area": 0.0335,
+          "text": "表彰颁奖",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "section_label": 1,
+          "label": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年会颁奖-03-动态-251099f0-s03",
+      "title_guess": "第一部分",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1986,
+        "image_area": 1.0574,
+        "shape_area": 0.0923,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 领 致词 导 第一部分",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3615,
+            "y": 0.1311,
+            "w": 0.2142,
+            "h": 0.2585
+          },
+          "area": 0.0554,
+          "text": "第一部分",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.41,
+            "w": 0.2086,
+            "h": 0.2109
+          },
+          "area": 0.044,
+          "text": "致词",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1033,
+            "y": 0.3809,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "领",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2073,
+            "y": 0.3741,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "导",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4678,
+            "y": 0.0232,
+            "w": 0.0644,
+            "h": 0.124
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年会颁奖-03-动态-251099f0-s04",
+      "title_guess": "集团总裁:李女士",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:3,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 18,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.2268,
+        "image_area": 0.1313,
+        "shape_area": 0.3822,
+        "text_blob": "集团总裁:李女士 新年伊始,万象更新,又一个生机勃发的春天向我们走来。凭借着大家的热心、爱护和培育,走到今天,我们的集团已初具规模。值此辞旧迎新之际,我谨代表XXXX向大家表示衷心的感谢。 感谢在各个工作岗位上勤勤恳恳努力工作的全体员工,感谢长期以来关心支持XXXX事业的各级政府领导、 广大投资者和社会各界友好人士,祝大家在新的一年里身体健康、合家幸福、事业有成、大展宏图! 领导致辞",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 9",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4272,
+            "y": -0.0512,
+            "w": 0.3603,
+            "h": 1.0464
+          },
+          "area": 0.377,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3662,
+            "y": 0.3239,
+            "w": 0.494,
+            "h": 0.3841
+          },
+          "area": 0.1897,
+          "text": "新年伊始,万象更新,又一个生机勃发的春天向我们走来。凭借着大家的热心、爱护和培育,走到今天,我们的集团已初具规模。值此辞旧迎新之际,我谨代表XXXX向大家表示衷心的感谢。 感谢在各个工作岗位上勤勤恳恳努力工作的全体员工,感谢长期以来关心支持",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 13",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0559,
+            "y": 0.2582,
+            "w": 0.2442,
+            "h": 0.5376
+          },
+          "area": 0.1313,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "领导致辞",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3793,
+            "y": 0.236,
+            "w": 0.2171,
+            "h": 0.0673
+          },
+          "area": 0.0146,
+          "text": "集团总裁:李女士",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年会颁奖-03-动态-251099f0-s05",
+      "title_guess": "第二部分",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1986,
+        "image_area": 1.0574,
+        "shape_area": 0.0923,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 业 回顾 绩 第二部分",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3615,
+            "y": 0.1311,
+            "w": 0.2142,
+            "h": 0.2585
+          },
+          "area": 0.0554,
+          "text": "第二部分",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.41,
+            "w": 0.2086,
+            "h": 0.2109
+          },
+          "area": 0.044,
+          "text": "回顾",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0968,
+            "y": 0.3679,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "业",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2073,
+            "y": 0.3741,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "绩",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4678,
+            "y": 0.0258,
+            "w": 0.0644,
+            "h": 0.124
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年会颁奖-03-动态-251099f0-s06",
+      "title_guess": "全年收益",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,top-center:2,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 18,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1026,
+        "image_area": 0.2112,
+        "shape_area": 0.0052,
+        "text_blob": "全年收益 120.000.000 元 全年总交易额",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0476,
+            "y": 0.16,
+            "w": 0.3447,
+            "h": 0.6128
+          },
+          "area": 0.2112,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1997,
+            "y": 0.3096,
+            "w": 0.3506,
+            "h": 0.1313
+          },
+          "area": 0.046,
+          "text": "120.000.000",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3737,
+            "y": 0.3401,
+            "w": 0.2881,
+            "h": 0.1122
+          },
+          "area": 0.0323,
+          "text": "全年总交易额",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "全年收益",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 17",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5585,
+            "y": 0.3644,
+            "w": 0.0321,
+            "h": 0.055
+          },
+          "area": 0.0018,
+          "text": "元",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年会颁奖-03-动态-251099f0-s07",
+      "title_guess": "全年收益",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,top-center:2,middle-left:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 18,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.0719,
+        "image_area": 0.3154,
+        "shape_area": 0.0052,
+        "text_blob": "全年收益 30.2 % 同比增长",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0869,
+            "y": 0.0937,
+            "w": 0.4212,
+            "h": 0.7488
+          },
+          "area": 0.3154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2965,
+            "y": 0.3096,
+            "w": 0.157,
+            "h": 0.1582
+          },
+          "area": 0.0248,
+          "text": "30.2",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "全年收益",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5081,
+            "y": 0.3301,
+            "w": 0.1971,
+            "h": 0.1122
+          },
+          "area": 0.0221,
+          "text": "同比增长",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4606,
+            "y": 0.3563,
+            "w": 0.035,
+            "h": 0.0707
+          },
+          "area": 0.0025,
+          "text": "%",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年会颁奖-03-动态-251099f0-s08",
+      "title_guess": "销量直升",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:2,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 18,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1787,
+        "image_area": 0.2381,
+        "shape_area": 0.0052,
+        "text_blob": "销量直升 2024销量 再创新高 2025继续 创造奇迹",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3647,
+            "y": 0.1816,
+            "w": 0.2667,
+            "h": 0.8928
+          },
+          "area": 0.2381,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1118,
+            "y": 0.407,
+            "w": 0.2823,
+            "h": 0.2768
+          },
+          "area": 0.0781,
+          "text": "2024销量 再创新高",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 9",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5723,
+            "y": 0.407,
+            "w": 0.2823,
+            "h": 0.2768
+          },
+          "area": 0.0781,
+          "text": "2025继续 创造奇迹",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "销量直升",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年会颁奖-03-动态-251099f0-s09",
+      "title_guess": "获得荣誉",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:2,middle-left:1,middle-center:1",
+      "counts": {
+        "text": 4,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 18,
+        "text_count": 4,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.0724,
+        "image_area": 0.2598,
+        "shape_area": 0.0052,
+        "text_blob": "获得荣誉 觅知市十佳创意媒体 觅知区十佳优秀企业 觅知小镇最具潜力公司",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0901,
+            "y": 0.2902,
+            "w": 0.2636,
+            "h": 0.3286
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3731,
+            "y": 0.2902,
+            "w": 0.2636,
+            "h": 0.3286
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6561,
+            "y": 0.2982,
+            "w": 0.2636,
+            "h": 0.3286
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "获得荣誉",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6561,
+            "y": 0.6454,
+            "w": 0.2636,
+            "h": 0.0673
+          },
+          "area": 0.0177,
+          "text": "觅知小镇最具潜力公司",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 4",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0983,
+            "y": 0.6453,
+            "w": 0.2388,
+            "h": 0.0673
+          },
+          "area": 0.0161,
+          "text": "觅知市十佳创意媒体",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3901,
+            "y": 0.6453,
+            "w": 0.2388,
+            "h": 0.0673
+          },
+          "area": 0.0161,
+          "text": "觅知区十佳优秀企业",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年会颁奖-03-动态-251099f0-s10",
+      "title_guess": "第三部分",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1986,
+        "image_area": 1.0574,
+        "shape_area": 0.0923,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 表 晚会 彰 第三部分",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3615,
+            "y": 0.1311,
+            "w": 0.2142,
+            "h": 0.2585
+          },
+          "area": 0.0554,
+          "text": "第三部分",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.41,
+            "w": 0.2086,
+            "h": 0.2109
+          },
+          "area": 0.044,
+          "text": "晚会",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1122,
+            "y": 0.3679,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2073,
+            "y": 0.3741,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "彰",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4678,
+            "y": 0.0258,
+            "w": 0.0644,
+            "h": 0.124
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年会颁奖-03-动态-251099f0-s11",
+      "title_guess": "优秀团队",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:3,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 18,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1476,
+        "image_area": 0.1607,
+        "shape_area": 0.3081,
+        "text_blob": "优秀团队 优秀团队—市场部 一个有为的团队,一支善战的队伍,一颗进取的心,使他们之所以优秀的基因。他们的每一次前进总是焕发青春的奇迹,他们的每一次出场都是彰显无穷的力量。他们以淳朴的风格和坚毅的脚步,走出自己的节奏与特色当心的挑战到来的时候,他们选取振翅飞翔。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4626,
+            "y": -0.1142,
+            "w": 0.2895,
+            "h": 1.0464
+          },
+          "area": 0.3029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 20",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0535,
+            "y": 0.2818,
+            "w": 0.3682,
+            "h": 0.4364
+          },
+          "area": 0.1607,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3662,
+            "y": 0.3239,
+            "w": 0.494,
+            "h": 0.2238
+          },
+          "area": 0.1106,
+          "text": "一个有为的团队,一支善战的队伍,一颗进取的心,使他们之所以优秀的基因。他们的每一次前进总是焕发青春的奇迹,他们的每一次出场都是彰显无穷的力量。他们以淳朴的风格和坚毅的脚步,走出自己的节奏与特色当心的挑战到来的时候,他们选取振翅飞翔。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "优秀团队",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3921,
+            "y": 0.236,
+            "w": 0.2158,
+            "h": 0.0673
+          },
+          "area": 0.0145,
+          "text": "优秀团队—市场部",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年会颁奖-03-动态-251099f0-s12",
+      "title_guess": "优秀个人",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 5,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0541,
+        "image_area": 0.3929,
+        "shape_area": 0.0576,
+        "text_blob": "优秀个人 市场部:xxx 设计部:xxx 品牌部:xxx 技术部:xxx",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 20",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2786,
+            "y": 0.2243,
+            "w": 0.2396,
+            "h": 0.447
+          },
+          "area": 0.1071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 31",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.054,
+            "y": 0.211,
+            "w": 0.2105,
+            "h": 0.4709
+          },
+          "area": 0.0991,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 28",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7576,
+            "y": 0.211,
+            "w": 0.2058,
+            "h": 0.4602
+          },
+          "area": 0.0947,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5434,
+            "y": 0.2243,
+            "w": 0.2058,
+            "h": 0.447
+          },
+          "area": 0.092,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "优秀个人",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.6896,
+            "w": 0.2017,
+            "h": 0.0648
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 39",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.6896,
+            "w": 0.2017,
+            "h": 0.0648
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 42",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.6896,
+            "w": 0.2017,
+            "h": 0.0648
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "平行四边形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.077,
+            "y": 0.6896,
+            "w": 0.2017,
+            "h": 0.0648
+          },
+          "area": 0.0131,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 32",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.6961,
+            "w": 0.1352,
+            "h": 0.0583
+          },
+          "area": 0.0079,
+          "text": "市场部:xxx",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年会颁奖-03-动态-251099f0-s13",
+      "title_guess": "第四部分",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1986,
+        "image_area": 1.0574,
+        "shape_area": 0.0923,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 晚 表演 会 第四部分",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3615,
+            "y": 0.1311,
+            "w": 0.2142,
+            "h": 0.2585
+          },
+          "area": 0.0554,
+          "text": "第四部分",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.41,
+            "w": 0.2086,
+            "h": 0.2109
+          },
+          "area": 0.044,
+          "text": "表演",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1122,
+            "y": 0.3679,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "晚",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2073,
+            "y": 0.3741,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "会",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4678,
+            "y": 0.0258,
+            "w": 0.0644,
+            "h": 0.124
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年会颁奖-03-动态-251099f0-s14",
+      "title_guess": "晚会表演",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,top-left:1",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 18,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1734,
+        "image_area": 0,
+        "shape_area": 0.3428,
+        "text_blob": "晚会表演 沙漠骆驼 演唱者:原创人",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3553,
+            "y": -0.0947,
+            "w": 0.2895,
+            "h": 1.1662
+          },
+          "area": 0.3376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2715,
+            "y": 0.3128,
+            "w": 0.4569,
+            "h": 0.2528
+          },
+          "area": 0.1155,
+          "text": "沙漠骆驼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.5514,
+            "w": 0.3244,
+            "h": 0.1092
+          },
+          "area": 0.0354,
+          "text": "演唱者:原创人",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "晚会表演",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年会颁奖-03-动态-251099f0-s15",
+      "title_guess": "晚会表演",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "mixed",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,top-left:1",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 18,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1451,
+        "image_area": 0,
+        "shape_area": 0.3428,
+        "text_blob": "晚会表演 B-box 演唱者:原创人",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3553,
+            "y": -0.0947,
+            "w": 0.2895,
+            "h": 1.1662
+          },
+          "area": 0.3376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3275,
+            "y": 0.3128,
+            "w": 0.345,
+            "h": 0.2528
+          },
+          "area": 0.0872,
+          "text": "B-box",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.5514,
+            "w": 0.3244,
+            "h": 0.1092
+          },
+          "area": 0.0354,
+          "text": "演唱者:原创人",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "晚会表演",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5872,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年会颁奖-03-动态-251099f0-s16",
+      "title_guess": "第五部分",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1986,
+        "image_area": 1.0574,
+        "shape_area": 0.0923,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 幸 抽奖 运 第五部分",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3133,
+            "y": 0.1134,
+            "w": 0.2968,
+            "h": 0.3109
+          },
+          "area": 0.0923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3615,
+            "y": 0.1311,
+            "w": 0.2142,
+            "h": 0.2585
+          },
+          "area": 0.0554,
+          "text": "第五部分",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.319,
+            "y": 0.41,
+            "w": 0.2086,
+            "h": 0.2109
+          },
+          "area": 0.044,
+          "text": "抽奖",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1122,
+            "y": 0.3679,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "幸",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2073,
+            "y": 0.3741,
+            "w": 0.1185,
+            "h": 0.2715
+          },
+          "area": 0.0322,
+          "text": "运",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4678,
+            "y": 0.0258,
+            "w": 0.0644,
+            "h": 0.124
+          },
+          "area": 0.008,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年会颁奖-03-动态-251099f0-s17",
+      "title_guess": "幸运抽奖",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,top-center:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 18,
+        "text_count": 5,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.2195,
+        "image_area": 0.0762,
+        "shape_area": 0.0052,
+        "text_blob": "幸运抽奖 二等奖:戴森(Dyson)网红 吹风机(三名) 幸运奖:30名现金200 一等奖:Apple 苹果 iphone Xs Max(一名) 三等奖:小米扫地机器人(五名)",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 31",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1418,
+            "y": 0.2735,
+            "w": 0.7033,
+            "h": 0.0853
+          },
+          "area": 0.06,
+          "text": "一等奖:Apple 苹果 iphone Xs Max(一名)",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1692,
+            "y": 0.3831,
+            "w": 0.6582,
+            "h": 0.0853
+          },
+          "area": 0.0561,
+          "text": "二等奖:戴森(Dyson)网红 吹风机(三名)",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2444,
+            "y": 0.4926,
+            "w": 0.5208,
+            "h": 0.0853
+          },
+          "area": 0.0444,
+          "text": "三等奖:小米扫地机器人(五名)",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 22",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3057,
+            "y": 0.6022,
+            "w": 0.3874,
+            "h": 0.0942
+          },
+          "area": 0.0365,
+          "text": "幸运奖:30名现金200",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0492,
+            "y": 0.5435,
+            "w": 0.1411,
+            "h": 0.2112
+          },
+          "area": 0.0298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8097,
+            "y": 0.5161,
+            "w": 0.1411,
+            "h": 0.2112
+          },
+          "area": 0.0298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.387,
+            "y": 0.0478,
+            "w": 0.2003,
+            "h": 0.1122
+          },
+          "area": 0.0225,
+          "text": "幸运抽奖",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.874,
+            "y": 0.3809,
+            "w": 0.0744,
+            "h": 0.1113
+          },
+          "area": 0.0083,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 10",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0384,
+            "y": 0.4443,
+            "w": 0.0744,
+            "h": 0.1113
+          },
+          "area": 0.0083,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2475,
+            "y": 0.0937,
+            "w": 0.1262,
+            "h": 0.0205
+          },
+          "area": 0.0026,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年会颁奖-03-动态-251099f0-s18",
+      "title_guess": "蛇/年/祥/瑞 辉/煌/再/续",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:4,middle-center:3,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 18,
+        "text_count": 10,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.2519,
+        "image_area": 1.1564,
+        "shape_area": 0.0312,
+        "text_blob": "蛇/年/祥/瑞 辉/煌/再/续 年度总结表彰暨2025年迎新年会 再 2024 见 HONOR GRAND EVENT 迎 2025 接 GRATEFUL COLLEAGUES",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3877,
+            "y": 0.1474,
+            "w": 0.2357,
+            "h": 0.4539
+          },
+          "area": 0.107,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3373,
+            "y": 0.7729,
+            "w": 0.3254,
+            "h": 0.1517
+          },
+          "area": 0.0494,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0886,
+            "y": 0.2651,
+            "w": 0.127,
+            "h": 0.3231
+          },
+          "area": 0.041,
+          "text": "迎",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0699,
+            "y": 0.2549,
+            "w": 0.1185,
+            "h": 0.3231
+          },
+          "area": 0.0383,
+          "text": "再",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1121,
+            "y": 0.0612,
+            "w": 0.7758,
+            "h": 0.0449
+          },
+          "area": 0.0348,
+          "text": "蛇/年/祥/瑞 辉/煌/再/续",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "六边形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3233,
+            "y": 0.6402,
+            "w": 0.4063,
+            "h": 0.0769
+          },
+          "area": 0.0312,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.192,
+            "y": 0.386,
+            "w": 0.1185,
+            "h": 0.2289
+          },
+          "area": 0.0271,
+          "text": "见",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2162,
+            "y": 0.3832,
+            "w": 0.1107,
+            "h": 0.2289
+          },
+          "area": 0.0253,
+          "text": "接",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2841,
+            "y": 0.4275,
+            "w": 0.1657,
+            "h": 0.1346
+          },
+          "area": 0.0223,
+          "text": "2024",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 6
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 18,
+    "layout_job_counts": {
+      "matrix-grid": 9,
+      "claim-evidence": 6,
+      "cover-statement": 1,
+      "toc": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "image": 15,
+      "mixed": 3
+    },
+    "density_counts": {
+      "medium": 11,
+      "medium-high": 5,
+      "low": 2
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "claim-evidence",
+      "cover-statement",
+      "toc",
+      "image-hero"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "mixed"
+    ]
+  }
+}

@@ -1,0 +1,6639 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:17.731050+00:00",
+  "template_id": "可视化图表-03-静态-f3d5f234",
+  "template_profile_path": "assets/template-library/profiles/可视化图表-03-静态-f3d5f234.json",
+  "source_template": {
+    "name": "可视化图表(03)—静态.pptx",
+    "category": "可视化图表（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/可视化图表（5套）/可视化图表(03)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 31,
+    "media_count": 11,
+    "image_media_count": 6,
+    "motion_hint": "static",
+    "tags": [
+      "数据图表",
+      "数据分析",
+      "图表汇报",
+      "统计说明",
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论",
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高",
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图",
+      "结论句",
+      "图表注释",
+      "指标标签",
+      "静态版",
+      "高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "数据图表",
+    "scenario": [
+      "数据分析",
+      "图表汇报",
+      "统计说明"
+    ],
+    "best_for": [
+      "数据分析",
+      "业绩汇报",
+      "统计展示"
+    ],
+    "avoid": [
+      "纯情绪海报",
+      "儿童活动风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论"
+    ],
+    "visual": [
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高"
+    ],
+    "image_strategy": [
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图"
+    ],
+    "text_strategy": [
+      "结论句",
+      "图表注释",
+      "指标标签"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "architecture-diagram",
+      "process-strip",
+      "research-question",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "diagram-block",
+      "connector",
+      "image",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-center",
+      "middle-left",
+      "middle-right",
+      "top-center",
+      "bottom-center",
+      "top-left"
+    ],
+    "template_text_signature": "可视化逻辑图 10/09 项目启动 获取用户 基于社交刷屏的 竞品分析 业务战略-多端投放 对会员 完全不了解 测试 工程师 上游供应链 现阶段主要应用在医保支付、商保支付、众筹互助支付、医疗分期和支付工具多个领域 运行时间 关注宏观 掌控全局 设计目标 (DO) 在线挂诊 在线问诊 远程医疗 互联网医院 乳腺患者 极致信任下的 品牌现状现状梳理 吸引 决策 承载形式 收集 共建 设计 落地 逻辑 解构 用户粘性 正向 影响 需求 需求方向 民生服务 易用性 度量 用户 设计",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s01",
+      "title_guess": "可视化逻辑图",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:3,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 2,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 31,
+        "text_count": 2,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.3151,
+        "image_area": 1.0906,
+        "shape_area": 0,
+        "text_blob": "可视化逻辑图 (三)",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 126",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1245,
+            "y": 0.282,
+            "w": 0.751,
+            "h": 0.2715
+          },
+          "area": 0.2039,
+          "text": "可视化逻辑图",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1245,
+            "y": 0.5752,
+            "w": 0.751,
+            "h": 0.1481
+          },
+          "area": 0.1112,
+          "text": "(三)",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 156",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.039,
+            "y": 0.5558,
+            "w": 0.1919,
+            "h": 0.3518
+          },
+          "area": 0.0675,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 108",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8343,
+            "y": 0.5285,
+            "w": 0.0823,
+            "h": 0.1464
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 143",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1083,
+            "y": 0.3047,
+            "w": 0.0534,
+            "h": 0.098
+          },
+          "area": 0.0052,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 145",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.685,
+            "y": 0.2834,
+            "w": 0.0569,
+            "h": 0.0837
+          },
+          "area": 0.0048,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 110",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1914,
+            "y": 0.3402,
+            "w": 0.0245,
+            "h": 0.0436
+          },
+          "area": 0.0011,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 2
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s02",
+      "title_guess": "10/09 项目启动",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 29,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 31,
+        "text_count": 29,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 10,
+        "text_area": 0.1738,
+        "image_area": 0,
+        "shape_area": 0.2747,
+        "text_blob": "10/09 项目启动 线上阶段 11/13 线下启动 12/05 活动举办 线下阶段 阶段: 目标: #我要上嘉年华# 10/26 上线 直播选秀PK 雪球故事征集 #雪球奖评选# 11/09 上线 影响力用户评选 年度新锐用户评选 #嘉年华长街# 11/13 上线 抢嘉年华门票 全景展示嘉年华 #雪球之夜颁奖# 12/04 举办 颁奖晚宴 年度奖项颁布 #雪球嘉年华# 12/05 举办 主会场硬核输出 展台交流互动 热度营造、挖掘故事 热度造势、年终盘点 全景展示、互动赠票 聚焦用户、荣誉殿堂 投资盛典、活动升级 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 100",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1146,
+            "y": 0.3953,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 104",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2813,
+            "y": 0.3953,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 108",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4479,
+            "y": 0.3953,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 112",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6145,
+            "y": 0.3953,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 117",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7812,
+            "y": 0.3953,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1146,
+            "y": 0.7409,
+            "w": 0.1467,
+            "h": 0.0932
+          },
+          "area": 0.0137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2813,
+            "y": 0.7409,
+            "w": 0.1467,
+            "h": 0.0932
+          },
+          "area": 0.0137,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 27,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s03",
+      "title_guess": "获取用户",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,middle-center:3,bottom-center:1",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 48,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 31,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 48,
+        "connector_count": 5,
+        "text_area": 0.1295,
+        "image_area": 0,
+        "shape_area": 1.2245,
+        "text_blob": "获取用户 Get user 流量引入 PV\\UV 激活用户 Activate user 刺激用户参与 点击率、访问深度 提高留存 Improve retention 减少用户流失 留存率、复购率 增加收入 increase income 提升价值转化 转化率、订单数 扩大传播 Dissemination 扩散价值 转发量、满意度 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 4",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4129,
+            "y": -0.0045,
+            "w": 0.2051,
+            "h": 1.8328
+          },
+          "area": 0.3759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 5",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2545,
+            "y": -0.7503,
+            "w": 0.2051,
+            "h": 1.8328
+          },
+          "area": 0.3759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.455,
+            "y": -0.3888,
+            "w": 0.0712,
+            "h": 1.3491
+          },
+          "area": 0.0961,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1112,
+            "y": 0.374,
+            "w": 0.1344,
+            "h": 0.5179
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.265,
+            "y": 0.374,
+            "w": 0.1344,
+            "h": 0.4486
+          },
+          "area": 0.0603,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4201,
+            "y": 0.374,
+            "w": 0.1344,
+            "h": 0.391
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5801,
+            "y": 0.374,
+            "w": 0.1344,
+            "h": 0.3178
+          },
+          "area": 0.0427,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7357,
+            "y": 0.374,
+            "w": 0.1344,
+            "h": 0.2496
+          },
+          "area": 0.0335,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 20,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s04",
+      "title_guess": "基于社交刷屏的 竞品分析",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 31,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 8,
+        "text_area": 0.0981,
+        "image_area": 0,
+        "shape_area": 0.7794,
+        "text_blob": "基于社交刷屏的 竞品分析 基于运势祝福的 开运词玩法 推动 符合时事的开运词 平安 坚持 健康 乘风破浪 福 开运词运营方案 今年开运词 今年开运词 春节疫情时事 明星祝福词 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6504,
+            "y": 0.161,
+            "w": 0.257,
+            "h": 0.4568
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4532,
+            "y": 0.161,
+            "w": 0.257,
+            "h": 0.4568
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2336,
+            "y": 0.5519,
+            "w": 0.257,
+            "h": 0.4568
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2336,
+            "y": 0.161,
+            "w": 0.257,
+            "h": 0.4568
+          },
+          "area": 0.1174,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 62",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7689,
+            "y": 0.26,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 67",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5724,
+            "y": 0.26,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 70",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3485,
+            "y": 0.26,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 86",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3485,
+            "y": 0.6499,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 89",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2164,
+            "y": 0.6499,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 73",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2164,
+            "y": 0.26,
+            "w": 0.1467,
+            "h": 0.2609
+          },
+          "area": 0.0383,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s05",
+      "title_guess": "业务战略-多端投放",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 27,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 31,
+        "text_count": 27,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 9,
+        "text_area": 0.1376,
+        "image_area": 0,
+        "shape_area": 0.3655,
+        "text_blob": "业务战略-多端投放 流量触达渠道 业务基础场景 黄页门店 内容门店 通用门店 行业覆盖场景 正餐 轻快餐 丽人 婚嫁 亲子 KTV 公域:搜索、推荐、栏目、会场、频道... 私域:店铺、商详、会员、消息... 线上 门店 会员 消息 行业 基础 商品 服务 内容 营销 业务战略-多端投放 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2327,
+            "y": 0.2645,
+            "w": 0.6991,
+            "h": 0.0932
+          },
+          "area": 0.0652,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2327,
+            "y": 0.7769,
+            "w": 0.7,
+            "h": 0.0932
+          },
+          "area": 0.0652,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.4859,
+            "w": 0.1656,
+            "h": 0.276
+          },
+          "area": 0.0457,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7665,
+            "y": 0.47,
+            "w": 0.1656,
+            "h": 0.276
+          },
+          "area": 0.0457,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.2645,
+            "w": 0.1654,
+            "h": 0.0932
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.7769,
+            "w": 0.1654,
+            "h": 0.0932
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0675,
+            "y": 0.3768,
+            "w": 0.1654,
+            "h": 0.0932
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7667,
+            "y": 0.3768,
+            "w": 0.1654,
+            "h": 0.0932
+          },
+          "area": 0.0154,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 24,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s06",
+      "title_guess": "对会员 完全不了解",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 31,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 0,
+        "text_area": 0.1431,
+        "image_area": 0,
+        "shape_area": 0.79,
+        "text_blob": "对会员 完全不了解 “懵懂” 给“买到赚到”的价格和紧迫 新用户N元限今天内 对会员 部分了解 “在摇摆” 需“价格+价值”再推一把手 定点推价低,权益放大 从来不是会员 但了解 “待刺激” 先让其体验权益,爽后付费 先试用,感受显著差异再付费 曾经是会员 “待唤醒” 需针对流失原因刺激 情感链接+新内容和权益 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2474,
+            "y": 0.1026,
+            "w": 0.2835,
+            "h": 0.5041
+          },
+          "area": 0.1429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4762,
+            "y": 0.1026,
+            "w": 0.2835,
+            "h": 0.5041
+          },
+          "area": 0.1429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7051,
+            "y": 0.1026,
+            "w": 0.2835,
+            "h": 0.5041
+          },
+          "area": 0.1429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0186,
+            "y": 0.1026,
+            "w": 0.2835,
+            "h": 0.5041
+          },
+          "area": 0.1429,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 57",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.098,
+            "y": 0.3002,
+            "w": 0.1253,
+            "h": 0.2227
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 120",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.326,
+            "y": 0.3002,
+            "w": 0.1253,
+            "h": 0.2227
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 135",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5541,
+            "y": 0.3002,
+            "w": 0.1253,
+            "h": 0.2227
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 149",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7821,
+            "y": 0.3002,
+            "w": 0.1253,
+            "h": 0.2227
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0522,
+            "y": 0.7314,
+            "w": 0.2168,
+            "h": 0.0932
+          },
+          "area": 0.0202,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s07",
+      "title_guess": "测试 工程师",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,bottom-left:2,top-left:1",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 38,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 31,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 38,
+        "connector_count": 0,
+        "text_area": 0.0843,
+        "image_area": 0,
+        "shape_area": 0.9485,
+        "text_blob": "测试 工程师 开发测试脚本 制定测试计划 测试计划 测试编排 测试端 APP 测试服务器 反馈端 报告测试 进度和结果 测试进度 测试结果 用户端 执行机 服务器 收集执行结果 发送控制命令 测试终端 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 29",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.167,
+            "y": 0.1727,
+            "w": 0.3194,
+            "h": 1.1615
+          },
+          "area": 0.371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 2",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.167,
+            "y": -0.1339,
+            "w": 0.3194,
+            "h": 1.1615
+          },
+          "area": 0.371,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.056,
+            "y": 0.3481,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.056,
+            "y": 0.652,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4797,
+            "y": 0.3526,
+            "w": 0.1016,
+            "h": 0.1806
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4797,
+            "y": 0.6565,
+            "w": 0.1016,
+            "h": 0.1806
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8432,
+            "y": 0.5065,
+            "w": 0.1016,
+            "h": 0.1806
+          },
+          "area": 0.0183,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2165,
+            "y": 0.4129,
+            "w": 0.2198,
+            "h": 0.0677
+          },
+          "area": 0.0149,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s08",
+      "title_guess": "上游供应链",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-right:2,top-left:2",
+      "counts": {
+        "text": 42,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 46,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 31,
+        "text_count": 42,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 46,
+        "connector_count": 1,
+        "text_area": 0.0948,
+        "image_area": 0,
+        "shape_area": 0.3941,
+        "text_blob": "上游供应链 货源供应 主流电商平台 下单渠道 直播平台 品牌方 01 淘宝 01 抖音 01 批发商 02 京 东 02 快手 02 经销商 03 拼多多 03 小红书 03 工厂 04 蘑菇街 04 蘑菇街 04 主播 MCN 有趣内容 服务费 直播 抽佣 孵化 内容输出 下动购买 用 户 C2M模式直接供货 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0064,
+            "y": 0.4088,
+            "w": 0.252,
+            "h": 0.2762
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4659,
+            "y": 0.4088,
+            "w": 0.252,
+            "h": 0.2762
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2349,
+            "y": 0.4116,
+            "w": 0.252,
+            "h": 0.2762
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8781,
+            "y": 0.2977,
+            "w": 0.0667,
+            "h": 0.4731
+          },
+          "area": 0.0316,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "连接符: 肘形 167",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4435,
+            "y": 0.181,
+            "w": 0.0207,
+            "h": 1.1428
+          },
+          "area": 0.0237,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6996,
+            "y": 0.3373,
+            "w": 0.1483,
+            "h": 0.0665
+          },
+          "area": 0.0099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0749,
+            "y": 0.2977,
+            "w": 0.1151,
+            "h": 0.0552
+          },
+          "area": 0.0064,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 39,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s09",
+      "title_guess": "现阶段主要应用在医保支付、商保支付、众筹互助支付、医疗分期和支付工具多个领域",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,bottom-left:1",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 29,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 31,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 29,
+        "connector_count": 4,
+        "text_area": 0.1174,
+        "image_area": 0,
+        "shape_area": 1.4365,
+        "text_blob": "现阶段主要应用在医保支付、商保支付、众筹互助支付、医疗分期和支付工具多个领域 保险 中介 保险 公司 测试 工程师 支付 人群 外包服务 商保支付 医疗费用 农民 01 在校学生 02 城乡居民 03 城镇职工 04 保监会 卫健委 医保局 监管 定价监管 医保基金支付 软件支持厂商 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 4",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3207,
+            "y": -0.2924,
+            "w": 0.3586,
+            "h": 1.7778
+          },
+          "area": 0.6375,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 5",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2918,
+            "y": -0.109,
+            "w": 0.4164,
+            "h": 1.4111
+          },
+          "area": 0.5876,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4298,
+            "y": 0.4747,
+            "w": 0.1351,
+            "h": 0.2402
+          },
+          "area": 0.0325,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "连接符: 肘形 60",
+          "role": "connector",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2361,
+            "y": 0.4914,
+            "w": 0.0547,
+            "h": 0.5016
+          },
+          "area": 0.0274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "主题的适配往往牵扯到多个角色，内部主题每次维护都需要拉群执行，而cp主题全量更新耗时甚至以月计算",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2181,
+            "y": 0.8704,
+            "w": 0.5638,
+            "h": 0.0389
+          },
+          "area": 0.0219,
+          "text": "现阶段主要应用在医保支付、商保支付、众筹互助支付、医疗分期和支付工具多个领域",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0669,
+            "y": 0.4961,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2468,
+            "y": 0.4961,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6369,
+            "y": 0.4961,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 19,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s10",
+      "title_guess": "运行时间",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 66,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 31,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 66,
+        "connector_count": 0,
+        "text_area": 0.1253,
+        "image_area": 0,
+        "shape_area": 0.5276,
+        "text_blob": "运行时间 01 Uptime 延迟 02 Latency 页面浏览 03 Page Views 周活用户 04 Seven-day Active Users 收益 05 Earnings 技术侧的用户体验 商业收益 传统的网站衡量指标,基于商业和技术评估产品,应用于跟踪产品的整体表现 产品的用户忠诚度 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4688,
+            "y": -0.0103,
+            "w": 0.0624,
+            "h": 1.5815
+          },
+          "area": 0.0987,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0702,
+            "y": 0.8315,
+            "w": 0.8596,
+            "h": 0.0552
+          },
+          "area": 0.0474,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0702,
+            "y": 0.4359,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2462,
+            "y": 0.4359,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4223,
+            "y": 0.4359,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5983,
+            "y": 0.4359,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7743,
+            "y": 0.4359,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "制作主题包",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1216,
+            "y": 0.8419,
+            "w": 0.7515,
+            "h": 0.0344
+          },
+          "area": 0.0259,
+          "text": "传统的网站衡量指标,基于商业和技术评估产品,应用于跟踪产品的整体表现",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 19,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s11",
+      "title_guess": "关注宏观 掌控全局",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:7,bottom-right:1,middle-right:1",
+      "counts": {
+        "text": 26,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 40,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 31,
+        "text_count": 26,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 40,
+        "connector_count": 0,
+        "text_area": 0.0939,
+        "image_area": 0,
+        "shape_area": 2.2471,
+        "text_blob": "关注宏观 掌控全局 01 统计分析报表 02 决策及考核 03 标准GB28181 在线检测 图像质量检测 录像时长检测 巡检 诊断 分析 发现 运维 人员 决策 人员 关注微观 方便运维 01 诊断详情信息 02 告警>工单>维修 03 执行要求 管理要求 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 4",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0086,
+            "y": 0.1573,
+            "w": 0.4862,
+            "h": 0.8644
+          },
+          "area": 0.4203,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 3",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5353,
+            "y": 0.3267,
+            "w": 0.4561,
+            "h": 0.8109
+          },
+          "area": 0.3699,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 2",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5353,
+            "y": 0.0099,
+            "w": 0.4561,
+            "h": 0.8109
+          },
+          "area": 0.3699,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 25",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0944,
+            "y": 0.3054,
+            "w": 0.3127,
+            "h": 0.5559
+          },
+          "area": 0.1738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 33",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0949,
+            "y": 0.3063,
+            "w": 0.3127,
+            "h": 0.5559
+          },
+          "area": 0.1738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0949,
+            "y": 0.3063,
+            "w": 0.3127,
+            "h": 0.5559
+          },
+          "area": 0.1738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 37",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0954,
+            "y": 0.3071,
+            "w": 0.3127,
+            "h": 0.5559
+          },
+          "area": 0.1738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1336,
+            "y": 0.3756,
+            "w": 0.2346,
+            "h": 0.4172
+          },
+          "area": 0.0979,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1408,
+            "y": 0.3884,
+            "w": 0.2202,
+            "h": 0.3915
+          },
+          "area": 0.0862,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 38",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5354,
+            "y": 0.3134,
+            "w": 0.1147,
+            "h": 0.2039
+          },
+          "area": 0.0234,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 22,
+          "label": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s12",
+      "title_guess": "设计目标 (DO)",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:7,middle-right:1,middle-left:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 22,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 22,
+        "connector_count": 0,
+        "text_area": 0.1148,
+        "image_area": 0,
+        "shape_area": 1.6446,
+        "text_blob": "设计目标 (DO) 关键事件 (KR) 助力达成 细化场景 设计评价 设计手段 表现 (P) 总目标 (G) 会员业务GMV TISHENG 120% 利用视觉差异化 提升会员身份感 建立会员品牌体系 完善会员组件库 用户首次购买 再次购买提升 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 4",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0164,
+            "y": 0.1868,
+            "w": 1.0328,
+            "h": 0.7538
+          },
+          "area": 0.7785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3059,
+            "y": 0.2239,
+            "w": 0.3882,
+            "h": 0.6901
+          },
+          "area": 0.2679,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3465,
+            "y": 0.3,
+            "w": 0.2976,
+            "h": 0.5291
+          },
+          "area": 0.1575,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3465,
+            "y": 0.3,
+            "w": 0.2976,
+            "h": 0.5291
+          },
+          "area": 0.1575,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3819,
+            "y": 0.363,
+            "w": 0.2267,
+            "h": 0.4031
+          },
+          "area": 0.0914,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3703,
+            "y": 0.4525,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4953,
+            "y": 0.4525,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.779,
+            "y": 0.4525,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0876,
+            "y": 0.4525,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s13",
+      "title_guess": "在线挂诊 在线问诊 远程医疗 互联网医院",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-right:2,top-right:1",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 31,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 4,
+        "text_area": 0.1465,
+        "image_area": 0,
+        "shape_area": 0.5695,
+        "text_blob": "在线挂诊 在线问诊 远程医疗 互联网医院 慢病管理 健康体检 基因检测 大数据 人工智能 机器人 精准医疗 B2B B2C O2O 处方流转 医保 商保 智慧医疗 产品在互联网医疗产业生态中的定位 医疗服务 01 健康管理 02 科技升级 03 医药流通 04 医疗保险 05 产品战略定位:以乳腺健康市场为切入点,搭建一个全生命周期的健康管理服务平台 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.842,
+            "y": -0.1463,
+            "w": 0.2955,
+            "h": 0.5254
+          },
+          "area": 0.1553,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0948,
+            "y": 0.7151,
+            "w": 0.2311,
+            "h": 0.4108
+          },
+          "area": 0.0949,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2462,
+            "y": 0.5144,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4223,
+            "y": 0.5144,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5983,
+            "y": 0.5144,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7743,
+            "y": 0.5144,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0702,
+            "y": 0.5144,
+            "w": 0.1555,
+            "h": 0.2891
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "主题的适配往往牵扯到多个角色，内部主题每次维护都需要拉群执行，而cp主题全量更新耗时甚至以月计算",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2255,
+            "y": 0.8639,
+            "w": 0.5491,
+            "h": 0.0389
+          },
+          "area": 0.0214,
+          "text": "产品战略定位:以乳腺健康市场为切入点,搭建一个全生命周期的健康管理服务平台",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "连接符: 肘形 126",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1479,
+            "y": 0.4009,
+            "w": 0.2422,
+            "h": 0.087
+          },
+          "area": 0.0211,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 13
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s14",
+      "title_guess": "乳腺患者",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:3,top-center:2",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 39,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 31,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 39,
+        "connector_count": 0,
+        "text_area": 0.1105,
+        "image_area": 0,
+        "shape_area": 2.2517,
+        "text_blob": "乳腺患者 患者 慢病 健康用户 在线问诊 饮食+习惯+用药+体征数据检测 饮食+运动+生活习惯 就诊建议 家庭医生 住院管理 良好用药习惯培养 疾病预警 营养建议 行为干预 健康科普 用户 用户场景 需求 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 15",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2121,
+            "y": -0.109,
+            "w": 0.5758,
+            "h": 1.4111
+          },
+          "area": 0.8125,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3589,
+            "y": 0.3288,
+            "w": 0.2487,
+            "h": 0.5394
+          },
+          "area": 0.1341,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.074,
+            "y": 0.4041,
+            "w": 0.2494,
+            "h": 0.4434
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7295,
+            "y": 0.3627,
+            "w": 0.1555,
+            "h": 0.5055
+          },
+          "area": 0.0786,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1046,
+            "y": 0.4041,
+            "w": 0.1883,
+            "h": 0.3347
+          },
+          "area": 0.063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1352,
+            "y": 0.4041,
+            "w": 0.127,
+            "h": 0.2257
+          },
+          "area": 0.0287,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3748,
+            "y": 0.5046,
+            "w": 0.217,
+            "h": 0.0551
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 18,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s15",
+      "title_guess": "极致信任下的",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-right:2,middle-left:1",
+      "counts": {
+        "text": 29,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 31,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 31,
+        "text_count": 29,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 31,
+        "connector_count": 2,
+        "text_area": 0.1552,
+        "image_area": 0,
+        "shape_area": 0.8046,
+        "text_blob": "极致信任下的 用户磁场 平台 品牌 创作者 触达提效 开屏 信息流 品牌助推 快手联盟 激发提效 品牌挑战赛快手魔法表情 好物种草橱窗 品牌直播间 直播PK赛 2021招商项目 转化提效 商业推广任务 优选A+ 磁力建站 磁力追踪 磁力快聊 前链路 后链路 站内经营闭环 品牌号 快手小店 磁力矩阵 好物联盟 站外品牌阵地 淘系 京东 官网 有赞 平台赋能 数据管理服务 磁力万象 磁力增长银行 快手生意通 内容合作服务 开眼快创 素造 商业服务能力 磁力聚星 磁力金牛 金牛电商 效果广告投放平台 全链路 流量提效 经营沉淀 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0102,
+            "y": 0.4117,
+            "w": 0.2809,
+            "h": 0.3431
+          },
+          "area": 0.0964,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3819,
+            "y": 0.3554,
+            "w": 0.2267,
+            "h": 0.4031
+          },
+          "area": 0.0914,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2576,
+            "y": 0.795,
+            "w": 0.6337,
+            "h": 0.1057
+          },
+          "area": 0.067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 27",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4013,
+            "y": 0.4268,
+            "w": 0.1879,
+            "h": 0.3341
+          },
+          "area": 0.0628,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4013,
+            "y": 0.4268,
+            "w": 0.1879,
+            "h": 0.3341
+          },
+          "area": 0.0628,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4013,
+            "y": 0.4268,
+            "w": 0.1879,
+            "h": 0.3341
+          },
+          "area": 0.0628,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.602,
+            "y": 0.4065,
+            "w": 0.2876,
+            "h": 0.1477
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 96",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5984,
+            "y": 0.4065,
+            "w": 0.2914,
+            "h": 0.1458
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4192,
+            "y": 0.4216,
+            "w": 0.1522,
+            "h": 0.2706
+          },
+          "area": 0.0412,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.602,
+            "y": 0.6064,
+            "w": 0.2876,
+            "h": 0.1429
+          },
+          "area": 0.0411,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 22,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s16",
+      "title_guess": "品牌现状现状梳理",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,top-center:2,bottom-center:1",
+      "counts": {
+        "text": 24,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 73,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 31,
+        "text_count": 24,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 73,
+        "connector_count": 0,
+        "text_area": 0.1358,
+        "image_area": 0,
+        "shape_area": 0.7638,
+        "text_blob": "品牌现状现状梳理 品牌DNA未来预期 内部用户 外部用户 业务梳理 行业趋势 竞品分析 继承品牌资产 优化阶段问题 激活品牌活力 使命愿景 核心价值 品牌特征 视觉层面 传播层面 用户心智 LOGO形式与时代脱节 滞后于主流审美 视觉心智待强化 业务发展不同步 品牌体系待完善 传播策略待加强 工具属性明显 缺少应有活力 品牌层级待梳理 连线真实世界 让雏形更美好 为客户提供专业的出行 与位置服务 专业/生活化、活力 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3614,
+            "y": 0.3585,
+            "w": 0.2679,
+            "h": 0.4762
+          },
+          "area": 0.1276,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4688,
+            "y": -0.4282,
+            "w": 0.0624,
+            "h": 1.5815
+          },
+          "area": 0.0987,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4688,
+            "y": 0.04,
+            "w": 0.0624,
+            "h": 1.5815
+          },
+          "area": 0.0987,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3819,
+            "y": 0.3951,
+            "w": 0.2267,
+            "h": 0.4031
+          },
+          "area": 0.0914,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3703,
+            "y": 0.4846,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4953,
+            "y": 0.4846,
+            "w": 0.125,
+            "h": 0.2222
+          },
+          "area": 0.0278,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 119",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 121",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 120",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 59",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0542,
+            "y": 0.433,
+            "w": 0.1395,
+            "h": 0.0989
+          },
+          "area": 0.0138,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 17
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s17",
+      "title_guess": "吸引 决策",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:3,middle-right:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.1599,
+        "image_area": 0,
+        "shape_area": 0.8882,
+        "text_blob": "吸引 决策 刺激 决策 加固 决策 过程中主动了解他人,特别是身边由此购物经验的朋友的意见 扩大商品影响力 提升商品感知价值 产生购买欲后 确认折扣或赠品 决定购买后 了解配送及售后 被商品吸引 确认商品基本信息 下单 购买 选择参数后 进行下单购买 社交决策 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 3",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7364,
+            "y": 0.1199,
+            "w": 0.4561,
+            "h": 0.8109
+          },
+          "area": 0.3699,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 25",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0763,
+            "y": 0.2612,
+            "w": 0.5766,
+            "h": 0.3827
+          },
+          "area": 0.2207,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 24",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0763,
+            "y": 0.6707,
+            "w": 0.5766,
+            "h": 0.2222
+          },
+          "area": 0.1281,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 37",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7364,
+            "y": 0.3588,
+            "w": 0.1873,
+            "h": 0.333
+          },
+          "area": 0.0624,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1283,
+            "y": 0.7024,
+            "w": 0.4707,
+            "h": 0.0551
+          },
+          "area": 0.0259,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Object29",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1468,
+            "y": 0.7024,
+            "w": 0.4356,
+            "h": 0.0508
+          },
+          "area": 0.0221,
+          "text": "社交决策",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1283,
+            "y": 0.4202,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3081,
+            "y": 0.4202,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.488,
+            "y": 0.4202,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s18",
+      "title_guess": "承载形式",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,top-center:3,bottom-right:2",
+      "counts": {
+        "text": 26,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 31,
+        "text_count": 26,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 2,
+        "text_area": 0.196,
+        "image_area": 0,
+        "shape_area": 0.5744,
+        "text_blob": "承载形式 贴心不打扰 POP/弹层/卡片/页面 信息框架 视觉动线结构拆解 合理信息排布,形成规则 权益/抓手包装 核心权益价值感强化 优惠折扣等营销包装 沟通话术 用户心境话术刺激 在适当的实际 说对的话 操作引导 低门槛人机交互操作引导 当前情景下的硬件交互 行为触发边界 成功 Fogg行为模型 「B=MAT」 动机 能力 行为可能性=动机+能力+触发 行为 可能性 动机 能力 触发 = + + 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 23",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0547,
+            "y": 0.4922,
+            "w": 0.8901,
+            "h": 0.417
+          },
+          "area": 0.3712,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 30",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1492,
+            "y": 0.5203,
+            "w": 0.1655,
+            "h": 0.2941
+          },
+          "area": 0.0487,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 37",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4204,
+            "y": 0.5949,
+            "w": 0.1213,
+            "h": 0.2156
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 39",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5796,
+            "y": 0.6205,
+            "w": 0.0924,
+            "h": 0.1643
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 41",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6973,
+            "y": 0.6205,
+            "w": 0.0924,
+            "h": 0.1643
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 43",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8149,
+            "y": 0.6205,
+            "w": 0.0924,
+            "h": 0.1643
+          },
+          "area": 0.0152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Object24",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4752,
+            "y": 0.2108,
+            "w": 0.3145,
+            "h": 0.0449
+          },
+          "area": 0.0141,
+          "text": "行为可能性=动机+能力+触发",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 17,
+          "label": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s19",
+      "title_guess": "收集 共建",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,bottom-center:2,middle-right:1",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 31,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 3,
+        "text_area": 0.1129,
+        "image_area": 0,
+        "shape_area": 0.9775,
+        "text_blob": "收集 共建 阶段 目标 资源 投入 设计 支撑 视觉/交互 品牌/营销 DAU/GMV 清晰目标 时间点 风格确立 用户分析 竞品分析 设计 支撑 第一性原则 统一认知 阶段目标拆解 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "等腰三角形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2785,
+            "y": 0.2746,
+            "w": 0.4974,
+            "h": 0.5836
+          },
+          "area": 0.2903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2989,
+            "y": 0.8589,
+            "w": 0.4535,
+            "h": 0.417
+          },
+          "area": 0.1891,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5421,
+            "y": 0.2346,
+            "w": 0.4089,
+            "h": 0.417
+          },
+          "area": 0.1705,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1034,
+            "y": 0.2346,
+            "w": 0.4089,
+            "h": 0.417
+          },
+          "area": 0.1705,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "等腰三角形 20",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4227,
+            "y": 0.5507,
+            "w": 0.2079,
+            "h": 0.2439
+          },
+          "area": 0.0507,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4664,
+            "y": 0.5327,
+            "w": 0.1217,
+            "h": 0.2163
+          },
+          "area": 0.0263,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.223,
+            "y": 0.749,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7204,
+            "y": 0.749,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4717,
+            "y": 0.1864,
+            "w": 0.111,
+            "h": 0.1974
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 11
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s20",
+      "title_guess": "设计 落地",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:3,middle-right:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 31,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 3,
+        "text_area": 0.1451,
+        "image_area": 0,
+        "shape_area": 0.4191,
+        "text_blob": "设计 落地 业务 诉求 用户 需求 产品 需求 设计 创新力 征信品牌 提升品牌可信度 影响力 IP形象 情感体系 创意视觉 氛围营造人性化 交互动效 体验易用性 一致性 流畅度 内容 高效 简洁 在常规版本需求中与业务 产品 用户寻找设计创新机会点与平衡点 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5134,
+            "y": 0.2809,
+            "w": 0.1608,
+            "h": 0.6585
+          },
+          "area": 0.1059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1223,
+            "y": 0.2809,
+            "w": 0.1608,
+            "h": 0.6585
+          },
+          "area": 0.1059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4568,
+            "y": 0.4668,
+            "w": 0.1437,
+            "h": 0.2555
+          },
+          "area": 0.0367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0564,
+            "y": 0.4698,
+            "w": 0.1403,
+            "h": 0.2494
+          },
+          "area": 0.035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 56",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6505,
+            "y": 0.5451,
+            "w": 0.2932,
+            "h": 0.0989
+          },
+          "area": 0.029,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0659,
+            "y": 0.4867,
+            "w": 0.1213,
+            "h": 0.2156
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Object24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4722,
+            "y": 0.5136,
+            "w": 0.1129,
+            "h": 0.1617
+          },
+          "area": 0.0183,
+          "text": "设计 创新力",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Object32",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6707,
+            "y": 0.5606,
+            "w": 0.2527,
+            "h": 0.0678
+          },
+          "area": 0.0171,
+          "text": "在常规版本需求中与业务 产品 用户寻找设计创新机会点与平衡点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s21",
+      "title_guess": "逻辑 解构",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:3,middle-right:2",
+      "counts": {
+        "text": 28,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 34,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 31,
+        "text_count": 28,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 34,
+        "connector_count": 8,
+        "text_area": 0.1157,
+        "image_area": 0,
+        "shape_area": 0.7216,
+        "text_blob": "逻辑 解构 信息 解构 场景 解构 信息 过载 抽象 结构化 减法 以“用户”为中心 以“逻辑解构”为中心 以“信息内容”为中心 用户场景 用户习惯 产品逻辑 关系逻辑 关系逻辑 产品逻辑 场景解构 抽象 逻辑解构 结构化 信息解构 减法 抽象用户使用场景 结构化多维逻辑 简化信息承载 信息冗余 逻辑混乱 信息内容复杂 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 31",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.2951,
+            "w": 0.3445,
+            "h": 0.6124
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 74",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2989,
+            "y": 0.2916,
+            "w": 0.3445,
+            "h": 0.6124
+          },
+          "area": 0.211,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 105",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0514,
+            "y": 0.3538,
+            "w": 0.1873,
+            "h": 0.333
+          },
+          "area": 0.0624,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0682,
+            "y": 0.3822,
+            "w": 0.1538,
+            "h": 0.2733
+          },
+          "area": 0.042,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3991,
+            "y": 0.4752,
+            "w": 0.1441,
+            "h": 0.2561
+          },
+          "area": 0.0369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "连接符: 曲线 96",
+          "role": "connector",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6501,
+            "y": 0.3255,
+            "w": 0.1136,
+            "h": 0.202
+          },
+          "area": 0.0229,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "连接符: 曲线 99",
+          "role": "connector",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6501,
+            "y": 0.5557,
+            "w": 0.1136,
+            "h": 0.202
+          },
+          "area": 0.0229,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Object29",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0783,
+            "y": 0.4378,
+            "w": 0.1335,
+            "h": 0.165
+          },
+          "area": 0.022,
+          "text": "信息冗余 逻辑混乱 信息内容复杂",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 22
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s22",
+      "title_guess": "用户粘性",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:4,middle-right:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 22,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 31,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 22,
+        "connector_count": 3,
+        "text_area": 0.124,
+        "image_area": 0,
+        "shape_area": 0.7676,
+        "text_blob": "用户粘性 User Stickiness 提升转化 Upgrade TRANSFORMATION 品牌调性 Brand tonality 产品层 优化产品呈现方式,增强用户看标讯的欲望,增强运营活动视觉感知度,凸显运营氛围 视觉层 通过视觉优化,统一设计风格,强化品牌意识,更符合用户人群的审美 用户层 增加学习功能,增加用户对平台的认知与粘性,优化交互,提升用户使用体验 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3126,
+            "y": 0.2496,
+            "w": 0.3732,
+            "h": 0.6635
+          },
+          "area": 0.2476,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3578,
+            "y": 0.3301,
+            "w": 0.2826,
+            "h": 0.5025
+          },
+          "area": 0.142,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2824,
+            "y": 0.5191,
+            "w": 0.1668,
+            "h": 0.2966
+          },
+          "area": 0.0495,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4166,
+            "y": 0.2181,
+            "w": 0.1668,
+            "h": 0.2966
+          },
+          "area": 0.0495,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5508,
+            "y": 0.5191,
+            "w": 0.1668,
+            "h": 0.2966
+          },
+          "area": 0.0495,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2907,
+            "y": 0.5339,
+            "w": 0.1502,
+            "h": 0.267
+          },
+          "area": 0.0401,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4249,
+            "y": 0.2329,
+            "w": 0.1502,
+            "h": 0.267
+          },
+          "area": 0.0401,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5591,
+            "y": 0.5339,
+            "w": 0.1502,
+            "h": 0.267
+          },
+          "area": 0.0401,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 32",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6406,
+            "y": 0.3664,
+            "w": 0.3024,
+            "h": 0.0887
+          },
+          "area": 0.0268,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 43",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0552,
+            "y": 0.7171,
+            "w": 0.1799,
+            "h": 0.1248
+          },
+          "area": 0.0225,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s23",
+      "title_guess": "正向 影响",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,middle-right:3,middle-left:1",
+      "counts": {
+        "text": 25,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 33,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 31,
+        "text_count": 25,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 33,
+        "connector_count": 4,
+        "text_area": 0.1124,
+        "image_area": 0,
+        "shape_area": 1.0298,
+        "text_blob": "正向 影响 高生命周期 正面反馈 产品建议 高续签率 迭代 吸取 沉淀 传承 生命周期 用户反馈 商业续签率 低生命周期 负面反馈 低续签率 负向影响 探查问题 问题定位 问题归因 “探” 重新设计研发 大版本更新 解决方式 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 43",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.382,
+            "y": 0.2287,
+            "w": 0.643,
+            "h": 0.5494
+          },
+          "area": 0.3533,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7981,
+            "y": 0.3369,
+            "w": 0.1459,
+            "h": 0.3575
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6324,
+            "y": 0.3369,
+            "w": 0.1459,
+            "h": 0.3575
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4669,
+            "y": 0.3369,
+            "w": 0.1459,
+            "h": 0.3575
+          },
+          "area": 0.0522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1125,
+            "y": 0.3977,
+            "w": 0.1328,
+            "h": 0.2361
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 22
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s24",
+      "title_guess": "需求",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,top-center:2,middle-center:1",
+      "counts": {
+        "text": 37,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 51,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 31,
+        "text_count": 37,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 51,
+        "connector_count": 8,
+        "text_area": 0.0995,
+        "image_area": 0,
+        "shape_area": 2.2647,
+        "text_blob": "需求 方案 测试 研发 沟通/走查 交互走查 信息设计 流程图 A/B测试 可用性测试 信息架构 导航设计 行业趋势 用户分析 目标分析 HMW分析法 头脑风暴 运营数据 竞品分析 专家走查 目标导向 意见反馈 用户访谈 战略 表现 框架 结构 范围 质疑&调研 发现问题 定义问题 构思方案 交付方案 发散&构思 研发&测试 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 84",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2928,
+            "y": 0.3102,
+            "w": 0.318,
+            "h": 0.5653
+          },
+          "area": 0.1798,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "不完整圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1687,
+            "y": 0.4762,
+            "w": 0.1377,
+            "h": 0.2415
+          },
+          "area": 0.0333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "不完整圆 40",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1687,
+            "y": 0.4758,
+            "w": 0.1377,
+            "h": 0.2415
+          },
+          "area": 0.0333,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 81",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1825,
+            "y": 0.5,
+            "w": 0.1092,
+            "h": 0.1942
+          },
+          "area": 0.0212,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.5113,
+            "w": 0.0968,
+            "h": 0.1721
+          },
+          "area": 0.0167,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.848,
+            "y": 0.5113,
+            "w": 0.0968,
+            "h": 0.1721
+          },
+          "area": 0.0167,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0632,
+            "y": 0.523,
+            "w": 0.0837,
+            "h": 0.1488
+          },
+          "area": 0.0125,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 35,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s25",
+      "title_guess": "需求方向",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 23,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 31,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 23,
+        "connector_count": 9,
+        "text_area": 0.0901,
+        "image_area": 0,
+        "shape_area": 0.4687,
+        "text_blob": "需求方向 产品 设计汇报产品设计,确认方案 运营方向 OP 合作模式 BD 设计调研/风暴 设计 设计DEMO 设计 向上汇报 产品-设计 商务洽谈 BD-设计 UE讲解产品设计,落实资源 梳理优先级——产品确认 模拟运营内容——运营认可 以竞品信息模拟——BD保障 开发上线 立项 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2023,
+            "y": 0.2687,
+            "w": 0.3017,
+            "h": 0.5364
+          },
+          "area": 0.1618,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0616,
+            "y": 0.4023,
+            "w": 0.258,
+            "h": 0.2678
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5966,
+            "y": 0.3942,
+            "w": 0.1606,
+            "h": 0.2854
+          },
+          "area": 0.0458,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7122,
+            "y": 0.5208,
+            "w": 0.1606,
+            "h": 0.2854
+          },
+          "area": 0.0458,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 149",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5353,
+            "y": 0.376,
+            "w": 0.1618,
+            "h": 0.116
+          },
+          "area": 0.0188,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "连接符: 肘形 23",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2076,
+            "y": 0.4036,
+            "w": 0.1121,
+            "h": 0.1116
+          },
+          "area": 0.0125,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "连接符: 肘形 25",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2076,
+            "y": 0.5645,
+            "w": 0.1121,
+            "h": 0.1057
+          },
+          "area": 0.0118,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 18,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s26",
+      "title_guess": "民生服务",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,middle-right:2,middle-left:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 31,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 3,
+        "text_area": 0.1375,
+        "image_area": 0,
+        "shape_area": 1.0742,
+        "text_blob": "民生服务 城市治理 公共 管理 一网通办 智能安保 数字警务 智能交通 云化基础设施 移动协同 智联网 业务中台 数据中台 大数据 智能旅游 智能导服 一事通办 最多跑一次 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5638,
+            "y": 0.2385,
+            "w": 0.2826,
+            "h": 0.5025
+          },
+          "area": 0.142,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1575,
+            "y": 0.2385,
+            "w": 0.2826,
+            "h": 0.5025
+          },
+          "area": 0.142,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 32",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3968,
+            "y": 0.3104,
+            "w": 0.2007,
+            "h": 0.3568
+          },
+          "area": 0.0716,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 25",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4113,
+            "y": 0.3348,
+            "w": 0.1733,
+            "h": 0.3081
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "形状",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4842,
+            "y": 0.1251,
+            "w": 0.0385,
+            "h": 1.3531
+          },
+          "area": 0.0521,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7366,
+            "y": 0.3153,
+            "w": 0.1459,
+            "h": 0.3471
+          },
+          "area": 0.0506,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 15,
+          "label": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s27",
+      "title_guess": "易用性 度量",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,middle-left:1,bottom-center:1",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 23,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 31,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 23,
+        "connector_count": 8,
+        "text_area": 0.101,
+        "image_area": 0,
+        "shape_area": 0.5988,
+        "text_blob": "易用性 度量 易用性专家团 专家团人员介绍 外部真实用户 以产品所面向的核心目标客户为主 易用性小组 易用性小组成员介绍 产品团队 业务线设计师和产品团队介绍 易用性度量标准/行动指南+工具 统一标准 易用性度量报告 专业输出 系统化监控+专享改进 改进闭环 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 71",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0484,
+            "y": 0.3944,
+            "w": 0.2969,
+            "h": 0.3343
+          },
+          "area": 0.0993,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "连接符: 肘形 57",
+          "role": "connector",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1074,
+            "y": 0.2738,
+            "w": 0.5381,
+            "h": 0.1451
+          },
+          "area": 0.0781,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "连接符: 肘形 63",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1074,
+            "y": 0.7057,
+            "w": 0.5381,
+            "h": 0.1244
+          },
+          "area": 0.0669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4151,
+            "y": 0.4151,
+            "w": 0.1521,
+            "h": 0.2705
+          },
+          "area": 0.0411,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 14
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s28",
+      "title_guess": "用户",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:2,middle-left:1",
+      "counts": {
+        "text": 20,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 31,
+        "text_count": 20,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 6,
+        "text_area": 0.1202,
+        "image_area": 0,
+        "shape_area": 0.5476,
+        "text_blob": "用户 投顾 产品 3层递进 建立服务信任 用户自主购买高端产品的阻力大 起购门槛高——收益风险顾虑——品牌安全担忧——操作流程繁琐 投顾 用户 产品 投顾懂用户需求,链接用户和产品 根据用户需求,匹配满足需求的产品,并陪伴是服务 认识 表面信任 陪伴 情感信任 朋友 行为信任 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1258,
+            "y": 0.314,
+            "w": 0.2983,
+            "h": 0.5304
+          },
+          "area": 0.1582,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "梯形 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1948,
+            "y": 0.2665,
+            "w": 0.673,
+            "h": 0.1396
+          },
+          "area": 0.094,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "梯形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1948,
+            "y": 0.7679,
+            "w": 0.673,
+            "h": 0.1396
+          },
+          "area": 0.094,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "直接连接符 21",
+          "role": "connector",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2621,
+            "y": 0.3452,
+            "w": 0.5351,
+            "h": 0.119
+          },
+          "area": 0.0637,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 23",
+          "role": "connector",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2621,
+            "y": 0.7112,
+            "w": 0.5351,
+            "h": 0.1109
+          },
+          "area": 0.0593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "梯形 22",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2544,
+            "y": 0.537,
+            "w": 0.2483,
+            "h": 0.0972
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "梯形 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4174,
+            "y": 0.537,
+            "w": 0.2115,
+            "h": 0.0972
+          },
+          "area": 0.0206,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "梯形 37",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5795,
+            "y": 0.5384,
+            "w": 0.1771,
+            "h": 0.0972
+          },
+          "area": 0.0172,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 14,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s29",
+      "title_guess": "设计价值",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,bottom-center:1,top-left:1",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 31,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 6,
+        "text_area": 0.1502,
+        "image_area": 0,
+        "shape_area": 0.5082,
+        "text_blob": "设计价值 情感认同 打动人心 超出预期 体验认同 服务体验 口碑差异 平衡合规 功能认同 聆听用户 洞察需求 设计实施 验证迭代 设计赋能 业务增长 能力 支撑 团队价值 引领行业 领导影响 行业变革 驱动业务 体验创新 战略前瞻 协同业务 高效输出 快速上线 沉淀规范 协作效率 团队驱动 业务发展 充分发挥设计团队价值 助力金融产品业务增长 领导力 服务设计 用户研究 金融知识 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.4523,
+            "w": 0.1328,
+            "h": 0.2361
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2796,
+            "y": 0.7704,
+            "w": 0.4367,
+            "h": 0.0552
+          },
+          "area": 0.0241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3247,
+            "y": 0.323,
+            "w": 0.3466,
+            "h": 0.0551
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.13,
+            "y": 0.4083,
+            "w": 0.1256,
+            "h": 0.1222
+          },
+          "area": 0.0153,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10,
+          "label": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s30",
+      "title_guess": "需求沟通 组件评估",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:8,middle-right:1,middle-left:1",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 25,
+        "connector": 13
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 31,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 25,
+        "connector_count": 13,
+        "text_area": 0.1124,
+        "image_area": 0,
+        "shape_area": 0.9391,
+        "text_blob": "需求沟通 组件评估 新组件or组件升级 已有组件 需求A 需求B 需求C 需求D 已有组件/ 页面模板 组件库 交互设计 视觉设计 前端开发 上线 沉淀 评审&验证 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 79",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5394,
+            "y": 0.314,
+            "w": 0.2983,
+            "h": 0.5304
+          },
+          "area": 0.1582,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3552,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4316,
+            "y": 0.3839,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.4523,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3942,
+            "y": 0.3165,
+            "w": 0.2092,
+            "h": 0.3719
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2095,
+            "y": 0.4618,
+            "w": 0.1328,
+            "h": 0.2361
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 13
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 31,
+      "slide_id": "31",
+      "framework_id": "可视化图表-03-静态-f3d5f234-s31",
+      "title_guess": "业务 目标",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-right:2,top-center:2",
+      "counts": {
+        "text": 39,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 31,
+        "total_slides": 31,
+        "text_count": 39,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 5,
+        "text_area": 0.2074,
+        "image_area": 0,
+        "shape_area": 0.5125,
+        "text_blob": "业务 目标 动态 想给>想要 牵引策略 超越预期 动态路径 间歇性创造下一个满足峰值 创新项目 运营: 确定方案、辅助实施 技术: 可行性、解决方案 设计: 视觉把控、盘点资源持续输出 数据: 优胜劣汰调控 策略: 方案优化 新方案迭代 更新: 运营更新频率、视觉更新频率 核心 FUTURE 更多 制定 策略 低成本 实施落地 把控 节奏 运营: 确定方案、辅助实施 技术: 可行性、解决方案 设计: 视觉把控、盘点资源持续输出 数据: 优胜劣汰调控 策略: 方案优化 新方案迭代 更新: 运营更新频率、视觉更新频率 通用逻辑图表 TONGYONGTUBIAO",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1125,
+            "y": 0.2822,
+            "w": 0.3439,
+            "h": 0.6113
+          },
+          "area": 0.2102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5251,
+            "y": 0.4952,
+            "w": 0.3912,
+            "h": 0.1785
+          },
+          "area": 0.0698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5251,
+            "y": 0.7151,
+            "w": 0.3912,
+            "h": 0.1785
+          },
+          "area": 0.0698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 19",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5251,
+            "y": 0.2821,
+            "w": 0.3912,
+            "h": 0.1782
+          },
+          "area": 0.0697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Object24",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2396,
+            "y": 0.4038,
+            "w": 0.0952,
+            "h": 0.3811
+          },
+          "area": 0.0363,
+          "text": "创新项目",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0658,
+            "y": 0.4698,
+            "w": 0.1328,
+            "h": 0.2361
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0555,
+            "y": 0.0587,
+            "w": 0.2602,
+            "h": 0.0853
+          },
+          "area": 0.0222,
+          "text": "通用逻辑图表",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0655,
+            "w": 0.264,
+            "h": 0.0673
+          },
+          "area": 0.0178,
+          "text": "TONGYONGTUBIAO",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.0713,
+            "w": 0.264,
+            "h": 0.0545
+          },
+          "area": 0.0144,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Object24",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0846,
+            "y": 0.5196,
+            "w": 0.0952,
+            "h": 0.1365
+          },
+          "area": 0.013,
+          "text": "FUTURE 更多",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 31
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 31,
+    "layout_job_counts": {
+      "flow-diagram": 16,
+      "architecture-diagram": 6,
+      "process-strip": 5,
+      "research-question": 2,
+      "cover-statement": 1,
+      "limitations-future": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 30,
+      "image": 1
+    },
+    "density_counts": {
+      "high": 30,
+      "medium-high": 1
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "architecture-diagram",
+      "process-strip",
+      "research-question",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image"
+    ]
+  }
+}

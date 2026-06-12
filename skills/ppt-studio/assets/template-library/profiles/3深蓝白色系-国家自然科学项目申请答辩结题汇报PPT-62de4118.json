@@ -1,0 +1,4216 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:30.923551+00:00",
+  "template_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118",
+  "template_profile_path": "assets/template-library/profiles/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118.json",
+  "source_template": {
+    "name": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "category": "国家自然科学申报PPT(7套)",
+    "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "source": "国家自然科学申报PPT(7套)",
+    "slide_count": 19,
+    "media_count": 38,
+    "image_media_count": 30,
+    "motion_hint": "pptx",
+    "tags": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报",
+      "封面",
+      "目录",
+      "研究背景",
+      "科学问题",
+      "技术路线",
+      "进度成果",
+      "总结",
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨",
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图",
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释",
+      "深蓝白",
+      "蓝白",
+      "静态版",
+      "原始文件",
+      "高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "科研申报",
+    "scenario": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报"
+    ],
+    "best_for": [
+      "基金申报",
+      "研究答辩",
+      "课题结题",
+      "学术汇报"
+    ],
+    "avoid": [
+      "儿童活动",
+      "海报展示",
+      "强插画风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "目录",
+      "研究意义",
+      "技术路线",
+      "结果/进度",
+      "总结"
+    ],
+    "visual": [
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨"
+    ],
+    "image_strategy": [
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图"
+    ],
+    "text_strategy": [
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "image-hero",
+      "matrix-grid",
+      "research-question",
+      "table",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "table"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "image",
+      "diagram-block",
+      "body",
+      "label",
+      "footer"
+    ],
+    "common_zones": [
+      "top-center",
+      "bottom-center",
+      "middle-center",
+      "middle-left",
+      "bottom-left",
+      "middle-right"
+    ],
+    "template_text_signature": "国家自然科学项目 申请答辩结题汇报PPT 项目基本情况 国家需求 拟解决的问题 项目基本情况 研究思路和技术路线 项目创新 项目基本情况 项目研究团队 项目主持人及其骨干 项目团队获得科技项目、论文、专利 项目团队主要研究成果 项目基本情况 项目考核指标 项目基本情况 01 项目基本情况 项目风险分析 梯形异质结光催化材料的应用及机理研究",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s01",
+      "title_guess": "国家自然科学项目 申请答辩结题汇报PPT",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:3,top-center:1",
+      "counts": {
+        "text": 15,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 19,
+        "text_count": 15,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.5583,
+        "image_area": 1.1584,
+        "shape_area": 1.7007,
+        "text_blob": "梯形异质结光催化材料的应用及机理研究 国家自然科学项目 申请答辩结题汇报PPT 汇报人:科研演示 申报单位: 合作单位: 科研地质大学 环境科学研究实验室 环境科学有限公司 材料工程研究实验室 材料科学研究实验室 科研材料科学研究所 材料研究有限责任公司 科研环境科学研究所 科研地质环境科学技术研究院有限公司 科研材料科学与工程学院",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 8",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2687,
+            "y": -0.4795,
+            "w": 0.4616,
+            "h": 1.7796
+          },
+          "area": 0.8215,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 36",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.001,
+            "y": 0.1883,
+            "w": 1.001,
+            "h": 0.3901
+          },
+          "area": 0.3905,
+          "text": "国家自然科学项目 申请答辩结题汇报PPT",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 31",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6544,
+            "w": 1.0,
+            "h": 0.3456
+          },
+          "area": 0.3456,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 4",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6615,
+            "w": 1.0,
+            "h": 0.3385
+          },
+          "area": 0.3385,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6615,
+            "w": 1.0,
+            "h": 0.3369
+          },
+          "area": 0.3369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2307,
+            "y": 0.0972,
+            "w": 0.4695,
+            "h": 0.0673
+          },
+          "area": 0.0316,
+          "text": "梯形异质结光催化材料的应用及机理研究",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 49",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6085,
+            "y": 0.8315,
+            "w": 0.3423,
+            "h": 0.0539
+          },
+          "area": 0.0184,
+          "text": "科研地质环境科学技术研究院有限公司",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2742,
+            "y": 0.5802,
+            "w": 0.2459,
+            "h": 0.0633
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.5815,
+            "w": 0.2331,
+            "h": 0.0632
+          },
+          "area": 0.0147,
+          "text": "汇报人:科研演示",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1624,
+            "y": 0.7054,
+            "w": 0.2234,
+            "h": 0.0539
+          },
+          "area": 0.012,
+          "text": "科研材料科学与工程学院",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "title": 1,
+          "footer": 12
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s02",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s03",
+      "title_guess": "国家需求",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-center:4,middle-right:2,middle-left:1",
+      "counts": {
+        "text": 14,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.2871,
+        "image_area": 0.3973,
+        "shape_area": 0.9531,
+        "text_blob": "国家需求 01 梯形异质结光催化材料因其独特的结构和性能,在能源、环境、健康以及生态建筑材料等领域展现出广阔的应用前景 能源 市场光催化材料需求不断增长 面向2035的新材料强国战略研究 “十三五”材料领域科技创新 “十四五”现代能源体系规划 预计到2030年将达到140.8324亿美元,复合年增长率为5.20% 光催化材料的产业化发展需求不断增长 建筑材料 梯形异质结 机理 生态 环境",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 12",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0404,
+            "y": 0.338,
+            "w": 0.5543,
+            "h": 0.6009
+          },
+          "area": 0.3331,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 27",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.613,
+            "y": 0.338,
+            "w": 0.3464,
+            "h": 0.6009
+          },
+          "area": 0.2082,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.1652
+          },
+          "area": 0.152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1438,
+            "w": 0.8984,
+            "h": 0.1477
+          },
+          "area": 0.1327,
+          "text": "梯形异质结光催化材料因其独特的结构和性能,在能源、环境、健康以及生态建筑材料等领域展现出广阔的应用前景",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.64,
+            "y": 0.4328,
+            "w": 0.2923,
+            "h": 0.3429
+          },
+          "area": 0.1002,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 56",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.7892,
+            "w": 0.3309,
+            "h": 0.1398
+          },
+          "area": 0.0463,
+          "text": "预计到2030年将达到140.8324亿美元,复合年增长率为5.20% 光催化材料的产业化发展需求不断增长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Picture 16",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4103,
+            "y": 0.5853,
+            "w": 0.1712,
+            "h": 0.1921
+          },
+          "area": 0.0329,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Picture 14",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2332,
+            "y": 0.5871,
+            "w": 0.1676,
+            "h": 0.1886
+          },
+          "area": 0.0316,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 2,
+          "footer": 7
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s04",
+      "title_guess": "拟解决的问题",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:4,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 2,
+        "text_area": 0.3829,
+        "image_area": 0.1717,
+        "shape_area": 0.844,
+        "text_blob": "拟解决的问题 02 光催化技术在推广应用和产业化过程中将面临挑战,包括先进技术取代传统技术的需要、从实验室技术转化为工程化技术的挑战等 拟通过设计新型的梯形异质结光催化材料来提升材料的稳定性,并实现其在反应后的回收再利用 探索新的光催化应用领域,实现更清洁和可持续的环境解决方案 问题一 优化光生载流子的转移机理 提高催化效率 梯形异质结光催化材料 拓宽光谱吸收 问题二 当前光催化材料效率较低 单一光催化剂难以同时具备宽光谱吸收 II型异质结在光生载流子转移机理上存在问题 内建电场和能带弯曲 提高氧化还原能力",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "米菲PPT4",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3901,
+            "y": 0.3348,
+            "w": 0.5683,
+            "h": 0.4405
+          },
+          "area": 0.2503,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 39",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.1652
+          },
+          "area": 0.152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 40",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1438,
+            "w": 0.8984,
+            "h": 0.1477
+          },
+          "area": 0.1327,
+          "text": "光催化技术在推广应用和产业化过程中将面临挑战,包括先进技术取代传统技术的需要、从实验室技术转化为工程化技术的挑战等",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0404,
+            "y": 0.8052,
+            "w": 0.9179,
+            "h": 0.1337
+          },
+          "area": 0.1227,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0485,
+            "y": 0.8183,
+            "w": 0.8435,
+            "h": 0.1071
+          },
+          "area": 0.0903,
+          "text": "拟通过设计新型的梯形异质结光催化材料来提升材料的稳定性,并实现其在反应后的回收再利用 探索新的光催化应用领域,实现更清洁和可持续的环境解决方案",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "米菲PPT23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.5427,
+            "w": 0.3056,
+            "h": 0.2325
+          },
+          "area": 0.0711,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 88",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0404,
+            "y": 0.3348,
+            "w": 0.3048,
+            "h": 0.1782
+          },
+          "area": 0.0543,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 107",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4037,
+            "y": 0.419,
+            "w": 0.3701,
+            "h": 0.1071
+          },
+          "area": 0.0396,
+          "text": "当前光催化材料效率较低 单一光催化剂难以同时具备宽光谱吸收",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 3,
+          "footer": 7
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s05",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s06",
+      "title_guess": "研究思路和技术路线",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:4,bottom-center:2,middle-center:1",
+      "counts": {
+        "text": 19,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 19,
+        "text_count": 19,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 4,
+        "text_area": 0.3799,
+        "image_area": 0.1066,
+        "shape_area": 0.8822,
+        "text_blob": "研究思路和技术路线 01 克服II型异质结和Z型光催化材料缺陷,通过构建新型异质结结构提高光催化性能 选择具有适当能带结构和光吸收特性的半导体材料 梯形异质结中库仑力作用 有助于氧化型的光生电子与还原型的光生空穴复合 能带弯曲 阻止光生空穴与光生电子转移 整体思路 梯形异质结光催化材料机理 梯形异质结内建电场 光生电子和空穴分离 具有高的还原和氧化能力,提高光催化效率 为光催化技术的发展提供了新的方向和可能性 选择合适的材料 技术路线 将两种或多种材料以特定方式组合,形成梯形异质结构 通过调节材料的比例、形态和界面特性,光催化性能 构建异质结构 优化结构表征与测试",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "米菲PPT5",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.096,
+            "y": 0.2717,
+            "w": 0.863,
+            "h": 0.3265
+          },
+          "area": 0.2818,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1401,
+            "w": 0.9201,
+            "h": 0.0981
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 99",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0404,
+            "y": 0.8445,
+            "w": 0.9179,
+            "h": 0.0944
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1555,
+            "w": 0.8984,
+            "h": 0.0673
+          },
+          "area": 0.0605,
+          "text": "克服II型异质结和Z型光催化材料缺陷,通过构建新型异质结结构提高光催化性能",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "米菲PPT20",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.096,
+            "y": 0.6299,
+            "w": 0.2707,
+            "h": 0.1872
+          },
+          "area": 0.0507,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "米菲PPT20",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3925,
+            "y": 0.6299,
+            "w": 0.2707,
+            "h": 0.1872
+          },
+          "area": 0.0507,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "米菲PPT20",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.689,
+            "y": 0.6299,
+            "w": 0.2707,
+            "h": 0.1872
+          },
+          "area": 0.0507,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT22",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6651,
+            "y": 0.3042,
+            "w": 0.2785,
+            "h": 0.174
+          },
+          "area": 0.0485,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 5,
+          "footer": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s07",
+      "title_guess": "项目创新",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-center:5,bottom-center:2,bottom-left:1",
+      "counts": {
+        "text": 14,
+        "image": 3,
+        "chart": 0,
+        "table": 1,
+        "shape": 15,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 15,
+        "connector_count": 1,
+        "text_area": 0.2253,
+        "image_area": 0.1691,
+        "shape_area": 0.8389,
+        "text_blob": "项目创新 02 保持光催化体系强氧化还原能力,促进光生电荷空间分离,大幅增强光催化性能 光催化产氢 新型梯形异质结光催化剂设计 CO2还原 CH4氧化 静电纺丝 能源 纳米纤维基 实现能源的转换 有机污染物的降解创新点 利用静电纺丝技术制备的纳米纤维基光催化材料 新型的光催化材料制备方法 常见光催化材料",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "米菲PPT5",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.4,
+            "w": 0.9194,
+            "h": 0.539
+          },
+          "area": 0.4956,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "表格 52",
+          "role": "table",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0722,
+            "y": 0.5157,
+            "w": 0.3941,
+            "h": 0.315
+          },
+          "area": 0.1241,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1401,
+            "w": 0.9201,
+            "h": 0.0981
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.041,
+            "y": 0.2714,
+            "w": 0.9179,
+            "h": 0.0954
+          },
+          "area": 0.0876,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0534,
+            "y": 0.1555,
+            "w": 0.8931,
+            "h": 0.0673
+          },
+          "area": 0.0601,
+          "text": "保持光催化体系强氧化还原能力,促进光生电荷空间分离,大幅增强光催化性能",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Picture 12",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4811,
+            "y": 0.6432,
+            "w": 0.1672,
+            "h": 0.1875
+          },
+          "area": 0.0313,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4811,
+            "y": 0.4306,
+            "w": 0.1672,
+            "h": 0.1867
+          },
+          "area": 0.0312,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT32",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.676,
+            "y": 0.4669,
+            "w": 0.259,
+            "h": 0.1141
+          },
+          "area": 0.0296,
+          "text": "实现能源的转换 有机污染物的降解创新点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 2,
+          "footer": 7
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s08",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s09",
+      "title_guess": "项目研究团队",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:3,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 8,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 19,
+        "text_count": 10,
+        "image_count": 8,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.2924,
+        "image_area": 0.2536,
+        "shape_area": 0.837,
+        "text_blob": "项目研究团队 01 为解决能源和环境问题提供了新的策略和材料选择 研究实验室 跨学科合作,推动梯形异质结光催化材料的研究进展 材料科学研究实验室 材料工程研究实验室 科研大学材料学研究实验室 科研大学环境科学研究所 能源光催化研究课题组 中国师范大学化学学院 科研大学化学学院 能源与环境光催化学院 材料研究有限责任公司 环境科学有限公司 科研地质环境科学技术研究院有限公司 研究平台 合作企业",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 10",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.041,
+            "y": 0.6214,
+            "w": 0.9179,
+            "h": 0.3175
+          },
+          "area": 0.2914,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.2678,
+            "w": 0.2949,
+            "h": 0.324
+          },
+          "area": 0.0955,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3521,
+            "y": 0.2678,
+            "w": 0.2949,
+            "h": 0.324
+          },
+          "area": 0.0955,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.664,
+            "y": 0.2678,
+            "w": 0.2949,
+            "h": 0.324
+          },
+          "area": 0.0955,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1401,
+            "w": 0.9201,
+            "h": 0.0981
+          },
+          "area": 0.0903,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6793,
+            "y": 0.3489,
+            "w": 0.2792,
+            "h": 0.2192
+          },
+          "area": 0.0612,
+          "text": "材料研究有限责任公司 环境科学有限公司 科研地质环境科学技术研究院有限公司",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0523,
+            "y": 0.3489,
+            "w": 0.2722,
+            "h": 0.2192
+          },
+          "area": 0.0597,
+          "text": "材料科学研究实验室 材料工程研究实验室 科研大学材料学研究实验室 科研大学环境科学研究所",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3847,
+            "y": 0.3489,
+            "w": 0.2343,
+            "h": 0.2192
+          },
+          "area": 0.0514,
+          "text": "能源光催化研究课题组 中国师范大学化学学院 科研大学化学学院 能源与环境光催化学院",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "claim": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 8
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s10",
+      "title_guess": "项目主持人及其骨干",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,bottom-left:2",
+      "counts": {
+        "text": 17,
+        "image": 9,
+        "chart": 0,
+        "table": 0,
+        "shape": 20,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 19,
+        "text_count": 17,
+        "image_count": 9,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 20,
+        "connector_count": 1,
+        "text_area": 0.205,
+        "image_area": 0.3035,
+        "shape_area": 0.7605,
+        "text_blob": "项目主持人及其骨干 02 科研答辩 博士研究生导师 教授 在三相界面催化领域获得了“2024年Carbon Energy·金茶花奖” 取得光催化材料创新性学术成绩,发表了33篇国际重要SCI论文 王XX 荣誉奖项 国家自然科学二等奖、感光学会科学技术奖特等奖(第一完成人) 项目成员骨干 王XX 王XX 王XX 王XX 王XX 王XX",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2038,
+            "y": 0.1406,
+            "w": 0.756,
+            "h": 0.3813
+          },
+          "area": 0.2883,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 84",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0404,
+            "y": 0.5498,
+            "w": 0.9179,
+            "h": 0.0808
+          },
+          "area": 0.0742,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0402,
+            "y": 0.1406,
+            "w": 0.1473,
+            "h": 0.3818
+          },
+          "area": 0.0562,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 83",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3474,
+            "y": 0.4073,
+            "w": 0.6252,
+            "h": 0.0583
+          },
+          "area": 0.0364,
+          "text": "国家自然科学二等奖、感光学会科学技术奖特等奖(第一完成人)",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 34",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0402,
+            "y": 0.6576,
+            "w": 0.1178,
+            "h": 0.2772
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 125",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1737,
+            "y": 0.6576,
+            "w": 0.1178,
+            "h": 0.2772
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 131",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3072,
+            "y": 0.6576,
+            "w": 0.1178,
+            "h": 0.2772
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 137",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4408,
+            "y": 0.6576,
+            "w": 0.1178,
+            "h": 0.2772
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 10
+        },
+        "image": {
+          "image": 9
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s11",
+      "title_guess": "项目团队获得科技项目、论文、专利",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:4,middle-center:3,bottom-center:3",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 19,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.5138,
+        "image_area": 0.1066,
+        "shape_area": 0.7639,
+        "text_blob": "项目团队获得科技项目、论文、专利 03 在梯形异质结光催化材料的应用及机理研究领域,多个项目团队取得了显著的科研成果,获得了科技项目资助、发表了多篇论文,并申请了专利 科研项目 在国家自然科学基金项目评审中,获得了6项立项资助,包括4个面上项目和2个青年科学基金项目 在光催化产H2O2研究方面取得重要进展,相关成果发表在Advanced Functional Materials上 论文 在《先进光催化剂设计与制备》专刊中,共发表了13篇文章,其中综述5篇,研究论文8篇 提出了一种新的梯型异质结概念,由氧化型光催化剂和还原型光催化剂组成,提高了光催化产H2活性 专利 获得多项发明专利,包括一种二氧化钛基银氧化镁二氧化钛复合纳米纤维毡的制备方法 氧化铟钒酸钴复合纳米纤维梯型异质结光催化剂及其制备方法和应用",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0409,
+            "y": 0.3348,
+            "w": 0.9185,
+            "h": 0.182
+          },
+          "area": 0.1672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0409,
+            "y": 0.5455,
+            "w": 0.9185,
+            "h": 0.182
+          },
+          "area": 0.1672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0409,
+            "y": 0.7562,
+            "w": 0.9185,
+            "h": 0.182
+          },
+          "area": 0.1672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.1652
+          },
+          "area": 0.152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1438,
+            "w": 0.8984,
+            "h": 0.1477
+          },
+          "area": 0.1327,
+          "text": "在梯形异质结光催化材料的应用及机理研究领域,多个项目团队取得了显著的科研成果,获得了科技项目资助、发表了多篇论文,并申请了专利",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.053,
+            "y": 0.3992,
+            "w": 0.9185,
+            "h": 0.1142
+          },
+          "area": 0.1049,
+          "text": "在国家自然科学基金项目评审中,获得了6项立项资助,包括4个面上项目和2个青年科学基金项目 在光催化产H2O2研究方面取得重要进展,相关成果发表在Advanced Functional Materials上",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.053,
+            "y": 0.6078,
+            "w": 0.9061,
+            "h": 0.1142
+          },
+          "area": 0.1035,
+          "text": "在《先进光催化剂设计与制备》专刊中,共发表了13篇文章,其中综述5篇,研究论文8篇 提出了一种新的梯型异质结概念,由氧化型光催化剂和还原型光催化剂组成,提高了光催化产H2活性",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT31",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.053,
+            "y": 0.8213,
+            "w": 0.9061,
+            "h": 0.1142
+          },
+          "area": 0.1035,
+          "text": "获得多项发明专利,包括一种二氧化钛基银氧化镁二氧化钛复合纳米纤维毡的制备方法 氧化铟钒酸钴复合纳米纤维梯型异质结光催化剂及其制备方法和应用",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "body": 3,
+          "claim": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s12",
+      "title_guess": "项目团队主要研究成果",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 5,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 19,
+        "text_count": 5,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.227,
+        "image_area": 0.6016,
+        "shape_area": 0.804,
+        "text_blob": "项目团队主要研究成果 04 通过设计新型的梯形异质结光催化剂,增强了光催化产氢、CO2还原、CH4氧化等活性,深入探究了性能增强机理及光催化反应机理 主要科技成果 2D Bi4V2O11/g-C3N4梯形异质结设计合成 梯形异质结光催化剂的设计与制备",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 21",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5035,
+            "y": 0.3373,
+            "w": 0.4559,
+            "h": 0.6016
+          },
+          "area": 0.2743,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 12",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0403,
+            "y": 0.3373,
+            "w": 0.4444,
+            "h": 0.6016
+          },
+          "area": 0.2674,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 8",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5133,
+            "y": 0.3639,
+            "w": 0.4362,
+            "h": 0.5484
+          },
+          "area": 0.2392,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.1652
+          },
+          "area": 0.152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0539,
+            "y": 0.5549,
+            "w": 0.4172,
+            "h": 0.3554
+          },
+          "area": 0.1483,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1438,
+            "w": 0.8984,
+            "h": 0.1477
+          },
+          "area": 0.1327,
+          "text": "通过设计新型的梯形异质结光催化剂,增强了光催化产氢、CO2还原、CH4氧化等活性,深入探究了性能增强机理及光催化反应机理",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Picture 6",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5131,
+            "y": 0.6756,
+            "w": 0.4366,
+            "h": 0.2463
+          },
+          "area": 0.1075,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0509,
+            "y": 0.4189,
+            "w": 0.423,
+            "h": 0.1141
+          },
+          "area": 0.0483,
+          "text": "2D Bi4V2O11/g-C3N4梯形异质结设计合成 梯形异质结光催化剂的设计与制备",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s13",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s14",
+      "title_guess": "项目考核指标",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-center:4,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 19,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.4739,
+        "image_area": 0.1066,
+        "shape_area": 0.8053,
+        "text_blob": "项目考核指标 01 反映了项目团队的创新能力和科研实力 研究内容 先进光催化剂的设计与制备:开发新型光催化剂,以提高光催化效率和光生电子与空穴的分离效率 考核指标 光催化材料在标准太阳光下产生氢气的效率超过2%,产物选择性大于90%,并能在100小时以上的时间内稳定运行 在20% WO/PCN复合材料中具有更高的H2产率(1700 μmol·g^-1·h^-1),需要达到PCN (30 μmol·g^-1·h^-1)的56倍 得到优化的梯形异质结光催化剂,其性能比单一材料需提升5倍 静电纺丝纳米纤维基光催化材料:通过静电纺丝技术制备纳米纤维基光催化材料,因其独特的结构和高比表面积,展现出优异的光催化性能,以实现太阳能的有效转换和利用",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 15",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0406,
+            "y": 0.4417,
+            "w": 0.9187,
+            "h": 0.4184
+          },
+          "area": 0.3844,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 20",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0406,
+            "y": 0.1399,
+            "w": 0.9187,
+            "h": 0.2698
+          },
+          "area": 0.2479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.6507,
+            "w": 0.9187,
+            "h": 0.1142
+          },
+          "area": 0.1049,
+          "text": "在20% WO/PCN复合材料中具有更高的H2产率(1700 μmol·g^-1·h^-1),需要达到PCN (30 μmol·g^-1·h^-1)的56倍",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.5404,
+            "w": 0.916,
+            "h": 0.1142
+          },
+          "area": 0.1046,
+          "text": "光催化材料在标准太阳光下产生氢气的效率超过2%,产物选择性大于90%,并能在100小时以上的时间内稳定运行",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.275,
+            "w": 0.916,
+            "h": 0.1142
+          },
+          "area": 0.1046,
+          "text": "静电纺丝纳米纤维基光催化材料:通过静电纺丝技术制备纳米纤维基光催化材料,因其独特的结构和高比表面积,展现出优异的光催化性能,以实现太阳能的有效转换和利用",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 31",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0406,
+            "y": 0.4422,
+            "w": 0.9187,
+            "h": 0.0683
+          },
+          "area": 0.0627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.2161,
+            "w": 0.916,
+            "h": 0.0617
+          },
+          "area": 0.0565,
+          "text": "先进光催化剂的设计与制备:开发新型光催化剂,以提高光催化效率和光生电子与空穴的分离效率",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "米菲PPT31",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0528,
+            "y": 0.761,
+            "w": 0.5721,
+            "h": 0.0617
+          },
+          "area": 0.0353,
+          "text": "得到优化的梯形异质结光催化剂,其性能比单一材料需提升5倍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s15",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s16",
+      "title_guess": "01",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:3,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 1,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 19,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0724,
+        "image_area": 0.1066,
+        "shape_area": 0.1969,
+        "text_blob": "01 项目经费 根据自身的研究发展规划,设立科研项目资助用于支持进一步的科研工作",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 27",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0392,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.6694
+          },
+          "area": 0.6159,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 29",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0404,
+            "y": 0.8445,
+            "w": 0.9179,
+            "h": 0.0944
+          },
+          "area": 0.0866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "米菲PPT38",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0885,
+            "y": 0.8604,
+            "w": 0.823,
+            "h": 0.0673
+          },
+          "area": 0.0554,
+          "text": "根据自身的研究发展规划,设立科研项目资助用于支持进一步的科研工作",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 28",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0912,
+            "y": 0.0109,
+            "w": 0.1528,
+            "h": 0.088
+          },
+          "area": 0.0134,
+          "text": "项目经费",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "椭圆 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0413,
+            "y": 0.012,
+            "w": 0.0458,
+            "h": 0.0815
+          },
+          "area": 0.0037,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0383,
+            "y": 0.0177,
+            "w": 0.0518,
+            "h": 0.07
+          },
+          "area": 0.0036,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s17",
+      "title_guess": "项目基本情况",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-center:3,top-center:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.155,
+        "image_area": 0.3831,
+        "shape_area": 1.3568,
+        "text_blob": "项目基本情况 01 项目建设内容 02 项目研究基础 03 项目考核指标 04 项目实施进度及经费 05 项目风险分析与保障 06",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1089,
+            "y": 0.0764,
+            "w": 0.7822,
+            "h": 0.8472
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 10",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6169,
+            "w": 1.0,
+            "h": 0.3831
+          },
+          "area": 0.3831,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.1227,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.2542,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3872,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.5174,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.6489,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.7805,
+            "w": 0.4654,
+            "h": 0.1007
+          },
+          "area": 0.0469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2028,
+            "y": 0.1152,
+            "w": 0.0571,
+            "h": 0.4515
+          },
+          "area": 0.0258,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s18",
+      "title_guess": "项目风险分析",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:4,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.4785,
+        "image_area": 0.1066,
+        "shape_area": 0.7651,
+        "text_blob": "项目风险分析 01 符合国家安全发展战略,具备坚实工作基础,项目实施条件已落实, 提前预案,组织高效、保障有力、风险可控 成本效益 实际应用需要考虑经济性和成本效益 高性能光催化材料的制备成本、能耗和维护成本可能影响其商业化前景 技术更新 安全问题 标准限制 项目成果可能面临快速过时的风险 光催化技术领域竞争激烈,新技术和新材料不断涌现 影响项目的实施和产品的市场准入 光催化材料的应用需要遵守相关的环保、安全和质量标准 需要考虑环境和人体健康安全风险 光催化材料的制备和应用过程中可能涉及有毒有害化学品",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1399,
+            "w": 0.9201,
+            "h": 0.1652
+          },
+          "area": 0.152,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0501,
+            "y": 0.1438,
+            "w": 0.8984,
+            "h": 0.1477
+          },
+          "area": 0.1327,
+          "text": "符合国家安全发展战略,具备坚实工作基础,项目实施条件已落实, 提前预案,组织高效、保障有力、风险可控",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.3635,
+            "w": 0.4504,
+            "h": 0.2573
+          },
+          "area": 0.1159,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 48",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.6816,
+            "w": 0.4504,
+            "h": 0.2573
+          },
+          "area": 0.1159,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 73",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.509,
+            "y": 0.3635,
+            "w": 0.4504,
+            "h": 0.2573
+          },
+          "area": 0.1159,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 78",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.509,
+            "y": 0.6816,
+            "w": 0.4504,
+            "h": 0.2573
+          },
+          "area": 0.1159,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0005,
+            "w": 1.0,
+            "h": 0.1066
+          },
+          "area": 0.1066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0542,
+            "y": 0.4227,
+            "w": 0.4252,
+            "h": 0.1714
+          },
+          "area": 0.0729,
+          "text": "实际应用需要考虑经济性和成本效益 高性能光催化材料的制备成本、能耗和维护成本可能影响其商业化前景",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 83",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0542,
+            "y": 0.7446,
+            "w": 0.4252,
+            "h": 0.1714
+          },
+          "area": 0.0729,
+          "text": "项目成果可能面临快速过时的风险 光催化技术领域竞争激烈,新技术和新材料不断涌现",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT-62de4118-s19",
+      "title_guess": "梯形异质结光催化材料的应用及机理研究",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:3,top-center:1",
+      "counts": {
+        "text": 15,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 19,
+        "text_count": 15,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.4764,
+        "image_area": 1.1584,
+        "shape_area": 1.7007,
+        "text_blob": "梯形异质结光催化材料的应用及机理研究 感谢各位领导专家 敬请批评指正! 汇报人:科研演示 申报单位: 合作单位: 科研地质大学 环境科学研究实验室 环境科学有限公司 材料工程研究实验室 材料科学研究实验室 科研材料科学研究所 材料研究有限责任公司 科研环境科学研究所 科研地质环境科学技术研究院有限公司 科研材料科学与工程学院",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Picture 8",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2687,
+            "y": -0.4795,
+            "w": 0.4616,
+            "h": 1.7796
+          },
+          "area": 0.8215,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 29",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6544,
+            "w": 1.0,
+            "h": 0.3456
+          },
+          "area": 0.3456,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 31",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6615,
+            "w": 1.0,
+            "h": 0.3385
+          },
+          "area": 0.3385,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Picture 2",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.6615,
+            "w": 1.0,
+            "h": 0.3369
+          },
+          "area": 0.3369,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1222,
+            "y": 0.1849,
+            "w": 0.7556,
+            "h": 0.4084
+          },
+          "area": 0.3086,
+          "text": "感谢各位领导专家 敬请批评指正!",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2307,
+            "y": 0.0972,
+            "w": 0.4695,
+            "h": 0.0673
+          },
+          "area": 0.0316,
+          "text": "梯形异质结光催化材料的应用及机理研究",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 60",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6085,
+            "y": 0.8315,
+            "w": 0.3423,
+            "h": 0.0539
+          },
+          "area": 0.0184,
+          "text": "科研地质环境科学技术研究院有限公司",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2742,
+            "y": 0.5802,
+            "w": 0.2459,
+            "h": 0.0633
+          },
+          "area": 0.0156,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2806,
+            "y": 0.5815,
+            "w": 0.2331,
+            "h": 0.0632
+          },
+          "area": 0.0147,
+          "text": "汇报人:科研演示",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 56",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1624,
+            "y": 0.7054,
+            "w": 0.2234,
+            "h": 0.0539
+          },
+          "area": 0.012,
+          "text": "科研材料科学与工程学院",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 12
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 19,
+    "layout_job_counts": {
+      "image-hero": 6,
+      "matrix-grid": 3,
+      "research-question": 2,
+      "table": 2,
+      "two-column": 2,
+      "cover-statement": 1,
+      "flow-diagram": 1,
+      "limitations-future": 1,
+      "duo-compare": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 9,
+      "image": 8,
+      "table": 2
+    },
+    "density_counts": {
+      "medium-high": 12,
+      "high": 6,
+      "medium": 1
+    },
+    "dominant_layout_jobs": [
+      "image-hero",
+      "matrix-grid",
+      "research-question",
+      "table",
+      "two-column"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "table"
+    ]
+  }
+}

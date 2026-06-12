@@ -1,0 +1,4704 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:23.956358+00:00",
+  "template_id": "年终总结-30-静态-dc8f1fd2",
+  "template_profile_path": "assets/template-library/profiles/年终总结-30-静态-dc8f1fd2.json",
+  "source_template": {
+    "name": "年终总结(30)—静态.pptx",
+    "category": "年终总结（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(30)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 22,
+    "media_count": 53,
+    "image_media_count": 53,
+    "motion_hint": "static",
+    "tags": [
+      "年度总结",
+      "年终总结",
+      "年度复盘",
+      "成果盘点",
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划",
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰",
+      "图表",
+      "成果图",
+      "事件时间线",
+      "总结句",
+      "要点列表",
+      "数据块",
+      "静态版",
+      "中高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "年度总结",
+    "scenario": [
+      "年终总结",
+      "年度复盘",
+      "成果盘点"
+    ],
+    "best_for": [
+      "年终述职",
+      "年度复盘",
+      "部门总结"
+    ],
+    "avoid": [
+      "活动庆典",
+      "课堂教学风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰"
+    ],
+    "image_strategy": [
+      "图表",
+      "成果图",
+      "事件时间线"
+    ],
+    "text_strategy": [
+      "总结句",
+      "要点列表",
+      "数据块"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "matrix-grid",
+      "duo-compare",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "chart"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "body",
+      "image",
+      "footer",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "middle-left",
+      "middle-center",
+      "bottom-center",
+      "top-left",
+      "middle-right",
+      "top-center"
+    ],
+    "template_text_signature": "奔 序 录 01 01 年度工作总结 1 01 02 添加标题 工作完成情况 请添加副标题 03 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 添加副标题 04 01 01 资料来源 :土地注册处 添加标题 汇报人:锐旗设计",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s01",
+      "title_guess": "奔",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-left:3,top-center:1",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 22,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 1,
+        "text_area": 0.3562,
+        "image_area": 1.0805,
+        "shape_area": 1.0074,
+        "text_blob": "奔 跑 永 不 停 息 蓝色年终总结情况汇报PPT模板 Blue and red year-end summary situation report PPT template Blue and red year-end summary 单击此处添加副标题内容 汇报人:锐旗设计",
+        "title_like": 3,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 43",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0719,
+            "y": 0.544,
+            "w": 0.7873,
+            "h": 0.121
+          },
+          "area": 0.0953,
+          "text": "蓝色年终总结情况汇报PPT模板",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 41",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2104,
+            "y": 0.0298,
+            "w": 0.2164,
+            "h": 0.3722
+          },
+          "area": 0.0805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4118,
+            "y": 0.1286,
+            "w": 0.1765,
+            "h": 0.3611
+          },
+          "area": 0.0637,
+          "text": "息",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "top-left",
+          "box": {
+            "x": 0.035,
+            "y": 0.0216,
+            "w": 0.165,
+            "h": 0.3364
+          },
+          "area": 0.0555,
+          "text": "奔",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3139,
+            "y": 0.2071,
+            "w": 0.14,
+            "h": 0.2826
+          },
+          "area": 0.0396,
+          "text": "停",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0719,
+            "y": 0.6818,
+            "w": 0.482,
+            "h": 0.0671
+          },
+          "area": 0.0323,
+          "text": "单击此处添加副标题内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 44",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0795,
+            "y": 0.6527,
+            "w": 0.707,
+            "h": 0.0276
+          },
+          "area": 0.0195,
+          "text": "Blue and red year-end summary situation report PPT template Blue and red year-end summary",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2455,
+            "y": 0.2567,
+            "w": 0.0983,
+            "h": 0.1928
+          },
+          "area": 0.019,
+          "text": "不",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1806,
+            "y": 0.1353,
+            "w": 0.0838,
+            "h": 0.1614
+          },
+          "area": 0.0135,
+          "text": "跑",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 3,
+          "label": 5,
+          "footer": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s02",
+      "title_guess": "序",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 22,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.3407,
+        "image_area": 1.0,
+        "shape_area": 1.03,
+        "text_blob": "序 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 专注 创新 共赢 奉献 言 尊敬的领导、各位来宾:大家好!",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 21",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2372,
+            "y": 0.3457,
+            "w": 0.5458,
+            "h": 0.3769
+          },
+          "area": 0.2057,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0178,
+            "y": 0.1638,
+            "w": 0.155,
+            "h": 0.3196
+          },
+          "area": 0.0495,
+          "text": "序",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2602,
+            "y": 0.2003,
+            "w": 0.3862,
+            "h": 0.0638
+          },
+          "area": 0.0246,
+          "text": "尊敬的领导、各位来宾:大家好!",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1066,
+            "y": 0.3236,
+            "w": 0.1029,
+            "h": 0.2074
+          },
+          "area": 0.0213,
+          "text": "言",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2869,
+            "y": 0.7538,
+            "w": 0.0581,
+            "h": 0.1702
+          },
+          "area": 0.0099,
+          "text": "专注",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4238,
+            "y": 0.7538,
+            "w": 0.0581,
+            "h": 0.1702
+          },
+          "area": 0.0099,
+          "text": "创新",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5535,
+            "y": 0.7538,
+            "w": 0.0581,
+            "h": 0.1702
+          },
+          "area": 0.0099,
+          "text": "共赢",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6857,
+            "y": 0.7538,
+            "w": 0.0581,
+            "h": 0.1702
+          },
+          "area": 0.0099,
+          "text": "奉献",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Oval 62",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.285,
+            "y": 0.745,
+            "w": 0.0649,
+            "h": 0.1153
+          },
+          "area": 0.0075,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s03",
+      "title_guess": "录",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:5,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 22,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.131,
+        "image_area": 2.0,
+        "shape_area": 1.0,
+        "text_blob": "录 01 年度工作总结 CONTACTS 目 02 工作完成情况 03 成效与不足 04 明年工作规划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.612,
+            "y": 0.406,
+            "w": 0.1737,
+            "h": 0.4621
+          },
+          "area": 0.0803,
+          "text": "录",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.612,
+            "y": 0.1683,
+            "w": 0.1737,
+            "h": 0.2377
+          },
+          "area": 0.0413,
+          "text": "目",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6113,
+            "y": 0.3744,
+            "w": 0.175,
+            "h": 0.0537
+          },
+          "area": 0.0094,
+          "text": "CONTACTS",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 8",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0001,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "年度工作总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "02",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 9
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s04",
+      "title_guess": "01",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,middle-left:2,unknown:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 22,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1389,
+        "image_area": 0.8495,
+        "shape_area": 1.0444,
+        "text_blob": "01 Part 年度工作总结 Annual work summary 添加小标题 添加小标题 添加小标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5704,
+            "h": 1.0
+          },
+          "area": 0.5704,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2791,
+            "h": 1.0
+          },
+          "area": 0.2791,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5409,
+            "y": 0.2078,
+            "w": 0.2408,
+            "h": 0.204
+          },
+          "area": 0.0491,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5822,
+            "y": 0.1914,
+            "w": 0.1581,
+            "h": 0.2811
+          },
+          "area": 0.0444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4747,
+            "y": 0.7606,
+            "w": 0.3731,
+            "h": 0.1143
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5087,
+            "y": 0.558,
+            "w": 0.305,
+            "h": 0.0941
+          },
+          "area": 0.0287,
+          "text": "Annual work summary",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.555,
+            "y": 0.4849,
+            "w": 0.2171,
+            "h": 0.0853
+          },
+          "area": 0.0185,
+          "text": "年度工作总结",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Part",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s05",
+      "title_guess": "01",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,bottom-center:3,bottom-left:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 22,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 2,
+        "text_area": 0.1717,
+        "image_area": 0.0019,
+        "shape_area": 1.5948,
+        "text_blob": "01 年度工作总结 添加标题 号召力 合作力 决策力 感召力 执行力 创新力 关于我们 About Us 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处添加副标题内容 Annual work summary",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 23",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2198,
+            "y": 0.0753,
+            "w": 0.5042,
+            "h": 0.8964
+          },
+          "area": 0.452,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 22",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2432,
+            "y": 0.1136,
+            "w": 0.4574,
+            "h": 0.8132
+          },
+          "area": 0.372,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 21",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.268,
+            "y": 0.1578,
+            "w": 0.4078,
+            "h": 0.7249
+          },
+          "area": 0.2956,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 20",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2888,
+            "y": 0.198,
+            "w": 0.3662,
+            "h": 0.651
+          },
+          "area": 0.2384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 48",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6656,
+            "w": 0.7016,
+            "h": 0.23
+          },
+          "area": 0.1614,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "TextBox 30",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2703,
+            "y": 0.7534,
+            "w": 0.4043,
+            "h": 0.1164
+          },
+          "area": 0.0471,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 52",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2648,
+            "y": 0.6844,
+            "w": 0.3898,
+            "h": 0.067
+          },
+          "area": 0.0261,
+          "text": "单击此处添加副标题内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.413,
+            "y": 0.4161,
+            "w": 0.1063,
+            "h": 0.189
+          },
+          "area": 0.0201,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0418,
+            "y": 0.7039,
+            "w": 0.1797,
+            "h": 0.0999
+          },
+          "area": 0.018,
+          "text": "关于我们",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0673
+          },
+          "area": 0.0166,
+          "text": "年度工作总结",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 7,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s06",
+      "title_guess": "年度工作总结",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:3,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 7,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 22,
+        "text_count": 7,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1358,
+        "image_area": 0.6196,
+        "shape_area": 0.5262,
+        "text_blob": "年度工作总结 Annual work summary 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 01 请添加副标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.1892,
+            "w": 0.8425,
+            "h": 0.6217
+          },
+          "area": 0.5238,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 单圆角 15",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.1892,
+            "w": 0.8425,
+            "h": 0.6217
+          },
+          "area": 0.5238,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6606,
+            "y": 0.3911,
+            "w": 0.2815,
+            "h": 0.3356
+          },
+          "area": 0.0945,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1556,
+            "y": 0.8629,
+            "w": 0.505,
+            "h": 0.0906
+          },
+          "area": 0.0458,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0303,
+            "y": 0.3297,
+            "w": 0.2017,
+            "h": 0.1703
+          },
+          "area": 0.0343,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0673
+          },
+          "area": 0.0166,
+          "text": "年度工作总结",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.232,
+            "y": 0.0476,
+            "w": 0.268,
+            "h": 0.0539
+          },
+          "area": 0.0144,
+          "text": "Annual work summary",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 对角圆角 11",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0384,
+            "y": 0.2519,
+            "w": 0.2084,
+            "h": 0.0678
+          },
+          "area": 0.0141,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3725,
+            "y": 0.8243,
+            "w": 0.1275,
+            "h": 0.0537
+          },
+          "area": 0.0068,
+          "text": "请添加副标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0366,
+            "w": 0.0571,
+            "h": 0.0671
+          },
+          "area": 0.0038,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s07",
+      "title_guess": "1",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-right:2,bottom-center:1",
+      "counts": {
+        "text": 17,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 22,
+        "text_count": 17,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 6,
+        "text_area": 0.2392,
+        "image_area": 0.0013,
+        "shape_area": 0.2436,
+        "text_blob": "1 2 3 5 6 4 添加副标题 添加副标题 添加副标题 添加副标题 添加副标题 添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加标题 年度工作总结 Annual work summary 01",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 81",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1635,
+            "y": 0.8706,
+            "w": 0.718,
+            "h": 0.182
+          },
+          "area": 0.1307,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "Octagon 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1707,
+            "y": 0.2217,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Octagon 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3941,
+            "y": 0.2217,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Octagon 26",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6191,
+            "y": 0.2217,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Octagon 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2828,
+            "y": 0.4161,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Octagon 25",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5061,
+            "y": 0.4161,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Octagon 27",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7312,
+            "y": 0.4161,
+            "w": 0.1504,
+            "h": 0.2671
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0673
+          },
+          "area": 0.0166,
+          "text": "年度工作总结",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.232,
+            "y": 0.0476,
+            "w": 0.268,
+            "h": 0.0539
+          },
+          "area": 0.0144,
+          "text": "Annual work summary",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 146",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1646,
+            "y": 0.7967,
+            "w": 0.1504,
+            "h": 0.0673
+          },
+          "area": 0.0101,
+          "text": "添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 15,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s08",
+      "title_guess": "01",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-center:3,bottom-left:1",
+      "counts": {
+        "text": 26,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 22,
+        "text_count": 26,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 3,
+        "text_area": 0.447,
+        "image_area": 0.0113,
+        "shape_area": 1.1269,
+        "text_blob": "01 02 03 04 05 06 添加标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅 点击添加小标题 39.2万 点击添加小标题 97.8 % 点击添加小标题 38.2万 点击添加小标题 96.8 % 点击添加小标题 37.2万 点击添加小标题 95.8 % 点击添加小标题 36.2万 点击添加小标题 94.8 % 年度工作总结 Annual work summary 01",
+        "title_like": 0,
+        "body_like": 10
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 23",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.5698,
+            "w": 1.0,
+            "h": 0.4302
+          },
+          "area": 0.4302,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 24",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.6049,
+            "w": 1.0,
+            "h": 0.3951
+          },
+          "area": 0.3951,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3358,
+            "y": 0.1568,
+            "w": 0.3076,
+            "h": 0.5468
+          },
+          "area": 0.1682,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "梯形 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3779,
+            "y": 0.3448,
+            "w": 0.2442,
+            "h": 0.2675
+          },
+          "area": 0.0653,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.416,
+            "y": 0.2568,
+            "w": 0.1679,
+            "h": 0.2986
+          },
+          "area": 0.0501,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 64",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0562,
+            "y": 0.7379,
+            "w": 0.1909,
+            "h": 0.2042
+          },
+          "area": 0.039,
+          "text": "点击添加小标题 39.2万 点击添加小标题 97.8 %",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 66",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2885,
+            "y": 0.7379,
+            "w": 0.1909,
+            "h": 0.2042
+          },
+          "area": 0.039,
+          "text": "点击添加小标题 38.2万 点击添加小标题 96.8 %",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 67",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5207,
+            "y": 0.7379,
+            "w": 0.1909,
+            "h": 0.2042
+          },
+          "area": 0.039,
+          "text": "点击添加小标题 37.2万 点击添加小标题 95.8 %",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 68",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7529,
+            "y": 0.7379,
+            "w": 0.1909,
+            "h": 0.2042
+          },
+          "area": 0.039,
+          "text": "点击添加小标题 36.2万 点击添加小标题 94.8 %",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 44",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0275,
+            "y": 0.2172,
+            "w": 0.3093,
+            "h": 0.0906
+          },
+          "area": 0.028,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 7,
+          "body": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s09",
+      "title_guess": "02",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,middle-left:2,unknown:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 22,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1226,
+        "image_area": 0.8495,
+        "shape_area": 1.0444,
+        "text_blob": "02 Part 工作完成情况 The completion of the work 添加小标题 添加小标题 添加小标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5704,
+            "h": 1.0
+          },
+          "area": 0.5704,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2791,
+            "h": 1.0
+          },
+          "area": 0.2791,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5409,
+            "y": 0.2078,
+            "w": 0.2408,
+            "h": 0.204
+          },
+          "area": 0.0491,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5822,
+            "y": 0.1914,
+            "w": 0.1581,
+            "h": 0.2811
+          },
+          "area": 0.0444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4747,
+            "y": 0.7606,
+            "w": 0.3731,
+            "h": 0.1143
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5087,
+            "y": 0.558,
+            "w": 0.305,
+            "h": 0.0537
+          },
+          "area": 0.0164,
+          "text": "The completion of the work",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5662,
+            "y": 0.5015,
+            "w": 0.19,
+            "h": 0.0761
+          },
+          "area": 0.0145,
+          "text": "工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Part",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s10",
+      "title_guess": "添加标题",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 12,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 22,
+        "text_count": 12,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.2087,
+        "image_area": 0.2731,
+        "shape_area": 0.2736,
+        "text_blob": "添加标题 请添加副标题 请添加副标题 请添加副标题 请添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 02 工作完成情况 The completion of the work",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 对角圆角 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.2655,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4955,
+            "y": 0.2655,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 对角圆角 22",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.6301,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 对角圆角 23",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4955,
+            "y": 0.6301,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.2744,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4955,
+            "y": 0.2744,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0405,
+            "y": 0.639,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 4",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4955,
+            "y": 0.639,
+            "w": 0.2604,
+            "h": 0.2604
+          },
+          "area": 0.0678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3115,
+            "y": 0.3653,
+            "w": 0.1652,
+            "h": 0.1703
+          },
+          "area": 0.0281,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7748,
+            "y": 0.3653,
+            "w": 0.1652,
+            "h": 0.1703
+          },
+          "area": 0.0281,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 5,
+          "body": 4
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s11",
+      "title_guess": "工作完成情况",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:3,bottom-left:2,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 9,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 22,
+        "text_count": 10,
+        "image_count": 9,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.3853,
+        "image_area": 2.0217,
+        "shape_area": 1.522,
+        "text_blob": "工作完成情况 The completion of the work KEEP RUNNING 添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 02",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 10",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4823,
+            "y": -0.3941,
+            "w": 0.2962,
+            "h": 2.4775
+          },
+          "area": 0.7338,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 146",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3025,
+            "y": 0.6199,
+            "w": 0.6947,
+            "h": 0.8008
+          },
+          "area": 0.5563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 150",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0866,
+            "y": 0.875,
+            "w": 0.6947,
+            "h": 0.8008
+          },
+          "area": 0.5563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 8",
+          "role": "diagram-block",
+          "zone": "top-left",
+          "box": {
+            "x": -0.2871,
+            "y": -0.3853,
+            "w": 0.372,
+            "h": 0.8276
+          },
+          "area": 0.3079,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 147",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2295,
+            "y": 0.7658,
+            "w": 0.6396,
+            "h": 0.4618
+          },
+          "area": 0.2954,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 145",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0181,
+            "y": 0.8134,
+            "w": 0.4584,
+            "h": 0.5284
+          },
+          "area": 0.2422,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0229,
+            "y": 0.1538,
+            "w": 0.9771,
+            "h": 0.2153
+          },
+          "area": 0.2104,
+          "text": "KEEP RUNNING",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 483",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0996,
+            "y": 0.2909,
+            "w": 0.2317,
+            "h": 0.6874
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 492",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3987,
+            "y": 0.2909,
+            "w": 0.2317,
+            "h": 0.6874
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 497",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6875,
+            "y": 0.2909,
+            "w": 0.2317,
+            "h": 0.6874
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 9
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s12",
+      "title_guess": "请添加副标题",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:7,bottom-center:3",
+      "counts": {
+        "text": 18,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 22,
+        "text_count": 18,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 3,
+        "text_area": 0.3457,
+        "image_area": 1.5213,
+        "shape_area": 1.2599,
+        "text_blob": "请添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 请添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 请添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加副标题 添加小标题 % 63.58 添加副标题 添加小标题 % 53.58 添加副标题 添加小标题 % 43.58 工作完成情况 The completion of the work 02",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 53",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4004,
+            "w": 1.0,
+            "h": 0.7849
+          },
+          "area": 0.7849,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 54",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.242,
+            "w": 0.8086,
+            "h": 0.9107
+          },
+          "area": 0.7364,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 60",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4004,
+            "w": 1.0,
+            "h": 0.6611
+          },
+          "area": 0.6611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2227,
+            "w": 0.3164,
+            "h": 0.3213
+          },
+          "area": 0.1017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2227,
+            "w": 0.3164,
+            "h": 0.3213
+          },
+          "area": 0.1017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 28",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2227,
+            "w": 0.3164,
+            "h": 0.3213
+          },
+          "area": 0.1017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2419,
+            "w": 0.3164,
+            "h": 0.307
+          },
+          "area": 0.0971,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2419,
+            "w": 0.3164,
+            "h": 0.307
+          },
+          "area": 0.0971,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 29",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0567,
+            "y": 0.2419,
+            "w": 0.3164,
+            "h": 0.307
+          },
+          "area": 0.0971,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "TextBox 9",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0578,
+            "y": 0.2709,
+            "w": 0.2595,
+            "h": 0.2195
+          },
+          "area": 0.057,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 3,
+          "label": 8
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s13",
+      "title_guess": "03",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,middle-left:2,unknown:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 22,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1226,
+        "image_area": 0.8495,
+        "shape_area": 1.0444,
+        "text_blob": "03 Part 成效与不足 Effectiveness and inadequacy 添加小标题 添加小标题 添加小标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5704,
+            "h": 1.0
+          },
+          "area": 0.5704,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2791,
+            "h": 1.0
+          },
+          "area": 0.2791,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5409,
+            "y": 0.2078,
+            "w": 0.2408,
+            "h": 0.204
+          },
+          "area": 0.0491,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5822,
+            "y": 0.1914,
+            "w": 0.1581,
+            "h": 0.2811
+          },
+          "area": 0.0444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4747,
+            "y": 0.7606,
+            "w": 0.3731,
+            "h": 0.1143
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5087,
+            "y": 0.558,
+            "w": 0.305,
+            "h": 0.0537
+          },
+          "area": 0.0164,
+          "text": "Effectiveness and inadequacy",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5662,
+            "y": 0.5015,
+            "w": 0.1909,
+            "h": 0.0761
+          },
+          "area": 0.0145,
+          "text": "成效与不足",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Part",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s14",
+      "title_guess": "添加标题",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:2,top-left:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 22,
+        "text_count": 10,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 1,
+        "text_area": 0.1043,
+        "image_area": 0.3231,
+        "shape_area": 0.0044,
+        "text_blob": "添加标题 添加小标题 添加副标题 添加副标题 添加小标题 添加小标题 添加小标题 03 成效与不足 Effectiveness and inadequacy",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.324,
+            "y": 0.5615,
+            "w": 0.5109,
+            "h": 0.3307
+          },
+          "area": 0.169,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 33",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.324,
+            "y": 0.2354,
+            "w": 0.5109,
+            "h": 0.298
+          },
+          "area": 0.1522,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.217,
+            "y": 0.0476,
+            "w": 0.3627,
+            "h": 0.0537
+          },
+          "area": 0.0195,
+          "text": "Effectiveness and inadequacy",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0671
+          },
+          "area": 0.0166,
+          "text": "成效与不足",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4256,
+            "y": 0.1304,
+            "w": 0.1492,
+            "h": 0.0673
+          },
+          "area": 0.01,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 对角圆角 25",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1488,
+            "y": 0.2354,
+            "w": 0.1635,
+            "h": 0.0598
+          },
+          "area": 0.0098,
+          "text": "添加副标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 对角圆角 26",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1488,
+            "y": 0.5615,
+            "w": 0.1635,
+            "h": 0.0598
+          },
+          "area": 0.0098,
+          "text": "添加副标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1821,
+            "y": 0.408,
+            "w": 0.172,
+            "h": 0.0539
+          },
+          "area": 0.0093,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 29",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1821,
+            "y": 0.6385,
+            "w": 0.172,
+            "h": 0.0539
+          },
+          "area": 0.0093,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1821,
+            "y": 0.7337,
+            "w": 0.1568,
+            "h": 0.0539
+          },
+          "area": 0.0085,
+          "text": "添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 7
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s15",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,middle-center:1,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 22,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.1924,
+        "image_area": 0.0013,
+        "shape_area": 0.0024,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 添加标题 成效与不足 Effectiveness and inadequacy 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 94",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0859,
+            "y": 0.1709,
+            "w": 0.8584,
+            "h": 0.5771
+          },
+          "area": 0.4954,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 81",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1544,
+            "y": 0.7691,
+            "w": 0.718,
+            "h": 0.182
+          },
+          "area": 0.1307,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2132,
+            "y": 0.0476,
+            "w": 0.5405,
+            "h": 0.0537
+          },
+          "area": 0.029,
+          "text": "Effectiveness and inadequacy",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0671
+          },
+          "area": 0.0166,
+          "text": "成效与不足",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 97",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1089,
+            "y": 0.7691,
+            "w": 0.0454,
+            "h": 0.2709
+          },
+          "area": 0.0123,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0235,
+            "y": 0.0366,
+            "w": 0.0571,
+            "h": 0.0671
+          },
+          "area": 0.0038,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0336,
+            "y": 0.0379,
+            "w": 0.0368,
+            "h": 0.0647
+          },
+          "area": 0.0024,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0078,
+            "y": 0.0897,
+            "w": 0.1198,
+            "h": 0.0111
+          },
+          "area": 0.0013,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 95",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s16",
+      "title_guess": "添加副标题",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,top-left:1,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 22,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 1,
+        "text_area": 0.2799,
+        "image_area": 0.0013,
+        "shape_area": 0.3979,
+        "text_blob": "添加副标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 添加副标题 添加副标题 添加副标题 成效与不足 Effectiveness and inadequacy 03",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0839,
+            "y": 0.2053,
+            "w": 0.2344,
+            "h": 0.2331
+          },
+          "area": 0.0546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 39",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3786,
+            "y": 0.2102,
+            "w": 0.2344,
+            "h": 0.2331
+          },
+          "area": 0.0546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6849,
+            "y": 0.2102,
+            "w": 0.2344,
+            "h": 0.2331
+          },
+          "area": 0.0546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 43",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2302,
+            "y": 0.7537,
+            "w": 0.2344,
+            "h": 0.2331
+          },
+          "area": 0.0546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5229,
+            "y": 0.7537,
+            "w": 0.2344,
+            "h": 0.2331
+          },
+          "area": 0.0546,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 38",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0963,
+            "y": 0.2464,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 40",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.391,
+            "y": 0.2513,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6974,
+            "y": 0.2513,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 44",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2427,
+            "y": 0.7947,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 46",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5354,
+            "y": 0.7947,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 5,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s17",
+      "title_guess": "04",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,middle-left:2,unknown:2",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 22,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1226,
+        "image_area": 0.8495,
+        "shape_area": 1.0444,
+        "text_blob": "04 Part 明年工作规划 Work Plan for next year 添加小标题 添加小标题 添加小标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5704,
+            "h": 1.0
+          },
+          "area": 0.5704,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2791,
+            "h": 1.0
+          },
+          "area": 0.2791,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5409,
+            "y": 0.2078,
+            "w": 0.2408,
+            "h": 0.204
+          },
+          "area": 0.0491,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5822,
+            "y": 0.1914,
+            "w": 0.1581,
+            "h": 0.2811
+          },
+          "area": 0.0444,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4747,
+            "y": 0.7606,
+            "w": 0.3731,
+            "h": 0.1143
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5087,
+            "y": 0.558,
+            "w": 0.305,
+            "h": 0.0537
+          },
+          "area": 0.0164,
+          "text": "Work Plan for next year",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5662,
+            "y": 0.5015,
+            "w": 0.1909,
+            "h": 0.0761
+          },
+          "area": 0.0145,
+          "text": "明年工作规划",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Part",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s18",
+      "title_guess": "01",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:8,top-center:1,top-left:1",
+      "counts": {
+        "text": 16,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 22,
+        "text_count": 16,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.2571,
+        "image_area": 0.0013,
+        "shape_area": 0.3224,
+        "text_blob": "01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 04 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加副标题 添加标题 明年工作规划 Work Plan for next year 04",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 对角圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0936,
+            "y": 0.2884,
+            "w": 0.2768,
+            "h": 0.2889
+          },
+          "area": 0.08,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 对角圆角 15",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0936,
+            "y": 0.2884,
+            "w": 0.2768,
+            "h": 0.2889
+          },
+          "area": 0.08,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 对角圆角 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0936,
+            "y": 0.2884,
+            "w": 0.2768,
+            "h": 0.2889
+          },
+          "area": 0.08,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 对角圆角 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0936,
+            "y": 0.2884,
+            "w": 0.2768,
+            "h": 0.2889
+          },
+          "area": 0.08,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 8",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1191,
+            "y": 0.3894,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1191,
+            "y": 0.3894,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1191,
+            "y": 0.3894,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1191,
+            "y": 0.3894,
+            "w": 0.2063,
+            "h": 0.1703
+          },
+          "area": 0.0351,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2348,
+            "y": 0.0476,
+            "w": 0.5405,
+            "h": 0.0537
+          },
+          "area": 0.029,
+          "text": "Work Plan for next year",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0786,
+            "y": 0.0335,
+            "w": 0.2468,
+            "h": 0.0671
+          },
+          "area": 0.0166,
+          "text": "明年工作规划",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s19",
+      "title_guess": "01",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:7,middle-center:1,top-center:1",
+      "counts": {
+        "text": 19,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 22,
+        "text_count": 19,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.5801,
+        "image_area": 0.0301,
+        "shape_area": 0.6016,
+        "text_blob": "添加 标题 点击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加 标题 点击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加 标题 点击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加 标题 点击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 明年工作规划 Work Plan for next year 04 01 02 03 04",
+        "title_like": 2,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.044,
+            "y": 0.2151,
+            "w": 0.2154,
+            "h": 0.6848
+          },
+          "area": 0.1475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.044,
+            "y": 0.2151,
+            "w": 0.2154,
+            "h": 0.6848
+          },
+          "area": 0.1475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 38",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.044,
+            "y": 0.2151,
+            "w": 0.2154,
+            "h": 0.6848
+          },
+          "area": 0.1475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 46",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.044,
+            "y": 0.2151,
+            "w": 0.2154,
+            "h": 0.6848
+          },
+          "area": 0.1475,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.112,
+            "y": 0.1226,
+            "w": 0.1313,
+            "h": 0.4622
+          },
+          "area": 0.0607,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3315,
+            "y": 0.2337,
+            "w": 0.1313,
+            "h": 0.4622
+          },
+          "area": 0.0607,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 15",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.559,
+            "y": 0.0957,
+            "w": 0.1313,
+            "h": 0.4622
+          },
+          "area": 0.0607,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7815,
+            "y": 0.1564,
+            "w": 0.1313,
+            "h": 0.4622
+          },
+          "area": 0.0607,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.418,
+            "w": 0.1901,
+            "h": 0.2435
+          },
+          "area": 0.0463,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0775,
+            "y": 0.418,
+            "w": 0.1901,
+            "h": 0.2435
+          },
+          "area": 0.0463,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 5,
+          "body": 4,
+          "title": 2
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s20",
+      "title_guess": "资料来源 :土地注册处",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:8,middle-center:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 1,
+        "shape": 114,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 22,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 114,
+        "connector_count": 1,
+        "text_area": 0.059,
+        "image_area": 0.0019,
+        "shape_area": 31.0859,
+        "text_blob": "资料来源 :土地注册处 50.0% 2.9% 0.1% 04 明年工作规划 Work Plan for next year",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 19",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1935,
+            "w": 0.8859,
+            "h": 0.7213
+          },
+          "area": 0.639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "表格 5",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0687,
+            "y": 0.2039,
+            "w": 0.8625,
+            "h": 0.6942
+          },
+          "area": 0.5987,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 22",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.5167,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 76",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.5117,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 77",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.5068,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 78",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.5019,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 79",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.4969,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 80",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.492,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 81",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.487,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 82",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1702,
+            "y": -0.4821,
+            "w": 0.8857,
+            "h": 0.3076
+          },
+          "area": 0.2724,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s21",
+      "title_guess": "添加标题",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 11,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 22,
+        "text_count": 11,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2074,
+        "image_area": 0.0189,
+        "shape_area": 0.8345,
+        "text_blob": "添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 明年工作规划 Work Plan for next year 04 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 3",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0075,
+            "y": 0.5851,
+            "w": 1.0,
+            "h": 0.4149
+          },
+          "area": 0.4149,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0725,
+            "y": 0.3167,
+            "w": 0.1809,
+            "h": 0.572
+          },
+          "area": 0.1035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3,
+            "y": 0.2473,
+            "w": 0.1809,
+            "h": 0.572
+          },
+          "area": 0.1035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5275,
+            "y": 0.3167,
+            "w": 0.1809,
+            "h": 0.572
+          },
+          "area": 0.1035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.755,
+            "y": 0.2344,
+            "w": 0.1809,
+            "h": 0.572
+          },
+          "area": 0.1035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 11",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0912,
+            "y": 0.658,
+            "w": 0.1434,
+            "h": 0.2019
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2348,
+            "y": 0.0476,
+            "w": 0.5405,
+            "h": 0.0537
+          },
+          "area": 0.029,
+          "text": "Work Plan for next year",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3187,
+            "y": 0.5886,
+            "w": 0.1434,
+            "h": 0.2019
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5463,
+            "y": 0.658,
+            "w": 0.1434,
+            "h": 0.2019
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 42",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7737,
+            "y": 0.5757,
+            "w": 0.1434,
+            "h": 0.2019
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 4,
+          "footer": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "年终总结-30-静态-dc8f1fd2-s22",
+      "title_guess": "汇报人:锐旗设计",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-left:1,unknown:1",
+      "counts": {
+        "text": 2,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 22,
+        "text_count": 2,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.0642,
+        "image_area": 1.0464,
+        "shape_area": 1.0,
+        "text_blob": "汇报人:锐旗设计 谢谢",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 7",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2258,
+            "y": 0.3054,
+            "w": 0.3005,
+            "h": 0.1928
+          },
+          "area": 0.0579,
+          "text": "谢谢",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.2319,
+            "h": 0.2
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 48",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3051,
+            "y": 0.5609,
+            "w": 0.1419,
+            "h": 0.0444
+          },
+          "area": 0.0063,
+          "text": "汇报人:锐旗设计",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 47",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 22,
+    "layout_job_counts": {
+      "limitations-future": 5,
+      "matrix-grid": 5,
+      "duo-compare": 4,
+      "flow-diagram": 3,
+      "cover-statement": 1,
+      "image-hero": 1,
+      "two-column": 1,
+      "table": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "image": 13,
+      "diagram-shapes": 7,
+      "chart": 1,
+      "table": 1
+    },
+    "density_counts": {
+      "medium-high": 10,
+      "high": 10,
+      "medium": 2
+    },
+    "dominant_layout_jobs": [
+      "limitations-future",
+      "matrix-grid",
+      "duo-compare",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "chart"
+    ]
+  }
+}

@@ -1,0 +1,4326 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:21.806520+00:00",
+  "template_id": "工作汇报-01-动态-f252efea",
+  "template_profile_path": "assets/template-library/profiles/工作汇报-01-动态-f252efea.json",
+  "source_template": {
+    "name": "工作汇报(01)—动态.pptx",
+    "category": "工作汇报（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/工作汇报（5套）/工作汇报(01)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 20,
+    "media_count": 32,
+    "image_media_count": 30,
+    "motion_hint": "dynamic",
+    "tags": [
+      "工作汇报",
+      "项目进展",
+      "部门总结",
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划",
+      "稳重",
+      "商务",
+      "清晰",
+      "中性",
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图",
+      "标题+要点",
+      "结果摘要",
+      "结论先行",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "工作汇报",
+    "scenario": [
+      "工作汇报",
+      "项目进展",
+      "部门总结"
+    ],
+    "best_for": [
+      "周报/月报/年度汇报",
+      "项目总结"
+    ],
+    "avoid": [
+      "儿童风",
+      "活动庆典风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "现状",
+      "进展",
+      "成果",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "商务",
+      "清晰",
+      "中性"
+    ],
+    "image_strategy": [
+      "流程图",
+      "KPI图",
+      "项目截图",
+      "对比图"
+    ],
+    "text_strategy": [
+      "标题+要点",
+      "结果摘要",
+      "结论先行"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "table",
+      "flow-diagram",
+      "process-strip",
+      "matrix-grid",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "text"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "diagram-block",
+      "image",
+      "footer",
+      "body"
+    ],
+    "common_zones": [
+      "bottom-center",
+      "middle-center",
+      "middle-left",
+      "middle-right",
+      "bottom-left",
+      "top-left"
+    ],
+    "template_text_signature": "某某某某某有限公司 content 渠道业务达成超预期,取得历史最好成绩。一季度我司总规模保费完成18.35亿元 单击此处添加标题 添加标题 添加小标题 每个月2~5个客户增长 目前国股行陆续与本行开展负债业务合作 S 在这里输入你的正文阐述与关键词标题相关的具体内容 优质金融资产配置需求旺盛 资产业务合作以根据本行资产配置需要投资同业存单、金融债券等为主。 保障全面,守护童真 险种上新计划 坚持 添加标题 添加标题 单击添加标题内容 我们银行致力于提供全面的金融服务,专注于",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "工作汇报-01-动态-f252efea-s01",
+      "title_guess": "某某某某某有限公司",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-right:1,bottom-center:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 20,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1565,
+        "image_area": 0.4708,
+        "shape_area": 0.3078,
+        "text_blob": "某某某某某有限公司 汇报人 王经理 简约风格工作总结 部门季度年度 工作汇报",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 12",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4929,
+            "y": 0.0487,
+            "w": 0.4748,
+            "h": 0.9915
+          },
+          "area": 0.4708,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 168",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7534,
+            "w": 1.0,
+            "h": 0.2466
+          },
+          "area": 0.2466,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "îšlïďé",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8175,
+            "y": -0.0,
+            "w": 0.1825,
+            "h": 0.3356
+          },
+          "area": 0.0612,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.2928,
+            "w": 0.3938,
+            "h": 0.1481
+          },
+          "area": 0.0583,
+          "text": "部门季度年度",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.4438,
+            "w": 0.3178,
+            "h": 0.175
+          },
+          "area": 0.0556,
+          "text": "工作汇报",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1998,
+            "w": 0.2423,
+            "h": 0.0673
+          },
+          "area": 0.0163,
+          "text": "某某某某某有限公司",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1531,
+            "y": 0.8633,
+            "w": 0.2509,
+            "h": 0.0556
+          },
+          "area": 0.014,
+          "text": "简约风格工作总结",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 5",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.6246,
+            "w": 0.1771,
+            "h": 0.0693
+          },
+          "area": 0.0123,
+          "text": "汇报人 王经理",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "工作汇报-01-动态-f252efea-s02",
+      "title_guess": "content",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,top-center:1,top-left:1",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 20,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.5273,
+        "image_area": 0,
+        "shape_area": 0.5516,
+        "text_blob": "content 目录 content 部门营收总结 01 Department revenue summary 部门员工业绩 02 Department revenue summary 业务链优化 03 Department revenue summary 险种上新计划 04 Department revenue summary 下个季度目标 05 Department revenue summary 思路与措施 06 Department revenue summary PAGE 2",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 51",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0994,
+            "w": 1.0,
+            "h": 0.2715
+          },
+          "area": 0.2715,
+          "text": "content",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "îṥ1îḋè",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": -0.0018,
+            "w": 0.2409,
+            "h": 0.4352
+          },
+          "area": 0.1048,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 53",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.9093,
+            "w": 1.0,
+            "h": 0.0907
+          },
+          "area": 0.0907,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 剪去对角 52",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0792,
+            "y": 0.3586,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 剪去对角 57",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3647,
+            "y": 0.3586,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 剪去对角 61",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6503,
+            "y": 0.3586,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 剪去对角 65",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0792,
+            "y": 0.5828,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 剪去对角 69",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3647,
+            "y": 0.5828,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 剪去对角 73",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6503,
+            "y": 0.5828,
+            "w": 0.2705,
+            "h": 0.1975
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "iṡľîḑé",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4552,
+            "y": 0.8017,
+            "w": 0.1802,
+            "h": 0.1983
+          },
+          "area": 0.0357,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "section_label": 1,
+          "label": 13,
+          "footer": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "工作汇报-01-动态-f252efea-s03",
+      "title_guess": "渠道业务达成超预期,取得历史最好成绩。一季度我司总规模保费完成18.35亿元",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 38,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 20,
+        "text_count": 38,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1518,
+        "image_area": 0,
+        "shape_area": 0.6244,
+        "text_blob": "渠道业务达成超预期,取得历史最好成绩。一季度我司总规模保费完成18.35亿元 营收(亿元) 达成率 细分来源 营收(亿元) 达成率 渠道业务 标保 1.15 129.56% 营销标保 1.1 124.45% 收展标保 0.14 170.38% 续签实收保费 2.8 108.26% 团险规保 1.1 131% 非健险 0.28 112% 年金新签 2.47 214% 集合到账 0.15 109% 银保规模 1.22 97.9% 银保期缴 1.68 139% 部门营收总结",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 114",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0792,
+            "y": 0.1991,
+            "w": 0.8417,
+            "h": 0.2945
+          },
+          "area": 0.2479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 113",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0792,
+            "y": 0.5071,
+            "w": 0.8417,
+            "h": 0.1895
+          },
+          "area": 0.1595,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0805,
+            "y": 0.1834,
+            "w": 0.839,
+            "h": 0.0907
+          },
+          "area": 0.0761,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 124",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0829,
+            "y": 0.1834,
+            "w": 0.8317,
+            "h": 0.0912
+          },
+          "area": 0.0759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 52",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0792,
+            "y": 0.713,
+            "w": 0.8417,
+            "h": 0.0772
+          },
+          "area": 0.065,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 54",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0781,
+            "y": 0.8159,
+            "w": 0.8417,
+            "h": 0.0447
+          },
+          "area": 0.0376,
+          "text": "渠道业务达成超预期,取得历史最好成绩。一季度我司总规模保费完成18.35亿元",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 32",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.2352,
+            "h": 0.0673
+          },
+          "area": 0.0158,
+          "text": "部门营收总结",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 45",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.575,
+            "w": 0.1056,
+            "h": 0.0539
+          },
+          "area": 0.0057,
+          "text": "团险规保",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Rectangle 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.7247,
+            "w": 0.1056,
+            "h": 0.0539
+          },
+          "area": 0.0057,
+          "text": "银保规模",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Rectangle 42",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5043,
+            "y": 0.4364,
+            "w": 0.0909,
+            "h": 0.0404
+          },
+          "area": 0.0037,
+          "text": "续签实收保费",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 37,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "工作汇报-01-动态-f252efea-s04",
+      "title_guess": "单击此处添加标题",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 20,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1375,
+        "image_area": 0,
+        "shape_area": 0.6523,
+        "text_blob": "单击此处添加标题 100,000.00 添加小标题 100,000.00 添加小标题 100,000.00 添加小标题 部门营收总结",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 38",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6585,
+            "y": 0.3245,
+            "w": 0.2537,
+            "h": 0.5353
+          },
+          "area": 0.1358,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3765,
+            "y": 0.3245,
+            "w": 0.2537,
+            "h": 0.5353
+          },
+          "area": 0.1358,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0883,
+            "y": 0.3245,
+            "w": 0.2537,
+            "h": 0.5353
+          },
+          "area": 0.1358,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 60",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1042,
+            "y": 0.483,
+            "w": 0.2254,
+            "h": 0.3522
+          },
+          "area": 0.0794,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 39",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.694,
+            "y": 0.4685,
+            "w": 0.1827,
+            "h": 0.4131
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 35",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4121,
+            "y": 0.4685,
+            "w": 0.1827,
+            "h": 0.4131
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 20",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1239,
+            "y": 0.4685,
+            "w": 0.1827,
+            "h": 0.4131
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 47",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6844,
+            "y": 0.4876,
+            "w": 0.2185,
+            "h": 0.3429
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 66",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4032,
+            "y": 0.5779,
+            "w": 0.2022,
+            "h": 0.2323
+          },
+          "area": 0.047,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 42",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3361,
+            "y": 0.1853,
+            "w": 0.3278,
+            "h": 0.0673
+          },
+          "area": 0.0221,
+          "text": "单击此处添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "工作汇报-01-动态-f252efea-s05",
+      "title_guess": "添加标题",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:2,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1856,
+        "image_area": 0,
+        "shape_area": 0.1238,
+        "text_blob": "添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 添加标题 在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。 合集金额 320800 部门营收总结",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Shape 10159",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3979,
+            "y": 0.3601,
+            "w": 0.1904,
+            "h": 0.3385
+          },
+          "area": 0.0645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.3031,
+            "h": 0.0673
+          },
+          "area": 0.0204,
+          "text": "部门营收总结",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4216,
+            "y": 0.4597,
+            "w": 0.1398,
+            "h": 0.1391
+          },
+          "area": 0.0194,
+          "text": "合集金额 320800",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6596,
+            "y": 0.3212,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7142,
+            "y": 0.5181,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0661,
+            "y": 0.515,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1221,
+            "y": 0.3248,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6596,
+            "y": 0.71,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text Placeholder 6",
+          "role": "claim",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1245,
+            "y": 0.7126,
+            "w": 0.209,
+            "h": 0.0678
+          },
+          "area": 0.0142,
+          "text": "在此录入图表的描述说明,在此录入上述图表的描述说明,在此录入上述图表的描述说明。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text Placeholder 5",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6596,
+            "y": 0.2654,
+            "w": 0.1911,
+            "h": 0.0528
+          },
+          "area": 0.0101,
+          "text": "添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "claim": 6,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "工作汇报-01-动态-f252efea-s06",
+      "title_guess": "添加小标题",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:3,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 7,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 20,
+        "text_count": 7,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 3,
+        "text_area": 0.0738,
+        "image_area": 0.1204,
+        "shape_area": 0.7931,
+        "text_blob": "添加小标题 此处添加文本标题注意文字大小和文字段落 添加小标题 此处添加文本标题注意文字大小和文字段落 添加小标题 此处添加文本标题注意文字大小和文字段落 部门员工业绩",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1187,
+            "y": 0.2431,
+            "w": 0.2294,
+            "h": 0.4078
+          },
+          "area": 0.0935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3823,
+            "y": 0.2431,
+            "w": 0.2294,
+            "h": 0.4078
+          },
+          "area": 0.0935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6474,
+            "y": 0.2431,
+            "w": 0.2294,
+            "h": 0.4078
+          },
+          "area": 0.0935,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1237,
+            "y": 0.4765,
+            "w": 0.2222,
+            "h": 0.3963
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 52",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3956,
+            "y": 0.4765,
+            "w": 0.2222,
+            "h": 0.3963
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 63",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6553,
+            "y": 0.4765,
+            "w": 0.2222,
+            "h": 0.3963
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆: 空心 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1279,
+            "y": 0.2603,
+            "w": 0.211,
+            "h": 0.3752
+          },
+          "area": 0.0792,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆: 空心 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3915,
+            "y": 0.2603,
+            "w": 0.211,
+            "h": 0.3752
+          },
+          "area": 0.0792,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆: 空心 17",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6566,
+            "y": 0.2603,
+            "w": 0.211,
+            "h": 0.3752
+          },
+          "area": 0.0792,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 6",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1571,
+            "y": 0.3201,
+            "w": 0.1532,
+            "h": 0.2724
+          },
+          "area": 0.0417,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 4
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "工作汇报-01-动态-f252efea-s07",
+      "title_guess": "每个月2~5个客户增长",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:5,middle-center:1,top-center:1",
+      "counts": {
+        "text": 13,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 19,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 9,
+        "text_area": 0.1388,
+        "image_area": 0.2856,
+        "shape_area": 1.6678,
+        "text_blob": "每个月2~5个客户增长 在此录入图表的描述说明 客户 增长 30个左右 2个 30个 增长到 部门员工业绩 客户 增长 30个左右 2个 30个 增长到",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.05,
+            "y": 0.4361,
+            "w": 0.9,
+            "h": 0.2741
+          },
+          "area": 0.2467,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 2",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.05,
+            "y": 0.1485,
+            "w": 0.9,
+            "h": 0.2741
+          },
+          "area": 0.2467,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 38",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2233,
+            "y": 0.6579,
+            "w": 0.5534,
+            "h": 0.3108
+          },
+          "area": 0.172,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2233,
+            "y": 0.6579,
+            "w": 0.5534,
+            "h": 0.3108
+          },
+          "area": 0.172,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.05,
+            "y": 0.7279,
+            "w": 0.9,
+            "h": 0.1716
+          },
+          "area": 0.1544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 23",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5866,
+            "y": 0.436,
+            "w": 0.3634,
+            "h": 0.2743
+          },
+          "area": 0.0997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 17",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6048,
+            "y": 0.1485,
+            "w": 0.3452,
+            "h": 0.2742
+          },
+          "area": 0.0947,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 16",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4438,
+            "y": 0.7279,
+            "w": 0.5057,
+            "h": 0.1716
+          },
+          "area": 0.0868,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3148,
+            "y": 0.6906,
+            "w": 0.3704,
+            "h": 0.21
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3148,
+            "y": 0.6906,
+            "w": 0.3704,
+            "h": 0.21
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "claim": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "工作汇报-01-动态-f252efea-s08",
+      "title_guess": "目前国股行陆续与本行开展负债业务合作",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:2,bottom-right:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 4,
+        "text_area": 0.296,
+        "image_area": 0.9065,
+        "shape_area": 1.1487,
+        "text_blob": "目前国股行陆续与本行开展负债业务合作 合计获得国股行授信 兴业银行 XX亿元 浦发银行 XX亿元 民生银行 XX亿元 98亿元 目前同业负债主要为质押式回购 国股行日均融入 XX亿元 城农商行日均融入 XX亿元 日均融入XX亿元 成立以来累计融入各类资金 89亿元 成立以来本行以资产负债联动营销的模式 推进与国股行、主流城农商行的负债业务合作 部门员工业绩",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 22",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.7121
+          },
+          "area": 0.7121,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 18",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0,
+            "w": 0.9988,
+            "h": 0.7111
+          },
+          "area": 0.7102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Picture 4",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.5041,
+            "h": 0.3894
+          },
+          "area": 0.1963,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 7",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0747,
+            "y": 0.4509,
+            "w": 0.4208,
+            "h": 0.4315
+          },
+          "area": 0.1816,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 7",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5103,
+            "y": 0.4509,
+            "w": 0.4208,
+            "h": 0.4315
+          },
+          "area": 0.1816,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0824,
+            "y": 0.2081,
+            "w": 0.6738,
+            "h": 0.1782
+          },
+          "area": 0.1201,
+          "text": "成立以来本行以资产负债联动营销的模式 推进与国股行、主流城农商行的负债业务合作",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 452",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0824,
+            "y": 0.5318,
+            "w": 0.4031,
+            "h": 0.0574
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 452",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0824,
+            "y": 0.5318,
+            "w": 0.4031,
+            "h": 0.0574
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 75",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5458,
+            "y": 0.7251,
+            "w": 0.1685,
+            "h": 0.1171
+          },
+          "area": 0.0197,
+          "text": "国股行日均融入 XX亿元",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 76",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7435,
+            "y": 0.7251,
+            "w": 0.1685,
+            "h": 0.1171
+          },
+          "area": 0.0197,
+          "text": "城农商行日均融入 XX亿元",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 8,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "工作汇报-01-动态-f252efea-s09",
+      "title_guess": "S",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,bottom-center:3,bottom-left:1",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.203,
+        "image_area": 0.3007,
+        "shape_area": 0.5612,
+        "text_blob": "S W O T 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴, 优势 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴, 劣势 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴, 机遇 您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴, 威胁 业务链优化",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片占位符 17",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0737,
+            "y": 0.2715,
+            "w": 0.8525,
+            "h": 0.3527
+          },
+          "area": 0.3007,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Rectangle: Rounded Corners 11",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0737,
+            "y": 0.2725,
+            "w": 0.8525,
+            "h": 0.3516
+          },
+          "area": 0.2997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Rectangle 19",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0737,
+            "y": 0.5461,
+            "w": 0.8525,
+            "h": 0.3067
+          },
+          "area": 0.2615,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "TextBox 20",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0897,
+            "y": 0.6846,
+            "w": 0.1718,
+            "h": 0.1151
+          },
+          "area": 0.0198,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "TextBox 38",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.306,
+            "y": 0.6846,
+            "w": 0.1718,
+            "h": 0.1151
+          },
+          "area": 0.0198,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "TextBox 41",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5222,
+            "y": 0.6846,
+            "w": 0.1718,
+            "h": 0.1151
+          },
+          "area": 0.0198,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "TextBox 44",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7385,
+            "y": 0.6846,
+            "w": 0.1718,
+            "h": 0.1151
+          },
+          "area": 0.0198,
+          "text": "您的内容打在这里,或者通过复制您的文本后,在此框中选择粘贴,",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "TextBox 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1294,
+            "y": 0.3361,
+            "w": 0.0924,
+            "h": 0.193
+          },
+          "area": 0.0178,
+          "text": "S",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "TextBox 13",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3457,
+            "y": 0.3361,
+            "w": 0.0924,
+            "h": 0.193
+          },
+          "area": 0.0178,
+          "text": "W",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "TextBox 14",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.562,
+            "y": 0.3361,
+            "w": 0.0924,
+            "h": 0.193
+          },
+          "area": 0.0178,
+          "text": "O",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 9,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "工作汇报-01-动态-f252efea-s10",
+      "title_guess": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:2,middle-center:2,top-left:2",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 20,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.2554,
+        "image_area": 0.627,
+        "shape_area": 0.2093,
+        "text_blob": "在这里输入你的正文阐述与关键词标题相关的具体内容 项目A 在这里输入你的正文阐述与关键词标题相关的具体内容 项目B 在这里输入你的正文阐述与关键词标题相关的具体内容 项目C 在这里输入你的正文阐述与关键词标题相关的具体内容 项目D CED URE 业务链优化 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0001,
+            "y": -0.0095,
+            "w": 1.0062,
+            "h": 0.3116
+          },
+          "area": 0.3135,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0001,
+            "y": -0.0098,
+            "w": 1.0062,
+            "h": 0.3116
+          },
+          "area": 0.3135,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆: 空心 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3721,
+            "y": 0.4029,
+            "w": 0.2469,
+            "h": 0.439
+          },
+          "area": 0.1084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.118,
+            "w": 0.5358,
+            "h": 0.1546
+          },
+          "area": 0.0828,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "弧形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3968,
+            "y": 0.4469,
+            "w": 0.1975,
+            "h": 0.3511
+          },
+          "area": 0.0693,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "小标题",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1028,
+            "y": 0.4634,
+            "w": 0.2574,
+            "h": 0.1451
+          },
+          "area": 0.0373,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "小标题",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6292,
+            "y": 0.7702,
+            "w": 0.2619,
+            "h": 0.0967
+          },
+          "area": 0.0253,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "小标题",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6292,
+            "y": 0.4634,
+            "w": 0.2582,
+            "h": 0.0967
+          },
+          "area": 0.025,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "小标题",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1054,
+            "y": 0.7702,
+            "w": 0.2547,
+            "h": 0.0886
+          },
+          "area": 0.0226,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.2352,
+            "h": 0.0673
+          },
+          "area": 0.0158,
+          "text": "业务链优化",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 3,
+          "label": 8
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "工作汇报-01-动态-f252efea-s11",
+      "title_guess": "优质金融资产配置需求旺盛 资产业务合作以根据本行资产配置需要投资同业存单、金融债券等为主。",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:5,top-center:2,middle-center:1",
+      "counts": {
+        "text": 10,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.2532,
+        "image_area": 0.2332,
+        "shape_area": 1.0863,
+        "text_blob": "优质金融资产配置需求旺盛 资产业务合作以根据本行资产配置需要投资同业存单、金融债券等为主。 为贯彻行内资产负债联动营销的整体思路,金融市场部希望与同业伙伴开展互信合作。 在资产业务合作的同时,希望同业伙伴能对本行进行白名单准入,打开线上回购、票据回购等业务资格。 投资品种受限 负债稳定 资产欠配 受限于监管投资范围要求和农商行普遍现状,本行资产投资特点 投资 同业存单 金融 债券 业务链优化",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 661",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.1486,
+            "w": 1.0,
+            "h": 0.2696
+          },
+          "area": 0.2696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Picture 74",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1709,
+            "y": 0.1486,
+            "w": 0.8309,
+            "h": 0.2696
+          },
+          "area": 0.224,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4421,
+            "y": -0.2183,
+            "w": 0.1158,
+            "h": 1.5204
+          },
+          "area": 0.1761,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "梯形 32",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.2766,
+            "y": 0.4931,
+            "w": 0.9901,
+            "h": 0.0785
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "梯形 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.2766,
+            "y": 0.4931,
+            "w": 0.9901,
+            "h": 0.0785
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "梯形 9",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.2766,
+            "y": 0.4931,
+            "w": 0.9901,
+            "h": 0.0785
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2298,
+            "y": 0.392,
+            "w": 0.1038,
+            "h": 0.7443
+          },
+          "area": 0.0773,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6664,
+            "y": 0.392,
+            "w": 0.1038,
+            "h": 0.7443
+          },
+          "area": 0.0773,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "梯形 31",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.286,
+            "y": 0.5121,
+            "w": 0.9713,
+            "h": 0.0771
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "梯形 2",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.286,
+            "y": 0.5121,
+            "w": 0.9713,
+            "h": 0.0771
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 4,
+          "footer": 3,
+          "label": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "工作汇报-01-动态-f252efea-s12",
+      "title_guess": "保障全面,守护童真",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:2,top-right:2,middle-left:2",
+      "counts": {
+        "text": 25,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 20,
+        "text_count": 25,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.2126,
+        "image_area": 0.0092,
+        "shape_area": 0.9228,
+        "text_blob": "保障全面,守护童真 35 熊孩子监护人责任险 元/起 意外守护,养宠无忧 100 安心养宠物责任险 元/起 一人投保,全家安心 36 卡安心家庭共享账户安全险 元/起 百万保障,医疗无忧 166 百万安心疗重疾升级版 元/起 节假日双倍给付,最高可享超百万保障 108 驾乘无忧 元/起 5 元/起 个人专享,全家共享,任意选 账户安全险 险种上新计划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 67",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.2081,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 72",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.2081,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 83",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5106,
+            "y": 0.2081,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 84",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5106,
+            "y": 0.2081,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 90",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.4391,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 91",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.4391,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 104",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.6701,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 105",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0838,
+            "y": 0.6701,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 111",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5106,
+            "y": 0.6701,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 112",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5106,
+            "y": 0.6701,
+            "w": 0.4056,
+            "h": 0.1895
+          },
+          "area": 0.0769,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 18,
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "工作汇报-01-动态-f252efea-s13",
+      "title_guess": "险种上新计划",
+      "layout_job": "process-strip",
+      "primary_carrier": "text",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:3,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 27,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 20,
+        "text_count": 27,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.2683,
+        "image_area": 0,
+        "shape_area": 0.56,
+        "text_blob": "险种上新计划 房产项目 单击此处输入你的正文,文字是您思想的提炼 门槛更低 产品标准化 透明 规范 无杂费 分散风险 投研体系健全 基金项目 投资 要求 流程 监管 费用 投资 策略 投资 能力 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 54",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0588,
+            "y": 0.2453,
+            "w": 0.9067,
+            "h": 0.3055
+          },
+          "area": 0.277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 82",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0588,
+            "y": 0.5653,
+            "w": 0.9067,
+            "h": 0.3055
+          },
+          "area": 0.277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.3031,
+            "h": 0.0673
+          },
+          "area": 0.0204,
+          "text": "险种上新计划",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1195,
+            "y": 0.3403,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1195,
+            "y": 0.6603,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2625,
+            "y": 0.3403,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2625,
+            "y": 0.6603,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4056,
+            "y": 0.3403,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4056,
+            "y": 0.6603,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5486,
+            "y": 0.3403,
+            "w": 0.1052,
+            "h": 0.1155
+          },
+          "area": 0.0122,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 21,
+          "footer": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "工作汇报-01-动态-f252efea-s14",
+      "title_guess": "坚持",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-right:2,top-left:1",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 20,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 0,
+        "text_area": 0.1419,
+        "image_area": 0,
+        "shape_area": 0.6287,
+        "text_blob": "坚持 远见 团结 创新 决策 诚信铸就品质 险种上新计划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0525,
+            "y": 0.6163,
+            "w": 0.895,
+            "h": 0.2916
+          },
+          "area": 0.261,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 3",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1301,
+            "y": 0.6343,
+            "w": 0.7403,
+            "h": 0.217
+          },
+          "area": 0.1606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "TextBox 17",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2488,
+            "y": 0.6288,
+            "w": 0.5079,
+            "h": 0.1546
+          },
+          "area": 0.0785,
+          "text": "诚信铸就品质",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 4",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2036,
+            "y": 0.6703,
+            "w": 0.5935,
+            "h": 0.122
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.3031,
+            "h": 0.0673
+          },
+          "area": 0.0204,
+          "text": "险种上新计划",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 32",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2905,
+            "y": 0.3296,
+            "w": 0.1057,
+            "h": 0.188
+          },
+          "area": 0.0199,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6169,
+            "y": 0.3296,
+            "w": 0.1057,
+            "h": 0.188
+          },
+          "area": 0.0199,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 39",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4543,
+            "y": 0.2167,
+            "w": 0.1057,
+            "h": 0.188
+          },
+          "area": 0.0199,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1537,
+            "y": 0.4875,
+            "w": 0.1057,
+            "h": 0.188
+          },
+          "area": 0.0199,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 29",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7549,
+            "y": 0.4875,
+            "w": 0.1057,
+            "h": 0.188
+          },
+          "area": 0.0199,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "工作汇报-01-动态-f252efea-s15",
+      "title_guess": "添加标题",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,bottom-center:3,middle-left:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 20,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 1,
+        "text_area": 0.1504,
+        "image_area": 0.2315,
+        "shape_area": 0.5903,
+        "text_blob": "添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案 78% 此处添加详细文本描述 65+ 此处添加详细文本描述 下个季度目标",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 40",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3437,
+            "y": 0.2822,
+            "w": 0.5993,
+            "h": 0.5685
+          },
+          "area": 0.3407,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 4",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0626,
+            "y": 0.2106,
+            "w": 0.3263,
+            "h": 0.7095
+          },
+          "area": 0.2315,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0553,
+            "y": 0.1959,
+            "w": 0.3263,
+            "h": 0.7095
+          },
+          "area": 0.2315,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3724,
+            "y": 0.4051,
+            "w": 0.5427,
+            "h": 0.1546
+          },
+          "area": 0.0839,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案在这里输入你的正文阐述与关键词标题相关的具体内容在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3712,
+            "y": 0.2972,
+            "w": 0.2184,
+            "h": 0.1032
+          },
+          "area": 0.0225,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.2352,
+            "h": 0.0673
+          },
+          "area": 0.0158,
+          "text": "下个季度目标",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4705,
+            "y": 0.7184,
+            "w": 0.0971,
+            "h": 0.0806
+          },
+          "area": 0.0078,
+          "text": "此处添加详细文本描述",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 22",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7502,
+            "y": 0.7153,
+            "w": 0.0971,
+            "h": 0.0806
+          },
+          "area": 0.0078,
+          "text": "此处添加详细文本描述",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4699,
+            "y": 0.661,
+            "w": 0.0959,
+            "h": 0.0761
+          },
+          "area": 0.0073,
+          "text": "78%",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4081,
+            "y": 0.6744,
+            "w": 0.0587,
+            "h": 0.1044
+          },
+          "area": 0.0061,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "工作汇报-01-动态-f252efea-s16",
+      "title_guess": "添加标题",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-right:3,bottom-left:3,middle-center:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 20,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.3947,
+        "image_area": 0,
+        "shape_area": 0.4262,
+        "text_blob": "添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 在这里输入你的正文阐述与关键词标题相关的具体内容 添加标题 在这里输入你的正文阐述与关键词标题相关的具体内容 在这里输入你的正文阐述与关键词标题相关的具体内容 下个季度目标 在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案 \\ 目标 客户 建立 联系 发现 需求 处理 反馈 优化 方案 售后 服务 解决 方案",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 1",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0477,
+            "y": 0.3393,
+            "w": 0.9211,
+            "h": 0.1854
+          },
+          "area": 0.1708,
+          "text": "\\",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "椭圆 2",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0785,
+            "y": 0.3146,
+            "w": 0.8594,
+            "h": 0.1854
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5257,
+            "y": 0.5732,
+            "w": 0.4134,
+            "h": 0.3238
+          },
+          "area": 0.1339,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 32",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0793,
+            "y": 0.5756,
+            "w": 0.4134,
+            "h": 0.3217
+          },
+          "area": 0.133,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1159,
+            "y": 0.1936,
+            "w": 0.7682,
+            "h": 0.0537
+          },
+          "area": 0.0413,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容,若字数太多酌情删减文案",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5718,
+            "y": 0.6593,
+            "w": 0.301,
+            "h": 0.0761
+          },
+          "area": 0.0229,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5718,
+            "y": 0.7707,
+            "w": 0.301,
+            "h": 0.0761
+          },
+          "area": 0.0229,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1267,
+            "y": 0.6593,
+            "w": 0.301,
+            "h": 0.0761
+          },
+          "area": 0.0229,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1267,
+            "y": 0.7707,
+            "w": 0.301,
+            "h": 0.0761
+          },
+          "area": 0.0229,
+          "text": "在这里输入你的正文阐述与关键词标题相关的具体内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.2352,
+            "h": 0.0673
+          },
+          "area": 0.0158,
+          "text": "下个季度目标",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 15,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "工作汇报-01-动态-f252efea-s17",
+      "title_guess": "单击添加标题内容",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 2,
+        "image": 1,
+        "chart": 0,
+        "table": 1,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 20,
+        "text_count": 2,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.0442,
+        "image_area": 0.0016,
+        "shape_area": 0.7556,
+        "text_blob": "单击添加标题内容 下个季度目标",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 23",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0933,
+            "y": 0.2395,
+            "w": 0.8178,
+            "h": 0.6242
+          },
+          "area": 0.5105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "表格 3",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0916,
+            "y": 0.3769,
+            "w": 0.824,
+            "h": 0.4329
+          },
+          "area": 0.3567,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 26",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0234,
+            "y": 0.7052,
+            "w": 0.2955,
+            "h": 0.2978
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 20",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8366,
+            "y": 0.1179,
+            "w": 0.1634,
+            "h": 0.4103
+          },
+          "area": 0.067,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8187,
+            "y": 0.4528,
+            "w": 0.1187,
+            "h": 0.3681
+          },
+          "area": 0.0437,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1935,
+            "y": 0.2766,
+            "w": 0.344,
+            "h": 0.0957
+          },
+          "area": 0.0329,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 34",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2185,
+            "y": 0.2917,
+            "w": 0.354,
+            "h": 0.0673
+          },
+          "area": 0.0238,
+          "text": "单击添加标题内容",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.3031,
+            "h": 0.0673
+          },
+          "area": 0.0204,
+          "text": "下个季度目标",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1134,
+            "y": 0.2697,
+            "w": 0.0661,
+            "h": 0.1175
+          },
+          "area": 0.0078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1198,
+            "y": 0.2822,
+            "w": 0.0532,
+            "h": 0.0946
+          },
+          "area": 0.005,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "工作汇报-01-动态-f252efea-s18",
+      "title_guess": "我们银行致力于提供全面的金融服务,专注于客户需求,推动科技创新,支持社会经济发展。凭借稳健的经营和创",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 3,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 20,
+        "text_count": 3,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.1575,
+        "image_area": 0.5903,
+        "shape_area": 0.5117,
+        "text_blob": "我们银行致力于提供全面的金融服务,专注于客户需求,推动科技创新,支持社会经济发展。凭借稳健的经营和创新的业务模式,我们力求在国内外市场上持续发展,致力于为客户创造最大价值。我们银行致力于提供全面的金融服务,专注于客户需求,推动科技创新,支持社会经济发展。凭借稳健的经营和创新的业务模式,我们力求在国内外市场上持续发展,致力于为客户创造最大价值。 202X年6月 思路与措施",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 281",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0005,
+            "y": 0.1932,
+            "w": 1.001,
+            "h": 0.3587
+          },
+          "area": 0.3591,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 49",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6484,
+            "y": 0.1208,
+            "w": 0.3516,
+            "h": 0.8792
+          },
+          "area": 0.3091,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 42",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0365,
+            "y": 0.4793,
+            "w": 0.375,
+            "h": 0.375
+          },
+          "area": 0.1406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 45",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4303,
+            "y": 0.4793,
+            "w": 0.375,
+            "h": 0.375
+          },
+          "area": 0.1406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0911,
+            "y": 0.3015,
+            "w": 0.574,
+            "h": 0.2137
+          },
+          "area": 0.1227,
+          "text": "我们银行致力于提供全面的金融服务,专注于客户需求,推动科技创新,支持社会经济发展。凭借稳健的经营和创新的业务模式,我们力求在国内外市场上持续发展,致力于为客户创造最大价值。我们银行致力于提供全面的金融服务,专注于客户需求,推动科技创新,支持",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "梯形 4",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.2766,
+            "y": 0.4931,
+            "w": 0.9901,
+            "h": 0.0785
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "梯形 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.286,
+            "y": 0.5121,
+            "w": 0.9713,
+            "h": 0.0771
+          },
+          "area": 0.0749,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.041,
+            "w": 0.4644,
+            "h": 0.0673
+          },
+          "area": 0.0313,
+          "text": "思路与措施",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 50",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0998,
+            "y": 0.239,
+            "w": 0.0861,
+            "h": 0.0402
+          },
+          "area": 0.0035,
+          "text": "202X年6月",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "footer": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "工作汇报-01-动态-f252efea-s19",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:4,middle-left:2,bottom-right:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.291,
+        "image_area": 0,
+        "shape_area": 0.4794,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处 添加大标题内容 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加副标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加副标题 86% 此处输入你的正文 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 86% 此处输入你的正文 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 思路与措施",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 17",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7195,
+            "y": 0.5614,
+            "w": 0.2345,
+            "h": 0.3355
+          },
+          "area": 0.0787,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 19",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4749,
+            "y": 0.5577,
+            "w": 0.2345,
+            "h": 0.3355
+          },
+          "area": 0.0787,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4733,
+            "y": 0.3821,
+            "w": 0.4806,
+            "h": 0.1344
+          },
+          "area": 0.0646,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0463,
+            "y": 0.2128,
+            "w": 0.1887,
+            "h": 0.3355
+          },
+          "area": 0.0633,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2411,
+            "y": 0.2128,
+            "w": 0.1887,
+            "h": 0.3355
+          },
+          "area": 0.0633,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0463,
+            "y": 0.5614,
+            "w": 0.1887,
+            "h": 0.3355
+          },
+          "area": 0.0633,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 7",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2411,
+            "y": 0.5614,
+            "w": 0.1887,
+            "h": 0.3355
+          },
+          "area": 0.0633,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0524,
+            "y": 0.3223,
+            "w": 0.1766,
+            "h": 0.2036
+          },
+          "area": 0.036,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 5",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2472,
+            "y": 0.6866,
+            "w": 0.1766,
+            "h": 0.2036
+          },
+          "area": 0.036,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4897,
+            "y": 0.7026,
+            "w": 0.2049,
+            "h": 0.1681
+          },
+          "area": 0.0344,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 5,
+          "label": 4,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "工作汇报-01-动态-f252efea-s20",
+      "title_guess": "感谢聆听",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-right:1,bottom-center:1",
+      "counts": {
+        "text": 4,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 20,
+        "text_count": 4,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1258,
+        "image_area": 0.4708,
+        "shape_area": 0.3078,
+        "text_blob": "感谢聆听 Thanks 简约风格工作总结 某某某某某有限公司",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4929,
+            "y": 0.0487,
+            "w": 0.4748,
+            "h": 0.9915
+          },
+          "area": 0.4708,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 168",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7534,
+            "w": 1.0,
+            "h": 0.2466
+          },
+          "area": 0.2466,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "îšlïďé",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8175,
+            "y": -0.0,
+            "w": 0.1825,
+            "h": 0.3356
+          },
+          "area": 0.0612,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.4438,
+            "w": 0.3178,
+            "h": 0.175
+          },
+          "area": 0.0556,
+          "text": "感谢聆听",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.2899,
+            "w": 0.2692,
+            "h": 0.1481
+          },
+          "area": 0.0399,
+          "text": "Thanks",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0992,
+            "y": 0.1998,
+            "w": 0.2423,
+            "h": 0.0673
+          },
+          "area": 0.0163,
+          "text": "某某某某某有限公司",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1531,
+            "y": 0.6235,
+            "w": 0.2509,
+            "h": 0.0556
+          },
+          "area": 0.014,
+          "text": "简约风格工作总结",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 13",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "现状",
+        "进展",
+        "成果",
+        "计划"
+      ],
+      "avoid_for": [
+        "儿童风",
+        "活动庆典风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 20,
+    "layout_job_counts": {
+      "table": 4,
+      "flow-diagram": 3,
+      "process-strip": 3,
+      "matrix-grid": 2,
+      "duo-compare": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "kpi-grid": 1,
+      "image-hero": 1,
+      "two-column": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "image": 8,
+      "diagram-shapes": 7,
+      "text": 3,
+      "chart": 1,
+      "table": 1
+    },
+    "density_counts": {
+      "medium-high": 8,
+      "high": 7,
+      "medium": 5
+    },
+    "dominant_layout_jobs": [
+      "table",
+      "flow-diagram",
+      "process-strip",
+      "matrix-grid",
+      "duo-compare"
+    ],
+    "dominant_primary_carriers": [
+      "image",
+      "diagram-shapes",
+      "text"
+    ]
+  }
+}

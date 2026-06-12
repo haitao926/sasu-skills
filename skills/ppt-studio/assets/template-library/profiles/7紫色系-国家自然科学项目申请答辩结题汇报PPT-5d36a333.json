@@ -1,0 +1,3823 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:31.479905+00:00",
+  "template_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333",
+  "template_profile_path": "assets/template-library/profiles/7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333.json",
+  "source_template": {
+    "name": "7紫色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "category": "国家自然科学申报PPT(7套)",
+    "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/7紫色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "source": "国家自然科学申报PPT(7套)",
+    "slide_count": 17,
+    "media_count": 38,
+    "image_media_count": 35,
+    "motion_hint": "pptx",
+    "tags": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报",
+      "封面",
+      "目录",
+      "研究背景",
+      "科学问题",
+      "技术路线",
+      "进度成果",
+      "总结",
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨",
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图",
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释",
+      "紫色",
+      "静态版",
+      "原始文件",
+      "高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "科研申报",
+    "scenario": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报"
+    ],
+    "best_for": [
+      "基金申报",
+      "研究答辩",
+      "课题结题",
+      "学术汇报"
+    ],
+    "avoid": [
+      "儿童活动",
+      "海报展示",
+      "强插画风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "目录",
+      "研究意义",
+      "技术路线",
+      "结果/进度",
+      "总结"
+    ],
+    "visual": [
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨"
+    ],
+    "image_strategy": [
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图"
+    ],
+    "text_strategy": [
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "research-question",
+      "image-hero",
+      "cover-statement",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "table"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "image",
+      "diagram-block",
+      "label",
+      "body",
+      "footer"
+    ],
+    "common_zones": [
+      "middle-center",
+      "top-center",
+      "bottom-center",
+      "top-left",
+      "bottom-right",
+      "bottom-left"
+    ],
+    "template_text_signature": "国家自然科学项目 申请答辩结题汇报PPT 立项背景和研究思路 01 国家重大需求 01 国家重大需求 01 卡脖子问题 01 忆组类脑类器件研究热点 01 忆组类脑类器件研究热点 立项背景和研究思路 02 主要创新点 02 ANN/SNN 02 忆阻器件的非线性和可塑性 02 全忆阻神经网络的构建 02 可校准感知神经元的应用 02 研究国际应用成果 立项背景和研究思路 03 应用推广和经济社会效益 科研物理科学院",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s01",
+      "title_guess": "国家自然科学项目 申请答辩结题汇报PPT",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 17,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 5,
+        "text_area": 0.5302,
+        "image_area": 1.6144,
+        "shape_area": 1.7179,
+        "text_blob": "科研物理科学院 科研集成电路学院 科研研究中心 科研重点实验室 科研物理化学研究所 科研大学 主要完成人:吴科研、张科研、赵科研 国家自然科学项目 申请答辩结题汇报PPT 汇报人:科研答辩 基于忆阻器件的神经形态计算电路与系统研究",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 62",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0472,
+            "w": 0.9995,
+            "h": 0.9528
+          },
+          "area": 0.9523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0,
+            "w": 0.9995,
+            "h": 0.663
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 60",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0,
+            "w": 0.9987,
+            "h": 0.663
+          },
+          "area": 0.6621,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 38",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0005,
+            "y": 0.1941,
+            "w": 1.0005,
+            "h": 0.4051
+          },
+          "area": 0.4053,
+          "text": "国家自然科学项目 申请答辩结题汇报PPT",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 119",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1635,
+            "y": 0.0746,
+            "w": 0.6727,
+            "h": 0.072
+          },
+          "area": 0.0484,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 118",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2399,
+            "y": 0.0769,
+            "w": 0.52,
+            "h": 0.0673
+          },
+          "area": 0.035,
+          "text": "基于忆阻器件的神经形态计算电路与系统研究",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 53",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2509,
+            "y": 0.7823,
+            "w": 0.4979,
+            "h": 0.0673
+          },
+          "area": 0.0335,
+          "text": "主要完成人:吴科研、张科研、赵科研",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 106",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3672,
+            "y": 0.6129,
+            "w": 0.2655,
+            "h": 0.0664
+          },
+          "area": 0.0176,
+          "text": "汇报人:科研答辩",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 48",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4546,
+            "y": 0.8264,
+            "w": 0.1893,
+            "h": 0.0449
+          },
+          "area": 0.0085,
+          "text": "科研物理化学研究所",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 43",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7916,
+            "y": 0.8264,
+            "w": 0.1683,
+            "h": 0.0449
+          },
+          "area": 0.0076,
+          "text": "科研集成电路学院",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s02",
+      "title_guess": "立项背景和研究思路",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,top-left:4,middle-left:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 17,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1722,
+        "image_area": 0.9759,
+        "shape_area": 2.3066,
+        "text_blob": "立项背景和研究思路 01 创新点和主要技术内容 02 应用推广和经济社会效益 03 汇报答辩",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 41",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0236,
+            "w": 0.9995,
+            "h": 0.9764
+          },
+          "area": 0.9759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 40",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0779,
+            "y": 0.1256,
+            "w": 0.844,
+            "h": 0.7571
+          },
+          "area": 0.639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 4",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": -0.0064,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 65",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.199,
+            "w": 0.106,
+            "h": 0.592
+          },
+          "area": 0.0628,
+          "text": "汇报答辩",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.1913,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.3599,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.521,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s03",
+      "title_guess": "01 国家重大需求",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:2,top-center:2,bottom-left:2",
+      "counts": {
+        "text": 11,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 17,
+        "text_count": 11,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 1,
+        "text_area": 0.2711,
+        "image_area": 0.2891,
+        "shape_area": 0.8895,
+        "text_blob": "01 国家重大需求 忆阻器件的材料选择和优化是实现高性能神经形态计算的关键 集成电路设计 人工智能装备 计算机科学 国家自然科学基金会支持的面向神经形态计算的智能芯片与器件技术研究 “脑科学与类脑研究”重大项目2021年度项目申报指南 关键点 脑认知原理解析 类脑计算与脑机智能技术及应用 基础",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 五边形 102",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.669,
+            "y": 0.2892,
+            "w": 0.2904,
+            "h": 0.6495
+          },
+          "area": 0.1886,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "箭头: 五边形 134",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0399,
+            "y": 0.2892,
+            "w": 0.6103,
+            "h": 0.2495
+          },
+          "area": 0.1523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "箭头: 五边形 79",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.5711,
+            "w": 0.2955,
+            "h": 0.3678
+          },
+          "area": 0.1087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "箭头: 五边形 100",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3488,
+            "y": 0.5711,
+            "w": 0.2955,
+            "h": 0.3678
+          },
+          "area": 0.1087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 99",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0395,
+            "y": 0.144,
+            "w": 0.92,
+            "h": 0.1127
+          },
+          "area": 0.1037,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 111",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6795,
+            "y": 0.5935,
+            "w": 0.2694,
+            "h": 0.3308
+          },
+          "area": 0.0891,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 107",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0527,
+            "y": 0.5976,
+            "w": 0.2694,
+            "h": 0.319
+          },
+          "area": 0.0859,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 109",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3619,
+            "y": 0.5935,
+            "w": 0.2694,
+            "h": 0.319
+          },
+          "area": 0.0859,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 154",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0594,
+            "y": 0.2966,
+            "w": 0.5713,
+            "h": 0.1456
+          },
+          "area": 0.0832,
+          "text": "“脑科学与类脑研究”重大项目2021年度项目申报指南",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 3,
+          "footer": 7
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s04",
+      "title_guess": "01 国家重大需求",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 14,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 17,
+        "text_count": 14,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 1,
+        "text_area": 0.2805,
+        "image_area": 0.3085,
+        "shape_area": 0.9873,
+        "text_blob": "01 国家重大需求 人工 智能 人工智能与高速电路实验室的研究涉及到人工智能芯片的发展 高速 电路 对于提升国家的人工智能水平和电子电路技术具有重要作用 旨在加速从机制探究 技术创新到临床转化 服务国家重大交叉融合战略需求 脑机接口 人们对生物视觉神经系统的研究比较深入 参考视觉系统中的光传导通路开发了卷积神经网络(Convolutional Neural Network,CNN),在图像处理任务上获得了良好的效果 人类视觉处理系统 水平细胞 到 达 双极细胞 无长突细胞 视网膜神经节细胞(Ganglion cell)",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 五边形 32",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3267,
+            "y": 0.2986,
+            "w": 0.6321,
+            "h": 0.6403
+          },
+          "area": 0.4047,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 71",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3367,
+            "y": 0.493,
+            "w": 0.454,
+            "h": 0.4235
+          },
+          "area": 0.1923,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "箭头: 五边形 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.2986,
+            "w": 0.2698,
+            "h": 0.6403
+          },
+          "area": 0.1728,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 77",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3426,
+            "y": 0.3143,
+            "w": 0.5941,
+            "h": 0.1666
+          },
+          "area": 0.099,
+          "text": "人们对生物视觉神经系统的研究比较深入 参考视觉系统中的光传导通路开发了卷积神经网络(Convolutional Neural Network,CNN),在图像处理任务上获得了良好的效果",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "图片 53",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0572,
+            "y": 0.3223,
+            "w": 0.2345,
+            "h": 0.3751
+          },
+          "area": 0.088,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "箭头: 五边形 78",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8003,
+            "y": 0.5159,
+            "w": 0.1498,
+            "h": 0.3804
+          },
+          "area": 0.057,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 79",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4998,
+            "y": 0.5256,
+            "w": 0.2018,
+            "h": 0.2596
+          },
+          "area": 0.0524,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "箭头: 五边形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0569,
+            "y": 0.7122,
+            "w": 0.2351,
+            "h": 0.2189
+          },
+          "area": 0.0515,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1351,
+            "y": 0.1451,
+            "w": 0.3585,
+            "h": 0.13
+          },
+          "area": 0.0466,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "body": 4,
+          "footer": 6
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s05",
+      "title_guess": "01 卡脖子问题",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,top-center:3,bottom-center:1",
+      "counts": {
+        "text": 8,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 17,
+        "text_count": 8,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.2296,
+        "image_area": 0.258,
+        "shape_area": 0.8512,
+        "text_blob": "01 卡脖子问题 新材料和新机制的探索:理想的模拟型阻变器件对中间状态数、线性度和耐擦写特性都提出需求,但目前并未发现足够优秀的器件能将所有特性做到极致 阻变机制的不明确/制备工艺的不成熟 新机制探索 神经网络构建 神经形态计算 新材料探索 旨在逐步解决并推动忆阻器件及其神经形态计算的进一步发展",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 五边形 26",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.4273,
+            "w": 0.9209,
+            "h": 0.3801
+          },
+          "area": 0.35,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "箭头: 五边形 11",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1451,
+            "w": 0.9193,
+            "h": 0.1564
+          },
+          "area": 0.1438,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0592,
+            "y": 0.1578,
+            "w": 0.88,
+            "h": 0.1235
+          },
+          "area": 0.1087,
+          "text": "新材料和新机制的探索:理想的模拟型阻变器件对中间状态数、线性度和耐擦写特性都提出需求,但目前并未发现足够优秀的器件能将所有特性做到极致",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "箭头: 五边形 12",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.3188,
+            "w": 0.9198,
+            "h": 0.0911
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "箭头: 五边形 40",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.8561,
+            "w": 0.9193,
+            "h": 0.0825
+          },
+          "area": 0.0758,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4741,
+            "y": 0.4556,
+            "w": 0.2493,
+            "h": 0.2765
+          },
+          "area": 0.0689,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 43",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.743,
+            "y": 0.4556,
+            "w": 0.2123,
+            "h": 0.2765
+          },
+          "area": 0.0587,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0511,
+            "y": 0.4556,
+            "w": 0.1842,
+            "h": 0.2772
+          },
+          "area": 0.0511,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 32",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2631,
+            "y": 0.4556,
+            "w": 0.1842,
+            "h": 0.2772
+          },
+          "area": 0.0511,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s06",
+      "title_guess": "01 忆组类脑类器件研究热点",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:3,bottom-left:2,bottom-right:1",
+      "counts": {
+        "text": 13,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 17,
+        "text_count": 13,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 1,
+        "text_area": 0.2947,
+        "image_area": 0.2492,
+        "shape_area": 0.8156,
+        "text_blob": "01 忆组类脑类器件研究热点 10^9^ 开关比 115 fJ 开态功耗 85 ps 开关速度 10^12^ 耐擦写次数 忆阻器件的特性 神经形态硬件与系统设计 研究新型神经形态芯片、忆阻器与类脑计算硬件、低功耗神经网络加速器 基于外延VO2忆阻器的可校准感知神经元 用于解决人工感知神经元的一致性问题以及神经元与不同传感器阻抗匹配的问题 主要研究热点 基于忆阻器阵列的新型脑机接口 有助于提升脑机接口的性能 Retina",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 五边形 20",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5833,
+            "y": 0.3842,
+            "w": 0.3762,
+            "h": 0.5547
+          },
+          "area": 0.2087,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 23",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0774,
+            "y": 0.145,
+            "w": 0.8821,
+            "h": 0.2174
+          },
+          "area": 0.1918,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 19",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0403,
+            "y": 0.6347,
+            "w": 0.2505,
+            "h": 0.3042
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 63",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3131,
+            "y": 0.6345,
+            "w": 0.2505,
+            "h": 0.3042
+          },
+          "area": 0.0762,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1666,
+            "y": 0.1601,
+            "w": 0.3921,
+            "h": 0.1872
+          },
+          "area": 0.0734,
+          "text": "神经形态硬件与系统设计 研究新型神经形态芯片、忆阻器与类脑计算硬件、低功耗神经网络加速器",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5636,
+            "y": 0.1646,
+            "w": 0.3845,
+            "h": 0.1783
+          },
+          "area": 0.0686,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.4873,
+            "w": 0.5245,
+            "h": 0.1153
+          },
+          "area": 0.0605,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.495,
+            "h": 0.0942
+          },
+          "area": 0.0466,
+          "text": "01 忆组类脑类器件研究热点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆顶角 60",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.8569,
+            "w": 0.5245,
+            "h": 0.0829
+          },
+          "area": 0.0435,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "body": 1,
+          "footer": 4,
+          "claim": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s07",
+      "title_guess": "01 忆组类脑类器件研究热点",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-center:3,bottom-center:2,middle-center:1",
+      "counts": {
+        "text": 15,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 17,
+        "text_count": 15,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.504,
+        "image_area": 0.1982,
+        "shape_area": 0.9802,
+        "text_blob": "01 忆组类脑类器件研究热点 5 5 在信号到达胞体前的树突中完成 生物启发计算与理论 这些工具的开发有助于提高神经形态计算系统的可编程性和适应性 软件与工具开发 神经科学基础/大脑功能模拟/神经编码与解码机制 研究类脑视觉、听觉及其他感官处理、机器学习在认知任务中的应用、情境理解和行为规划等,这些研究模拟生物感知系统,提升人工智能的感知能力 -70mV的静息电位 55mV的发放阈值 上 升 物理化学特性 可校准感知神经元 与类脑多模态感知 脉冲神经网络(SNN)",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 9",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.3483,
+            "w": 0.6092,
+            "h": 0.5906
+          },
+          "area": 0.3598,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 37",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6698,
+            "y": 0.3483,
+            "w": 0.29,
+            "h": 0.5906
+          },
+          "area": 0.1713,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "箭头: 五边形 22",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1448,
+            "w": 0.9193,
+            "h": 0.1681
+          },
+          "area": 0.1545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 11",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2792,
+            "y": 0.56,
+            "w": 0.352,
+            "h": 0.3641
+          },
+          "area": 0.1282,
+          "text": "5",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0491,
+            "y": 0.1664,
+            "w": 0.9003,
+            "h": 0.1248
+          },
+          "area": 0.1124,
+          "text": "研究类脑视觉、听觉及其他感官处理、机器学习在认知任务中的应用、情境理解和行为规划等,这些研究模拟生物感知系统,提升人工智能的感知能力",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 12",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0566,
+            "y": 0.4554,
+            "w": 0.1843,
+            "h": 0.4687
+          },
+          "area": 0.0864,
+          "text": "5",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "图片 39",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2911,
+            "y": 0.6681,
+            "w": 0.3281,
+            "h": 0.2421
+          },
+          "area": 0.0794,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆顶角 68",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6908,
+            "y": 0.6863,
+            "w": 0.248,
+            "h": 0.2378
+          },
+          "area": 0.059,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.495,
+            "h": 0.0942
+          },
+          "area": 0.0466,
+          "text": "01 忆组类脑类器件研究热点",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 6,
+          "body": 3
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s08",
+      "title_guess": "立项背景和研究思路",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 17,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1722,
+        "image_area": 0.9759,
+        "shape_area": 2.3066,
+        "text_blob": "立项背景和研究思路 01 创新点和主要技术内容 02 应用推广和经济社会效益 03 汇报答辩",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 41",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0236,
+            "w": 0.9995,
+            "h": 0.9764
+          },
+          "area": 0.9759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 40",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0779,
+            "y": 0.1256,
+            "w": 0.844,
+            "h": 0.7571
+          },
+          "area": 0.639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 4",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": -0.0064,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 65",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.199,
+            "w": 0.106,
+            "h": 0.592
+          },
+          "area": 0.0628,
+          "text": "汇报答辩",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.2548,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.4366,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.6183,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s09",
+      "title_guess": "02 主要创新点",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:3,bottom-left:2,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 17,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.2125,
+        "image_area": 0.2869,
+        "shape_area": 0.8301,
+        "text_blob": "02 主要创新点 推动忆阻器件和神经形态计算技术发展/为未来人工智能和数据处理提供新方向 开发相应的软件工具和编程框架 模拟生长突触 忆阻器件可塑性 忆阻器件非线性 忆阻器件的非线性和可塑性 全忆阻神经网络的构建 基于忆阻器阵列的新型脑机接口 可校准感知神经元的应用",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "箭头: 五边形 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0395,
+            "y": 0.5676,
+            "w": 0.2969,
+            "h": 0.3713
+          },
+          "area": 0.1102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "箭头: 五边形 37",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.351,
+            "y": 0.5676,
+            "w": 0.2969,
+            "h": 0.3713
+          },
+          "area": 0.1102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "箭头: 五边形 38",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6626,
+            "y": 0.5676,
+            "w": 0.2969,
+            "h": 0.3713
+          },
+          "area": 0.1102,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 25",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1467,
+            "w": 0.9205,
+            "h": 0.1077
+          },
+          "area": 0.0991,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 83",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3666,
+            "y": 0.5834,
+            "w": 0.2659,
+            "h": 0.3581
+          },
+          "area": 0.0952,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "箭头: 五边形 34",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0399,
+            "y": 0.4492,
+            "w": 0.9198,
+            "h": 0.0911
+          },
+          "area": 0.0838,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 81",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0595,
+            "y": 0.5834,
+            "w": 0.257,
+            "h": 0.3192
+          },
+          "area": 0.082,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 82",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6835,
+            "y": 0.5834,
+            "w": 0.2552,
+            "h": 0.3192
+          },
+          "area": 0.0815,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0658,
+            "y": 0.1736,
+            "w": 0.868,
+            "h": 0.0539
+          },
+          "area": 0.0468,
+          "text": "推动忆阻器件和神经形态计算技术发展/为未来人工智能和数据处理提供新方向",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s10",
+      "title_guess": "02 ANN/SNN",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,bottom-center:2,bottom-right:2",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 1,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 17,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1506,
+        "image_area": 0.1567,
+        "shape_area": 0.3639,
+        "text_blob": "02 ANN/SNN ANN和SNN通过模仿人脑的处理方式 目标解决 计算生物学 生物信息学 模式识别与分类 01 ANN广泛应用于图像识别,通过学习数据的内在规律实现对不同模式的有效识别和分类 预测与时间序列分析 02 循环神经网络时间序列数据的预测方面表现出色",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 14",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1447,
+            "w": 0.9199,
+            "h": 0.3992
+          },
+          "area": 0.3672,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1144,
+            "y": 0.5728,
+            "w": 0.4719,
+            "h": 0.3661
+          },
+          "area": 0.1728,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 30",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5973,
+            "y": 0.5735,
+            "w": 0.1784,
+            "h": 0.3649
+          },
+          "area": 0.0651,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 32",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7863,
+            "y": 0.5723,
+            "w": 0.1732,
+            "h": 0.3661
+          },
+          "area": 0.0634,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 37",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1325,
+            "y": 0.71,
+            "w": 0.4395,
+            "h": 0.0936
+          },
+          "area": 0.0411,
+          "text": "ANN广泛应用于图像识别,通过学习数据的内在规律实现对不同模式的有效识别和分类",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 1",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.744,
+            "y": -0.0,
+            "w": 0.256,
+            "h": 0.11
+          },
+          "area": 0.0282,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 19",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1438,
+            "y": 0.5797,
+            "w": 0.4106,
+            "h": 0.0602
+          },
+          "area": 0.0247,
+          "text": "ANN和SNN通过模仿人脑的处理方式",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.258,
+            "h": 0.0942
+          },
+          "area": 0.0243,
+          "text": "02 ANN/SNN",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆顶角 28",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.5735,
+            "w": 0.064,
+            "h": 0.3654
+          },
+          "area": 0.0234,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 7,
+          "body": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s11",
+      "title_guess": "02 忆阻器件的非线性和可塑性",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:3,top-center:3,bottom-right:1",
+      "counts": {
+        "text": 12,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 7
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 17,
+        "text_count": 12,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 7,
+        "text_area": 0.3523,
+        "image_area": 0.1805,
+        "shape_area": 0.8987,
+        "text_blob": "02 忆阻器件的非线性和可塑性 主要源于其电阻值可以根据历史电荷或电压的变化而变化 忆阻器件的这种非线性特性对于实现复杂的计算功能至关重要,在信号处理和模式识别中的应用 Soikes Binary/intensity image Signal BP Training Model-4/5 Splikes BP-inspired Training Model-6 忆阻器件能够模拟生物突触的可塑性,包括短时程可塑性(如双脉冲易化和抑制)和长时程可塑性(如长时程增强和长时程抑制) 忆阻器件还能模拟更复杂的再可塑性变化本身也受到先前活动的影响",
+        "title_like": 1,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 46",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.4,
+            "w": 0.7295,
+            "h": 0.5395
+          },
+          "area": 0.3936,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 26",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1457,
+            "w": 0.9193,
+            "h": 0.2277
+          },
+          "area": 0.2093,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.069,
+            "y": 0.1562,
+            "w": 0.8625,
+            "h": 0.2042
+          },
+          "area": 0.1761,
+          "text": "主要源于其电阻值可以根据历史电荷或电压的变化而变化 忆阻器件的这种非线性特性对于实现复杂的计算功能至关重要,在信号处理和模式识别中的应用",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "箭头: 五边形 92",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0533,
+            "y": 0.8174,
+            "w": 0.7021,
+            "h": 0.1075
+          },
+          "area": 0.0755,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0715,
+            "y": 0.8243,
+            "w": 0.6675,
+            "h": 0.0936
+          },
+          "area": 0.0625,
+          "text": "忆阻器件能够模拟生物突触的可塑性,包括短时程可塑性(如双脉冲易化和抑制)和长时程可塑性(如长时程增强和长时程抑制)",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 99",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7829,
+            "y": 0.6412,
+            "w": 0.1764,
+            "h": 0.2979
+          },
+          "area": 0.0525,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.5329,
+            "h": 0.0942
+          },
+          "area": 0.0502,
+          "text": "02 忆阻器件的非线性和可塑性",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 52",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1452,
+            "y": 0.5042,
+            "w": 0.1819,
+            "h": 0.2742
+          },
+          "area": 0.0499,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 54",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.497,
+            "y": 0.5042,
+            "w": 0.1819,
+            "h": 0.2744
+          },
+          "area": 0.0499,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 3,
+          "footer": 7,
+          "label": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s12",
+      "title_guess": "02 全忆阻神经网络的构建",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:2,top-left:2,middle-center:1",
+      "counts": {
+        "text": 19,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 21,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 17,
+        "text_count": 19,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 6,
+        "text_area": 0.2387,
+        "image_area": 0.1993,
+        "shape_area": 1.0679,
+        "text_blob": "02 全忆阻神经网络的构建 硬件加速器 输入脉冲0 输入脉冲1 输入脉冲(N-1) 第三层 第一层 第二层 脉冲 脉冲 脉冲输入 0-(N-1) 忆阻器的物理模型与特性分析 忆阻器神经元电路设计 这些电路能够模拟生物神经元的发放行为如全或无、动作电位尖峰周期振荡等 主要研究创新 对忆阻器如NbOx的动力学特性进行深入分析 定量分析产生尖峰振荡的区域和条件,确定激励信号幅值和尖峰频率之间的定量关系 尖峰神经网络(SNN)的构建",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 53",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1449,
+            "w": 0.9198,
+            "h": 0.3772
+          },
+          "area": 0.3469,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 8",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.557,
+            "w": 0.4719,
+            "h": 0.3825
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 21",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5308,
+            "y": 0.557,
+            "w": 0.4288,
+            "h": 0.3825
+          },
+          "area": 0.164,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 88",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.055,
+            "y": 0.5749,
+            "w": 0.2501,
+            "h": 0.3398
+          },
+          "area": 0.085,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 56",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5139,
+            "y": 0.3371,
+            "w": 0.4367,
+            "h": 0.1641
+          },
+          "area": 0.0717,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "箭头: 五边形 84",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.3651,
+            "w": 0.3917,
+            "h": 0.1334
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.4572,
+            "h": 0.0942
+          },
+          "area": 0.0431,
+          "text": "02 全忆阻神经网络的构建",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "箭头: 五边形 83",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1147,
+            "y": 0.2432,
+            "w": 0.3917,
+            "h": 0.0938
+          },
+          "area": 0.0367,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 79",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3113,
+            "y": 0.5793,
+            "w": 0.1893,
+            "h": 0.1906
+          },
+          "area": 0.0361,
+          "text": "这些电路能够模拟生物神经元的发放行为如全或无、动作电位尖峰周期振荡等",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 11,
+          "body": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s13",
+      "title_guess": "02 可校准感知神经元的应用",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:3,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 16,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 17,
+        "text_count": 16,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 4,
+        "text_area": 0.2609,
+        "image_area": 0.2477,
+        "shape_area": 0.958,
+        "text_blob": "02 可校准感知神经元的应用 Touch sensor Dof 3-6 Dof 2 Dof 1 Mobility (MFSN) MFSN通过融合这两种模态的模拟感觉信息,展现出优异的数据压缩和 目的 解决人工感知系统中的一些关键挑战,如提高感知的一致性、适应不同传感器的阻抗匹配问题,以及实现多模态感知 神经形态感知器件 人机交互系统 多模态融合感知 + 模拟了生物体中的复杂视觉行为 为人机交互中的多模态感知与计算提供了新的解决方案",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 9",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.4373,
+            "w": 0.492,
+            "h": 0.5022
+          },
+          "area": 0.2471,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 40",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5478,
+            "y": 0.4373,
+            "w": 0.4124,
+            "h": 0.5022
+          },
+          "area": 0.2071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 13",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0495,
+            "y": 0.4662,
+            "w": 0.3163,
+            "h": 0.4579
+          },
+          "area": 0.1448,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 41",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0394,
+            "y": 0.2674,
+            "w": 0.92,
+            "h": 0.1339
+          },
+          "area": 0.1232,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 60",
+          "role": "claim",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1604,
+            "y": 0.2771,
+            "w": 0.7794,
+            "h": 0.1144
+          },
+          "area": 0.0892,
+          "text": "解决人工感知系统中的一些关键挑战,如提高感知的一致性、适应不同传感器的阻抗匹配问题,以及实现多模态感知",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 42",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0396,
+            "y": 0.2936,
+            "w": 0.92,
+            "h": 0.0934
+          },
+          "area": 0.0859,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 85",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5577,
+            "y": 0.7621,
+            "w": 0.3944,
+            "h": 0.1627
+          },
+          "area": 0.0642,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.495,
+            "h": 0.0942
+          },
+          "area": 0.0466,
+          "text": "02 可校准感知神经元的应用",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图片 83",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5577,
+            "y": 0.5334,
+            "w": 0.2191,
+            "h": 0.2081
+          },
+          "area": 0.0456,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 10,
+          "claim": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s14",
+      "title_guess": "02 研究国际应用成果",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,top-center:3,bottom-center:2",
+      "counts": {
+        "text": 5,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 17,
+        "text_count": 5,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 4,
+        "text_area": 0.169,
+        "image_area": 0.5763,
+        "shape_area": 0.5972,
+        "text_blob": "02 研究国际应用成果 Cureister 能源学院研究院 科研大学教授 ABCD FELLOW 美国物理专家 用于解决人工感知神经元的一致性问题以及神经元与不同传感器阻抗匹配的问题,该研究成果大幅扩展了感知神经元的感知模式,促进了类脑感知系统的构建及其在电子皮肤应用 这项研究成果在物理领域重要期刊《Laser & Photonics Reviews》上发表",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6332,
+            "y": 0.1466,
+            "w": 0.3258,
+            "h": 0.7923
+          },
+          "area": 0.2581,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.1452,
+            "w": 0.575,
+            "h": 0.3084
+          },
+          "area": 0.1773,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8402,
+            "w": 1.0,
+            "h": 0.1598
+          },
+          "area": 0.1598,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 52",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3175,
+            "y": 0.4827,
+            "w": 0.2971,
+            "h": 0.455
+          },
+          "area": 0.1352,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0396,
+            "y": 0.4827,
+            "w": 0.2619,
+            "h": 0.455
+          },
+          "area": 0.1192,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "对话气泡: 矩形 47",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3527,
+            "y": 0.1593,
+            "w": 0.248,
+            "h": 0.2802
+          },
+          "area": 0.0695,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 57",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6332,
+            "y": 0.4482,
+            "w": 0.3262,
+            "h": 0.1891
+          },
+          "area": 0.0617,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 49",
+          "role": "claim",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3676,
+            "y": 0.1716,
+            "w": 0.2182,
+            "h": 0.2556
+          },
+          "area": 0.0558,
+          "text": "用于解决人工感知神经元的一致性问题以及神经元与不同传感器阻抗匹配的问题,该研究成果大幅扩展了感知神经元的感知模式,促进了类脑感知系统的构建及其在电子皮肤应用",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 54",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6633,
+            "y": 0.4638,
+            "w": 0.2678,
+            "h": 0.1578
+          },
+          "area": 0.0423,
+          "text": "这项研究成果在物理领域重要期刊《Laser & Photonics Reviews》上发表",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 1,
+          "body": 2,
+          "claim": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s15",
+      "title_guess": "立项背景和研究思路",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,middle-center:3,middle-left:1",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 17,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 6,
+        "text_area": 0.1722,
+        "image_area": 0.9759,
+        "shape_area": 2.3066,
+        "text_blob": "立项背景和研究思路 01 创新点和主要技术内容 02 应用推广和经济社会效益 03 汇报答辩",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 41",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0236,
+            "w": 0.9995,
+            "h": 0.9764
+          },
+          "area": 0.9759,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 40",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0779,
+            "y": 0.1256,
+            "w": 0.844,
+            "h": 0.7571
+          },
+          "area": 0.639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 4",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 7",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3593
+          },
+          "area": 0.1269,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": -0.0064,
+            "w": 0.3532,
+            "h": 0.3132
+          },
+          "area": 0.1106,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 65",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2054,
+            "y": 0.199,
+            "w": 0.106,
+            "h": 0.592
+          },
+          "area": 0.0628,
+          "text": "汇报答辩",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.2548,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.4366,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3534,
+            "y": 0.6183,
+            "w": 0.4997,
+            "h": 0.1212
+          },
+          "area": 0.0606,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s16",
+      "title_guess": "03 应用推广和经济社会效益",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:2,bottom-right:2,top-left:2",
+      "counts": {
+        "text": 21,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 17,
+        "text_count": 21,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 0,
+        "text_area": 0.2677,
+        "image_area": 0.2242,
+        "shape_area": 0.9304,
+        "text_blob": "03 应用推广和经济社会效益 材料应用后 二维仿生视觉硬件 该工作得到了国家自然科学基金、国家重点研发计划上海市重点、科研研究资助局等项目的资助 分类准确率 90.33% 动态物体的高精度识别 98.1% 跨模态感知柔性忆阻神经元 3层脉冲神经网络的输入层 视觉感知记忆阵列的图像感知与记忆结果 忆阻存算一体技术 在《先进材料》(Advanced Materials)上发表了关于忆阻存算一体技术的综述论文 基于aJ级超低擦/写/读功耗的Pt Hfo2 TaOX TA + + Hfo1 +",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 51",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0408,
+            "y": 0.1448,
+            "w": 0.9186,
+            "h": 0.2811
+          },
+          "area": 0.2582,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 16",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4612,
+            "y": 0.4528,
+            "w": 0.4982,
+            "h": 0.4863
+          },
+          "area": 0.2423,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.11
+          },
+          "area": 0.11,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 67",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1234,
+            "y": 0.1574,
+            "w": 0.3712,
+            "h": 0.2558
+          },
+          "area": 0.095,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 28",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0402,
+            "y": 0.7136,
+            "w": 0.3781,
+            "h": 0.2255
+          },
+          "area": 0.0853,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0402,
+            "y": 0.4528,
+            "w": 0.3781,
+            "h": 0.2255
+          },
+          "area": 0.0853,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 49",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4853,
+            "y": 0.7042,
+            "w": 0.2455,
+            "h": 0.2294
+          },
+          "area": 0.0563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0302,
+            "y": 0.0096,
+            "w": 0.495,
+            "h": 0.0942
+          },
+          "area": 0.0466,
+          "text": "03 应用推广和经济社会效益",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 71",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5,
+            "y": 0.1592,
+            "w": 0.4396,
+            "h": 0.104
+          },
+          "area": 0.0457,
+          "text": "在《先进材料》(Advanced Materials)上发表了关于忆阻存算一体技术的综述论文",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "图片 50",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7502,
+            "y": 0.7042,
+            "w": 0.1927,
+            "h": 0.2319
+          },
+          "area": 0.0447,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 12,
+          "body": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "7紫色系-国家自然科学项目申请答辩结题汇报PPT-5d36a333-s17",
+      "title_guess": "科研物理科学院",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:5,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 17,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 5,
+        "text_area": 0.437,
+        "image_area": 1.6144,
+        "shape_area": 1.7179,
+        "text_blob": "科研物理科学院 科研集成电路学院 科研研究中心 科研重点实验室 科研物理化学研究所 科研大学 主要完成人:吴科研、张科研、赵科研 汇报人:科研答辩 基于忆阻器件的神经形态计算电路与系统研究 感谢各位领导专家 敬请批评指正!",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 62",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0472,
+            "w": 0.9995,
+            "h": 0.9528
+          },
+          "area": 0.9523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 4",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0,
+            "w": 0.9995,
+            "h": 0.663
+          },
+          "area": 0.6627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 60",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0,
+            "w": 0.9987,
+            "h": 0.663
+          },
+          "area": 0.6621,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1179,
+            "y": 0.1781,
+            "w": 0.7643,
+            "h": 0.4084
+          },
+          "area": 0.3121,
+          "text": "感谢各位领导专家 敬请批评指正!",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 119",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1635,
+            "y": 0.0746,
+            "w": 0.6727,
+            "h": 0.072
+          },
+          "area": 0.0484,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 118",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2399,
+            "y": 0.0769,
+            "w": 0.52,
+            "h": 0.0673
+          },
+          "area": 0.035,
+          "text": "基于忆阻器件的神经形态计算电路与系统研究",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 53",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2509,
+            "y": 0.7823,
+            "w": 0.4979,
+            "h": 0.0673
+          },
+          "area": 0.0335,
+          "text": "主要完成人:吴科研、张科研、赵科研",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 106",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3672,
+            "y": 0.6129,
+            "w": 0.2655,
+            "h": 0.0664
+          },
+          "area": 0.0176,
+          "text": "汇报人:科研答辩",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 48",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4546,
+            "y": 0.8264,
+            "w": 0.1893,
+            "h": 0.0449
+          },
+          "area": 0.0085,
+          "text": "科研物理化学研究所",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 43",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7916,
+            "y": 0.8264,
+            "w": 0.1683,
+            "h": 0.0449
+          },
+          "area": 0.0076,
+          "text": "科研集成电路学院",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 4
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 17,
+    "layout_job_counts": {
+      "matrix-grid": 6,
+      "research-question": 4,
+      "image-hero": 3,
+      "cover-statement": 1,
+      "limitations-future": 1,
+      "table": 1,
+      "duo-compare": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 9,
+      "image": 7,
+      "table": 1
+    },
+    "density_counts": {
+      "high": 10,
+      "medium-high": 7
+    },
+    "dominant_layout_jobs": [
+      "matrix-grid",
+      "research-question",
+      "image-hero",
+      "cover-statement",
+      "limitations-future"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "table"
+    ]
+  }
+}

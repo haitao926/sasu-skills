@@ -1,0 +1,4564 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:18.852051+00:00",
+  "template_id": "商务风格-10-静态-5a108208",
+  "template_profile_path": "assets/template-library/profiles/商务风格-10-静态-5a108208.json",
+  "source_template": {
+    "name": "商务风格(10)—静态.pptx",
+    "category": "商务风格（3套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/商务风格（3套）/商务风格(10)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 21,
+    "media_count": 19,
+    "image_media_count": 19,
+    "motion_hint": "static",
+    "tags": [
+      "商务汇报",
+      "公司介绍",
+      "项目沟通",
+      "封面",
+      "业务",
+      "方案",
+      "成果",
+      "合作",
+      "稳重",
+      "商务",
+      "整齐",
+      "专业",
+      "业务图",
+      "流程图",
+      "数据图",
+      "案例图",
+      "标题+要点",
+      "数据摘要",
+      "静态版",
+      "中高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "商务汇报",
+    "scenario": [
+      "商务汇报",
+      "公司介绍",
+      "项目沟通"
+    ],
+    "best_for": [
+      "企业汇报",
+      "业务介绍",
+      "项目沟通"
+    ],
+    "avoid": [
+      "儿童活动",
+      "强学术风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "业务介绍",
+      "方案",
+      "成果",
+      "合作"
+    ],
+    "visual": [
+      "稳重",
+      "商务",
+      "整齐",
+      "专业"
+    ],
+    "image_strategy": [
+      "业务图",
+      "流程图",
+      "数据图",
+      "案例图"
+    ],
+    "text_strategy": [
+      "标题+要点",
+      "数据摘要"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "claim-evidence",
+      "flow-diagram",
+      "matrix-grid",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "footer",
+      "label",
+      "body",
+      "image",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "top-left",
+      "bottom-center",
+      "middle-right",
+      "middle-center",
+      "middle-left",
+      "bottom-left"
+    ],
+    "template_text_signature": "蓝色商务 商业计划书 Contents 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据 项目介绍 项目介绍 项目介绍 项目介绍 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据 商业模式 商业模式 商业模式 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据 团队优势 01 团队优势 团队优势 单击此处输入你的正文,文字是",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "商务风格-10-静态-5a108208-s01",
+      "title_guess": "蓝色商务 商业计划书",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:4,middle-left:2,top-left:2",
+      "counts": {
+        "text": 7,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 21,
+        "text_count": 7,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.3129,
+        "image_area": 0.4647,
+        "shape_area": 0.3944,
+        "text_blob": "plan 蓝色商务 商业计划书 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 日期:X月X日 讲述人:某某某 Business Business plan",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4334,
+            "y": 0.1784,
+            "w": 0.5661,
+            "h": 0.8209
+          },
+          "area": 0.4647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "同侧圆角矩形 10",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6139,
+            "y": 0.1209,
+            "w": 0.3888,
+            "h": 0.8791
+          },
+          "area": 0.3418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 8",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.2791,
+            "w": 0.4501,
+            "h": 0.2938
+          },
+          "area": 0.1322,
+          "text": "蓝色商务 商业计划书",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8685,
+            "y": 0.1647,
+            "w": 0.0888,
+            "h": 0.7159
+          },
+          "area": 0.0636,
+          "text": "Business",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7893,
+            "y": 0.165,
+            "w": 0.0888,
+            "h": 0.6566
+          },
+          "area": 0.0583,
+          "text": "plan",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "同侧圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7436,
+            "y": 0.1581,
+            "w": 0.172,
+            "h": 0.3058
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.6927,
+            "w": 0.3688,
+            "h": 0.0941
+          },
+          "area": 0.0347,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 37",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.5861,
+            "w": 0.4144,
+            "h": 0.0581
+          },
+          "area": 0.0241,
+          "text": "Business plan",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0014,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0014,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "title": 1,
+          "body": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "商务风格-10-静态-5a108208-s02",
+      "title_guess": "Contents",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:4,top-left:2,bottom-left:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 21,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 8,
+        "text_area": 0.3165,
+        "image_area": 0,
+        "shape_area": 0.3672,
+        "text_blob": "Contents 目录 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 01. 项目介绍 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 02. 商业模式 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 03. 团队优势 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 04. 融资计划 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+        "title_like": 2,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.1733,
+            "w": 0.5265,
+            "h": 0.1928
+          },
+          "area": 0.1015,
+          "text": "Contents",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.4471,
+            "w": 0.2115,
+            "h": 0.4335
+          },
+          "area": 0.0917,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2838,
+            "y": 0.4471,
+            "w": 0.2115,
+            "h": 0.4335
+          },
+          "area": 0.0917,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5061,
+            "y": 0.4471,
+            "w": 0.2115,
+            "h": 0.4335
+          },
+          "area": 0.0917,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7285,
+            "y": 0.4471,
+            "w": 0.2115,
+            "h": 0.4335
+          },
+          "area": 0.0917,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5711,
+            "y": 0.226,
+            "w": 0.3688,
+            "h": 0.0941
+          },
+          "area": 0.0347,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0572,
+            "y": 0.1231,
+            "w": 0.1802,
+            "h": 0.1748
+          },
+          "area": 0.0315,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0819,
+            "y": 0.6301,
+            "w": 0.1689,
+            "h": 0.0761
+          },
+          "area": 0.0129,
+          "text": "项目介绍",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3041,
+            "y": 0.6301,
+            "w": 0.1689,
+            "h": 0.0761
+          },
+          "area": 0.0129,
+          "text": "商业模式",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5264,
+            "y": 0.6301,
+            "w": 0.1689,
+            "h": 0.0761
+          },
+          "area": 0.0129,
+          "text": "团队优势",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 2,
+          "body": 1,
+          "label": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "商务风格-10-静态-5a108208-s03",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,unknown:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0.2611,
+        "shape_area": 0.704,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 01 项目介绍",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0646,
+            "y": 0.1226,
+            "w": 0.8745,
+            "h": 0.7591
+          },
+          "area": 0.6638,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5582,
+            "y": 0.1962,
+            "w": 0.3815,
+            "h": 0.6844
+          },
+          "area": 0.2611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.8361,
+            "w": 0.8748,
+            "h": 0.0459
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0009,
+            "w": 0.0007,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "项目介绍",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 18",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 19",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0008,
+            "w": 0.0001,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "商务风格-10-静态-5a108208-s04",
+      "title_guess": "项目介绍",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:3,bottom-center:3,top-left:3",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 21,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.0152,
+        "image_area": 0.1554,
+        "shape_area": 0.187,
+        "text_blob": "项目介绍 01 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 关键字 关键字 关键字 关键字 添加小标题 添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "同侧圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.2625,
+            "w": 0.2286,
+            "h": 0.6263
+          },
+          "area": 0.1432,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 53",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6348,
+            "y": 0.5631,
+            "w": 0.2936,
+            "h": 0.2648
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 51",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.331,
+            "y": 0.5631,
+            "w": 0.2936,
+            "h": 0.2647
+          },
+          "area": 0.0777,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "同侧圆角矩形 55",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3313,
+            "y": 0.7835,
+            "w": 0.293,
+            "h": 0.0748
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "同侧圆角矩形 58",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6355,
+            "y": 0.7835,
+            "w": 0.293,
+            "h": 0.0748
+          },
+          "area": 0.0219,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 56",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4068,
+            "y": 0.7919,
+            "w": 0.1419,
+            "h": 0.0537
+          },
+          "area": 0.0076,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 59",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.711,
+            "y": 0.7919,
+            "w": 0.1419,
+            "h": 0.0537
+          },
+          "area": 0.0076,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "项目介绍",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "商务风格-10-静态-5a108208-s05",
+      "title_guess": "项目介绍",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 21,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.2274,
+        "image_area": 0.0,
+        "shape_area": 0.637,
+        "text_blob": "项目介绍 关键字 / 关键字 / 关键字 添加关键字 关键字 / 关键字 / 关键字 01 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加 标题 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加 标题 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加 标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0604,
+            "y": 0.4644,
+            "w": 0.5965,
+            "h": 0.1953
+          },
+          "area": 0.1165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4065,
+            "y": 0.4644,
+            "w": 0.5332,
+            "h": 0.1953
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 35",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4065,
+            "y": 0.6778,
+            "w": 0.5332,
+            "h": 0.1953
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4065,
+            "y": 0.2509,
+            "w": 0.5332,
+            "h": 0.1953
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0604,
+            "y": 0.2509,
+            "w": 0.5332,
+            "h": 0.1953
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 21",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0604,
+            "y": 0.6778,
+            "w": 0.5332,
+            "h": 0.1953
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2145,
+            "y": 0.2813,
+            "w": 0.3478,
+            "h": 0.1344
+          },
+          "area": 0.0467,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2145,
+            "y": 0.4947,
+            "w": 0.3478,
+            "h": 0.1344
+          },
+          "area": 0.0467,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2145,
+            "y": 0.7081,
+            "w": 0.3478,
+            "h": 0.1344
+          },
+          "area": 0.0467,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0819,
+            "y": 0.2612,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 6,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "商务风格-10-静态-5a108208-s06",
+      "title_guess": "项目介绍",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:6,top-right:2,middle-right:2",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 21,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 1,
+        "text_area": 0.0196,
+        "image_area": 0,
+        "shape_area": 0.0486,
+        "text_blob": "项目介绍 01 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加小标题 添加小标题 添加小标题 添加小标题 单击此处输入你的正文,文字是您思想的提炼 单击此处输入你的正文,文字是您思想的提炼",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 47",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6147,
+            "y": 0.2555,
+            "w": 0.3231,
+            "h": 0.0751
+          },
+          "area": 0.0243,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 48",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6147,
+            "y": 0.348,
+            "w": 0.3231,
+            "h": 0.0751
+          },
+          "area": 0.0243,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 50",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6393,
+            "y": 0.2714,
+            "w": 0.2738,
+            "h": 0.0357
+          },
+          "area": 0.0098,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 51",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6393,
+            "y": 0.3662,
+            "w": 0.2738,
+            "h": 0.0357
+          },
+          "area": 0.0098,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "项目介绍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0014,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": -0.0,
+            "w": 0.0,
+            "h": 0.0012
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "单击此处添加大标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 14
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "商务风格-10-静态-5a108208-s07",
+      "title_guess": "项目介绍",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:3,bottom-center:2,bottom-right:2",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 21,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2007,
+        "image_area": 0.2772,
+        "shape_area": 0.3447,
+        "text_blob": "项目介绍 01 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0604,
+            "y": 0.4989,
+            "w": 0.2824,
+            "h": 0.3813
+          },
+          "area": 0.1077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3593,
+            "y": 0.4989,
+            "w": 0.2824,
+            "h": 0.3813
+          },
+          "area": 0.1077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 15",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6582,
+            "y": 0.4989,
+            "w": 0.2824,
+            "h": 0.3813
+          },
+          "area": 0.1077,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 37",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6587,
+            "y": 0.2658,
+            "w": 0.2814,
+            "h": 0.3417
+          },
+          "area": 0.0962,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 40",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0619,
+            "y": 0.2658,
+            "w": 0.2817,
+            "h": 0.3398
+          },
+          "area": 0.0957,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3604,
+            "y": 0.2658,
+            "w": 0.2814,
+            "h": 0.3033
+          },
+          "area": 0.0853,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0848,
+            "y": 0.6286,
+            "w": 0.2336,
+            "h": 0.1707
+          },
+          "area": 0.0399,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3837,
+            "y": 0.6286,
+            "w": 0.2336,
+            "h": 0.1707
+          },
+          "area": 0.0399,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6826,
+            "y": 0.6286,
+            "w": 0.2336,
+            "h": 0.1707
+          },
+          "area": 0.0399,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1471,
+            "y": 0.7041,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 3,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "商务风格-10-静态-5a108208-s08",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,unknown:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0.2611,
+        "shape_area": 0.704,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 02 商业模式",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0646,
+            "y": 0.1226,
+            "w": 0.8745,
+            "h": 0.7591
+          },
+          "area": 0.6638,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5582,
+            "y": 0.1962,
+            "w": 0.3815,
+            "h": 0.6844
+          },
+          "area": 0.2611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.8361,
+            "w": 0.8748,
+            "h": 0.0459
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0009,
+            "w": 0.0007,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "商业模式",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 18",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 19",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0008,
+            "w": 0.0001,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "商务风格-10-静态-5a108208-s09",
+      "title_guess": "商业模式",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:4,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 21,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.2869,
+        "image_area": 0,
+        "shape_area": 0.3924,
+        "text_blob": "商业模式 02 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题",
+        "title_like": 0,
+        "body_like": 5
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 43",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0621,
+            "y": 0.4574,
+            "w": 0.2093,
+            "h": 0.424
+          },
+          "area": 0.0887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 46",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2843,
+            "y": 0.4574,
+            "w": 0.2093,
+            "h": 0.424
+          },
+          "area": 0.0887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 53",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5065,
+            "y": 0.4574,
+            "w": 0.2093,
+            "h": 0.424
+          },
+          "area": 0.0887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 60",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7287,
+            "y": 0.4574,
+            "w": 0.2093,
+            "h": 0.424
+          },
+          "area": 0.0887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1628,
+            "y": 0.2765,
+            "w": 0.6708,
+            "h": 0.1107
+          },
+          "area": 0.0743,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0892,
+            "y": 0.6123,
+            "w": 0.1552,
+            "h": 0.2246
+          },
+          "area": 0.0349,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 50",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3114,
+            "y": 0.6123,
+            "w": 0.1552,
+            "h": 0.2246
+          },
+          "area": 0.0349,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 57",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5335,
+            "y": 0.6123,
+            "w": 0.1552,
+            "h": 0.2246
+          },
+          "area": 0.0349,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 64",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7557,
+            "y": 0.6123,
+            "w": 0.1552,
+            "h": 0.2246
+          },
+          "area": 0.0349,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果 请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3329,
+            "y": 0.2094,
+            "w": 0.3306,
+            "h": 0.0671
+          },
+          "area": 0.0222,
+          "text": "单击此处添加大标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10,
+          "label": 1,
+          "body": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "商务风格-10-静态-5a108208-s10",
+      "title_guess": "商业模式",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:4,bottom-center:3,middle-center:1",
+      "counts": {
+        "text": 9,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 21,
+        "text_count": 9,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1581,
+        "image_area": 0.1837,
+        "shape_area": 0.1043,
+        "text_blob": "商业模式 02 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 关键字 关键字 关键字 商业模式 Business model",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0614,
+            "y": 0.3409,
+            "w": 0.5654,
+            "h": 0.1774
+          },
+          "area": 0.1003,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "图片 25",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.5558,
+            "w": 0.2844,
+            "h": 0.3232
+          },
+          "area": 0.0919,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3586,
+            "y": 0.5558,
+            "w": 0.2844,
+            "h": 0.3232
+          },
+          "area": 0.0919,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 24",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6559,
+            "y": 0.5558,
+            "w": 0.2844,
+            "h": 0.3227
+          },
+          "area": 0.0918,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.2562,
+            "w": 0.3306,
+            "h": 0.0761
+          },
+          "area": 0.0252,
+          "text": "单击此处添加大标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.386,
+            "y": 0.6396,
+            "w": 0.2296,
+            "h": 0.1031
+          },
+          "area": 0.0237,
+          "text": "商业模式",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2652,
+            "y": -0.0598,
+            "w": 0.0164,
+            "h": 0.7534
+          },
+          "area": 0.0124,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 38",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3756,
+            "y": 0.7469,
+            "w": 0.2505,
+            "h": 0.0357
+          },
+          "area": 0.0089,
+          "text": "Business model",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 2,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "商务风格-10-静态-5a108208-s11",
+      "title_guess": "商业模式",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:10",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 7,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 21,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "商业模式 02 添加 标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 10% 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 23% 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息 9% 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息 59% 添加标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 42",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 44",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.001,
+            "w": 0.0,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 38",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 39",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.001,
+            "w": 0.0,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "商业模式",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0014,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图表 10",
+          "role": "chart",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0006,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 43",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0006,
+            "w": 0.0003,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 15
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "商务风格-10-静态-5a108208-s12",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,unknown:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0.2611,
+        "shape_area": 0.704,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 03 团队优势",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0646,
+            "y": 0.1226,
+            "w": 0.8745,
+            "h": 0.7591
+          },
+          "area": 0.6638,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5582,
+            "y": 0.1962,
+            "w": 0.3815,
+            "h": 0.6844
+          },
+          "area": 0.2611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.8361,
+            "w": 0.8748,
+            "h": 0.0459
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0009,
+            "w": 0.0007,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "团队优势",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 18",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 19",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0008,
+            "w": 0.0001,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "商务风格-10-静态-5a108208-s13",
+      "title_guess": "团队优势",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,middle-center:3,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 21,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 1,
+        "text_area": 0.0,
+        "image_area": 0.1703,
+        "shape_area": 0.4173,
+        "text_blob": "团队优势 03 单击此处 添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 01 02 03",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "同侧圆角矩形 30",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.394,
+            "y": 0.1919,
+            "w": 0.3053,
+            "h": 0.7275
+          },
+          "area": 0.2221,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "同侧圆角矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4065,
+            "y": 0.212,
+            "w": 0.2802,
+            "h": 0.6677
+          },
+          "area": 0.1871,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 28",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4203,
+            "y": 0.2311,
+            "w": 0.2215,
+            "h": 0.7689
+          },
+          "area": 0.1703,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.2723,
+            "w": 0.0118,
+            "h": 0.3675
+          },
+          "area": 0.0043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 31",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1429,
+            "y": 0.2201,
+            "w": 0.0118,
+            "h": 0.3202
+          },
+          "area": 0.0038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "团队优势",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0014,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处 添加大标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "商务风格-10-静态-5a108208-s14",
+      "title_guess": "01",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:4,middle-center:3,bottom-left:1",
+      "counts": {
+        "text": 16,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 21,
+        "text_count": 16,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1443,
+        "image_area": 0.1536,
+        "shape_area": 0.0099,
+        "text_blob": "01 02 03 04 团队优势 03 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 关键字 关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 关键字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.4834,
+            "w": 0.4097,
+            "h": 0.3749
+          },
+          "area": 0.1536,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0587,
+            "y": 0.3243,
+            "w": 0.4124,
+            "h": 0.1107
+          },
+          "area": 0.0457,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0587,
+            "y": 0.2622,
+            "w": 0.3306,
+            "h": 0.0671
+          },
+          "area": 0.0222,
+          "text": "单击此处添加大标题",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 50",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5666,
+            "y": 0.2625,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 51",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5666,
+            "y": 0.4104,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 52",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5666,
+            "y": 0.5582,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 53",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5666,
+            "y": 0.7061,
+            "w": 0.109,
+            "h": 0.1748
+          },
+          "area": 0.0191,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 60",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2346,
+            "y": -0.0128,
+            "w": 0.0152,
+            "h": 0.6521
+          },
+          "area": 0.0099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 10,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "商务风格-10-静态-5a108208-s15",
+      "title_guess": "团队优势",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:4,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 21,
+        "text_count": 10,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1256,
+        "image_area": 0.3723,
+        "shape_area": 0.2232,
+        "text_blob": "团队优势 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 代用名 代用名 代用名 代用名",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 56",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4472,
+            "y": 0.2535,
+            "w": 0.3059,
+            "h": 0.3419
+          },
+          "area": 0.1046,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 58",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7112,
+            "y": 0.1956,
+            "w": 0.2445,
+            "h": 0.4112
+          },
+          "area": 0.1005,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 55",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2792,
+            "y": 0.221,
+            "w": 0.2178,
+            "h": 0.3944
+          },
+          "area": 0.0859,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图片 57",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0748,
+            "y": 0.27,
+            "w": 0.2126,
+            "h": 0.3824
+          },
+          "area": 0.0813,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0887,
+            "y": 0.2925,
+            "w": 0.1772,
+            "h": 0.315
+          },
+          "area": 0.0558,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3064,
+            "y": 0.2925,
+            "w": 0.1772,
+            "h": 0.315
+          },
+          "area": 0.0558,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 40",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5241,
+            "y": 0.2925,
+            "w": 0.1772,
+            "h": 0.315
+          },
+          "area": 0.0558,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7418,
+            "y": 0.2925,
+            "w": 0.1772,
+            "h": 0.315
+          },
+          "area": 0.0558,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 49",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0793,
+            "y": 0.6918,
+            "w": 0.1727,
+            "h": 0.1816
+          },
+          "area": 0.0314,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 50",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3002,
+            "y": 0.6918,
+            "w": 0.1727,
+            "h": 0.1816
+          },
+          "area": 0.0314,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "body": 4
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "商务风格-10-静态-5a108208-s16",
+      "title_guess": "团队优势",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:3,bottom-left:3,middle-right:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 21,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1892,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "团队优势 03 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 01. 02. 03. 04. 添加 标题",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0587,
+            "y": 0.3953,
+            "w": 0.2195,
+            "h": 0.148
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0587,
+            "y": 0.7147,
+            "w": 0.2195,
+            "h": 0.148
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7213,
+            "y": 0.3953,
+            "w": 0.2195,
+            "h": 0.148
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7213,
+            "y": 0.7147,
+            "w": 0.2195,
+            "h": 0.148
+          },
+          "area": 0.0325,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 19",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1514,
+            "y": 0.3352,
+            "w": 0.1269,
+            "h": 0.0581
+          },
+          "area": 0.0074,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1514,
+            "y": 0.6546,
+            "w": 0.1269,
+            "h": 0.0581
+          },
+          "area": 0.0074,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7213,
+            "y": 0.3352,
+            "w": 0.1269,
+            "h": 0.0581
+          },
+          "area": 0.0074,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 35",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7213,
+            "y": 0.6546,
+            "w": 0.1269,
+            "h": 0.0581
+          },
+          "area": 0.0074,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 42",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1063,
+            "y": 0.3126,
+            "w": 0.079,
+            "h": 0.0941
+          },
+          "area": 0.0074,
+          "text": "01.",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 43",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1063,
+            "y": 0.6312,
+            "w": 0.079,
+            "h": 0.0941
+          },
+          "area": 0.0074,
+          "text": "02.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 4,
+          "label": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "商务风格-10-静态-5a108208-s17",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:5,unknown:2,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 21,
+        "text_count": 3,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 2,
+        "text_area": 0.0,
+        "image_area": 0.2611,
+        "shape_area": 0.704,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 04 融资计划",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0646,
+            "y": 0.1226,
+            "w": 0.8745,
+            "h": 0.7591
+          },
+          "area": 0.6638,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5582,
+            "y": 0.1962,
+            "w": 0.3815,
+            "h": 0.6844
+          },
+          "area": 0.2611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0644,
+            "y": 0.8361,
+            "w": 0.8748,
+            "h": 0.0459
+          },
+          "area": 0.0402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 16",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0009,
+            "w": 0.0007,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0007,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "融资计划",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 18",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 19",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0008,
+            "w": 0.0001,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "商务风格-10-静态-5a108208-s18",
+      "title_guess": "融资计划",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:7,middle-center:1,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 21,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.0601,
+        "image_area": 0.1091,
+        "shape_area": 0.1145,
+        "text_blob": "融资计划 04 Business plan 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 A 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加副标题 B 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加副标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0587,
+            "y": 0.4361,
+            "w": 0.8811,
+            "h": 0.13
+          },
+          "area": 0.1145,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6462,
+            "y": 0.1954,
+            "w": 0.2937,
+            "h": 0.3713
+          },
+          "area": 0.1091,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 49",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0771,
+            "y": 0.4345,
+            "w": 0.4838,
+            "h": 0.1242
+          },
+          "area": 0.0601,
+          "text": "Business plan",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "融资计划",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0014,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": -0.0,
+            "w": 0.0,
+            "h": 0.0012
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "单击此处添加大标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0006,
+            "w": 0.0009,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 10,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "商务风格-10-静态-5a108208-s19",
+      "title_guess": "融资计划",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "bottom-center:3,bottom-right:2,bottom-left:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 21,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.2309,
+        "image_area": 0.1872,
+        "shape_area": 0.1984,
+        "text_blob": "融资计划 04 融资 计划 4700万 ( 添加副标题 ) 3500万 ( 添加副标题 ) 单击此处添加大标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果, 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0614,
+            "y": 0.2448,
+            "w": 0.2935,
+            "h": 0.6379
+          },
+          "area": 0.1872,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4037,
+            "y": 0.3644,
+            "w": 0.5474,
+            "h": 0.1774
+          },
+          "area": 0.0971,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4037,
+            "y": 0.6027,
+            "w": 0.259,
+            "h": 0.28
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 17",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6802,
+            "y": 0.6027,
+            "w": 0.259,
+            "h": 0.28
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 1",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2348,
+            "y": 0.6027,
+            "w": 0.1466,
+            "h": 0.28
+          },
+          "area": 0.041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4037,
+            "y": 0.263,
+            "w": 0.3306,
+            "h": 0.0761
+          },
+          "area": 0.0252,
+          "text": "单击此处添加大标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 13",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4351,
+            "y": 0.6277,
+            "w": 0.1962,
+            "h": 0.0941
+          },
+          "area": 0.0185,
+          "text": "4700万",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7116,
+            "y": 0.6277,
+            "w": 0.1962,
+            "h": 0.0941
+          },
+          "area": 0.0185,
+          "text": "3500万",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2495,
+            "y": 0.6626,
+            "w": 0.1171,
+            "h": 0.1569
+          },
+          "area": 0.0184,
+          "text": "融资 计划",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 30",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4228,
+            "y": 0.7551,
+            "w": 0.2209,
+            "h": 0.0806
+          },
+          "area": 0.0178,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 6,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "商务风格-10-静态-5a108208-s20",
+      "title_guess": "融资计划",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-left:2,bottom-left:2",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 21,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.0896,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "融资计划 04 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。 添加标题",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 1",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.449,
+            "y": 0.2935,
+            "w": 0.4919,
+            "h": 0.5827
+          },
+          "area": 0.2866,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 32",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0985,
+            "y": 0.4092,
+            "w": 0.2845,
+            "h": 0.1215
+          },
+          "area": 0.0346,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0985,
+            "y": 0.6987,
+            "w": 0.2845,
+            "h": 0.1215
+          },
+          "area": 0.0346,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0985,
+            "y": 0.35,
+            "w": 0.1645,
+            "h": 0.0619
+          },
+          "area": 0.0102,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0985,
+            "y": 0.6395,
+            "w": 0.1645,
+            "h": 0.0619
+          },
+          "area": 0.0102,
+          "text": "添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0001,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "融资计划",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 7",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0014,
+            "y": 0.0001,
+            "w": 0.0001,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 43",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0004,
+            "w": 0.0006,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 2,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "商务风格-10-静态-5a108208-s21",
+      "title_guess": "plan",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:4,middle-left:2,top-right:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 21,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.3306,
+        "image_area": 0.4647,
+        "shape_area": 0.3944,
+        "text_blob": "plan 演讲结束 感谢您观看 单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 日期:X月X日 讲述人:某某某 Business https://www.docer.com Business plan",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 11",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4334,
+            "y": 0.1784,
+            "w": 0.5661,
+            "h": 0.8209
+          },
+          "area": 0.4647,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "同侧圆角矩形 10",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6139,
+            "y": 0.1209,
+            "w": 0.3888,
+            "h": 0.8791
+          },
+          "area": 0.3418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 8",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.2658,
+            "w": 0.4501,
+            "h": 0.3106
+          },
+          "area": 0.1398,
+          "text": "演讲结束 感谢您观看",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8685,
+            "y": 0.165,
+            "w": 0.0888,
+            "h": 0.7571
+          },
+          "area": 0.0672,
+          "text": "Business",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7893,
+            "y": 0.165,
+            "w": 0.0888,
+            "h": 0.6566
+          },
+          "area": 0.0583,
+          "text": "plan",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "同侧圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7436,
+            "y": 0.1581,
+            "w": 0.172,
+            "h": 0.3058
+          },
+          "area": 0.0526,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.6927,
+            "w": 0.3688,
+            "h": 0.0941
+          },
+          "area": 0.0347,
+          "text": "单击此处输入你的正文,文字是您思想的提炼 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 37",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0498,
+            "y": 0.5861,
+            "w": 0.4144,
+            "h": 0.0581
+          },
+          "area": 0.0241,
+          "text": "Business plan",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 31",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7856,
+            "y": 0.8769,
+            "w": 0.1614,
+            "h": 0.0402
+          },
+          "area": 0.0065,
+          "text": "https://www.docer.com",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0014,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "body": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "业务介绍",
+        "方案",
+        "成果",
+        "合作"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "强学术风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 21,
+    "layout_job_counts": {
+      "two-column": 6,
+      "claim-evidence": 4,
+      "flow-diagram": 4,
+      "matrix-grid": 2,
+      "kpi-grid": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 13,
+      "image": 4,
+      "mixed": 2,
+      "chart": 2
+    },
+    "density_counts": {
+      "medium-high": 13,
+      "medium": 5,
+      "high": 3
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "claim-evidence",
+      "flow-diagram",
+      "matrix-grid",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ]
+  }
+}

@@ -1,0 +1,6402 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:23.621518+00:00",
+  "template_id": "年终总结-20-动态-d3bc9c35",
+  "template_profile_path": "assets/template-library/profiles/年终总结-20-动态-d3bc9c35.json",
+  "source_template": {
+    "name": "年终总结(20)—动态.pptx",
+    "category": "年终总结（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年终总结（5套）/年终总结(20)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 30,
+    "media_count": 43,
+    "image_media_count": 37,
+    "motion_hint": "dynamic",
+    "tags": [
+      "年度总结",
+      "年终总结",
+      "年度复盘",
+      "成果盘点",
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划",
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰",
+      "图表",
+      "成果图",
+      "事件时间线",
+      "总结句",
+      "要点列表",
+      "数据块",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "年度总结",
+    "scenario": [
+      "年终总结",
+      "年度复盘",
+      "成果盘点"
+    ],
+    "best_for": [
+      "年终述职",
+      "年度复盘",
+      "部门总结"
+    ],
+    "avoid": [
+      "活动庆典",
+      "课堂教学风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "回顾",
+      "成果",
+      "问题",
+      "计划"
+    ],
+    "visual": [
+      "稳重",
+      "年度感",
+      "总结型",
+      "清晰"
+    ],
+    "image_strategy": [
+      "图表",
+      "成果图",
+      "事件时间线"
+    ],
+    "text_strategy": [
+      "总结句",
+      "要点列表",
+      "数据块"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "duo-compare",
+      "process-strip",
+      "research-question",
+      "table"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "footer",
+      "body",
+      "diagram-block",
+      "image"
+    ],
+    "common_zones": [
+      "middle-left",
+      "middle-center",
+      "bottom-left",
+      "bottom-right",
+      "bottom-center",
+      "middle-right"
+    ],
+    "template_text_signature": "年终工作总结 人力资源配置管理 LOGO Human resources year-end work summary plan Human resources year-end work summary plan Human resources year-end work summary plan Human resources year-end work summary plan Human resources year-end work summary plan Huma",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s01",
+      "title_guess": "年终工作总结",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:3,bottom-right:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 5,
+        "text_area": 0.2792,
+        "image_area": 1.086,
+        "shape_area": 0.1093,
+        "text_blob": "年终工作总结 HUMAN RESOURCES 人力资源部 LOGO 企业名称 整合 细节 服务 HUMAN RESOURCES YEAR-END REVIEW 以人为本核心 创新卓越华杰",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 5",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0019,
+            "h": 1.0
+          },
+          "area": 1.0019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 20",
+          "role": "title",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.6264,
+            "w": 0.4577,
+            "h": 0.2558
+          },
+          "area": 0.1171,
+          "text": "HUMAN RESOURCES",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "图片 95",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4159,
+            "y": 0.7582,
+            "w": 0.5831,
+            "h": 0.1443
+          },
+          "area": 0.0841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 19",
+          "role": "title",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0458,
+            "y": 0.3182,
+            "w": 0.4695,
+            "h": 0.175
+          },
+          "area": 0.0822,
+          "text": "年终工作总结",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 59",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3567,
+            "y": 0.9014,
+            "w": 0.6452,
+            "h": 0.0986
+          },
+          "area": 0.0636,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 21",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0502,
+            "y": 0.1959,
+            "w": 0.2895,
+            "h": 0.1212
+          },
+          "area": 0.0351,
+          "text": "人力资源部",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 58",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.9014,
+            "w": 0.3556,
+            "h": 0.0986
+          },
+          "area": 0.0351,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0553,
+            "y": 0.4911,
+            "w": 0.3484,
+            "h": 0.0529
+          },
+          "area": 0.0184,
+          "text": "HUMAN RESOURCES YEAR-END REVIEW",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 64",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0517,
+            "y": 0.7302,
+            "w": 0.2466,
+            "h": 0.0404
+          },
+          "area": 0.01,
+          "text": "以人为本核心 创新卓越华杰",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 38",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 2,
+          "label": 1,
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s02",
+      "title_guess": "人力资源配置管理",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:4,bottom-right:3,bottom-center:2",
+      "counts": {
+        "text": 15,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 59,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 59,
+        "connector_count": 3,
+        "text_area": 0.1295,
+        "image_area": 1.0,
+        "shape_area": 0.6476,
+        "text_blob": "人力资源配置管理 01 明年工作计划 05 存在的主要问题 04 人力资源工作亮点 03 主要工作完成情况 02 LOGO 企业名称 整合 细节 服务",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 17",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 164",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3581,
+            "y": 0.2333,
+            "w": 0.2838,
+            "h": 0.5333
+          },
+          "area": 0.1514,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 151",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.35,
+            "y": 0.2751,
+            "w": 0.3,
+            "h": 0.4498
+          },
+          "area": 0.1349,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0694,
+            "y": 0.472,
+            "w": 0.1561,
+            "h": 0.368
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 124",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7913,
+            "y": 0.5289,
+            "w": 0.1561,
+            "h": 0.368
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.619,
+            "y": 0.5289,
+            "w": 0.1561,
+            "h": 0.368
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 104",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4423,
+            "y": 0.5289,
+            "w": 0.1561,
+            "h": 0.368
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 94",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2577,
+            "y": 0.5289,
+            "w": 0.1561,
+            "h": 0.368
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 157",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.492,
+            "y": 0.5526,
+            "w": 0.1337,
+            "h": 0.1317
+          },
+          "area": 0.0176,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 300",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6278,
+            "y": 0.7488,
+            "w": 0.1384,
+            "h": 0.1212
+          },
+          "area": 0.0168,
+          "text": "存在的主要问题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s03",
+      "title_guess": "LOGO",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.2834,
+        "image_area": 1.2714,
+        "shape_area": 0.0018,
+        "text_blob": "LOGO 企业名称 整合 细节 服务 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam 人力资源配置管理 01",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4169,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.2111,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0237,
+            "y": 0.3291,
+            "w": 0.9288,
+            "h": 0.2235
+          },
+          "area": 0.2076,
+          "text": "人力资源配置管理",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2649,
+            "y": 0.5377,
+            "w": 0.4464,
+            "h": 0.0942
+          },
+          "area": 0.0421,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4387,
+            "y": 0.1632,
+            "w": 0.0988,
+            "h": 0.1756
+          },
+          "area": 0.0173,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 47",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7658,
+            "y": 0.0476,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.178,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "整合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2405,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "细节",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3031,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s04",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:3,middle-right:3",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 30,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 2,
+        "text_area": 0.3321,
+        "image_area": 0,
+        "shape_area": 0.5862,
+        "text_blob": "Human resources year-end work summary plan 招聘渠道比较 1 2 3 网络招聘 现场招聘 内部介绍 Network Recruitment The Recruitment Internal Introduction 公司现有在岗人员主要分为 三种途径",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0877,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.694,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0877,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3908,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 45",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.694,
+            "y": 0.3954,
+            "w": 0.2183,
+            "h": 0.4476
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1207,
+            "y": 0.4009,
+            "w": 0.1508,
+            "h": 0.46
+          },
+          "area": 0.0694,
+          "text": "1",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4246,
+            "y": 0.4009,
+            "w": 0.1508,
+            "h": 0.46
+          },
+          "area": 0.0694,
+          "text": "2",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7243,
+            "y": 0.4009,
+            "w": 0.1508,
+            "h": 0.46
+          },
+          "area": 0.0694,
+          "text": "3",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 1",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3749,
+            "y": 0.1599,
+            "w": 0.2676,
+            "h": 0.1666
+          },
+          "area": 0.0446,
+          "text": "公司现有在岗人员主要分为 三种途径",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s05",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:4,middle-right:3,bottom-center:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 30,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 6,
+        "text_area": 0.2926,
+        "image_area": 0,
+        "shape_area": 0.7643,
+        "text_blob": "Human resources year-end work summary plan 各部门入职及离职总人数 入职 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 离职",
+        "title_like": 0,
+        "body_like": 8
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7141,
+            "w": 1.0,
+            "h": 0.2859
+          },
+          "area": 0.2859,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 18",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0718,
+            "y": 0.2945,
+            "w": 0.3915,
+            "h": 0.5855
+          },
+          "area": 0.2292,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 23",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5319,
+            "y": 0.2945,
+            "w": 0.3915,
+            "h": 0.5855
+          },
+          "area": 0.2292,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1052,
+            "y": 0.341,
+            "w": 0.3248,
+            "h": 0.0889
+          },
+          "area": 0.0289,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1052,
+            "y": 0.7566,
+            "w": 0.3248,
+            "h": 0.0889
+          },
+          "area": 0.0289,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5653,
+            "y": 0.341,
+            "w": 0.3248,
+            "h": 0.0889
+          },
+          "area": 0.0289,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 22",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5653,
+            "y": 0.7566,
+            "w": 0.3248,
+            "h": 0.0889
+          },
+          "area": 0.0289,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 16",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1052,
+            "y": 0.4924,
+            "w": 0.3248,
+            "h": 0.0857
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 17",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1052,
+            "y": 0.6043,
+            "w": 0.3248,
+            "h": 0.0857
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 20",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5653,
+            "y": 0.4924,
+            "w": 0.3248,
+            "h": 0.0857
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 3,
+          "body": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s06",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:3,middle-right:2,top-center:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 1,
+        "text_area": 0.1572,
+        "image_area": 0,
+        "shape_area": 0.7817,
+        "text_blob": "Human resources year-end work summary plan 各部门入职及离职总人数 部门入职情况 部门离职情况 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 特点 适用",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 17",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.3458,
+            "w": 0.8565,
+            "h": 0.5738
+          },
+          "area": 0.4915,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5577,
+            "y": 0.2216,
+            "w": 0.3497,
+            "h": 0.4148
+          },
+          "area": 0.1451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1944,
+            "y": 0.2216,
+            "w": 0.3497,
+            "h": 0.4148
+          },
+          "area": 0.1451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 7",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.3402,
+            "h": 0.0726
+          },
+          "area": 0.0247,
+          "text": "各部门入职及离职总人数",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 46",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2436,
+            "y": 0.4277,
+            "w": 0.2512,
+            "h": 0.0912
+          },
+          "area": 0.0229,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 47",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2436,
+            "y": 0.7346,
+            "w": 0.2512,
+            "h": 0.0912
+          },
+          "area": 0.0229,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 48",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6069,
+            "y": 0.4277,
+            "w": 0.2512,
+            "h": 0.0912
+          },
+          "area": 0.0229,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 49",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6069,
+            "y": 0.7346,
+            "w": 0.2512,
+            "h": 0.0912
+          },
+          "area": 0.0229,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 43",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2923,
+            "y": 0.2482,
+            "w": 0.177,
+            "h": 0.0673
+          },
+          "area": 0.0119,
+          "text": "部门入职情况",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 44",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6557,
+            "y": 0.2482,
+            "w": 0.177,
+            "h": 0.0673
+          },
+          "area": 0.0119,
+          "text": "部门离职情况",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s07",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:1,top-left:1,top-center:1",
+      "counts": {
+        "text": 2,
+        "image": 0,
+        "chart": 0,
+        "table": 1,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 30,
+        "text_count": 2,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.0258,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "Human resources year-end work summary plan 周边招聘市场比较",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 37",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0839,
+            "y": 0.2483,
+            "w": 0.83,
+            "h": 0.602
+          },
+          "area": 0.4997,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 5",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "周边招聘市场比较",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3923,
+            "y": 0.1009,
+            "w": 0.277,
+            "h": 0.0314
+          },
+          "area": 0.0087,
+          "text": "Human resources year-end work summary plan",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s08",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:3,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 15,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 8,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 2,
+        "text_area": 0.1847,
+        "image_area": 0,
+        "shape_area": 0.8605,
+        "text_blob": "Human resources year-end work summary plan 人力资源各项指标统计 2024年人力资源 各项指标统计 学历结构 64% 岗位晋升 27% 老员工 6% 新入职 3% 病假 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 人员类别结构 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 8",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4625,
+            "y": 0.1877,
+            "w": 0.4686,
+            "h": 0.7164
+          },
+          "area": 0.3357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6698,
+            "y": 0.0,
+            "w": 0.3302,
+            "h": 1.0
+          },
+          "area": 0.3302,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5491,
+            "y": 0.4943,
+            "w": 0.3176,
+            "h": 0.3764
+          },
+          "area": 0.1195,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2657,
+            "w": 0.4211,
+            "h": 0.2307
+          },
+          "area": 0.0971,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.6143,
+            "w": 0.4211,
+            "h": 0.2307
+          },
+          "area": 0.0971,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5093,
+            "y": 0.2595,
+            "w": 0.3739,
+            "h": 0.1032
+          },
+          "area": 0.0386,
+          "text": "2024年人力资源 各项指标统计",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 39",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0881,
+            "y": 0.7063,
+            "w": 0.3465,
+            "h": 0.0857
+          },
+          "area": 0.0297,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 35",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0881,
+            "y": 0.3683,
+            "w": 0.3262,
+            "h": 0.0889
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 6",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2671,
+            "h": 0.0726
+          },
+          "area": 0.0194,
+          "text": "人力资源各项指标统计",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 38",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0881,
+            "y": 0.6437,
+            "w": 0.2292,
+            "h": 0.0673
+          },
+          "area": 0.0154,
+          "text": "人员类别结构",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 4,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s09",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,middle-left:2,top-left:2",
+      "counts": {
+        "text": 23,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 30,
+        "text_count": 23,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 3,
+        "text_area": 0.1348,
+        "image_area": 0,
+        "shape_area": 0.3259,
+        "text_blob": "Human resources year-end work summary plan 公司员工培训情况 公司员工培训次数总人数 培训周期总课时 一月 二月 三月 四月 五月 62.5% 37.4% 16.2% 12.0% 11.5% 职场技巧 销售能力 沟通技巧 员工培训情况 30% 员工培训情况 20% ≈78人 ≈76人",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 47",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0792,
+            "y": 0.3917,
+            "w": 0.1829,
+            "h": 0.3252
+          },
+          "area": 0.0595,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 49",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0794,
+            "y": 0.3917,
+            "w": 0.1829,
+            "h": 0.3252
+          },
+          "area": 0.0595,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 51",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3158,
+            "y": 0.3917,
+            "w": 0.1829,
+            "h": 0.3252
+          },
+          "area": 0.0595,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 52",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.316,
+            "y": 0.3917,
+            "w": 0.1829,
+            "h": 0.3252
+          },
+          "area": 0.0595,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5427,
+            "y": 0.3792,
+            "w": 0.069,
+            "h": 0.3573
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 13",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "公司员工培训情况",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2404,
+            "w": 0.2466,
+            "h": 0.0583
+          },
+          "area": 0.0144,
+          "text": "公司员工培训次数总人数",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.6236,
+            "y": 0.5354,
+            "w": 0.069,
+            "h": 0.2011
+          },
+          "area": 0.0139,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 127",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0586,
+            "y": 0.7837,
+            "w": 0.1492,
+            "h": 0.07
+          },
+          "area": 0.0104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 131",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3453,
+            "y": 0.7837,
+            "w": 0.1492,
+            "h": 0.07
+          },
+          "area": 0.0104,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 20,
+          "label": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s10",
+      "title_guess": "LOGO",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.2644,
+        "image_area": 1.2714,
+        "shape_area": 0.0018,
+        "text_blob": "LOGO 企业名称 整合 细节 服务 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam 主要工作完成情况 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4169,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.2111,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0237,
+            "y": 0.3291,
+            "w": 0.9288,
+            "h": 0.2031
+          },
+          "area": 0.1886,
+          "text": "主要工作完成情况",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2649,
+            "y": 0.5377,
+            "w": 0.4464,
+            "h": 0.0942
+          },
+          "area": 0.0421,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4387,
+            "y": 0.1632,
+            "w": 0.0988,
+            "h": 0.1756
+          },
+          "area": 0.0173,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 47",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7658,
+            "y": 0.0476,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.178,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "整合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2405,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "细节",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3031,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s11",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,bottom-center:2,top-center:1",
+      "counts": {
+        "text": 9,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 30,
+        "text_count": 9,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 3,
+        "text_area": 0.1386,
+        "image_area": 0.0198,
+        "shape_area": 0.9939,
+        "text_blob": "Human resources year-end work summary plan 招聘工作 员工介绍 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 信息收集 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 人员招聘 招聘 工作",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 990",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2834,
+            "y": 0.2016,
+            "w": 0.4331,
+            "h": 0.7613
+          },
+          "area": 0.3297,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.3134,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 20",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 28",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4411,
+            "y": 0.1756,
+            "w": 0.1178,
+            "h": 0.2094
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 29",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2881,
+            "y": 0.6274,
+            "w": 0.1178,
+            "h": 0.2094
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 31",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5941,
+            "y": 0.6274,
+            "w": 0.1178,
+            "h": 0.2094
+          },
+          "area": 0.0247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 41",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7135,
+            "y": 0.2366,
+            "w": 0.2013,
+            "h": 0.1171
+          },
+          "area": 0.0236,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4252,
+            "y": 0.5037,
+            "w": 0.1496,
+            "h": 0.1571
+          },
+          "area": 0.0235,
+          "text": "招聘 工作",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 8
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s12",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-left:1,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 28,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 28,
+        "connector_count": 8,
+        "text_area": 0.1048,
+        "image_area": 0.0234,
+        "shape_area": 0.9211,
+        "text_blob": "Human resources year-end work summary plan 人事管理 签订、整理劳动合同 梳理员工档案、分类管理 专业技术资格考试 提供各项人力数据及材料 健康证年检 组织初、中、高级职称申报",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.3134,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 17",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "弧形 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3649,
+            "y": 0.2828,
+            "w": 0.2703,
+            "h": 0.4804
+          },
+          "area": 0.1299,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 22",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2057,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.4515,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 24",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.6974,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 58",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7084,
+            "y": 0.2057,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 62",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7084,
+            "y": 0.4515,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 66",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7084,
+            "y": 0.6974,
+            "w": 0.2227,
+            "h": 0.2041
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 3,
+          "label": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s13",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-center:1,middle-right:1",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 15,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 15,
+        "connector_count": 6,
+        "text_area": 0.2716,
+        "image_area": 0.0144,
+        "shape_area": 1.2702,
+        "text_blob": "Human resources year-end work summary plan 培训管理 助理级以上管理干部 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 助理以上管理干部 生产人员 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.0205,
+            "w": 0.2756,
+            "h": 0.9042
+          },
+          "area": 0.2492,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 9",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3636,
+            "y": 0.0205,
+            "w": 0.2756,
+            "h": 0.9042
+          },
+          "area": 0.2492,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 10",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6555,
+            "y": 0.0205,
+            "w": 0.2756,
+            "h": 0.9042
+          },
+          "area": 0.2492,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3873,
+            "y": 0.6056,
+            "w": 0.226,
+            "h": 0.3218
+          },
+          "area": 0.0727,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6829,
+            "y": 0.6056,
+            "w": 0.2209,
+            "h": 0.3178
+          },
+          "area": 0.0702,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 30",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1014,
+            "y": 0.6056,
+            "w": 0.2162,
+            "h": 0.3178
+          },
+          "area": 0.0687,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1655,
+            "y": 0.2276,
+            "w": 0.1795,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 53",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1655,
+            "y": 0.2276,
+            "w": 0.1795,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 63",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1655,
+            "y": 0.2276,
+            "w": 0.1795,
+            "h": 0.3193
+          },
+          "area": 0.0573,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "任意多边形: 形状 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1679,
+            "y": 0.232,
+            "w": 0.1774,
+            "h": 0.3156
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 3,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s14",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 7,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 6,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 30,
+        "text_count": 7,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 1,
+        "text_area": 0.1387,
+        "image_area": 0,
+        "shape_area": 0.453,
+        "text_blob": "Human resources year-end work summary plan 绩效管理 考核与每个人挂钩, 在当月工资里体现 评度绩效评定 日常绩效管理 各部门月各部门月度绩效 单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的单击此处输入你的正文文字是您思想的提炼单",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 21",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.416,
+            "w": 0.5172,
+            "h": 0.4579
+          },
+          "area": 0.2368,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 20",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0786,
+            "y": 0.4332,
+            "w": 0.5035,
+            "h": 0.4291
+          },
+          "area": 0.2161,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 1",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6304,
+            "y": 0.5982,
+            "w": 0.2979,
+            "h": 0.2757
+          },
+          "area": 0.0821,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 19",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6619,
+            "y": 0.6202,
+            "w": 0.2514,
+            "h": 0.2289
+          },
+          "area": 0.0575,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处你是您思想的单击此处输入你的正文文字是您思想的提炼单",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "îšliḍé",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6118,
+            "y": 1.1431,
+            "w": 0.2465,
+            "h": 0.2083
+          },
+          "area": 0.0513,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "îšliḍé",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0566,
+            "y": 1.1657,
+            "w": 0.3809,
+            "h": 0.1186
+          },
+          "area": 0.0452,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0642,
+            "y": 0.242,
+            "w": 0.4261,
+            "h": 0.0539
+          },
+          "area": 0.023,
+          "text": "考核与每个人挂钩, 在当月工资里体现",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 2",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.4772,
+            "w": 0.3064,
+            "h": 0.0615
+          },
+          "area": 0.0188,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.3688,
+            "w": 0.3064,
+            "h": 0.0615
+          },
+          "area": 0.0188,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 8",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "绩效管理",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s15",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-right:2,bottom-right:2",
+      "counts": {
+        "text": 15,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 23,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 30,
+        "text_count": 15,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 23,
+        "connector_count": 0,
+        "text_area": 0.3452,
+        "image_area": 0.0132,
+        "shape_area": 0.72,
+        "text_blob": "Human resources year-end work summary plan 制度考核 以/人/为/本/核/心 创/新/卓/越/华/杰 员工技能评定考核 安全生产考核 各类违规违纪事件 环境卫生考核 完善的 产品体系 单击此处输入你的正文文字是您思想的提炼单击 单击此处输入你的正文文字是您思想的提炼单击 单击此处输入你的正文文字是您思想的提炼单击 协助其他部门对有关制度的执行情况进行抽查(如6S检查、消防安全检查) 绩效 加班 业绩",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 20",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0741,
+            "y": 0.8354,
+            "w": 1.1233,
+            "h": 0.1646
+          },
+          "area": 0.1849,
+          "text": "以/人/为/本/核/心 创/新/卓/越/华/杰",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0717,
+            "y": 0.1793,
+            "w": 0.163,
+            "h": 0.7249
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2458,
+            "y": 0.1793,
+            "w": 0.163,
+            "h": 0.7249
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4199,
+            "y": 0.1793,
+            "w": 0.163,
+            "h": 0.7249
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 17",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5941,
+            "y": 0.1793,
+            "w": 0.163,
+            "h": 0.7249
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 16",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7682,
+            "y": 0.1793,
+            "w": 0.163,
+            "h": 0.7249
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 33",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7819,
+            "y": 0.5849,
+            "w": 0.1355,
+            "h": 0.1611
+          },
+          "area": 0.0218,
+          "text": "协助其他部门对有关制度的执行情况进行抽查(如6S检查、消防安全检查)",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6204,
+            "y": 0.5849,
+            "w": 0.1167,
+            "h": 0.1611
+          },
+          "area": 0.0188,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 11",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "制度考核",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 30",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2641,
+            "y": 0.5849,
+            "w": 0.1265,
+            "h": 0.1234
+          },
+          "area": 0.0156,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "label": 8
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s16",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-left:3,bottom-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 30,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1391,
+        "image_area": 0,
+        "shape_area": 1.1872,
+        "text_blob": "Human resources year-end work summary plan 薪酬管理 18% 年检与社保 22% 薪资核发 30% 完成年度预算 完成年度预算与人力成本KPI指标的分析",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.4947,
+            "w": 1.0,
+            "h": 0.5053
+          },
+          "area": 0.5053,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "!456",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3868,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3868,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "!234",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0692,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "弧形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0692,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "!789",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7044,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "弧形 23",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7044,
+            "y": 0.2935,
+            "w": 0.2263,
+            "h": 0.4024
+          },
+          "area": 0.0911,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0818,
+            "y": 0.794,
+            "w": 0.8365,
+            "h": 0.0673
+          },
+          "area": 0.0563,
+          "text": "完成年度预算与人力成本KPI指标的分析",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4204,
+            "y": 0.3531,
+            "w": 0.1593,
+            "h": 0.2832
+          },
+          "area": 0.0451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1028,
+            "y": 0.3531,
+            "w": 0.1593,
+            "h": 0.2832
+          },
+          "area": 0.0451,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s17",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:9,bottom-center:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 12,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 30,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 12,
+        "connector_count": 0,
+        "text_area": 0.4615,
+        "image_area": 0,
+        "shape_area": 0.6888,
+        "text_blob": "Human resources year-end work summary plan 专项工作 01 专项工作一 组织技师等级评定 组织高新技术申报工作 员工满意度调查 一线员工梯队干部队伍建设 组织工会指压板活动 此处添加详细文本描述,建议与标题相关此处添加详细文本描述建议与标题相关此处添加详细文本描 述此处添加详细文本描建议与标题相关此处添加详细文本描述,建议与标题相关此处添加本描述此处添加详细文本描述与标题相描述建议与标题相关此处添加详细文本描述此处添加详细文本描建议 02 专项工作二 一线员工梯队干部队伍建设 组织工会指压板活动 一线员工梯队干部队伍建设 组织工会指压板活动 03 专项工作三 组织季度优秀员工评定 协助配合内审工作 一线员工梯队干部队伍建设 组织工会指压板活动",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Text Placeholder 3",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0985,
+            "y": 0.7415,
+            "w": 0.8082,
+            "h": 0.1969
+          },
+          "area": 0.1591,
+          "text": "此处添加详细文本描述,建议与标题相关此处添加详细文本描述建议与标题相关此处添加详细文本描 述此处添加详细文本描建议与标题相关此处添加详细文本描述,建议与标题相关此处添加本描述此处添加详细文本描述与标题相描述建议与标题相关此处添加详细文本描述",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "任意多边形 16",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1025,
+            "y": 0.3901,
+            "w": 0.2852,
+            "h": 0.3638
+          },
+          "area": 0.1038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "任意多边形 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1025,
+            "y": 0.3901,
+            "w": 0.2852,
+            "h": 0.3638
+          },
+          "area": 0.1038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1025,
+            "y": 0.3901,
+            "w": 0.2852,
+            "h": 0.3638
+          },
+          "area": 0.1038,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1116,
+            "y": 0.3737,
+            "w": 0.2651,
+            "h": 0.3733
+          },
+          "area": 0.099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1116,
+            "y": 0.3737,
+            "w": 0.2651,
+            "h": 0.3733
+          },
+          "area": 0.099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1116,
+            "y": 0.3737,
+            "w": 0.2651,
+            "h": 0.3733
+          },
+          "area": 0.099,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1274,
+            "y": 0.4119,
+            "w": 0.2434,
+            "h": 0.3052
+          },
+          "area": 0.0743,
+          "text": "组织技师等级评定 组织高新技术申报工作 员工满意度调查 一线员工梯队干部队伍建设 组织工会指压板活动",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1274,
+            "y": 0.4119,
+            "w": 0.2434,
+            "h": 0.257
+          },
+          "area": 0.0626,
+          "text": "一线员工梯队干部队伍建设 组织工会指压板活动 一线员工梯队干部队伍建设 组织工会指压板活动",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.132,
+            "y": 0.4119,
+            "w": 0.2434,
+            "h": 0.257
+          },
+          "area": 0.0626,
+          "text": "组织季度优秀员工评定 协助配合内审工作 一线员工梯队干部队伍建设 组织工会指压板活动",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 7,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s18",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:10",
+      "counts": {
+        "text": 6,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 108,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 30,
+        "text_count": 6,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 108,
+        "connector_count": 0,
+        "text_area": 0.0546,
+        "image_area": 0.5356,
+        "shape_area": 6.9774,
+        "text_blob": "Human resources year-end work summary plan 团队建设 团队建设 团队建设 团队建设 团队建设",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Freeform 81",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0518,
+            "y": 1.5894,
+            "w": 1.1164,
+            "h": 0.3234
+          },
+          "area": 0.361,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "Freeform 78",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0542,
+            "y": 1.5692,
+            "w": 1.1199,
+            "h": 0.3076
+          },
+          "area": 0.3445,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "Freeform 84",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0525,
+            "y": 1.6303,
+            "w": 1.1151,
+            "h": 0.3009
+          },
+          "area": 0.3355,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Freeform 75",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0589,
+            "y": 1.5574,
+            "w": 1.127,
+            "h": 0.2905
+          },
+          "area": 0.3274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Freeform 72",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0648,
+            "y": 1.5498,
+            "w": 1.1363,
+            "h": 0.2678
+          },
+          "area": 0.3043,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "Freeform 69",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0708,
+            "y": 1.5419,
+            "w": 1.1456,
+            "h": 0.2458
+          },
+          "area": 0.2816,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "Freeform 87",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0547,
+            "y": 1.6924,
+            "w": 1.1122,
+            "h": 0.2475
+          },
+          "area": 0.2753,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Freeform 66",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0757,
+            "y": 1.5296,
+            "w": 1.1531,
+            "h": 0.2282
+          },
+          "area": 0.2631,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "Freeform 63",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0779,
+            "y": 1.5093,
+            "w": 1.1569,
+            "h": 0.2199
+          },
+          "area": 0.2544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 99",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0642,
+            "y": 1.7567,
+            "w": 1.0992,
+            "h": 0.2241
+          },
+          "area": 0.2463,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s19",
+      "title_guess": "LOGO",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.2644,
+        "image_area": 1.2714,
+        "shape_area": 0.0018,
+        "text_blob": "LOGO 企业名称 整合 细节 服务 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam 人力资源工作亮点 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4169,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.2111,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0237,
+            "y": 0.3291,
+            "w": 0.9288,
+            "h": 0.2031
+          },
+          "area": 0.1886,
+          "text": "人力资源工作亮点",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2649,
+            "y": 0.5377,
+            "w": 0.4464,
+            "h": 0.0942
+          },
+          "area": 0.0421,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4387,
+            "y": 0.1632,
+            "w": 0.0988,
+            "h": 0.1756
+          },
+          "area": 0.0173,
+          "text": "03",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 47",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7658,
+            "y": 0.0476,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.178,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "整合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2405,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "细节",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3031,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s20",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:3,bottom-center:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 21,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 3,
+        "text_area": 0.1902,
+        "image_area": 0,
+        "shape_area": 0.6942,
+        "text_blob": "Human resources year-end work summary plan 工作创新 校企合作 工作创新 制度建设 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "梯形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8046,
+            "w": 1.0,
+            "h": 0.1786
+          },
+          "area": 0.1786,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 12",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.1903,
+            "w": 0.2037,
+            "h": 0.3621
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3947,
+            "y": 0.1903,
+            "w": 0.2037,
+            "h": 0.3621
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 14",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7028,
+            "y": 0.1903,
+            "w": 0.2037,
+            "h": 0.3621
+          },
+          "area": 0.0738,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0865,
+            "y": 0.6395,
+            "w": 0.2038,
+            "h": 0.322
+          },
+          "area": 0.0656,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 39",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0865,
+            "y": 0.6395,
+            "w": 0.2038,
+            "h": 0.322
+          },
+          "area": 0.0656,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0865,
+            "y": 0.6395,
+            "w": 0.2038,
+            "h": 0.322
+          },
+          "area": 0.0656,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 49",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2628,
+            "y": 0.2298,
+            "w": 0.1593,
+            "h": 0.2831
+          },
+          "area": 0.0451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 50",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5709,
+            "y": 0.2298,
+            "w": 0.1593,
+            "h": 0.2831
+          },
+          "area": 0.0451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Text2",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.8214,
+            "w": 0.1764,
+            "h": 0.136
+          },
+          "area": 0.024,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s21",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,bottom-left:2,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.2231,
+        "image_area": 0,
+        "shape_area": 0.2692,
+        "text_blob": "Human resources year-end work summary plan 工作亮点 培训管理 单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 学习创新 单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击此 团队凝聚力 单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击 争取政府支持 单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 37",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5289,
+            "y": 0.2196,
+            "w": 0.4011,
+            "h": 0.1698
+          },
+          "area": 0.0681,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0642,
+            "y": 0.3197,
+            "w": 0.3337,
+            "h": 0.1768
+          },
+          "area": 0.059,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "任意多边形: 形状 44",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5943,
+            "y": 0.7275,
+            "w": 0.3339,
+            "h": 0.1157
+          },
+          "area": 0.0386,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6549,
+            "y": 0.3197,
+            "w": 0.2787,
+            "h": 0.136
+          },
+          "area": 0.0379,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击此",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0642,
+            "y": 0.7253,
+            "w": 0.2787,
+            "h": 0.132
+          },
+          "area": 0.0368,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6549,
+            "y": 0.6913,
+            "w": 0.2787,
+            "h": 0.132
+          },
+          "area": 0.0368,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击是您的提炼单击此处输入你的正文文字是您思想的提炼单击",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 27",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3869,
+            "y": 0.6005,
+            "w": 0.1285,
+            "h": 0.2285
+          },
+          "area": 0.0294,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 28",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4498,
+            "y": 0.3587,
+            "w": 0.1285,
+            "h": 0.2285
+          },
+          "area": 0.0294,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 43",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0719,
+            "y": 0.8116,
+            "w": 0.3807,
+            "h": 0.0713
+          },
+          "area": 0.0271,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5443,
+            "y": 0.5638,
+            "w": 0.099,
+            "h": 0.1761
+          },
+          "area": 0.0174,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 1,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s22",
+      "title_guess": "LOGO",
+      "layout_job": "research-question",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.2644,
+        "image_area": 1.2714,
+        "shape_area": 0.0018,
+        "text_blob": "LOGO 企业名称 整合 细节 服务 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam 存在的主要问题 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4169,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.2111,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0237,
+            "y": 0.3291,
+            "w": 0.9288,
+            "h": 0.2031
+          },
+          "area": 0.1886,
+          "text": "存在的主要问题",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2649,
+            "y": 0.5377,
+            "w": 0.4464,
+            "h": 0.0942
+          },
+          "area": 0.0421,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4387,
+            "y": 0.1632,
+            "w": 0.0988,
+            "h": 0.1756
+          },
+          "area": 0.0173,
+          "text": "04",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 47",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7658,
+            "y": 0.0476,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.178,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "整合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2405,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "细节",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3031,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s23",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:7,middle-center:1,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 30,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.1638,
+        "image_area": 0,
+        "shape_area": 0.6639,
+        "text_blob": "Human resources year-end work summary plan 存在的主要问题 01 学校的成立与发展 School establishment and development 02 产品 与服务 products and services 03 品牌建设 与搭建人脉 Brand building and networking",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 59",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0756,
+            "y": 0.4001,
+            "w": 0.2139,
+            "h": 0.4927
+          },
+          "area": 0.1054,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 66",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3974,
+            "y": 0.4001,
+            "w": 0.2139,
+            "h": 0.4927
+          },
+          "area": 0.1054,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 74",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7183,
+            "y": 0.4001,
+            "w": 0.2139,
+            "h": 0.4927
+          },
+          "area": 0.1054,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0724,
+            "y": 0.3033,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 26",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0724,
+            "y": 0.3033,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "椭圆 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0724,
+            "y": 0.3033,
+            "w": 0.1955,
+            "h": 0.3476
+          },
+          "area": 0.068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0326,
+            "y": 0.401,
+            "w": 0.274,
+            "h": 0.1749
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "椭圆 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0326,
+            "y": 0.401,
+            "w": 0.274,
+            "h": 0.1749
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0326,
+            "y": 0.401,
+            "w": 0.274,
+            "h": 0.1749
+          },
+          "area": 0.0479,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 20",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0987,
+            "y": 0.6211,
+            "w": 0.1677,
+            "h": 0.1212
+          },
+          "area": 0.0203,
+          "text": "学校的成立与发展",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 10
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s24",
+      "title_guess": "LOGO",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,middle-center:2,top-right:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 4,
+        "text_area": 0.2644,
+        "image_area": 1.2714,
+        "shape_area": 0.0018,
+        "text_blob": "LOGO 企业名称 整合 细节 服务 Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam 明年工作计划 05",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4169,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.2111,
+            "y": 0.3139,
+            "w": 0.7987,
+            "h": 0.7959
+          },
+          "area": 0.6357,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 32",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0237,
+            "y": 0.3291,
+            "w": 0.9288,
+            "h": 0.2031
+          },
+          "area": 0.1886,
+          "text": "明年工作计划",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "Rectangle 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2649,
+            "y": 0.5377,
+            "w": 0.4464,
+            "h": 0.0942
+          },
+          "area": 0.0421,
+          "text": "Lorem ipsum dolor sit amet, consectetuer dipiscing elit, sed diam nonummy nibheuismod tincidunt ut laoreet dolore magna ",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4387,
+            "y": 0.1632,
+            "w": 0.0988,
+            "h": 0.1756
+          },
+          "area": 0.0173,
+          "text": "05",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 48",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 47",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7658,
+            "y": 0.0476,
+            "w": 0.0723,
+            "h": 0.0539
+          },
+          "area": 0.0039,
+          "text": "LOGO",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.178,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "整合",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2405,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "细节",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 57",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.3031,
+            "y": 0.922,
+            "w": 0.0523,
+            "h": 0.0529
+          },
+          "area": 0.0028,
+          "text": "服务",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 1,
+          "label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s25",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:5,middle-center:2,bottom-right:1",
+      "counts": {
+        "text": 6,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 30,
+        "text_count": 6,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 6,
+        "text_area": 0.1964,
+        "image_area": 0,
+        "shape_area": 0.4011,
+        "text_blob": "Human resources year-end work summary plan 明年总体工作目标 创 新 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本 提 高 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本 服 务 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相添加详细文本描述 明年总体 工作目标",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "椭圆 16",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0319,
+            "y": 0.2572,
+            "w": 0.329,
+            "h": 0.5848
+          },
+          "area": 0.1924,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0911,
+            "y": 0.3625,
+            "w": 0.2104,
+            "h": 0.3741
+          },
+          "area": 0.0787,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "椭圆 19",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1088,
+            "y": 0.394,
+            "w": 0.175,
+            "h": 0.3111
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1088,
+            "y": 0.395,
+            "w": 0.175,
+            "h": 0.3111
+          },
+          "area": 0.0544,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Text Placeholder 3",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5611,
+            "y": 0.6595,
+            "w": 0.2586,
+            "h": 0.21
+          },
+          "area": 0.0543,
+          "text": "服 务 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相添加详细文本描述",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Text Placeholder 3",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4083,
+            "y": 0.2394,
+            "w": 0.2328,
+            "h": 0.21
+          },
+          "area": 0.0489,
+          "text": "创 新 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "Text Placeholder 3",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7192,
+            "y": 0.2394,
+            "w": 0.2328,
+            "h": 0.21
+          },
+          "area": 0.0489,
+          "text": "提 高 此处添加详细文本描述建议与标题相关此处添加详细文本描述建议与题相关此处添加详细文本描述此处添加详细文本",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "任意多边形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2431,
+            "y": 0.5352,
+            "w": 0.7167,
+            "h": 0.0287
+          },
+          "area": 0.0206,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 37",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1288,
+            "y": 0.4843,
+            "w": 0.133,
+            "h": 0.1391
+          },
+          "area": 0.0185,
+          "text": "明年总体 工作目标",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 15",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "明年总体工作目标",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 2,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s26",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:2,bottom-center:2,bottom-right:2",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 6,
+        "text_area": 0.2652,
+        "image_area": 0,
+        "shape_area": 0.7272,
+        "text_blob": "Human resources year-end work summary plan 明年重点工作 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处 培 训 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处 绩 效 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击 继任者",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.5212,
+            "w": 0.285,
+            "h": 0.4082
+          },
+          "area": 0.1163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.359,
+            "y": 0.5212,
+            "w": 0.285,
+            "h": 0.4082
+          },
+          "area": 0.1163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 43",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6633,
+            "y": 0.5212,
+            "w": 0.285,
+            "h": 0.4082
+          },
+          "area": 0.1163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.071,
+            "y": 0.5998,
+            "w": 0.2525,
+            "h": 0.2585
+          },
+          "area": 0.0653,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.5998,
+            "w": 0.2525,
+            "h": 0.2585
+          },
+          "area": 0.0653,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "Text2",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6795,
+            "y": 0.5998,
+            "w": 0.2525,
+            "h": 0.2585
+          },
+          "area": 0.0653,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼单击",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.1871,
+            "w": 0.285,
+            "h": 0.2033
+          },
+          "area": 0.0579,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0548,
+            "y": 0.1871,
+            "w": 0.285,
+            "h": 0.2033
+          },
+          "area": 0.0579,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 25",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.359,
+            "y": 0.1871,
+            "w": 0.285,
+            "h": 0.2033
+          },
+          "area": 0.0579,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.359,
+            "y": 0.1871,
+            "w": 0.285,
+            "h": 0.2033
+          },
+          "area": 0.0579,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 4,
+          "body": 3
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s27",
+      "title_guess": "人员招聘",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 30,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 10,
+        "text_area": 0.3056,
+        "image_area": 0,
+        "shape_area": 0.9391,
+        "text_blob": "人员招聘 联合高等院校 明年重点招聘工作 明年计划招聘工作 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼 项目背景 项目内容 项目方法 项目收益 Human resources year-end work summary plan 明年招聘工作",
+        "title_like": 0,
+        "body_like": 8
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.2722
+          },
+          "area": 0.2722,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 6",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1861,
+            "y": 0.1837,
+            "w": 0.359,
+            "h": 0.7514
+          },
+          "area": 0.2698,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 7",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5692,
+            "y": 0.2,
+            "w": 0.359,
+            "h": 0.7351
+          },
+          "area": 0.2639,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆顶角 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0332,
+            "y": 0.5364,
+            "w": 0.3298,
+            "h": 0.2111
+          },
+          "area": 0.0696,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 9",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1861,
+            "y": 0.1837,
+            "w": 0.359,
+            "h": 0.0885
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆顶角 11",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5692,
+            "y": 0.1837,
+            "w": 0.359,
+            "h": 0.0885
+          },
+          "area": 0.0318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 26",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5897,
+            "y": 0.3721,
+            "w": 0.3279,
+            "h": 0.0857
+          },
+          "area": 0.0281,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 25",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2065,
+            "y": 0.4981,
+            "w": 0.3221,
+            "h": 0.0857
+          },
+          "area": 0.0276,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 27",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5897,
+            "y": 0.4981,
+            "w": 0.3221,
+            "h": 0.0857
+          },
+          "area": 0.0276,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 28",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2065,
+            "y": 0.6563,
+            "w": 0.3221,
+            "h": 0.0857
+          },
+          "area": 0.0276,
+          "text": "单击此处输入你的正文文字是您思想的提炼单击此处输入你是您的提炼",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "body": 8,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s28",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-center:4,top-center:3,top-left:1",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 30,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 4,
+        "text_area": 0.1968,
+        "image_area": 0,
+        "shape_area": 0.0991,
+        "text_blob": "Human resources year-end work summary plan 人事管理 敏琪公关 综合办 资源部 策划部 市场部 财务 资源 策划 客服 人事 后勤 设计 QC 员工关系 法务 执行",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "右大括号 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4691,
+            "y": -0.2279,
+            "w": 0.0618,
+            "h": 1.2059
+          },
+          "area": 0.0745,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 9",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.44,
+            "y": 0.1094,
+            "w": 0.12,
+            "h": 0.2133
+          },
+          "area": 0.0256,
+          "text": "敏琪公关",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "右大括号 15",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4691,
+            "y": 0.1758,
+            "w": 0.0618,
+            "h": 0.3985
+          },
+          "area": 0.0246,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 7",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1745,
+            "y": 0.0681,
+            "w": 0.2352,
+            "h": 0.0726
+          },
+          "area": 0.0171,
+          "text": "人事管理",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "椭圆 44",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4547,
+            "y": 0.1355,
+            "w": 0.0907,
+            "h": 0.1612
+          },
+          "area": 0.0146,
+          "text": "员工关系",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 25",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.085,
+            "y": 0.4012,
+            "w": 0.1487,
+            "h": 0.082
+          },
+          "area": 0.0122,
+          "text": "综合办",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 41",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3121,
+            "y": 0.4012,
+            "w": 0.1487,
+            "h": 0.082
+          },
+          "area": 0.0122,
+          "text": "资源部",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 42",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5392,
+            "y": 0.4012,
+            "w": 0.1487,
+            "h": 0.082
+          },
+          "area": 0.0122,
+          "text": "策划部",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 43",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7663,
+            "y": 0.4012,
+            "w": 0.1487,
+            "h": 0.082
+          },
+          "area": 0.0122,
+          "text": "市场部",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2921,
+            "y": 0.1009,
+            "w": 0.277,
+            "h": 0.0314
+          },
+          "area": 0.0087,
+          "text": "Human resources year-end work summary plan",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 1,
+          "label": 17
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s29",
+      "title_guess": "Human resources year-end work summary plan",
+      "layout_job": "architecture-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:10",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 38,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 30,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 38,
+        "connector_count": 0,
+        "text_area": 0.1186,
+        "image_area": 0,
+        "shape_area": 0.8971,
+        "text_blob": "Human resources year-end work summary plan 培训管理 分析培训需求,系统制定培训计划 培训管理 新人培养计划 内训师队伍的建设 加强培训效果的跟进 完善培训数据库",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.24,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0715,
+            "y": 0.2256,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 17",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.24,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0715,
+            "y": 0.2256,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 20",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.24,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 21",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0715,
+            "y": 0.2256,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 22",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0715,
+            "y": 0.2256,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.24,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 25",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0715,
+            "y": 0.2256,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0808,
+            "y": 0.24,
+            "w": 0.2365,
+            "h": 0.281
+          },
+          "area": 0.0665,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "年终总结-20-动态-d3bc9c35-s30",
+      "title_guess": "谢谢观看",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:3,bottom-right:2,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 5
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 30,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 5,
+        "text_area": 0.3088,
+        "image_area": 1.086,
+        "shape_area": 0.1093,
+        "text_blob": "谢谢观看 HUMAN RESOURCES THANK . YOU LOGO 企业名称 整合 细节 服务 HUMAN RESOURCES YEAR-END REVIEW 以人为本核心 创新卓越华杰",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 53",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0019,
+            "h": 1.0
+          },
+          "area": 1.0019,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 20",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.6264,
+            "w": 0.4577,
+            "h": 0.2558
+          },
+          "area": 0.1171,
+          "text": "HUMAN RESOURCES",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 21",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.036,
+            "y": 0.1913,
+            "w": 0.5691,
+            "h": 0.175
+          },
+          "area": 0.0996,
+          "text": "THANK . YOU",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 83",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4159,
+            "y": 0.7582,
+            "w": 0.5831,
+            "h": 0.1443
+          },
+          "area": 0.0841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3567,
+            "y": 0.9014,
+            "w": 0.6452,
+            "h": 0.0986
+          },
+          "area": 0.0636,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 19",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0458,
+            "y": 0.3435,
+            "w": 0.2928,
+            "h": 0.1616
+          },
+          "area": 0.0473,
+          "text": "谢谢观看",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.9014,
+            "w": 0.3556,
+            "h": 0.0986
+          },
+          "area": 0.0351,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "Rectangle 3",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0553,
+            "y": 0.4911,
+            "w": 0.3484,
+            "h": 0.0529
+          },
+          "area": 0.0184,
+          "text": "HUMAN RESOURCES YEAR-END REVIEW",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 64",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0517,
+            "y": 0.7302,
+            "w": 0.2466,
+            "h": 0.0404
+          },
+          "area": 0.01,
+          "text": "以人为本核心 创新卓越华杰",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 38",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8277,
+            "y": 0.049,
+            "w": 0.0825,
+            "h": 0.0494
+          },
+          "area": 0.0041,
+          "text": "企业名称",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "回顾",
+        "成果",
+        "问题",
+        "计划"
+      ],
+      "avoid_for": [
+        "活动庆典",
+        "课堂教学风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 30,
+    "layout_job_counts": {
+      "flow-diagram": 9,
+      "duo-compare": 5,
+      "process-strip": 4,
+      "research-question": 3,
+      "table": 3,
+      "kpi-grid": 2,
+      "matrix-grid": 2,
+      "cover-statement": 1,
+      "architecture-diagram": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 18,
+      "image": 8,
+      "chart": 2,
+      "text": 1,
+      "table": 1
+    },
+    "density_counts": {
+      "medium-high": 16,
+      "high": 10,
+      "medium": 3,
+      "low": 1
+    },
+    "dominant_layout_jobs": [
+      "flow-diagram",
+      "duo-compare",
+      "process-strip",
+      "research-question",
+      "table"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ]
+  }
+}

@@ -31,6 +31,13 @@ https://github.com/haitao926/sasu-skills/tree/main/skills
   - Default base URL: `http://10.15.46.72:8010/v1`
   - Supports direct API calls when Python is unavailable on the target machine.
 
+### Presentation Production
+
+- `ppt-studio` - Structure-first PowerPoint production workflow for editable Chinese PPTX decks, template-guided layouts, Roil-generated visuals, review gates, and WPS-safe font patching.
+  - Keeps Chinese text editable by default.
+  - Includes lightweight template indexes/profiles and Guizang HTML templates.
+  - Excludes the large original PPTX template asset pack; see `skills/ppt-studio/assets/template-library/originals/README.md`.
+
 ## Repository layout
 
 ```text
@@ -45,6 +52,11 @@ skills/
     config.example.json
     scripts/
     tests/
+  ppt-studio/
+    SKILL.md
+    references/
+    scripts/
+    assets/
 docs/
   cc-switch-gitea.md
 ```
@@ -71,6 +83,8 @@ The included skills keep their own lightweight tests:
 ```bash
 python3 -m unittest discover -s skills/mineru-parser/tests
 python3 -m unittest discover -s skills/sasu-image2/tests
+python3 -m py_compile skills/ppt-studio/scripts/*.py
+python3 skills/ppt-studio/scripts/patch_pptx_fonts.py --help
 ```
 
 ## Publishing strategy

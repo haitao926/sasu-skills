@@ -1,0 +1,6641 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:27.163528+00:00",
+  "template_id": "数据图表-09-静态-e04d6499",
+  "template_profile_path": "assets/template-library/profiles/数据图表-09-静态-e04d6499.json",
+  "source_template": {
+    "name": "数据图表(09)—静态.pptx",
+    "category": "数据图表（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/数据图表（5套）/数据图表(09)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 32,
+    "media_count": 41,
+    "image_media_count": 34,
+    "motion_hint": "static",
+    "tags": [
+      "数据图表",
+      "数据分析",
+      "图表汇报",
+      "统计说明",
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论",
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高",
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图",
+      "结论句",
+      "图表注释",
+      "指标标签",
+      "静态版",
+      "高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "数据图表",
+    "scenario": [
+      "数据分析",
+      "图表汇报",
+      "统计说明"
+    ],
+    "best_for": [
+      "数据分析",
+      "业绩汇报",
+      "统计展示"
+    ],
+    "avoid": [
+      "纯情绪海报",
+      "儿童活动风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "指标概览",
+      "图表页",
+      "对比页",
+      "结论"
+    ],
+    "visual": [
+      "数据化",
+      "清楚",
+      "网格",
+      "信息密度高"
+    ],
+    "image_strategy": [
+      "柱状图",
+      "折线图",
+      "矩阵图",
+      "流程图",
+      "图表截图"
+    ],
+    "text_strategy": [
+      "结论句",
+      "图表注释",
+      "指标标签"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "flow-diagram",
+      "table",
+      "matrix-grid",
+      "claim-evidence"
+    ],
+    "dominant_primary_carriers": [
+      "chart",
+      "diagram-shapes",
+      "table"
+    ],
+    "dominant_density": "high",
+    "common_text_roles": [
+      "decorative-shape",
+      "label",
+      "chart",
+      "footer",
+      "diagram-block",
+      "title"
+    ],
+    "common_zones": [
+      "middle-center",
+      "top-center",
+      "middle-left",
+      "middle-right",
+      "bottom-center",
+      "top-left"
+    ],
+    "template_text_signature": "10,546 众人拾柴,成绩斐然 2014-2018集合计划固收类比较 成绩斐然 运营站址规模已经达到170万 项目预期销售额 相伴而生,专业经营 多资理财核心数据 考试结果 项目预算总计344.5万元 时间进度表 用户规模 移动应用安全市场概况 新经济时代的机会点 庄镇村民了解村务信息的方式 目前村务公开信息真实度 高速增长的某某行业产值与其信息化程度不成正比 内容日历 物料制作费用 具体活动内容 全程报道媒体粉丝总量排行(示例) 第一阶段各系列情况 不同年龄的品牌使用率 ",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "数据图表-09-静态-e04d6499-s01",
+      "title_guess": "10,546",
+      "layout_job": "cover-statement",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,top-right:2,bottom-right:2",
+      "counts": {
+        "text": 23,
+        "image": 3,
+        "chart": 2,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 32,
+        "text_count": 23,
+        "image_count": 3,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1613,
+        "image_area": 1.8456,
+        "shape_area": 0.609,
+        "text_blob": "10,546 2023第三季度整体数据变现一览表 Q1 小标题 小标题 小标题 小标题 小标题 小标题 小标题 小标题 小标题 小标题 * 某某某数据平稳增长良好,品质保障得当 Q2 Q3 6大方面业绩预览折线图 数据增长 各产品线销售 PPT制作页数 PPT服务客户数 355 标题内容",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 35",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0004,
+            "y": -0.0003,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0006,
+            "y": 0.3499,
+            "w": 1.0,
+            "h": 0.6486
+          },
+          "area": 0.6486,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 23",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0413,
+            "y": 0.1755,
+            "w": 0.5188,
+            "h": 0.7311
+          },
+          "area": 0.3793,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "table",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1172,
+            "y": 0.2755,
+            "w": 0.4292,
+            "h": 0.4589
+          },
+          "area": 0.197,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 24",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5813,
+            "y": 0.1755,
+            "w": 0.3612,
+            "h": 0.2113
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5813,
+            "y": 0.4354,
+            "w": 0.3612,
+            "h": 0.2113
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 26",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5813,
+            "y": 0.6952,
+            "w": 0.3612,
+            "h": 0.2113
+          },
+          "area": 0.0763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 25",
+          "role": "chart",
+          "zone": "top-right",
+          "box": {
+            "x": 0.56,
+            "y": 0.2185,
+            "w": 0.3987,
+            "h": 0.1682
+          },
+          "area": 0.0671,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 33",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.585,
+            "y": 0.7614,
+            "w": 0.345,
+            "h": 0.1451
+          },
+          "area": 0.0501,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 69",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0569,
+            "y": 0.8133,
+            "w": 0.4875,
+            "h": 0.0689
+          },
+          "area": 0.0336,
+          "text": "2023第三季度整体数据变现一览表",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 15
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "数据图表-09-静态-e04d6499-s02",
+      "title_guess": "众人拾柴,成绩斐然",
+      "layout_job": "process-strip",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,middle-right:2,middle-center:1",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 3,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 32,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1353,
+        "image_area": 0.0136,
+        "shape_area": 1.1843,
+        "text_blob": "众人拾柴,成绩斐然 累计增加 35.5万 增幅 47.1% 累计增加 30.3万 增幅 77.9% 累计增加 35.9万 增幅 146.0%",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.6167
+          },
+          "area": 0.6167,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6695,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.6478
+          },
+          "area": 0.1763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.364,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.6478
+          },
+          "area": 0.1763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 4",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2475,
+            "w": 0.2721,
+            "h": 0.6478
+          },
+          "area": 0.1763,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 11",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0699,
+            "y": 0.4861,
+            "w": 0.2464,
+            "h": 0.3919
+          },
+          "area": 0.0966,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 111",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3768,
+            "y": 0.5133,
+            "w": 0.2464,
+            "h": 0.3647
+          },
+          "area": 0.0899,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图表 114",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6838,
+            "y": 0.5269,
+            "w": 0.2464,
+            "h": 0.3511
+          },
+          "area": 0.0865,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1278,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "众人拾柴,成绩斐然",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 115",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8051,
+            "y": 0.3483,
+            "w": 0.1206,
+            "h": 0.1122
+          },
+          "area": 0.0135,
+          "text": "增幅 146.0%",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0856,
+            "y": 0.1719,
+            "w": 0.0839,
+            "h": 0.1492
+          },
+          "area": 0.0125,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 6
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "数据图表-09-静态-e04d6499-s03",
+      "title_guess": "2014-2018集合计划固收类比较",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,bottom-left:2,bottom-right:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 4,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 32,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 4,
+        "text_area": 0.0867,
+        "image_area": 0,
+        "shape_area": 0.3142,
+        "text_blob": "2014-2018集合计划固收类比较 国寿养老 太平养老 平安养老 泰康资产",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 8",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0494,
+            "y": 0.6656,
+            "w": 0.4517,
+            "h": 0.2866
+          },
+          "area": 0.1295,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 132",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.515,
+            "y": 0.6656,
+            "w": 0.4517,
+            "h": 0.2866
+          },
+          "area": 0.1295,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 27",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0494,
+            "y": 0.2771,
+            "w": 0.4517,
+            "h": 0.2866
+          },
+          "area": 0.1295,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 31",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.515,
+            "y": 0.2771,
+            "w": 0.4517,
+            "h": 0.2866
+          },
+          "area": 0.1295,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 64",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5406,
+            "y": 0.3042,
+            "w": 0.4029,
+            "h": 0.2097
+          },
+          "area": 0.0845,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 41",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.075,
+            "y": 0.3099,
+            "w": 0.4029,
+            "h": 0.204
+          },
+          "area": 0.0822,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 111",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5406,
+            "y": 0.7159,
+            "w": 0.4029,
+            "h": 0.1864
+          },
+          "area": 0.0751,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 87",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.075,
+            "y": 0.7228,
+            "w": 0.4029,
+            "h": 0.1796
+          },
+          "area": 0.0724,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "2014-2018集合计划固收类比较",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0483,
+            "y": 0.607,
+            "w": 0.0993,
+            "h": 0.0583
+          },
+          "area": 0.0058,
+          "text": "国寿养老",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "数据图表-09-静态-e04d6499-s04",
+      "title_guess": "成绩斐然 运营站址规模已经达到170万",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:5,middle-right:3,bottom-center:1",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 27,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 27,
+        "connector_count": 1,
+        "text_area": 0.1009,
+        "image_area": 1.8438,
+        "shape_area": 1.7407,
+        "text_blob": "成绩斐然 运营站址规模已经达到170万 170 120 90 60 40 2016 2017 2018 2019 2020",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0002,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 80",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0002,
+            "y": 0.0,
+            "w": 0.8438,
+            "h": 1.0
+          },
+          "area": 0.8438,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 39",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.765,
+            "w": 1.0,
+            "h": 0.235
+          },
+          "area": 0.235,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 61",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.3232,
+            "w": 0.2585,
+            "h": 0.2289
+          },
+          "area": 0.0592,
+          "text": "成绩斐然 运营站址规模已经达到170万",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "任意多边形: 形状 41",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8415,
+            "y": 0.1479,
+            "w": 0.0864,
+            "h": 0.6784
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "任意多边形: 形状 46",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7276,
+            "y": 0.1479,
+            "w": 0.0864,
+            "h": 0.6784
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "任意多边形: 形状 51",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.6137,
+            "y": 0.1479,
+            "w": 0.0864,
+            "h": 0.6784
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "任意多边形: 形状 56",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4998,
+            "y": 0.1479,
+            "w": 0.0864,
+            "h": 0.6784
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 68",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3859,
+            "y": 0.1479,
+            "w": 0.0864,
+            "h": 0.6784
+          },
+          "area": 0.0586,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "Freeform 25",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8417,
+            "y": 0.2753,
+            "w": 0.0862,
+            "h": 0.5509
+          },
+          "area": 0.0475,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 5
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "数据图表-09-静态-e04d6499-s05",
+      "title_guess": "项目预期销售额",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "bottom-center:2,middle-center:2,bottom-right:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 67,
+        "connector": 15
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 67,
+        "connector_count": 15,
+        "text_area": 0.157,
+        "image_area": 0,
+        "shape_area": 1.0885,
+        "text_blob": "入驻网红直播间 400户 年销售额 70亿 第二期 入驻网红直播间 100户 年销售额 13亿 第一期 入驻网红直播间 1000户 年销售额 120亿 第三期 项目预期销售额",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 97",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.435,
+            "y": 0.4246,
+            "w": 0.7705,
+            "h": 0.6342
+          },
+          "area": 0.4887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 96",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0706,
+            "y": 0.628,
+            "w": 0.7601,
+            "h": 0.4307
+          },
+          "area": 0.3274,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8331,
+            "w": 1.0,
+            "h": 0.1669
+          },
+          "area": 0.1669,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 95",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": -0.0805,
+            "y": 0.8358,
+            "w": 0.4741,
+            "h": 0.2226
+          },
+          "area": 0.1055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 98",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "项目预期销售额",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4433,
+            "y": 0.3488,
+            "w": 0.1477,
+            "h": 0.1167
+          },
+          "area": 0.0172,
+          "text": "入驻网红直播间 400户",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 42",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1346,
+            "y": 0.5547,
+            "w": 0.1477,
+            "h": 0.1167
+          },
+          "area": 0.0172,
+          "text": "入驻网红直播间 100户",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 70",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7519,
+            "y": 0.1713,
+            "w": 0.1477,
+            "h": 0.1167
+          },
+          "area": 0.0172,
+          "text": "入驻网红直播间 1000户",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 71",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7519,
+            "y": 0.2952,
+            "w": 0.0955,
+            "h": 0.1167
+          },
+          "area": 0.0111,
+          "text": "年销售额 120亿",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 17",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4433,
+            "y": 0.4727,
+            "w": 0.0909,
+            "h": 0.1167
+          },
+          "area": 0.0106,
+          "text": "年销售额 70亿",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 3,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "数据图表-09-静态-e04d6499-s06",
+      "title_guess": "相伴而生,专业经营",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-center:3,top-right:1",
+      "counts": {
+        "text": 21,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 7,
+        "connector": 10
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 32,
+        "text_count": 21,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 10,
+        "text_area": 0.2219,
+        "image_area": 0,
+        "shape_area": 0.6891,
+        "text_blob": "相伴而生,专业经营 开创者 受托资产规模 受托服务企业 单位:亿元 单位:个 受托服务职工 集合计划规模 单位:万人 单位:亿元 2014年独家 承接辽宁省企业年金试点 2015年第一批 获得企业年金受托投资资格 开辟19个省市 年金第一单 首创 企业年金2+2集合计划 率先 开创养老保障业务 率先 与账管人开发标准数据接口 管理资产规模超 2,600亿元 2018年争先进位 受托规模上升至行业第四 2013-2018年 受托规模增长率行业第四 引领者 超越者",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 18",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6169,
+            "y": 0.0,
+            "w": 0.3831,
+            "h": 0.3333
+          },
+          "area": 0.1277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 46",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6169,
+            "y": 0.3333,
+            "w": 0.3831,
+            "h": 0.3333
+          },
+          "area": 0.1277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 47",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6169,
+            "y": 0.6667,
+            "w": 0.3831,
+            "h": 0.3333
+          },
+          "area": 0.1277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 81",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2567,
+            "w": 0.2441,
+            "h": 0.3136
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 84",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3202,
+            "y": 0.2567,
+            "w": 0.2441,
+            "h": 0.3136
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 100",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2567,
+            "w": 0.2441,
+            "h": 0.3136
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 104",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3202,
+            "y": 0.2567,
+            "w": 0.2441,
+            "h": 0.3136
+          },
+          "area": 0.0765,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图表 7",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0595,
+            "y": 0.2567,
+            "w": 0.2392,
+            "h": 0.3136
+          },
+          "area": 0.075,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图表 85",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3227,
+            "y": 0.2567,
+            "w": 0.2392,
+            "h": 0.3136
+          },
+          "area": 0.075,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图表 101",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0595,
+            "y": 0.2567,
+            "w": 0.2392,
+            "h": 0.3136
+          },
+          "area": 0.075,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 11,
+          "footer": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "数据图表-09-静态-e04d6499-s07",
+      "title_guess": "多资理财核心数据",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 15,
+        "image": 4,
+        "chart": 3,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 32,
+        "text_count": 15,
+        "image_count": 4,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.1547,
+        "image_area": 0.0161,
+        "shape_area": 0.6337,
+        "text_blob": "用户追加投资 26.5% 用户每月交易额度 高速增长 月累计交易额 10.44亿元 累计交易额 249.3亿元 上线天数 637天 活跃用户 83万人 人均投资额度 15673元 多资理财核心数据",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5499,
+            "y": 0.1991,
+            "w": 0.3932,
+            "h": 0.5369
+          },
+          "area": 0.2111,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 4",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5589,
+            "y": 0.239,
+            "w": 0.3752,
+            "h": 0.4825
+          },
+          "area": 0.181,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0569,
+            "y": 0.1991,
+            "w": 0.2289,
+            "h": 0.5369
+          },
+          "area": 0.1229,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3034,
+            "y": 0.1991,
+            "w": 0.2289,
+            "h": 0.5369
+          },
+          "area": 0.1229,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 34",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0232,
+            "y": 0.3379,
+            "w": 0.2963,
+            "h": 0.3512
+          },
+          "area": 0.1041,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 7",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3168,
+            "y": 0.3092,
+            "w": 0.202,
+            "h": 0.4123
+          },
+          "area": 0.0833,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 30",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "多资理财核心数据",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 33",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0569,
+            "y": 0.7672,
+            "w": 0.2084,
+            "h": 0.1895
+          },
+          "area": 0.0395,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 36",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7347,
+            "y": 0.7672,
+            "w": 0.2084,
+            "h": 0.1895
+          },
+          "area": 0.0395,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.284,
+            "y": 0.7672,
+            "w": 0.2072,
+            "h": 0.1895
+          },
+          "area": 0.0393,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "label": 3,
+          "title": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "数据图表-09-静态-e04d6499-s08",
+      "title_guess": "考试结果",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:7,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 14,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 32,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 2,
+        "text_area": 0.3675,
+        "image_area": 0,
+        "shape_area": 1.4326,
+        "text_blob": "各个模块考试通过率 87.5% 87.5% 85.7% 71.4% 整体占比情况 恒伟认证 人数4人 恒伟应考人数比重50% 苏州总模块通过率83.3% 全国应考通过占比41.7% 考试结果",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 4",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5176,
+            "y": 0.1839,
+            "w": 0.4253,
+            "h": 0.7242
+          },
+          "area": 0.308,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.1839,
+            "w": 0.4253,
+            "h": 0.7242
+          },
+          "area": 0.308,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 19",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.7481,
+            "w": 1.0,
+            "h": 0.2519
+          },
+          "area": 0.2519,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 16",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0847,
+            "y": 0.399,
+            "w": 0.3692,
+            "h": 0.4961
+          },
+          "area": 0.1832,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "椭圆 89",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5901,
+            "y": 0.3607,
+            "w": 0.2811,
+            "h": 0.4997
+          },
+          "area": 0.1405,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "弧形 90",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5901,
+            "y": 0.3602,
+            "w": 0.2811,
+            "h": 0.4997
+          },
+          "area": 0.1405,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 102",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5915,
+            "y": 0.3626,
+            "w": 0.2784,
+            "h": 0.495
+          },
+          "area": 0.1378,
+          "text": "全国应考通过占比41.7%",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 88",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.4171,
+            "w": 0.2177,
+            "h": 0.3869
+          },
+          "area": 0.0842,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "弧形 86",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6218,
+            "y": 0.4171,
+            "w": 0.2177,
+            "h": 0.3869
+          },
+          "area": 0.0842,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 101",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6246,
+            "y": 0.4214,
+            "w": 0.2123,
+            "h": 0.3773
+          },
+          "area": 0.0801,
+          "text": "苏州总模块通过率83.3%",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 6,
+          "footer": 4,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "数据图表-09-静态-e04d6499-s09",
+      "title_guess": "项目预算总计344.5万元",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 28,
+        "image": 0,
+        "chart": 3,
+        "table": 0,
+        "shape": 2,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 32,
+        "text_count": 28,
+        "image_count": 0,
+        "chart_count": 3,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 6,
+        "text_area": 0.204,
+        "image_area": 0,
+        "shape_area": 1.1096,
+        "text_blob": "总计50.4W 10W 8.7W 7.5W 5.5W 5.4W 4.3W 3.4W 3.1W 2.5W 开发费用 总计20.1W/年 8W/年 7W/年 3W/年 1W/年 0.6W/年 0.5W/年 运维保障 总计274W 120W/年 65W 35W 24W 17W/年 13W/年 运营费用 项目预算总计344.5万元",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 15",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0219,
+            "y": 0.1957,
+            "w": 0.9562,
+            "h": 0.7526
+          },
+          "area": 0.7196,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 14",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.39
+          },
+          "area": 0.39,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 150",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6593,
+            "y": 0.363,
+            "w": 0.356,
+            "h": 0.5752
+          },
+          "area": 0.2048,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 134",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3523,
+            "y": 0.363,
+            "w": 0.3502,
+            "h": 0.5752
+          },
+          "area": 0.2014,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0427,
+            "y": 0.363,
+            "w": 0.3442,
+            "h": 0.5752
+          },
+          "area": 0.198,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 46",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "项目预算总计344.5万元",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1171,
+            "y": 0.2887,
+            "w": 0.2842,
+            "h": 0.0673
+          },
+          "area": 0.0191,
+          "text": "总计50.4W",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 135",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4151,
+            "y": 0.2887,
+            "w": 0.2842,
+            "h": 0.0673
+          },
+          "area": 0.0191,
+          "text": "总计20.1W/年",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 151",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7103,
+            "y": 0.2887,
+            "w": 0.2842,
+            "h": 0.0673
+          },
+          "area": 0.0191,
+          "text": "总计274W",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1171,
+            "y": 0.2367,
+            "w": 0.2126,
+            "h": 0.0449
+          },
+          "area": 0.0095,
+          "text": "开发费用",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 24,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "数据图表-09-静态-e04d6499-s10",
+      "title_guess": "时间进度表",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:6,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 1,
+        "image": 0,
+        "chart": 0,
+        "table": 1,
+        "shape": 28,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 32,
+        "text_count": 1,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 28,
+        "connector_count": 0,
+        "text_area": 0.0635,
+        "image_area": 0,
+        "shape_area": 0.3801,
+        "text_blob": "时间进度表",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 5",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.1915,
+            "w": 0.8565,
+            "h": 0.7479
+          },
+          "area": 0.6406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0629,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "时间进度表",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.2665,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.3414,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.4164,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.4913,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 9",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.5663,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.6412,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 11",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.7161,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0717,
+            "y": 0.7911,
+            "w": 0.8565,
+            "h": 0.0367
+          },
+          "area": 0.0314,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "数据图表-09-静态-e04d6499-s11",
+      "title_guess": "用户规模",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-right:3,top-left:2,bottom-left:1",
+      "counts": {
+        "text": 13,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 32,
+        "text_count": 13,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.15,
+        "image_area": 0,
+        "shape_area": 0.0098,
+        "text_blob": "用户规模 4.83亿 2019直播用户 5.24亿 2020直播用户 2.42亿 2017短视频用户 6.67亿 2020短视频用户 中国移动直播活跃用户规模统计情况 单位:亿人 中国短视频活跃用户规模统计情况 单位:亿人",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 34",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0429,
+            "y": 0.4876,
+            "w": 0.4347,
+            "h": 0.4504
+          },
+          "area": 0.1958,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 39",
+          "role": "chart",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.52,
+            "y": 0.4876,
+            "w": 0.4347,
+            "h": 0.4504
+          },
+          "area": 0.1958,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "用户规模",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 33",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0464,
+            "y": 0.4212,
+            "w": 0.2907,
+            "h": 0.0494
+          },
+          "area": 0.0144,
+          "text": "中国移动直播活跃用户规模统计情况",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 36",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5234,
+            "y": 0.4212,
+            "w": 0.2735,
+            "h": 0.0494
+          },
+          "area": 0.0135,
+          "text": "中国短视频活跃用户规模统计情况",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 21",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1397,
+            "y": 0.2751,
+            "w": 0.104,
+            "h": 0.0763
+          },
+          "area": 0.0079,
+          "text": "4.83亿",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 24",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2675,
+            "y": 0.2751,
+            "w": 0.104,
+            "h": 0.0763
+          },
+          "area": 0.0079,
+          "text": "5.24亿",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 28",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6168,
+            "y": 0.2751,
+            "w": 0.104,
+            "h": 0.0763
+          },
+          "area": 0.0079,
+          "text": "2.42亿",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 31",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7447,
+            "y": 0.2751,
+            "w": 0.104,
+            "h": 0.0763
+          },
+          "area": 0.0079,
+          "text": "6.67亿",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 29",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6168,
+            "y": 0.233,
+            "w": 0.1214,
+            "h": 0.0449
+          },
+          "area": 0.0055,
+          "text": "2017短视频用户",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 4,
+          "footer": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "数据图表-09-静态-e04d6499-s12",
+      "title_guess": "移动应用安全市场概况",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:4,bottom-center:1,middle-left:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 4,
+        "table": 0,
+        "shape": 1,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 32,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 4,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 2,
+        "text_area": 0.2679,
+        "image_area": 0,
+        "shape_area": 0.1178,
+        "text_blob": "移动应用安全市场概况 金融类 主题壁纸类 电子商务类 生活服务类 游戏类 其他 移动应用类型分布 游戏类应用以138万款的数量排行第一 据工信部数据显示,2018年,我国市场上监测到的移动应用总量达449万,应用数量净增42万。游戏类应用以138万款的数量排行第一,生活服务类、电子商务类分别以54.2、42.1万款排名第二和第三,规模前三的应用类型总和占比整个移动应用市场规模的52%。 通信安全 加密安全 配置安全 组件安全 代码安全 数据安全 应用风险类型分布 由数据安全与代码安全因素引发的漏洞占比最多 Testin云测安全实验室对2018年度扫描的573,652款应用分析后共计发现漏洞10,794,512个,平均每个应用存在19个漏洞,仅有0.3%的应用不存在漏洞。 其中由数据安全与代码安全因素引发的漏洞占比最多,所占比重分别为30%、28%。",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 7",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.037,
+            "y": 0.2442,
+            "w": 0.4102,
+            "h": 0.8627
+          },
+          "area": 0.3539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 27",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.037,
+            "y": 0.2442,
+            "w": 0.4102,
+            "h": 0.8627
+          },
+          "area": 0.3539,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 11",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.037,
+            "y": 0.3137,
+            "w": 0.4102,
+            "h": 0.7715
+          },
+          "area": 0.3165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 26",
+          "role": "chart",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.037,
+            "y": 0.3137,
+            "w": 0.4102,
+            "h": 0.7715
+          },
+          "area": 0.3165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8851,
+            "w": 1.0,
+            "h": 0.1178
+          },
+          "area": 0.1178,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0518,
+            "y": 0.3135,
+            "w": 0.4293,
+            "h": 0.1506
+          },
+          "area": 0.0647,
+          "text": "据工信部数据显示,2018年,我国市场上监测到的移动应用总量达449万,应用数量净增42万。游戏类应用以138万款的数量排行第一,生活服务类、电子商务类分别以54.2、42.1万款排名第二和第三,规模前三的应用类型总和占比整个移动应用市场规",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 34",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5354,
+            "y": 0.3135,
+            "w": 0.4203,
+            "h": 0.1506
+          },
+          "area": 0.0633,
+          "text": "Testin云测安全实验室对2018年度扫描的573,652款应用分析后共计发现漏洞10,794,512个,平均每个应用存在19个漏洞,仅有0.3%的应用不存在漏洞。 其中由数据安全与代码安全因素引发的漏洞占比最多,所占比重分别为30%、2",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 2",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0485,
+            "y": 0.0649,
+            "w": 0.6164,
+            "h": 0.0853
+          },
+          "area": 0.0526,
+          "text": "移动应用安全市场概况",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5354,
+            "y": 0.243,
+            "w": 0.3685,
+            "h": 0.0494
+          },
+          "area": 0.0182,
+          "text": "由数据安全与代码安全因素引发的漏洞占比最多",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 21",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0495,
+            "y": 0.243,
+            "w": 0.3023,
+            "h": 0.0494
+          },
+          "area": 0.0149,
+          "text": "游戏类应用以138万款的数量排行第一",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 16,
+          "body": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "数据图表-09-静态-e04d6499-s13",
+      "title_guess": "新经济时代的机会点",
+      "layout_job": "limitations-future",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-right:2,bottom-center:2,middle-center:1",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 32,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.2546,
+        "image_area": 0.8361,
+        "shape_area": 0.6685,
+        "text_blob": "红人价值升温 2019年粉丝经济关联产业规模超3.5万亿 互联网时代的粉丝经济,是建立在消费生活、文化娱乐和网络媒体赛道上的经济业态。2019年粉丝经济关联产业市场规模超过3.5万亿元,预计2023年将超过6万亿元。其中,随着红人在关联产业中参与程度和商业价值不断提高,未来将愈发成为关联产业中重要的组成部分。 2016-2023年 中国粉丝经济关联产业市场规模 新经济时代的机会点 2016 2023 2022 2021 2020 2019 2018 2017",
+        "title_like": 1,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 28",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": -0.0414,
+            "y": 0.0006,
+            "w": 1.0414,
+            "h": 0.8029
+          },
+          "area": 0.8361,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 4",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4265,
+            "y": 0.0,
+            "w": 0.5846,
+            "h": 0.8035
+          },
+          "area": 0.4697,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4067,
+            "y": 0.213,
+            "w": 0.5846,
+            "h": 0.6761
+          },
+          "area": 0.3952,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8035,
+            "w": 1.0117,
+            "h": 0.1965
+          },
+          "area": 0.1988,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 9",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0485,
+            "y": 0.3865,
+            "w": 0.3445,
+            "h": 0.2551
+          },
+          "area": 0.0879,
+          "text": "互联网时代的粉丝经济,是建立在消费生活、文化娱乐和网络媒体赛道上的经济业态。2019年粉丝经济关联产业市场规模超过3.5万亿元,预计2023年将超过6万亿元。其中,随着红人在关联产业中参与程度和商业价值不断提高,未来将愈发成为关联产业中重要",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0485,
+            "y": 0.0649,
+            "w": 0.6164,
+            "h": 0.0853
+          },
+          "area": 0.0526,
+          "text": "新经济时代的机会点",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0506,
+            "y": 0.2232,
+            "w": 0.4125,
+            "h": 0.1154
+          },
+          "area": 0.0476,
+          "text": "红人价值升温 2019年粉丝经济关联产业规模超3.5万亿",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4514,
+            "y": 0.2348,
+            "w": 0.4505,
+            "h": 0.1032
+          },
+          "area": 0.0465,
+          "text": "2016-2023年 中国粉丝经济关联产业市场规模",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4319,
+            "y": 0.8881,
+            "w": 0.0627,
+            "h": 0.0404
+          },
+          "area": 0.0025,
+          "text": "2016",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9038,
+            "y": 0.8881,
+            "w": 0.0627,
+            "h": 0.0404
+          },
+          "area": 0.0025,
+          "text": "2023",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 3,
+          "title": 1,
+          "footer": 8
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "数据图表-09-静态-e04d6499-s14",
+      "title_guess": "庄镇村民了解村务信息的方式",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:2,middle-left:2,middle-right:1",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.1154,
+        "image_area": 0,
+        "shape_area": 0.8972,
+        "text_blob": "庄镇村民了解村务信息的方式 调查结果 绝大多数村民获取信息依靠传统的公开栏和村喇叭广播,直接在官网上获取信息的人很少。",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 14",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.2208,
+            "y": 0.2513,
+            "w": 0.9161,
+            "h": 0.6761
+          },
+          "area": 0.6194,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 8",
+          "role": "chart",
+          "zone": "top-left",
+          "box": {
+            "x": -0.5145,
+            "y": -0.6697,
+            "w": 0.5872,
+            "h": 0.6959
+          },
+          "area": 0.4086,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0485,
+            "y": 0.0649,
+            "w": 0.6164,
+            "h": 0.0853
+          },
+          "area": 0.0526,
+          "text": "庄镇村民了解村务信息的方式",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0485,
+            "y": 0.3689,
+            "w": 0.2338,
+            "h": 0.1496
+          },
+          "area": 0.035,
+          "text": "绝大多数村民获取信息依靠传统的公开栏和村喇叭广播,直接在官网上获取信息的人很少。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 17",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0496,
+            "y": 0.2723,
+            "w": 0.4125,
+            "h": 0.0673
+          },
+          "area": 0.0278,
+          "text": "调查结果",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "直接连接符 18",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0579,
+            "y": 0.3469,
+            "w": 0.1021,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "数据图表-09-静态-e04d6499-s15",
+      "title_guess": "目前村务公开信息真实度",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,bottom-center:1",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 32,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1154,
+        "image_area": 0,
+        "shape_area": 0.4295,
+        "text_blob": "目前村务公开信息真实度 调查结果 近二成村民不清楚村务公开信息真实度,近三成村民存在对公开信息真实度的怀疑。",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 16",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3065,
+            "y": 0.1502,
+            "w": 0.6667,
+            "h": 0.7901
+          },
+          "area": 0.5268,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆: 空心 21",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4087,
+            "y": 0.225,
+            "w": 0.3602,
+            "h": 0.6404
+          },
+          "area": 0.2307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 23",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8035,
+            "w": 1.0117,
+            "h": 0.1965
+          },
+          "area": 0.1988,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.046,
+            "y": 0.0649,
+            "w": 0.6164,
+            "h": 0.0853
+          },
+          "area": 0.0526,
+          "text": "目前村务公开信息真实度",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0485,
+            "y": 0.3689,
+            "w": 0.2338,
+            "h": 0.1496
+          },
+          "area": 0.035,
+          "text": "近二成村民不清楚村务公开信息真实度,近三成村民存在对公开信息真实度的怀疑。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0496,
+            "y": 0.2723,
+            "w": 0.4125,
+            "h": 0.0673
+          },
+          "area": 0.0278,
+          "text": "调查结果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 6",
+          "role": "connector",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0579,
+            "y": 0.3469,
+            "w": 0.1021,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "数据图表-09-静态-e04d6499-s16",
+      "title_guess": "高速增长的某某行业产值与其信息化程度不成正比",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:3,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 22,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 74,
+        "connector": 6
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 32,
+        "text_count": 22,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 74,
+        "connector_count": 6,
+        "text_area": 0.1453,
+        "image_area": 0,
+        "shape_area": 0.4957,
+        "text_blob": "高速增长的某某行业产值与其信息化程度不成正比 近十年某某行业总产值(亿元) 某某行业信息化水平(信息化率) 我国水平 国际水平 2019年全国某某产业 20.5万亿元 全国某某业总产值 10.8% 同比增长 20.5万亿元 签订合同总额 11.5% 同比增长 20.5万个 中标项目数量 15.9% 同比增长 10.5万个 新生企业 10.5% 同比增长",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "直角三角形 1",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.1101,
+            "y": 0.1957,
+            "w": 0.5625,
+            "h": 0.6085
+          },
+          "area": 0.3423,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "直角三角形 2",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.708,
+            "y": 0.4809,
+            "w": 0.363,
+            "h": 0.3927
+          },
+          "area": 0.1426,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 4",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3732,
+            "y": 0.3946,
+            "w": 0.2944,
+            "h": 0.4818
+          },
+          "area": 0.1418,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 9",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7341,
+            "y": 0.3946,
+            "w": 0.2213,
+            "h": 0.4993
+          },
+          "area": 0.1105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 3",
+          "role": "title",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0477,
+            "y": 0.0688,
+            "w": 0.3713,
+            "h": 0.1391
+          },
+          "area": 0.0516,
+          "text": "高速增长的某某行业产值与其信息化程度不成正比",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 7",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7389,
+            "y": 0.309,
+            "w": 0.236,
+            "h": 0.0449
+          },
+          "area": 0.0106,
+          "text": "某某行业信息化水平(信息化率)",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 5",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3769,
+            "y": 0.309,
+            "w": 0.2213,
+            "h": 0.0449
+          },
+          "area": 0.0099,
+          "text": "近十年某某行业总产值(亿元)",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 12",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0486,
+            "y": 0.309,
+            "w": 0.155,
+            "h": 0.0449
+          },
+          "area": 0.007,
+          "text": "2019年全国某某产业",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 14",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1133,
+            "y": 0.4412,
+            "w": 0.1102,
+            "h": 0.0539
+          },
+          "area": 0.0059,
+          "text": "20.5万亿元",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 29",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1133,
+            "y": 0.6975,
+            "w": 0.1102,
+            "h": 0.0539
+          },
+          "area": 0.0059,
+          "text": "20.5万亿元",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 21
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "数据图表-09-静态-e04d6499-s17",
+      "title_guess": "内容日历",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-center:3,bottom-center:3",
+      "counts": {
+        "text": 25,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 32,
+        "text_count": 25,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.5759,
+        "image_area": 0.2901,
+        "shape_area": 0.2901,
+        "text_blob": "内容日历 时间 平台 物料 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 微博 微博/微信 微博 微博/小红书 微信 口袋48 微博/微信 后台花絮照片 *9张 明星social海报 *2张 高颜值网红响应晒图 *17篇 种草天团全面安利 *18篇 GQ实验室引爆中产健康饮食文章 *1篇 明星直播30-45min *1次 大众点评联合活动发布 *1次",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆顶角 2",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.2901
+          },
+          "area": 0.2901,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 30",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 0.2901
+          },
+          "area": 0.2901,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 5",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.2093,
+            "w": 0.5721,
+            "h": 0.0808
+          },
+          "area": 0.0462,
+          "text": "物料",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 22",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.3098,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "后台花絮照片 *9张",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 23",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.399,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "明星social海报 *2张",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.4883,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "高颜值网红响应晒图 *17篇",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 25",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.5776,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "种草天团全面安利 *18篇",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 26",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.6669,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "GQ实验室引爆中产健康饮食文章 *1篇",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 27",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.7562,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "明星直播30-45min *1次",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 28",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3708,
+            "y": 0.8455,
+            "w": 0.5721,
+            "h": 0.077
+          },
+          "area": 0.0441,
+          "text": "大众点评联合活动发布 *1次",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 22,
+          "footer": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "数据图表-09-静态-e04d6499-s18",
+      "title_guess": "物料制作费用",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,top-center:2,unknown:2",
+      "counts": {
+        "text": 1,
+        "image": 0,
+        "chart": 0,
+        "table": 1,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 32,
+        "text_count": 1,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.0571,
+        "image_area": 0,
+        "shape_area": 0.9656,
+        "text_blob": "物料制作费用",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1777,
+            "w": 0.8859,
+            "h": 0.784
+          },
+          "area": 0.6945,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "表格 5",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0739,
+            "y": 0.1777,
+            "w": 0.8522,
+            "h": 0.7
+          },
+          "area": 0.5965,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 5",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 1.0,
+            "h": 0.2711
+          },
+          "area": 0.2711,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "物料制作费用",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "直接连接符 3",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "直接连接符 8",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "数据图表-09-静态-e04d6499-s19",
+      "title_guess": "具体活动内容",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,top-left:3,top-right:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 1,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 32,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0971,
+        "image_area": 0,
+        "shape_area": 0.116,
+        "text_blob": "具体活动内容 区域 Area 内容 Content",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "表格 88",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.3116,
+            "w": 0.8859,
+            "h": 0.6083
+          },
+          "area": 0.5389,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "任意多边形: 形状 56",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3634,
+            "y": 0.1936,
+            "w": 0.5795,
+            "h": 0.118
+          },
+          "area": 0.0684,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "具体活动内容",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 61",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.1936,
+            "w": 0.3818,
+            "h": 0.118
+          },
+          "area": 0.0451,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 62",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1437,
+            "y": 0.2212,
+            "w": 0.1669,
+            "h": 0.0763
+          },
+          "area": 0.0127,
+          "text": "区域",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 64",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5839,
+            "y": 0.2212,
+            "w": 0.1669,
+            "h": 0.0763
+          },
+          "area": 0.0127,
+          "text": "内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 63",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2159,
+            "y": 0.2373,
+            "w": 0.1254,
+            "h": 0.0583
+          },
+          "area": 0.0073,
+          "text": "Area",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 65",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6561,
+            "y": 0.2373,
+            "w": 0.1254,
+            "h": 0.0583
+          },
+          "area": 0.0073,
+          "text": "Content",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "任意多边形: 形状 54",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.2902,
+            "w": 0.1191,
+            "h": 0.0214
+          },
+          "area": 0.0025,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 2,
+          "footer": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "数据图表-09-静态-e04d6499-s20",
+      "title_guess": "全程报道媒体粉丝总量排行(示例)",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:3,top-center:2",
+      "counts": {
+        "text": 28,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 32,
+        "text_count": 28,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2227,
+        "image_area": 0,
+        "shape_area": 1.4071,
+        "text_blob": "全程报道媒体粉丝总量排行(示例) 微博/微信名 微博/微信ID 粉丝(万) 1 2 3 4 5 6 旅游全资讯 环球旅行 视觉志 旅行说 时尚优生活 全球生活视界 ryqzx365 viphuanqiu QQ_shijuezhi lvxing183 shyshhuo qqshsj 112 103 321 83 81 89",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆顶角 2",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.183,
+            "w": 1.0,
+            "h": 0.817
+          },
+          "area": 0.817,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.183,
+            "w": 1.0,
+            "h": 0.0981
+          },
+          "area": 0.0981,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 3",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.3158,
+            "w": 0.8859,
+            "h": 0.0981
+          },
+          "area": 0.0869,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.4322,
+            "w": 0.8859,
+            "h": 0.0981
+          },
+          "area": 0.0869,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 11",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.5486,
+            "w": 0.8859,
+            "h": 0.0981
+          },
+          "area": 0.0869,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.665,
+            "w": 0.8859,
+            "h": 0.078
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.7612,
+            "w": 0.8859,
+            "h": 0.078
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 14",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.8575,
+            "w": 0.8859,
+            "h": 0.078
+          },
+          "area": 0.0691,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "全程报道媒体粉丝总量排行(示例)",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1227,
+            "y": 0.2051,
+            "w": 0.1956,
+            "h": 0.0539
+          },
+          "area": 0.0105,
+          "text": "微博/微信名",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 27
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "数据图表-09-静态-e04d6499-s21",
+      "title_guess": "第一阶段各系列情况",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-right:4,top-left:3,middle-center:2",
+      "counts": {
+        "text": 1,
+        "image": 36,
+        "chart": 0,
+        "table": 1,
+        "shape": 65,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 32,
+        "text_count": 1,
+        "image_count": 36,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 65,
+        "connector_count": 0,
+        "text_area": 0.0571,
+        "image_area": 4.1235,
+        "shape_area": 2.3489,
+        "text_blob": "第一阶段各系列情况",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 60",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1857,
+            "w": 0.8859,
+            "h": 0.7343
+          },
+          "area": 0.6505,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "表格 3",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.1857,
+            "w": 0.8859,
+            "h": 0.7343
+          },
+          "area": 0.6505,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 187",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0001,
+            "w": 1.0,
+            "h": 0.304
+          },
+          "area": 0.304,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "PA-图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6506,
+            "y": 0.2995,
+            "w": 0.3187,
+            "h": 0.5665
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "PA-图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6506,
+            "y": 0.2995,
+            "w": 0.3187,
+            "h": 0.5665
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-图片 2",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6506,
+            "y": 0.2995,
+            "w": 0.3187,
+            "h": 0.5665
+          },
+          "area": 0.1805,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 14",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.0119,
+            "w": 0.2828,
+            "h": 0.4236
+          },
+          "area": 0.1198,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 33",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 1.0647,
+            "y": 0.2028,
+            "w": 0.2828,
+            "h": 0.4236
+          },
+          "area": 0.1198,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 71",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.0119,
+            "w": 0.2828,
+            "h": 0.4236
+          },
+          "area": 0.1198,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 82",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1047,
+            "y": 0.0119,
+            "w": 0.2828,
+            "h": 0.4236
+          },
+          "area": 0.1198,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1
+        },
+        "image": {
+          "image": 36
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "数据图表-09-静态-e04d6499-s22",
+      "title_guess": "不同年龄的品牌使用率",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,top-center:2",
+      "counts": {
+        "text": 36,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 34
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 32,
+        "text_count": 36,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 34,
+        "text_area": 0.2711,
+        "image_area": 0,
+        "shape_area": 1.09,
+        "text_blob": "不同年龄的品牌使用率 15-24岁 25-34岁 40-49岁 护舒宝 苏菲 安尔乐 强生娇爽 洁婷 舒而美 安乐 乐而雅 66% 36% 29% 28% 23% 20% 17% 13% 58% 30% 22% 22% 17% 15% 13% 10% 39% 23% 20% 17% 12% 9% 9% 6%",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆顶角 47",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3577,
+            "y": -0.259,
+            "w": 0.3625,
+            "h": 1.7134
+          },
+          "area": 0.6211,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 39",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1824,
+            "y": 0.2745,
+            "w": 0.2421,
+            "h": 0.6455
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 41",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7009,
+            "y": 0.2745,
+            "w": 0.2421,
+            "h": 0.6455
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 40",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4416,
+            "y": 0.2745,
+            "w": 0.2421,
+            "h": 0.6455
+          },
+          "area": 0.1563,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "不同年龄的品牌使用率",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 单圆角 42",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1824,
+            "y": 0.1738,
+            "w": 0.2421,
+            "h": 0.1006
+          },
+          "area": 0.0244,
+          "text": "15-24岁",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 单圆角 43",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4416,
+            "y": 0.1738,
+            "w": 0.2421,
+            "h": 0.1006
+          },
+          "area": 0.0244,
+          "text": "25-34岁",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 单圆角 44",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7009,
+            "y": 0.1738,
+            "w": 0.2421,
+            "h": 0.1006
+          },
+          "area": 0.0244,
+          "text": "40-49岁",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 51",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0776,
+            "y": 0.2957,
+            "w": 0.0882,
+            "h": 0.0494
+          },
+          "area": 0.0044,
+          "text": "护舒宝",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0776,
+            "y": 0.3756,
+            "w": 0.0882,
+            "h": 0.0494
+          },
+          "area": 0.0044,
+          "text": "苏菲",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 3,
+          "footer": 32
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "数据图表-09-静态-e04d6499-s23",
+      "title_guess": "时间规划",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:4,top-center:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 15
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 32,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 15,
+        "text_area": 0.2901,
+        "image_area": 0,
+        "shape_area": 0.4128,
+        "text_blob": "时间规划 08月 09月 10月 11月 12月 01月 02月 市场调研 传播策略 创意提案及调整 媒介计划及执行 相关物料创作及制作 月度工作检讨 传播策略调整 广告员培训",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 1",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "时间规划",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形 17",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.2514,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 26",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.3374,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 27",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.4235,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 28",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.5095,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 29",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.5955,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 30",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.6816,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 31",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.7676,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 32",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1836,
+            "y": 0.8537,
+            "w": 0.7594,
+            "h": 0.0679
+          },
+          "area": 0.0516,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 92",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1851,
+            "y": 0.6816,
+            "w": 0.7591,
+            "h": 0.0679
+          },
+          "area": 0.0515,
+          "text": "月度工作检讨",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 8,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "数据图表-09-静态-e04d6499-s24",
+      "title_guess": "第一周",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:3,middle-left:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 32,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1563,
+        "image_area": 0,
+        "shape_area": 0.7815,
+        "text_blob": "第一周 第二周 第三周 第四周 第五周 活动时间安排 轻客发展趋势,低端MPV的理性回归 12年销量冠军之路 低端MPV的理性回归 产品功能3G特性,经济性突出",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2706,
+            "w": 0.173,
+            "h": 0.6442
+          },
+          "area": 0.1114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 36",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2353,
+            "y": 0.2706,
+            "w": 0.173,
+            "h": 0.6442
+          },
+          "area": 0.1114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4135,
+            "y": 0.2706,
+            "w": 0.173,
+            "h": 0.6442
+          },
+          "area": 0.1114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 39",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7699,
+            "y": 0.2706,
+            "w": 0.173,
+            "h": 0.6442
+          },
+          "area": 0.1114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 38",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5917,
+            "y": 0.2706,
+            "w": 0.173,
+            "h": 0.6442
+          },
+          "area": 0.1114,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.9148,
+            "w": 1.0,
+            "h": 0.0887
+          },
+          "area": 0.0887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 18",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.057,
+            "y": 0.3589,
+            "w": 0.7077,
+            "h": 0.0635
+          },
+          "area": 0.0449,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 25",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3347,
+            "y": 0.7808,
+            "w": 0.6082,
+            "h": 0.0635
+          },
+          "area": 0.0386,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 19",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1565,
+            "y": 0.4995,
+            "w": 0.43,
+            "h": 0.0635
+          },
+          "area": 0.0273,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3706,
+            "y": 0.6401,
+            "w": 0.3942,
+            "h": 0.0635
+          },
+          "area": 0.025,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 10
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "数据图表-09-静态-e04d6499-s25",
+      "title_guess": "活动甘特图",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "text-led",
+      "area_signature": "top-left:2,top-right:2,middle-left:2",
+      "counts": {
+        "text": 26,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 16,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 32,
+        "text_count": 26,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 16,
+        "connector_count": 0,
+        "text_area": 0.3623,
+        "image_area": 0,
+        "shape_area": 0.2904,
+        "text_blob": "活动甘特图 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 种草期 拔草期 上市造势,引发讨论与期待 大规模曝光,种草大众 持续营造饮用场景,推动购买 明星日常探秘 引发粉丝关注 为产品预热 时间 阶段 官方内容 KOL内容 平台合作 白日梦 视频发布 明星深夜撸串 同款神奇饮料 明星视频 拍摄花絮揭秘 直播揭秘 吃货婷 网红KOL晒可乐纤维+ 种草天团 场景化扩散 大众点评 免费赢餐厅 试吃券 GQ实验室 引爆中产健康饮食焦虑",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 27",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1852,
+            "y": 0.2518,
+            "w": 0.4312,
+            "h": 0.0633
+          },
+          "area": 0.0273,
+          "text": "种草期",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.1588,
+            "w": 0.1113,
+            "h": 0.2341
+          },
+          "area": 0.0261,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 34",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6206,
+            "y": 0.1588,
+            "w": 0.3223,
+            "h": 0.0808
+          },
+          "area": 0.026,
+          "text": "持续营造饮用场景,推动购买",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 7",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.308,
+            "h": 0.0808
+          },
+          "area": 0.0249,
+          "text": "活动甘特图",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 28",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6206,
+            "y": 0.2518,
+            "w": 0.3223,
+            "h": 0.0633
+          },
+          "area": 0.0204,
+          "text": "拔草期",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 35",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.4186,
+            "w": 0.1113,
+            "h": 0.1665
+          },
+          "area": 0.0185,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 36",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.5968,
+            "w": 0.1113,
+            "h": 0.1665
+          },
+          "area": 0.0185,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.7747,
+            "w": 0.1113,
+            "h": 0.1665
+          },
+          "area": 0.0185,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 29",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1852,
+            "y": 0.4184,
+            "w": 0.1046,
+            "h": 0.1667
+          },
+          "area": 0.0174,
+          "text": "明星日常探秘 引发粉丝关注 为产品预热",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 45",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2941,
+            "y": 0.4184,
+            "w": 0.1046,
+            "h": 0.1667
+          },
+          "area": 0.0174,
+          "text": "白日梦 视频发布",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 26
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 26,
+      "slide_id": "26",
+      "framework_id": "数据图表-09-静态-e04d6499-s26",
+      "title_guess": "活动甘特图",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:4,middle-center:2,top-center:1",
+      "counts": {
+        "text": 19,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 0,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 26,
+        "total_slides": 32,
+        "text_count": 19,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 0,
+        "connector_count": 8,
+        "text_area": 0.2171,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "1 2 3 4 5 6 7 活动甘特图 Week 1st 2nd 3rd 4th 5th 市场调研 传播策略 月度工作检讨 相关物料创作及制作 广告员培训",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 5",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "活动甘特图",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 45",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.245,
+            "y": 0.6934,
+            "w": 0.5816,
+            "h": 0.0696
+          },
+          "area": 0.0405,
+          "text": "相关物料创作及制作",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 43",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2444,
+            "y": 0.4355,
+            "w": 0.3494,
+            "h": 0.0696
+          },
+          "area": 0.0243,
+          "text": "传播策略",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 44",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3608,
+            "y": 0.5644,
+            "w": 0.3494,
+            "h": 0.0696
+          },
+          "area": 0.0243,
+          "text": "月度工作检讨",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 46",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7102,
+            "y": 0.8223,
+            "w": 0.2328,
+            "h": 0.0696
+          },
+          "area": 0.0162,
+          "text": "广告员培训",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 41",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.135,
+            "y": 0.3066,
+            "w": 0.2261,
+            "h": 0.0696
+          },
+          "area": 0.0157,
+          "text": "市场调研",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 36",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.3145,
+            "w": 0.0713,
+            "h": 0.0539
+          },
+          "area": 0.0038,
+          "text": "1st",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 37",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.4434,
+            "w": 0.0713,
+            "h": 0.0539
+          },
+          "area": 0.0038,
+          "text": "2nd",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 38",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.5723,
+            "w": 0.0713,
+            "h": 0.0539
+          },
+          "area": 0.0038,
+          "text": "3rd",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 39",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.7012,
+            "w": 0.0713,
+            "h": 0.0539
+          },
+          "area": 0.0038,
+          "text": "4th",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 13,
+          "title": 1,
+          "label": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 27,
+      "slide_id": "27",
+      "framework_id": "数据图表-09-静态-e04d6499-s27",
+      "title_guess": "项目进度管理",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:4,middle-center:3,bottom-center:2",
+      "counts": {
+        "text": 15,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 9
+      },
+      "metrics": {
+        "slide_index": 27,
+        "total_slides": 32,
+        "text_count": 15,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 9,
+        "text_area": 0.116,
+        "image_area": 0.024,
+        "shape_area": 0.6296,
+        "text_blob": "Week 03 Week 01 负责人 Week 02 Week 04 Week 05 Week 06 Week 07 项目进度管理 目前 Elizabeth Clemence Kenneth Branagh John David",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆顶角 14",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4667,
+            "y": -0.326,
+            "w": 0.0667,
+            "h": 1.575
+          },
+          "area": 0.1051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 16",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4667,
+            "y": -0.192,
+            "w": 0.0667,
+            "h": 1.575
+          },
+          "area": 0.1051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 18",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4667,
+            "y": -0.0579,
+            "w": 0.0667,
+            "h": 1.575
+          },
+          "area": 0.1051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆顶角 20",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4667,
+            "y": 0.0761,
+            "w": 0.0667,
+            "h": 1.575
+          },
+          "area": 0.1051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 1",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4667,
+            "y": -0.4601,
+            "w": 0.0667,
+            "h": 1.575
+          },
+          "area": 0.1051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 2",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "项目进度管理",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 31",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2487,
+            "y": 0.3119,
+            "w": 0.5943,
+            "h": 0.0311
+          },
+          "area": 0.0185,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 34",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4431,
+            "y": 0.58,
+            "w": 0.4999,
+            "h": 0.0311
+          },
+          "area": 0.0155,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 33",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3431,
+            "y": 0.4459,
+            "w": 0.3999,
+            "h": 0.0311
+          },
+          "area": 0.0124,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 64",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2487,
+            "y": 0.3119,
+            "w": 0.3736,
+            "h": 0.0311
+          },
+          "area": 0.0116,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 14,
+          "title": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 28,
+      "slide_id": "28",
+      "framework_id": "数据图表-09-静态-e04d6499-s28",
+      "title_guess": "嘉宾发言流程",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:2,middle-center:2,bottom-right:2",
+      "counts": {
+        "text": 19,
+        "image": 13,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 13
+      },
+      "metrics": {
+        "slide_index": 28,
+        "total_slides": 32,
+        "text_count": 19,
+        "image_count": 13,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 13,
+        "text_area": 0.1288,
+        "image_area": 0.0351,
+        "shape_area": 0.2071,
+        "text_blob": "嘉宾发言流程 主峰会 行业专场 产品专场 热点专场 伙伴专场 10 am 11 am 12 am 1 pm 2 pm 3 pm 4 pm 5 pm 3小时左右 5小时左右 3小时左右 3小时左右 5小时左右",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "嘉宾发言流程",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 27",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5333,
+            "y": -0.1034,
+            "w": 0.0563,
+            "h": 0.9688
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 36",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6423,
+            "y": 0.3172,
+            "w": 0.0563,
+            "h": 0.9688
+          },
+          "area": 0.0545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆顶角 22",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3153,
+            "y": -0.0498,
+            "w": 0.0563,
+            "h": 0.5813
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆顶角 30",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4243,
+            "y": 0.2306,
+            "w": 0.0563,
+            "h": 0.5813
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆顶角 33",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6423,
+            "y": 0.3708,
+            "w": 0.0563,
+            "h": 0.5813
+          },
+          "area": 0.0327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 7",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.2078,
+            "w": 0.0946,
+            "h": 0.0661
+          },
+          "area": 0.0063,
+          "text": "主峰会",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 8",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.348,
+            "w": 0.0946,
+            "h": 0.0661
+          },
+          "area": 0.0063,
+          "text": "行业专场",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 9",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.4882,
+            "w": 0.0946,
+            "h": 0.0661
+          },
+          "area": 0.0063,
+          "text": "产品专场",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 10",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.6283,
+            "w": 0.0946,
+            "h": 0.0661
+          },
+          "area": 0.0063,
+          "text": "热点专场",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 5,
+          "footer": 13
+        },
+        "image": {
+          "image": 13
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 29,
+      "slide_id": "29",
+      "framework_id": "数据图表-09-静态-e04d6499-s29",
+      "title_guess": "大会日程",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 30,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 29,
+        "total_slides": 32,
+        "text_count": 30,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.2282,
+        "image_area": 0,
+        "shape_area": 0.8321,
+        "text_blob": "时间 时长 活动内容 10:00-10:02 2 min 主持人开场 10:12-10:18 6 min 金牌颁奖典礼 10:18-10:28 10 min 金牌代表讲话 10:28-10:33 5 min 发布会结束 10:33-11:00 27 min 媒体专访 10:02-10:07 5 min 华晨领导致辞 10:07-10:12 5 min 启动仪式 大会日程 DAY 01 DAY 02 DAY 03 DAY 04 DAY 05",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 3",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.1786,
+            "h": 1.0
+          },
+          "area": 0.1786,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆顶角 95",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.3838,
+            "w": 0.245,
+            "h": 0.6162
+          },
+          "area": 0.151,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆顶角 94",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 0.245,
+            "h": 0.2783
+          },
+          "area": 0.0682,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 2",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "大会日程",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 5",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.2252,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 8",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.5463,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.6533,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.7603,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 12",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.8674,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2963,
+            "y": 0.3323,
+            "w": 0.6467,
+            "h": 0.0808
+          },
+          "area": 0.0523,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 29,
+          "title": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 30,
+      "slide_id": "30",
+      "framework_id": "数据图表-09-静态-e04d6499-s30",
+      "title_guess": "公司各类项目样本分布产出",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:4,middle-left:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 2,
+        "table": 0,
+        "shape": 5,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 30,
+        "total_slides": 32,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 2,
+        "text_area": 0.0964,
+        "image_area": 0.3815,
+        "shape_area": 1.0249,
+        "text_blob": "公司各类项目样本分布产出 不同调研方式完成样本量 单位/人 执行样本量业态分布 单位/人",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 4",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6194,
+            "y": 0.0,
+            "w": 0.3815,
+            "h": 1.0
+          },
+          "area": 0.3815,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 38",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6193,
+            "y": 0.0,
+            "w": 0.3815,
+            "h": 1.0
+          },
+          "area": 0.3815,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 6",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.057,
+            "y": 0.1696,
+            "w": 0.443,
+            "h": 0.7426
+          },
+          "area": 0.329,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 5",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5205,
+            "y": 0.1696,
+            "w": 0.4225,
+            "h": 0.7426
+          },
+          "area": 0.3137,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图表 13",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0668,
+            "y": 0.2988,
+            "w": 0.443,
+            "h": 0.5744
+          },
+          "area": 0.2545,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图表 28",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5331,
+            "y": 0.2988,
+            "w": 0.4205,
+            "h": 0.5744
+          },
+          "area": 0.2415,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0485,
+            "y": 0.0649,
+            "w": 0.6164,
+            "h": 0.0853
+          },
+          "area": 0.0526,
+          "text": "公司各类项目样本分布产出",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 1",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0628,
+            "y": 0.2006,
+            "w": 0.3059,
+            "h": 0.0583
+          },
+          "area": 0.0178,
+          "text": "不同调研方式完成样本量",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 25",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5314,
+            "y": 0.2006,
+            "w": 0.3059,
+            "h": 0.0583
+          },
+          "area": 0.0178,
+          "text": "执行样本量业态分布",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3828,
+            "y": 0.2786,
+            "w": 0.1083,
+            "h": 0.0381
+          },
+          "area": 0.0041,
+          "text": "单位/人",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 31,
+      "slide_id": "31",
+      "framework_id": "数据图表-09-静态-e04d6499-s31",
+      "title_guess": "国民级应用,移动网民全覆盖",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,bottom-center:2,bottom-left:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 2,
+        "table": 0,
+        "shape": 8,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 31,
+        "total_slides": 32,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 2,
+        "text_area": 0.1668,
+        "image_area": 0,
+        "shape_area": 1.3842,
+        "text_blob": "国民级应用,移动网民全覆盖 日活跃用户DAU 1.4 亿 阅读高峰期 11:00 至 14:00 人均单日使用时长 0.5 h 用户性别比 52% 48% 用户年龄分布 用户城市分布 总人数 1.45E",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 77",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6136,
+            "y": 0.349,
+            "w": 0.3911,
+            "h": 0.5202
+          },
+          "area": 0.2035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 51",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6719,
+            "y": 0.2472,
+            "w": 0.2712,
+            "h": 0.6402
+          },
+          "area": 0.1736,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 30",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3915,
+            "y": 0.4523,
+            "w": 0.2712,
+            "h": 0.4351
+          },
+          "area": 0.118,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 72",
+          "role": "chart",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3999,
+            "y": 0.5254,
+            "w": 0.2566,
+            "h": 0.3599
+          },
+          "area": 0.0924,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 2",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0483,
+            "y": 0.0688,
+            "w": 0.7444,
+            "h": 0.0853
+          },
+          "area": 0.0635,
+          "text": "国民级应用,移动网民全覆盖",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 53",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3915,
+            "y": 0.2472,
+            "w": 0.2712,
+            "h": 0.1888
+          },
+          "area": 0.0512,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 78",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7525,
+            "y": 0.4742,
+            "w": 0.1118,
+            "h": 0.1987
+          },
+          "area": 0.0222,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 11",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1215,
+            "y": 0.5444,
+            "w": 0.1834,
+            "h": 0.0583
+          },
+          "area": 0.0107,
+          "text": "人均单日使用时长",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 18",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1241,
+            "y": 0.8126,
+            "w": 0.1127,
+            "h": 0.0942
+          },
+          "area": 0.0106,
+          "text": "11:00",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 25",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2485,
+            "y": 0.8126,
+            "w": 0.1127,
+            "h": 0.0942
+          },
+          "area": 0.0106,
+          "text": "14:00",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 10,
+          "label": 7
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 32,
+      "slide_id": "32",
+      "framework_id": "数据图表-09-静态-e04d6499-s32",
+      "title_guess": "主要城市不同品牌卷筒纸的消费者使用率",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "chart",
+      "density": "low",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:2,bottom-center:1,top-center:1",
+      "counts": {
+        "text": 1,
+        "image": 1,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 32,
+        "total_slides": 32,
+        "text_count": 1,
+        "image_count": 1,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.0571,
+        "image_area": 1.0,
+        "shape_area": 0.1496,
+        "text_blob": "主要城市不同品牌卷筒纸的消费者使用率",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 1.0,
+            "h": 1.0
+          },
+          "area": 1.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 7",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.186,
+            "w": 0.9122,
+            "h": 0.7289
+          },
+          "area": 0.6649,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 1",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0,
+            "y": 0.8504,
+            "w": 1.0,
+            "h": 0.1496
+          },
+          "area": 0.1496,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 4",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0486,
+            "y": 0.0526,
+            "w": 0.7063,
+            "h": 0.0808
+          },
+          "area": 0.0571,
+          "text": "主要城市不同品牌卷筒纸的消费者使用率",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "指标概览",
+        "图表页",
+        "对比页",
+        "结论"
+      ],
+      "avoid_for": [
+        "纯情绪海报",
+        "儿童活动风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 32,
+    "layout_job_counts": {
+      "kpi-grid": 11,
+      "flow-diagram": 7,
+      "table": 4,
+      "matrix-grid": 3,
+      "claim-evidence": 2,
+      "cover-statement": 1,
+      "process-strip": 1,
+      "duo-compare": 1,
+      "limitations-future": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "chart": 16,
+      "diagram-shapes": 10,
+      "table": 4,
+      "image": 2
+    },
+    "density_counts": {
+      "high": 16,
+      "medium-high": 9,
+      "low": 4,
+      "medium": 3
+    },
+    "dominant_layout_jobs": [
+      "kpi-grid",
+      "flow-diagram",
+      "table",
+      "matrix-grid",
+      "claim-evidence"
+    ],
+    "dominant_primary_carriers": [
+      "chart",
+      "diagram-shapes",
+      "table"
+    ]
+  }
+}

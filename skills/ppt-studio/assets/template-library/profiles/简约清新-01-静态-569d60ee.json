@@ -1,0 +1,4386 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:29.847691+00:00",
+  "template_id": "简约清新-01-静态-569d60ee",
+  "template_profile_path": "assets/template-library/profiles/简约清新-01-静态-569d60ee.json",
+  "source_template": {
+    "name": "简约清新(01)—静态.pptx",
+    "category": "简约清新（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/简约清新（5套）/简约清新(01)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 20,
+    "media_count": 27,
+    "image_media_count": 27,
+    "motion_hint": "static",
+    "tags": [
+      "简约清新",
+      "通用介绍",
+      "轻量汇报",
+      "清爽展示",
+      "封面",
+      "概览",
+      "要点",
+      "总结",
+      "留白",
+      "清爽",
+      "柔和",
+      "通用",
+      "简洁插画",
+      "截图",
+      "小图",
+      "短句",
+      "轻量标题",
+      "静态版",
+      "中",
+      "图片密度高",
+      "文字密度高"
+    ]
+  },
+  "template_match": {
+    "family": "简约清新",
+    "scenario": [
+      "通用介绍",
+      "轻量汇报",
+      "清爽展示"
+    ],
+    "best_for": [
+      "轻量汇报",
+      "通用介绍"
+    ],
+    "avoid": [
+      "高密度科研",
+      "重数据报告"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "概览",
+      "要点",
+      "总结"
+    ],
+    "visual": [
+      "留白",
+      "清爽",
+      "柔和",
+      "通用"
+    ],
+    "image_strategy": [
+      "简洁插画",
+      "截图",
+      "小图"
+    ],
+    "text_strategy": [
+      "短句",
+      "轻量标题"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "image-hero",
+      "two-column",
+      "flow-diagram",
+      "matrix-grid",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "label",
+      "decorative-shape",
+      "image",
+      "footer",
+      "body",
+      "diagram-block"
+    ],
+    "common_zones": [
+      "middle-right",
+      "middle-left",
+      "middle-center",
+      "top-center",
+      "bottom-right",
+      "bottom-center"
+    ],
+    "template_text_signature": "清新淡雅 目录 点击添加标题 单击添加小标题 此处添加标题 单击添加小标题 此处添加标题 点击添加标题 添加小标题 此处添加标题 此处输入正文 点击添加标题 此处添加标题 单击添加小标题 此处添加标题 点击添加标题 单击添加小标题 单击添加小标题 此处添加标题 感谢观看",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "简约清新-01-静态-569d60ee-s01",
+      "title_guess": "清新淡雅",
+      "layout_job": "cover-statement",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:4,middle-left:3,top-right:2",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 20,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 3,
+        "text_area": 0.1757,
+        "image_area": 0.325,
+        "shape_area": 0.4861,
+        "text_blob": "清新淡雅 小清新通用演示模板 汇报人:锐旗设计 Small Fresh And Simple General Demonstration Template General demonstration General demonstration 添加标题内容 用这生命中的每一秒 给自己一个不后悔的未来 General demonstration General demonstration 添加标题内容 Small Fresh And Simple General Demonstration Template 锐旗设计 锐旗设计",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 4",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5643,
+            "y": 0.0,
+            "w": 0.4357,
+            "h": 0.8825
+          },
+          "area": 0.3845,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 29",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3849,
+            "y": 0.0853,
+            "w": 0.3541,
+            "h": 0.9147
+          },
+          "area": 0.3239,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0475,
+            "y": 0.3897,
+            "w": 0.3781,
+            "h": 0.1513
+          },
+          "area": 0.0572,
+          "text": "清新淡雅",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 36",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7396,
+            "y": 0.3667,
+            "w": 0.2604,
+            "h": 0.1927
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0475,
+            "y": 0.5261,
+            "w": 0.4092,
+            "h": 0.0962
+          },
+          "area": 0.0394,
+          "text": "小清新通用演示模板",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 35",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6558,
+            "y": 0.0612,
+            "w": 0.1847,
+            "h": 0.0705
+          },
+          "area": 0.013,
+          "text": "用这生命中的每一秒 给自己一个不后悔的未来",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 27",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8047,
+            "y": 0.0697,
+            "w": 0.1953,
+            "h": 0.0636
+          },
+          "area": 0.0124,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "7598884",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7634,
+            "y": 0.3901,
+            "w": 0.0821,
+            "h": 0.1459
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "7741773",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8734,
+            "y": 0.3901,
+            "w": 0.0821,
+            "h": 0.1459
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0523,
+            "y": 0.3179,
+            "w": 0.2034,
+            "h": 0.0583
+          },
+          "area": 0.0119,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "简约清新-01-静态-569d60ee-s02",
+      "title_guess": "目录",
+      "layout_job": "toc",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-center:2,top-left:2,bottom-right:2",
+      "counts": {
+        "text": 18,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 20,
+        "text_count": 18,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 3,
+        "text_area": 0.2133,
+        "image_area": 0.547,
+        "shape_area": 0.5633,
+        "text_blob": "点击添加标题 Click here to add a title 单击此处输入你的正文 为了最终演示发布的良好效果 Part One 点击添加标题 Click here to add a title 单击此处输入你的正文 为了最终演示发布的良好效果 Part Two 点击添加标题 Click here to add a title 单击此处输入你的正文 为了最终演示发布的良好效果 Part Three 点击添加标题 Click here to add a title 单击此处输入你的正文 为了最终演示发布的良好效果 Part Four 目录 CONTENTS",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 2",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": -0.0,
+            "y": 0.4667,
+            "w": 1.006,
+            "h": 0.5333
+          },
+          "area": 0.5365,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 15",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5837,
+            "y": 0.0,
+            "w": 0.4163,
+            "h": 1.0
+          },
+          "area": 0.4163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0299,
+            "y": -0.1076,
+            "w": 0.2819,
+            "h": 0.4636
+          },
+          "area": 0.1307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0648,
+            "y": 0.2267,
+            "w": 0.3781,
+            "h": 0.1513
+          },
+          "area": 0.0572,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0731,
+            "y": 0.6704,
+            "w": 0.2008,
+            "h": 0.0804
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.318,
+            "y": 0.668,
+            "w": 0.2008,
+            "h": 0.0804
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5628,
+            "y": 0.6655,
+            "w": 0.2008,
+            "h": 0.0804
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.8076,
+            "y": 0.6631,
+            "w": 0.2008,
+            "h": 0.0804
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文 为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.561,
+            "w": 0.1747,
+            "h": 0.0673
+          },
+          "area": 0.0118,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 29",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3144,
+            "y": 0.5586,
+            "w": 0.1747,
+            "h": 0.0673
+          },
+          "area": 0.0118,
+          "text": "点击添加标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 8,
+          "footer": 8,
+          "section_label": 2
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "简约清新-01-静态-569d60ee-s03",
+      "title_guess": "点击添加标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,middle-right:2,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1826,
+        "image_area": 0.3402,
+        "shape_area": 0.3914,
+        "text_blob": "点击添加标题 General demonstration General demonstration 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文 CLICK HERE TO ADD A TITLE Small Fresh And Simple General Demonstration Template Small Fresh And Simple General Demonstration Template YOUR LOGO 稻壳学院 01.",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 9",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.4095,
+            "h": 0.9174
+          },
+          "area": 0.3757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1112,
+            "y": 0.1249,
+            "w": 0.3888,
+            "h": 0.8751
+          },
+          "area": 0.3402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4953,
+            "y": 0.5242,
+            "w": 0.4338,
+            "h": 0.1504
+          },
+          "area": 0.0652,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4898,
+            "y": 0.3689,
+            "w": 0.3781,
+            "h": 0.1146
+          },
+          "area": 0.0433,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 23",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.0526,
+            "w": 0.2884,
+            "h": 0.0691
+          },
+          "area": 0.0199,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.4723,
+            "w": 0.3226,
+            "h": 0.0404
+          },
+          "area": 0.013,
+          "text": "CLICK HERE TO ADD A TITLE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 19",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6679,
+            "y": 0.8997,
+            "w": 0.3062,
+            "h": 0.0373
+          },
+          "area": 0.0114,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 14",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.7216,
+            "w": 0.1382,
+            "h": 0.0808
+          },
+          "area": 0.0112,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 24",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.772,
+            "y": 0.053,
+            "w": 0.1704,
+            "h": 0.0618
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3366,
+            "y": 0.0279,
+            "w": 0.0873,
+            "h": 0.0942
+          },
+          "area": 0.0082,
+          "text": "01.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "简约清新-01-静态-569d60ee-s04",
+      "title_guess": "单击添加小标题",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:2,bottom-center:2,top-center:2",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 2,
+        "text_area": 0.1632,
+        "image_area": 0.2722,
+        "shape_area": 0.0647,
+        "text_blob": "单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 输入正文 此处添加标题 Click Here To Add A Title 80% 单击此处输入你的正文,文字是您思想的提炼 65% 单击此处输入你的正文,文字是您思想的提炼 25,457 输入你的正文 35,457 输入你的正文",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 87",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5307,
+            "y": 0.2099,
+            "w": 0.3926,
+            "h": 0.6934
+          },
+          "area": 0.2722,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.307,
+            "w": 0.388,
+            "h": 0.1154
+          },
+          "area": 0.0448,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "椭圆 65",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4767,
+            "y": 0.3256,
+            "w": 0.1168,
+            "h": 0.2076
+          },
+          "area": 0.0242,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "椭圆 69",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4767,
+            "y": 0.5698,
+            "w": 0.1168,
+            "h": 0.2076
+          },
+          "area": 0.0242,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 45",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0781,
+            "y": 0.6346,
+            "w": 0.1392,
+            "h": 0.1154
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 79",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2652,
+            "y": 0.6346,
+            "w": 0.1392,
+            "h": 0.1154
+          },
+          "area": 0.0161,
+          "text": "单击此处输入你的正文,文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0607,
+            "y": 0.2378,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 60",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3871,
+            "y": 0.1109,
+            "w": 0.2259,
+            "h": 0.037
+          },
+          "area": 0.0084,
+          "text": "Click Here To Add A Title",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 39",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4744,
+            "y": 0.3803,
+            "w": 0.1214,
+            "h": 0.0628
+          },
+          "area": 0.0076,
+          "text": "25,457",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7,
+          "body": 1,
+          "label": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "简约清新-01-静态-569d60ee-s05",
+      "title_guess": "此处添加标题",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:3,middle-left:2,top-center:2",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 20,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1879,
+        "image_area": 0.2016,
+        "shape_area": 0.3725,
+        "text_blob": "此处添加标题 Click Here To Add A Title 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击添加小标题 输入正文 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 输入正文 01 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 61",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.4801,
+            "w": 0.8594,
+            "h": 0.4241
+          },
+          "area": 0.3645,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 81",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0687,
+            "y": 0.3784,
+            "w": 0.2501,
+            "h": 0.5272
+          },
+          "area": 0.1319,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 63",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1313,
+            "y": 0.1761,
+            "w": 0.7374,
+            "h": 0.0804
+          },
+          "area": 0.0593,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 86",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5329,
+            "y": 0.3458,
+            "w": 0.1402,
+            "h": 0.2493
+          },
+          "area": 0.035,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 85",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1105,
+            "y": 0.3458,
+            "w": 0.1392,
+            "h": 0.2493
+          },
+          "area": 0.0347,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 69",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.689,
+            "y": 0.538,
+            "w": 0.1981,
+            "h": 0.1504
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2656,
+            "y": 0.538,
+            "w": 0.1981,
+            "h": 0.1504
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2685,
+            "y": 0.3889,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 68",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.692,
+            "y": 0.3889,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 7,
+          "body": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "简约清新-01-静态-569d60ee-s06",
+      "title_guess": "单击添加小标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 1,
+        "text_area": 0.1701,
+        "image_area": 0.3839,
+        "shape_area": 0.1817,
+        "text_blob": "单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 此处添加标题 Click Here To Add A Title 20XX 20XX 20XX 单击此处输入你的正文,文字是您思想的提炼。 单击此处输入你的正文,文字是您思想的提炼。 单击此处输入你的正文,文字是您思想的提炼。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 21",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0517,
+            "y": 0.0778,
+            "w": 0.4163,
+            "h": 0.9222
+          },
+          "area": 0.3839,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "椭圆 62",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0664,
+            "y": 0.2928,
+            "w": 0.297,
+            "h": 0.5281
+          },
+          "area": 0.1568,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4789,
+            "y": 0.3049,
+            "w": 0.4493,
+            "h": 0.0804
+          },
+          "area": 0.0361,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 52",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6588,
+            "y": 0.5283,
+            "w": 0.2396,
+            "h": 0.0804
+          },
+          "area": 0.0193,
+          "text": "单击此处输入你的正文,文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 80",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6588,
+            "y": 0.6672,
+            "w": 0.2396,
+            "h": 0.0804
+          },
+          "area": 0.0193,
+          "text": "单击此处输入你的正文,文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 86",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6588,
+            "y": 0.8061,
+            "w": 0.2396,
+            "h": 0.0804
+          },
+          "area": 0.0193,
+          "text": "单击此处输入你的正文,文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4789,
+            "y": 0.2357,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 74",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4803,
+            "y": 0.5304,
+            "w": 0.1374,
+            "h": 0.0763
+          },
+          "area": 0.0105,
+          "text": "20XX",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 81",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4803,
+            "y": 0.6693,
+            "w": 0.1374,
+            "h": 0.0763
+          },
+          "area": 0.0105,
+          "text": "20XX",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 1,
+          "label": 7
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "简约清新-01-静态-569d60ee-s07",
+      "title_guess": "此处添加标题",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:4,top-center:2,bottom-right:2",
+      "counts": {
+        "text": 11,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 20,
+        "text_count": 11,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 3,
+        "text_area": 0.1509,
+        "image_area": 0,
+        "shape_area": 0.0855,
+        "text_blob": "此处添加标题 Click Here To Add A Title 01 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 02 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 03 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 60",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0689,
+            "y": 0.2251,
+            "w": 0.4542,
+            "h": 0.693
+          },
+          "area": 0.3148,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 77",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5394,
+            "y": 0.4727,
+            "w": 0.3889,
+            "h": 0.2199
+          },
+          "area": 0.0855,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.3429,
+            "w": 0.2718,
+            "h": 0.0804
+          },
+          "area": 0.0219,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 70",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.5785,
+            "w": 0.2718,
+            "h": 0.0804
+          },
+          "area": 0.0219,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 75",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.8203,
+            "w": 0.2718,
+            "h": 0.0804
+          },
+          "area": 0.0219,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.2737,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 69",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.5092,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 74",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6342,
+            "y": 0.7511,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 63",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3871,
+            "y": 0.1109,
+            "w": 0.2259,
+            "h": 0.037
+          },
+          "area": 0.0084,
+          "text": "Click Here To Add A Title",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 7,
+          "footer": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "简约清新-01-静态-569d60ee-s08",
+      "title_guess": "点击添加标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,middle-right:2,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1826,
+        "image_area": 0.3402,
+        "shape_area": 0.3914,
+        "text_blob": "点击添加标题 General demonstration General demonstration 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文 CLICK HERE TO ADD A TITLE Small Fresh And Simple General Demonstration Template Small Fresh And Simple General Demonstration Template YOUR LOGO 稻壳学院 02.",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 57",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.4095,
+            "h": 0.9174
+          },
+          "area": 0.3757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 67",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1112,
+            "y": 0.1249,
+            "w": 0.3888,
+            "h": 0.8751
+          },
+          "area": 0.3402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4953,
+            "y": 0.5242,
+            "w": 0.4338,
+            "h": 0.1504
+          },
+          "area": 0.0652,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4898,
+            "y": 0.3689,
+            "w": 0.3781,
+            "h": 0.1146
+          },
+          "area": 0.0433,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 66",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.0526,
+            "w": 0.2884,
+            "h": 0.0691
+          },
+          "area": 0.0199,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 62",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.4723,
+            "w": 0.3226,
+            "h": 0.0404
+          },
+          "area": 0.013,
+          "text": "CLICK HERE TO ADD A TITLE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 64",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6679,
+            "y": 0.8997,
+            "w": 0.3062,
+            "h": 0.0373
+          },
+          "area": 0.0114,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.7216,
+            "w": 0.1382,
+            "h": 0.0808
+          },
+          "area": 0.0112,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 68",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.772,
+            "y": 0.053,
+            "w": 0.1704,
+            "h": 0.0618
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 72",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3366,
+            "y": 0.0279,
+            "w": 0.0873,
+            "h": 0.0942
+          },
+          "area": 0.0082,
+          "text": "02.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "简约清新-01-静态-569d60ee-s09",
+      "title_guess": "添加小标题",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.1948,
+        "image_area": 0.2078,
+        "shape_area": 0.0786,
+        "text_blob": "添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 此处添加标题 Click Here To Add A Title 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 73",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6295,
+            "y": 0.2088,
+            "w": 0.2988,
+            "h": 0.6954
+          },
+          "area": 0.2078,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 72",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0689,
+            "y": 0.4113,
+            "w": 0.5202,
+            "h": 0.1511
+          },
+          "area": 0.0786,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2267,
+            "y": 0.2745,
+            "w": 0.3389,
+            "h": 0.0804
+          },
+          "area": 0.0272,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 68",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2267,
+            "y": 0.6204,
+            "w": 0.3389,
+            "h": 0.0804
+          },
+          "area": 0.0272,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 71",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2267,
+            "y": 0.7641,
+            "w": 0.3389,
+            "h": 0.0804
+          },
+          "area": 0.0272,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 65",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2267,
+            "y": 0.446,
+            "w": 0.3303,
+            "h": 0.0804
+          },
+          "area": 0.0266,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1044,
+            "y": 0.285,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 64",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1044,
+            "y": 0.4565,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 67",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1044,
+            "y": 0.6309,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 4,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "简约清新-01-静态-569d60ee-s10",
+      "title_guess": "此处添加标题",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,middle-right:2,bottom-center:2",
+      "counts": {
+        "text": 14,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.2222,
+        "image_area": 0.1452,
+        "shape_area": 0.095,
+        "text_blob": "此处添加标题 Click Here To Add A Title 单击添加小标题 25,457 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布 输入正文 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 01 02 单击添加小标题 28,457 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布 输入正文 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点根据需要可增减文字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 90",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7267,
+            "y": 0.3378,
+            "w": 0.2021,
+            "h": 0.3593
+          },
+          "area": 0.0726,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 89",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0696,
+            "y": 0.3378,
+            "w": 0.2021,
+            "h": 0.3593
+          },
+          "area": 0.0726,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形 83",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1044,
+            "y": 0.8239,
+            "w": 0.7856,
+            "h": 0.0843
+          },
+          "area": 0.0662,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 62",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1313,
+            "y": 0.1761,
+            "w": 0.7374,
+            "h": 0.0804
+          },
+          "area": 0.0593,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 84",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1285,
+            "y": 0.8433,
+            "w": 0.7374,
+            "h": 0.0454
+          },
+          "area": 0.0335,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点根据需要可增减文字",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2943,
+            "y": 0.5052,
+            "w": 0.1686,
+            "h": 0.1154
+          },
+          "area": 0.0195,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 78",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5423,
+            "y": 0.5052,
+            "w": 0.1686,
+            "h": 0.1154
+          },
+          "area": 0.0195,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2943,
+            "y": 0.436,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 75",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5423,
+            "y": 0.436,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 8,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "简约清新-01-静态-569d60ee-s11",
+      "title_guess": "此处输入正文",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,middle-left:2,bottom-center:2",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 20,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 2,
+        "text_area": 0.188,
+        "image_area": 0,
+        "shape_area": 0.1989,
+        "text_blob": "此处输入正文 此处添加标题 Click Here To Add A Title 单击此处输入你的正文文字是您思想的提炼,为了最终演示。 添加小标题 单击此处输入你的正文文字是您思想的提炼,为了最终演示。 添加小标题 单击此处输入你的正文文字是您思想的提炼,为了最终演示。 添加小标题 此处输入正文 此处输入正文 此处输入正文 添加小标题 添加小标题 添加小标题 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 71",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6887,
+            "y": 0.6261,
+            "w": 0.2394,
+            "h": 0.2554
+          },
+          "area": 0.0611,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 94",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.714,
+            "y": 0.7334,
+            "w": 0.1997,
+            "h": 0.1154
+          },
+          "area": 0.023,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 58",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.074,
+            "y": 0.2525,
+            "w": 0.1083,
+            "h": 0.1991
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 64",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8199,
+            "y": 0.2525,
+            "w": 0.1083,
+            "h": 0.1991
+          },
+          "area": 0.0216,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0827,
+            "y": 0.7751,
+            "w": 0.1502,
+            "h": 0.1154
+          },
+          "area": 0.0173,
+          "text": "单击此处输入你的正文文字是您思想的提炼,为了最终演示。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 77",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.274,
+            "y": 0.7751,
+            "w": 0.1502,
+            "h": 0.1154
+          },
+          "area": 0.0173,
+          "text": "单击此处输入你的正文文字是您思想的提炼,为了最终演示。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 82",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4653,
+            "y": 0.7751,
+            "w": 0.1502,
+            "h": 0.1154
+          },
+          "area": 0.0173,
+          "text": "单击此处输入你的正文文字是您思想的提炼,为了最终演示。",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 61",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.2701,
+            "y": 0.2819,
+            "w": 0.0908,
+            "h": 0.1615
+          },
+          "area": 0.0147,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 62",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4499,
+            "y": 0.2819,
+            "w": 0.0908,
+            "h": 0.1615
+          },
+          "area": 0.0147,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "label": 8
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "简约清新-01-静态-569d60ee-s12",
+      "title_guess": "点击添加标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,middle-right:2,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1826,
+        "image_area": 0.3402,
+        "shape_area": 0.3914,
+        "text_blob": "点击添加标题 General demonstration General demonstration 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文 CLICK HERE TO ADD A TITLE Small Fresh And Simple General Demonstration Template Small Fresh And Simple General Demonstration Template YOUR LOGO 稻壳学院 03.",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 57",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.4095,
+            "h": 0.9174
+          },
+          "area": 0.3757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 67",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1112,
+            "y": 0.1249,
+            "w": 0.3888,
+            "h": 0.8751
+          },
+          "area": 0.3402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4953,
+            "y": 0.5242,
+            "w": 0.4338,
+            "h": 0.1504
+          },
+          "area": 0.0652,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4898,
+            "y": 0.3689,
+            "w": 0.3781,
+            "h": 0.1146
+          },
+          "area": 0.0433,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 66",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.0526,
+            "w": 0.2884,
+            "h": 0.0691
+          },
+          "area": 0.0199,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 62",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.4723,
+            "w": 0.3226,
+            "h": 0.0404
+          },
+          "area": 0.013,
+          "text": "CLICK HERE TO ADD A TITLE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 64",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6679,
+            "y": 0.8997,
+            "w": 0.3062,
+            "h": 0.0373
+          },
+          "area": 0.0114,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.7216,
+            "w": 0.1382,
+            "h": 0.0808
+          },
+          "area": 0.0112,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 68",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.772,
+            "y": 0.053,
+            "w": 0.1704,
+            "h": 0.0618
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 72",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3366,
+            "y": 0.0279,
+            "w": 0.0873,
+            "h": 0.0942
+          },
+          "area": 0.0082,
+          "text": "03.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "简约清新-01-静态-569d60ee-s13",
+      "title_guess": "此处添加标题",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-right:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 5,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 20,
+        "text_count": 5,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.0835,
+        "image_area": 0.4511,
+        "shape_area": 0.1939,
+        "text_blob": "此处添加标题 Click Here To Add A Title 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 输入正文",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 73",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0689,
+            "y": 0.206,
+            "w": 0.7745,
+            "h": 0.5019
+          },
+          "area": 0.3887,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 62",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5462,
+            "y": 0.4722,
+            "w": 0.3821,
+            "h": 0.4317
+          },
+          "area": 0.165,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 78",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7214,
+            "y": 0.6026,
+            "w": 0.2068,
+            "h": 0.3015
+          },
+          "area": 0.0624,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5823,
+            "y": 0.5925,
+            "w": 0.3127,
+            "h": 0.1154
+          },
+          "area": 0.0361,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5823,
+            "y": 0.5232,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 61",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3871,
+            "y": 0.1109,
+            "w": 0.2259,
+            "h": 0.037
+          },
+          "area": 0.0084,
+          "text": "Click Here To Add A Title",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "椭圆 13",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1602,
+            "y": 0.7827,
+            "w": 0.0633,
+            "h": 0.1125
+          },
+          "area": 0.0071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 15",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.262,
+            "y": 0.7827,
+            "w": 0.0633,
+            "h": 0.1125
+          },
+          "area": 0.0071,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 16",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3638,
+            "y": 0.7827,
+            "w": 0.0633,
+            "h": 0.1125
+          },
+          "area": 0.0071,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 3,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "简约清新-01-静态-569d60ee-s14",
+      "title_guess": "单击添加小标题",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 13,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 20,
+        "text_count": 13,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 4,
+        "text_area": 0.2221,
+        "image_area": 0.1678,
+        "shape_area": 0.0225,
+        "text_blob": "单击添加小标题 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 此处添加标题 Click Here To Add A Title 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 20XX 20XX 20XX",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 85",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1688,
+            "y": 0.1658,
+            "w": 0.2061,
+            "h": 0.464
+          },
+          "area": 0.0956,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 88",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0972,
+            "y": 0.2681,
+            "w": 0.2015,
+            "h": 0.3583
+          },
+          "area": 0.0722,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 41",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0664,
+            "y": 0.7428,
+            "w": 0.2632,
+            "h": 0.1324
+          },
+          "area": 0.0348,
+          "text": "为了最终演示发布的良好效果,请尽量言简意赅的阐述观点,根据需要可酌情增减文字",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5306,
+            "y": 0.3332,
+            "w": 0.3976,
+            "h": 0.0804
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 65",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5306,
+            "y": 0.5616,
+            "w": 0.3976,
+            "h": 0.0804
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形 68",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5306,
+            "y": 0.7901,
+            "w": 0.3976,
+            "h": 0.0804
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5306,
+            "y": 0.264,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 64",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5306,
+            "y": 0.4924,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 67",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5306,
+            "y": 0.7208,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 8,
+          "body": 4,
+          "label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "简约清新-01-静态-569d60ee-s15",
+      "title_guess": "此处添加标题",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-center:4,middle-left:2,middle-right:2",
+      "counts": {
+        "text": 10,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1042,
+        "image_area": 0.2867,
+        "shape_area": 0.3524,
+        "text_blob": "此处添加标题 Click Here To Add A Title 添加小标题 单击此处输入你的正文,言简意赅 添加小标题 单击此处输入你的正文,言简意赅 添加小标题 单击此处输入你的正文,言简意赅 添加小标题 单击此处输入你的正文,言简意赅",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 108",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0726,
+            "y": 0.232,
+            "w": 0.1703,
+            "h": 0.5172
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 111",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3018,
+            "y": 0.3505,
+            "w": 0.1703,
+            "h": 0.5172
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 114",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5311,
+            "y": 0.232,
+            "w": 0.1703,
+            "h": 0.5172
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 117",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7604,
+            "y": 0.3505,
+            "w": 0.1703,
+            "h": 0.5172
+          },
+          "area": 0.0881,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 142",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.5384,
+            "w": 0.1764,
+            "h": 0.4616
+          },
+          "area": 0.0814,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 141",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8134,
+            "y": 0.0504,
+            "w": 0.2548,
+            "h": 0.2846
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 134",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0894,
+            "y": 0.2635,
+            "w": 0.1367,
+            "h": 0.2431
+          },
+          "area": 0.0332,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 135",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3186,
+            "y": 0.382,
+            "w": 0.1367,
+            "h": 0.2431
+          },
+          "area": 0.0332,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 136",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5479,
+            "y": 0.2635,
+            "w": 0.1367,
+            "h": 0.2431
+          },
+          "area": 0.0332,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "图片 137",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7771,
+            "y": 0.382,
+            "w": 0.1367,
+            "h": 0.2431
+          },
+          "area": 0.0332,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "简约清新-01-静态-569d60ee-s16",
+      "title_guess": "点击添加标题",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:2,middle-right:2,top-left:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 2,
+        "text_area": 0.1826,
+        "image_area": 0.3402,
+        "shape_area": 0.3914,
+        "text_blob": "点击添加标题 General demonstration General demonstration 添加标题内容 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文 CLICK HERE TO ADD A TITLE Small Fresh And Simple General Demonstration Template Small Fresh And Simple General Demonstration Template YOUR LOGO 稻壳学院 04.",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 57",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.4095,
+            "h": 0.9174
+          },
+          "area": 0.3757,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 67",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1112,
+            "y": 0.1249,
+            "w": 0.3888,
+            "h": 0.8751
+          },
+          "area": 0.3402,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 15",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4953,
+            "y": 0.5242,
+            "w": 0.4338,
+            "h": 0.1504
+          },
+          "area": 0.0652,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,单击此处输入你的正文,单击此处输入你的正文,此处输入你的正文",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4898,
+            "y": 0.3689,
+            "w": 0.3781,
+            "h": 0.1146
+          },
+          "area": 0.0433,
+          "text": "点击添加标题",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 66",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.0526,
+            "w": 0.2884,
+            "h": 0.0691
+          },
+          "area": 0.0199,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 62",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4896,
+            "y": 0.4723,
+            "w": 0.3226,
+            "h": 0.0404
+          },
+          "area": 0.013,
+          "text": "CLICK HERE TO ADD A TITLE",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 64",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6679,
+            "y": 0.8997,
+            "w": 0.3062,
+            "h": 0.0373
+          },
+          "area": 0.0114,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 59",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0401,
+            "y": 0.7216,
+            "w": 0.1382,
+            "h": 0.0808
+          },
+          "area": 0.0112,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 68",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.772,
+            "y": 0.053,
+            "w": 0.1704,
+            "h": 0.0618
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 72",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3366,
+            "y": 0.0279,
+            "w": 0.0873,
+            "h": 0.0942
+          },
+          "area": 0.0082,
+          "text": "04.",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "简约清新-01-静态-569d60ee-s17",
+      "title_guess": "单击添加小标题",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-left:2,middle-right:2,top-center:2",
+      "counts": {
+        "text": 8,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 20,
+        "text_count": 8,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1487,
+        "image_area": 0.4472,
+        "shape_area": 0.2741,
+        "text_blob": "单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 此处添加标题 Click Here To Add A Title 单击添加小标题 为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。 25,457 单击此处输入你的正文,文字是您思想的提炼。",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 17",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0565,
+            "y": 0.0222,
+            "w": 0.3941,
+            "h": 0.9778
+          },
+          "area": 0.3854,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 64",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5569,
+            "y": 0.4765,
+            "w": 0.3713,
+            "h": 0.4277
+          },
+          "area": 0.1588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 57",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0752,
+            "y": 0.22,
+            "w": 0.1685,
+            "h": 0.6842
+          },
+          "area": 0.1153,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 51",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.55,
+            "y": 0.2847,
+            "w": 0.388,
+            "h": 0.1154
+          },
+          "area": 0.0448,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 41",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5843,
+            "y": 0.5979,
+            "w": 0.3172,
+            "h": 0.0916
+          },
+          "area": 0.0291,
+          "text": "为了最终演示发布的良好效果,请尽量言简意赅的阐述观点。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 87",
+          "role": "image",
+          "zone": "top-center",
+          "box": {
+            "x": 0.404,
+            "y": 0.2121,
+            "w": 0.1076,
+            "h": 0.1913
+          },
+          "area": 0.0206,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 86",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.404,
+            "y": 0.4638,
+            "w": 0.1076,
+            "h": 0.1913
+          },
+          "area": 0.0206,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "图片 88",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.404,
+            "y": 0.7155,
+            "w": 0.1076,
+            "h": 0.1913
+          },
+          "area": 0.0206,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 50",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.55,
+            "y": 0.2155,
+            "w": 0.2364,
+            "h": 0.0594
+          },
+          "area": 0.014,
+          "text": "单击添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 2,
+          "label": 1
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "简约清新-01-静态-569d60ee-s18",
+      "title_guess": "单击添加小标题",
+      "layout_job": "two-column",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-right:2,middle-right:2,middle-left:2",
+      "counts": {
+        "text": 14,
+        "image": 2,
+        "chart": 2,
+        "table": 0,
+        "shape": 2,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 20,
+        "text_count": 14,
+        "image_count": 2,
+        "chart_count": 2,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 1,
+        "text_area": 0.1946,
+        "image_area": 0.1152,
+        "shape_area": 0.0886,
+        "text_blob": "单击添加小标题 为了最终演示发布的良好效果,言简意赅 40% 此处添加标题 Click Here To Add A Title 添加小标题 单击此处输入你的正文,文字是您思想的提炼。 添加小标题 单击此处输入你的正文,文字是您思想的提炼。 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 单击添加小标题 为了最终演示发布的良好效果,言简意赅 40%",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 80",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7728,
+            "y": 0.532,
+            "w": 0.1543,
+            "h": 0.3732
+          },
+          "area": 0.0576,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 85",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5957,
+            "y": 0.2075,
+            "w": 0.1543,
+            "h": 0.3732
+          },
+          "area": 0.0576,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图表 46",
+          "role": "chart",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0508,
+            "y": 0.4825,
+            "w": 0.2083,
+            "h": 0.2469
+          },
+          "area": 0.0514,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "图表 78",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3098,
+            "y": 0.4825,
+            "w": 0.2083,
+            "h": 0.2469
+          },
+          "area": 0.0514,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 63",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5957,
+            "y": 0.6173,
+            "w": 0.1543,
+            "h": 0.2868
+          },
+          "area": 0.0443,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 67",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7728,
+            "y": 0.2085,
+            "w": 0.1543,
+            "h": 0.2868
+          },
+          "area": 0.0443,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形 71",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.071,
+            "y": 0.3378,
+            "w": 0.4946,
+            "h": 0.0804
+          },
+          "area": 0.0398,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 41",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0633,
+            "y": 0.8099,
+            "w": 0.1834,
+            "h": 0.0916
+          },
+          "area": 0.0168,
+          "text": "为了最终演示发布的良好效果,言简意赅",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 76",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3223,
+            "y": 0.8099,
+            "w": 0.1834,
+            "h": 0.0916
+          },
+          "area": 0.0168,
+          "text": "为了最终演示发布的良好效果,言简意赅",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 7,
+          "body": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "简约清新-01-静态-569d60ee-s19",
+      "title_guess": "此处添加标题",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:4,middle-right:3,top-right:1",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 19,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 20,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 19,
+        "connector_count": 0,
+        "text_area": 0.156,
+        "image_area": 0,
+        "shape_area": 1.0387,
+        "text_blob": "此处添加标题 Click Here To Add A Title 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 单击添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。 添加小标题 单击此处输入你的正文",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "弧形 91",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0796,
+            "y": 0.2651,
+            "w": 0.3595,
+            "h": 0.6391
+          },
+          "area": 0.2298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "弧形 96",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0822,
+            "y": 0.2651,
+            "w": 0.3595,
+            "h": 0.6391
+          },
+          "area": 0.2298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "弧形 101",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0836,
+            "y": 0.266,
+            "w": 0.3595,
+            "h": 0.6391
+          },
+          "area": 0.2298,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 102",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5318,
+            "y": 0.2171,
+            "w": 0.3941,
+            "h": 0.1973
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 87",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5318,
+            "y": 0.4559,
+            "w": 0.3941,
+            "h": 0.1973
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 95",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5318,
+            "y": 0.6946,
+            "w": 0.3941,
+            "h": 0.1973
+          },
+          "area": 0.0778,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "椭圆 65",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1838,
+            "y": 0.4424,
+            "w": 0.1512,
+            "h": 0.2687
+          },
+          "area": 0.0406,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3543,
+            "y": 0.0477,
+            "w": 0.2913,
+            "h": 0.0763
+          },
+          "area": 0.0222,
+          "text": "此处添加标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 51",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.629,
+            "y": 0.3102,
+            "w": 0.2758,
+            "h": 0.0804
+          },
+          "area": 0.0222,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形 93",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.629,
+            "y": 0.5489,
+            "w": 0.2758,
+            "h": 0.0804
+          },
+          "area": 0.0222,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "简约清新-01-静态-569d60ee-s20",
+      "title_guess": "感谢观看",
+      "layout_job": "limitations-future",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:4,middle-left:3,top-right:2",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 3
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 20,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 3,
+        "text_area": 0.1757,
+        "image_area": 0.325,
+        "shape_area": 0.4861,
+        "text_blob": "感谢观看 小清新通用演示模板 汇报人:锐旗设计 Small Fresh And Simple General Demonstration Template General demonstration General demonstration 添加标题内容 用这生命中的每一秒 给自己一个不后悔的未来 General demonstration General demonstration 添加标题内容 Small Fresh And Simple General Demonstration Template 锐旗设计 锐旗设计",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "任意多边形: 形状 2",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5643,
+            "y": 0.0,
+            "w": 0.4357,
+            "h": 0.8825
+          },
+          "area": 0.3845,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 27",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3849,
+            "y": 0.0853,
+            "w": 0.3541,
+            "h": 0.9147
+          },
+          "area": 0.3239,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0475,
+            "y": 0.3897,
+            "w": 0.3781,
+            "h": 0.1513
+          },
+          "area": 0.0572,
+          "text": "感谢观看",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "任意多边形: 形状 3",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7396,
+            "y": 0.3667,
+            "w": 0.2604,
+            "h": 0.1927
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0475,
+            "y": 0.5261,
+            "w": 0.4092,
+            "h": 0.0962
+          },
+          "area": 0.0394,
+          "text": "小清新通用演示模板",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6558,
+            "y": 0.0612,
+            "w": 0.1847,
+            "h": 0.0705
+          },
+          "area": 0.013,
+          "text": "用这生命中的每一秒 给自己一个不后悔的未来",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.8047,
+            "y": 0.0697,
+            "w": 0.1953,
+            "h": 0.0636
+          },
+          "area": 0.0124,
+          "text": "Small Fresh And Simple General Demonstration Template",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "7598884",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7634,
+            "y": 0.3901,
+            "w": 0.0821,
+            "h": 0.1459
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "7741773",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.8734,
+            "y": 0.3901,
+            "w": 0.0821,
+            "h": 0.1459
+          },
+          "area": 0.012,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0523,
+            "y": 0.3179,
+            "w": 0.2034,
+            "h": 0.0583
+          },
+          "area": 0.0119,
+          "text": "General demonstration General demonstration",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "概览",
+        "要点",
+        "总结"
+      ],
+      "avoid_for": [
+        "高密度科研",
+        "重数据报告"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 20,
+    "layout_job_counts": {
+      "image-hero": 5,
+      "two-column": 5,
+      "flow-diagram": 3,
+      "matrix-grid": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "kpi-grid": 1,
+      "duo-compare": 1,
+      "limitations-future": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 9,
+      "image": 8,
+      "chart": 2,
+      "mixed": 1
+    },
+    "density_counts": {
+      "medium-high": 16,
+      "high": 3,
+      "medium": 1
+    },
+    "dominant_layout_jobs": [
+      "image-hero",
+      "two-column",
+      "flow-diagram",
+      "matrix-grid",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ]
+  }
+}

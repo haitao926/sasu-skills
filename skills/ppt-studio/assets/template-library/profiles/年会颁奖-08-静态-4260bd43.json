@@ -1,0 +1,5314 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:22.955462+00:00",
+  "template_id": "年会颁奖-08-静态-4260bd43",
+  "template_profile_path": "assets/template-library/profiles/年会颁奖-08-静态-4260bd43.json",
+  "source_template": {
+    "name": "年会颁奖(08)—静态.pptx",
+    "category": "年会颁奖（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/年会颁奖（5套）/年会颁奖(08)—静态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 25,
+    "media_count": 23,
+    "image_media_count": 23,
+    "motion_hint": "static",
+    "tags": [
+      "庆典活动",
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会",
+      "封面",
+      "节目/奖项",
+      "致辞",
+      "颁奖",
+      "合影/结束",
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈",
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片",
+      "短口号",
+      "奖项名称",
+      "名单",
+      "静态版",
+      "中",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "庆典活动",
+    "scenario": [
+      "年会颁奖",
+      "活动庆典",
+      "表彰大会"
+    ],
+    "best_for": [
+      "年会",
+      "颁奖",
+      "活动开场"
+    ],
+    "avoid": [
+      "科研申报",
+      "技术说明"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "节目单",
+      "奖项页",
+      "致辞页",
+      "结束页"
+    ],
+    "visual": [
+      "舞台感",
+      "庆典",
+      "高对比",
+      "热烈"
+    ],
+    "image_strategy": [
+      "大图",
+      "舞台照",
+      "奖项列表",
+      "人物照片"
+    ],
+    "text_strategy": [
+      "短口号",
+      "奖项名称",
+      "名单"
+    ],
+    "density": "中"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "process-strip",
+      "matrix-grid",
+      "table",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "footer",
+      "label",
+      "body",
+      "image",
+      "connector"
+    ],
+    "common_zones": [
+      "top-left",
+      "middle-center",
+      "middle-left",
+      "bottom-center",
+      "middle-right",
+      "bottom-left"
+    ],
+    "template_text_signature": "新起点 新跨越 Contents 领导致词: 插入logo 9000万+ 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 年度工作回顾 插入logo 1.5亿+ 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达 新年工作展望 01 插入logo 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据 优秀部门负责人 单击此处输",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s01",
+      "title_guess": "新起点 新跨越",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:4,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.0601,
+        "image_area": 0,
+        "shape_area": 0.0286,
+        "text_blob": "新起点 新跨越 新起点 新跨越 — 年会盛典及暨优秀员工表彰大会 — 插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 — 某某有限公司 —",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 7",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3,
+            "y": 0.6043,
+            "w": 0.411,
+            "h": 0.0695
+          },
+          "area": 0.0286,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 6",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3141,
+            "y": 0.6122,
+            "w": 0.3829,
+            "h": 0.0537
+          },
+          "area": 0.0206,
+          "text": "— 年会盛典及暨优秀员工表彰大会 —",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.9247,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 32",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3782,
+            "y": 0.9036,
+            "w": 0.2436,
+            "h": 0.0447
+          },
+          "area": 0.0109,
+          "text": "— 某某有限公司 —",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0004,
+            "y": 0.0003,
+            "w": 0.0008,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "新起点 新跨越",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0004,
+            "y": 0.0003,
+            "w": 0.0007,
+            "h": 0.0006
+          },
+          "area": 0.0,
+          "text": "新起点 新跨越",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s02",
+      "title_guess": "Contents",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,middle-center:3,bottom-center:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 25,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.268,
+        "image_area": 0,
+        "shape_area": 0.25,
+        "text_blob": "Contents 目录 年度回顾 表彰颁奖 节目表演 幸运大抽奖 新年展望 05 eAnnual Review New Year Outlook Recognition and award Performance of the show Lucky draw 向/未/来 赋/新/生 04 03 02 01",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 32",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.204,
+            "y": 0.1006,
+            "w": 0.5633,
+            "h": 0.2003
+          },
+          "area": 0.1128,
+          "text": "Contents",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 7",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.4317,
+            "y": 0.2452,
+            "w": 0.4417,
+            "h": 0.105
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4317,
+            "y": 0.4902,
+            "w": 0.4417,
+            "h": 0.105
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 8",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4317,
+            "y": 0.6127,
+            "w": 0.4417,
+            "h": 0.105
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4317,
+            "y": 0.7353,
+            "w": 0.4417,
+            "h": 0.105
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 37",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4317,
+            "y": 0.3677,
+            "w": 0.4417,
+            "h": 0.105
+          },
+          "area": 0.0464,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 5",
+          "role": "section_label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1713,
+            "y": 0.2272,
+            "w": 0.1712,
+            "h": 0.1748
+          },
+          "area": 0.0299,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.9247,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5184,
+            "y": 0.2658,
+            "w": 0.2102,
+            "h": 0.0627
+          },
+          "area": 0.0132,
+          "text": "年度回顾",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5184,
+            "y": 0.5107,
+            "w": 0.2102,
+            "h": 0.0627
+          },
+          "area": 0.0132,
+          "text": "表彰颁奖",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "section_label": 1,
+          "label": 6,
+          "footer": 10
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s03",
+      "title_guess": "领导致词:",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-left:2,bottom-left:1",
+      "counts": {
+        "text": 5,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 25,
+        "text_count": 5,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 1,
+        "text_area": 0.3031,
+        "image_area": 0.0761,
+        "shape_area": 0.4351,
+        "text_blob": "领导致词: 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能 插入logo Click here to enter your text, and make your points as brief as possible Opening Remarks",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 7",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2721,
+            "y": 0.2047,
+            "w": 0.6681,
+            "h": 0.6513
+          },
+          "area": 0.4351,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.299,
+            "y": 0.4396,
+            "w": 0.6107,
+            "h": 0.3147
+          },
+          "area": 0.1922,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3932,
+            "y": 0.2505,
+            "w": 0.5,
+            "h": 0.168
+          },
+          "area": 0.084,
+          "text": "Opening Remarks",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 3",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1365,
+            "y": 0.3704,
+            "w": 0.1209,
+            "h": 0.6296
+          },
+          "area": 0.0761,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.299,
+            "y": 0.3013,
+            "w": 0.2401,
+            "h": 0.112
+          },
+          "area": 0.0269,
+          "text": "领导致词:",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s04",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:4,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.1884,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 年度回顾 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 01 1/5",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2269,
+            "y": 0.3347,
+            "w": 0.5463,
+            "h": 0.1995
+          },
+          "area": 0.109,
+          "text": "年度回顾",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2087,
+            "y": 0.5529,
+            "w": 0.5825,
+            "h": 0.0806
+          },
+          "area": 0.0469,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.9247,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4607,
+            "y": 0.6779,
+            "w": 0.0786,
+            "h": 0.0492
+          },
+          "area": 0.0039,
+          "text": "1/5",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 4,
+          "label": 3,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s05",
+      "title_guess": "9000万+",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-left:4,bottom-right:3,middle-right:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1832,
+        "image_area": 0.1512,
+        "shape_area": 0.1129,
+        "text_blob": "9000万+ 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 年度工作回顾 eAnnual Review 关键字 关键字 关键字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/veer/400/new/VCG41N520095558.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5396,
+            "y": 0.1888,
+            "w": 0.3815,
+            "h": 0.3964
+          },
+          "area": 0.1512,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0709,
+            "y": 0.3625,
+            "w": 0.4179,
+            "h": 0.2988
+          },
+          "area": 0.1249,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 您的正文已经简明",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "单圆角矩形 4",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5396,
+            "y": 0.5981,
+            "w": 0.3816,
+            "h": 0.2204
+          },
+          "area": 0.0841,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6048,
+            "y": 0.6184,
+            "w": 0.2511,
+            "h": 0.1031
+          },
+          "area": 0.0259,
+          "text": "9000万+",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6076,
+            "y": 0.7121,
+            "w": 0.2457,
+            "h": 0.0806
+          },
+          "area": 0.0198,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2203,
+            "y": 0.7201,
+            "w": 0.1256,
+            "h": 0.0763
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 9",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3533,
+            "y": 0.7201,
+            "w": 0.1256,
+            "h": 0.0763
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0873,
+            "y": 0.7201,
+            "w": 0.1256,
+            "h": 0.0763
+          },
+          "area": 0.0096,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2395,
+            "y": 0.7337,
+            "w": 0.0857,
+            "h": 0.0492
+          },
+          "area": 0.0042,
+          "text": "关键字",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1106,
+            "y": 0.7337,
+            "w": 0.0857,
+            "h": 0.0492
+          },
+          "area": 0.0042,
+          "text": "关键字",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s06",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "table",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:10",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 25,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.0,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 第一季度:25% 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 第二季度:50% 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 第三季度:75% 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 第四季度:99%",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0006,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0008,
+            "w": 0.0006,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 4",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0002,
+            "w": 0.0006,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0008,
+            "y": 0.0008,
+            "w": 0.0006,
+            "h": 0.0005
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0005,
+            "w": 0.0005,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 38",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0004,
+            "y": 0.0003,
+            "w": 0.0003,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "第一季度:25%",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 34",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0005,
+            "w": 0.0005,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 35",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 12
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s07",
+      "title_guess": "年度工作回顾",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:4,middle-center:1",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.0828,
+        "image_area": 0,
+        "shape_area": 0.0079,
+        "text_blob": "年度工作回顾 eAnnual Review 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图表 42",
+          "role": "chart",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.072,
+            "y": 0.2281,
+            "w": 0.8589,
+            "h": 0.6551
+          },
+          "area": 0.5627,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 47",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2369,
+            "y": 0.2396,
+            "w": 0.5429,
+            "h": 0.0808
+          },
+          "area": 0.0439,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.347,
+            "y": 0.0994,
+            "w": 0.3227,
+            "h": 0.0851
+          },
+          "area": 0.0275,
+          "text": "年度工作回顾",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3383,
+            "y": 0.1922,
+            "w": 0.3401,
+            "h": 0.0335
+          },
+          "area": 0.0114,
+          "text": "eAnnual Review",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 44",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3504,
+            "y": 0.1572,
+            "w": 0.3159,
+            "h": 0.0249
+          },
+          "area": 0.0079,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 1,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s08",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.1741,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 新年展望 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 2/5 02",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2269,
+            "y": 0.3347,
+            "w": 0.5463,
+            "h": 0.1995
+          },
+          "area": 0.109,
+          "text": "新年展望",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2087,
+            "y": 0.5529,
+            "w": 0.5825,
+            "h": 0.0806
+          },
+          "area": 0.0469,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4607,
+            "y": 0.6779,
+            "w": 0.0786,
+            "h": 0.0492
+          },
+          "area": 0.0039,
+          "text": "2/5",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s09",
+      "title_guess": "1.5亿+",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "top-left:5,top-right:2,bottom-center:1",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1595,
+        "image_area": 0.1634,
+        "shape_area": 0.1388,
+        "text_blob": "1.5亿+ 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 新年展望 New Year Outlook 添加关键字 添加关键字 添加关键字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG41N1132497656.jpg",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0778,
+            "y": 0.1604,
+            "w": 0.42,
+            "h": 0.3341
+          },
+          "area": 0.1403,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 34",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5105,
+            "y": 0.1604,
+            "w": 0.4104,
+            "h": 0.3381
+          },
+          "area": 0.1388,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0753,
+            "y": 0.6625,
+            "w": 0.5679,
+            "h": 0.2066
+          },
+          "area": 0.1173,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "图片 36",
+          "role": "image",
+          "zone": "top-right",
+          "box": {
+            "x": 0.7743,
+            "y": 0.2069,
+            "w": 0.1139,
+            "h": 0.2024
+          },
+          "area": 0.0231,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 21",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5647,
+            "y": 0.3568,
+            "w": 0.3127,
+            "h": 0.0739
+          },
+          "area": 0.0231,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.5569,
+            "y": 0.2399,
+            "w": 0.1582,
+            "h": 0.121
+          },
+          "area": 0.0191,
+          "text": "1.5亿+",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 38",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0009,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0008,
+            "w": 0.0005,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "新年展望",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 33",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0004,
+            "y": 0.0009,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "New Year Outlook",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 10",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0009,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1,
+          "footer": 5
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s10",
+      "title_guess": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-left:3,middle-center:2,top-left:2",
+      "counts": {
+        "text": 18,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 25,
+        "text_count": 18,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 1,
+        "text_area": 0.0357,
+        "image_area": 0,
+        "shape_area": 0.0102,
+        "text_blob": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 第一阶段 第二阶段 第三阶段 第四阶段 第五阶段 第六阶段 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 52",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2426,
+            "y": 0.7063,
+            "w": 0.1727,
+            "h": 0.1725
+          },
+          "area": 0.0298,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 53",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.2426,
+            "y": 0.6588,
+            "w": 0.1198,
+            "h": 0.0492
+          },
+          "area": 0.0059,
+          "text": "添加小标题",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 57",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0232,
+            "y": 0.3482,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 58",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2722,
+            "y": 0.3482,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 59",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5232,
+            "y": 0.3482,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 60",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3969,
+            "y": 0.7066,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 61",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1482,
+            "y": 0.7066,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 79",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6474,
+            "y": 0.7066,
+            "w": 0.1489,
+            "h": 0.0111
+          },
+          "area": 0.0017,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 42",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 43",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0003,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 17,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s11",
+      "title_guess": "新年工作展望",
+      "layout_job": "kpi-grid",
+      "primary_carrier": "chart",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:2,middle-center:2,top-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 1,
+        "table": 0,
+        "shape": 5,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 25,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 1,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 1,
+        "text_area": 0.1741,
+        "image_area": 0,
+        "shape_area": 0.2766,
+        "text_blob": "新年工作展望 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 添加小标题 01 02 03 04 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 2",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5551,
+            "y": 0.1799,
+            "w": 0.3652,
+            "h": 0.6764
+          },
+          "area": 0.247,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图表 1",
+          "role": "chart",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5607,
+            "y": 0.212,
+            "w": 0.3383,
+            "h": 0.5149
+          },
+          "area": 0.1742,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1799,
+            "y": 0.2512,
+            "w": 0.3367,
+            "h": 0.0755
+          },
+          "area": 0.0254,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1799,
+            "y": 0.5794,
+            "w": 0.3367,
+            "h": 0.0755
+          },
+          "area": 0.0254,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1799,
+            "y": 0.4153,
+            "w": 0.3367,
+            "h": 0.0755
+          },
+          "area": 0.0254,
+          "text": "单击此处输入你的正文,尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1799,
+            "y": 0.7434,
+            "w": 0.3367,
+            "h": 0.0755
+          },
+          "area": 0.0254,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 31",
+          "role": "label",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6226,
+            "y": 0.7615,
+            "w": 0.2302,
+            "h": 0.0941
+          },
+          "area": 0.0217,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "footer",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6474,
+            "y": 0.212,
+            "w": 0.1648,
+            "h": 0.0581
+          },
+          "area": 0.0096,
+          "text": "新年工作展望",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 34",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.084,
+            "y": 0.7056,
+            "w": 0.0647,
+            "h": 0.115
+          },
+          "area": 0.0074,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.084,
+            "y": 0.5413,
+            "w": 0.0647,
+            "h": 0.115
+          },
+          "area": 0.0074,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 9,
+          "body": 4,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s12",
+      "title_guess": "01",
+      "layout_job": "table",
+      "primary_carrier": "text",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:9,bottom-center:1",
+      "counts": {
+        "text": 12,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 25,
+        "text_count": 12,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.0587,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "01 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 02 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 03 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 展望一 展望二 展望三 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 新年展望 New Year Outlook",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 4",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.136,
+            "y": 0.7961,
+            "w": 0.7279,
+            "h": 0.0806
+          },
+          "area": 0.0587,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 5",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "同侧圆角矩形 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 25",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.001,
+            "w": 0.0003,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "01",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 1",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0008,
+            "w": 0.0004,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 63",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "同侧圆角矩形 64",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 65",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.001,
+            "w": 0.0003,
+            "h": 0.0003
+          },
+          "area": 0.0,
+          "text": "02",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 66",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0006,
+            "y": 0.0008,
+            "w": 0.0004,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 86",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0008
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 11,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s13",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.1741,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 表彰颁奖 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 3/5 03",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2269,
+            "y": 0.3347,
+            "w": 0.5463,
+            "h": 0.1995
+          },
+          "area": 0.109,
+          "text": "表彰颁奖",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2087,
+            "y": 0.5529,
+            "w": 0.5825,
+            "h": 0.0806
+          },
+          "area": 0.0469,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4607,
+            "y": 0.6779,
+            "w": 0.0786,
+            "h": 0.0492
+          },
+          "area": 0.0039,
+          "text": "3/5",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s14",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "top-center:3,middle-left:2,top-left:2",
+      "counts": {
+        "text": 5,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 25,
+        "text_count": 5,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1654,
+        "image_area": 0.3398,
+        "shape_area": 0.2085,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 优秀部门 Recognition and award 销售部 技术部",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 33",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0282,
+            "y": 0.1876,
+            "w": 0.2883,
+            "h": 0.7631
+          },
+          "area": 0.22,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 10",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0781,
+            "y": 0.0534,
+            "w": 0.2229,
+            "h": 0.8973
+          },
+          "area": 0.2,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 7",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3722,
+            "y": 0.6231,
+            "w": 0.5534,
+            "h": 0.2456
+          },
+          "area": 0.1359,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 您的正文已经简明",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/version23/VCG41607494260.jpg",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3777,
+            "y": 0.3288,
+            "w": 0.2642,
+            "h": 0.2266
+          },
+          "area": 0.0599,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/veer/400/new/VCG41N671187664.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.65,
+            "y": 0.3288,
+            "w": 0.2642,
+            "h": 0.2266
+          },
+          "area": 0.0599,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3769,
+            "y": 0.1527,
+            "w": 0.1996,
+            "h": 0.0851
+          },
+          "area": 0.017,
+          "text": "优秀部门",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 1",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3769,
+            "y": 0.2406,
+            "w": 0.3739,
+            "h": 0.0335
+          },
+          "area": 0.0125,
+          "text": "Recognition and award",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 38",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3683,
+            "y": 0.2026,
+            "w": 0.2419,
+            "h": 0.0351
+          },
+          "area": 0.0085,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 12",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0011,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0012,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "销售部",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 1,
+          "footer": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s15",
+      "title_guess": "优秀部门负责人",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:7,middle-left:1,middle-right:1",
+      "counts": {
+        "text": 7,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 3,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 25,
+        "text_count": 7,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 3,
+        "connector_count": 0,
+        "text_area": 0.0301,
+        "image_area": 0.2636,
+        "shape_area": 0.0,
+        "text_blob": "优秀部门负责人 Recognition and award 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 代用名 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 代用名 同/心/同/行 共/创/未/来",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/veer/400/new/VCG41N677893576.jpg",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0796,
+            "y": 0.2849,
+            "w": 0.4003,
+            "h": 0.3292
+          },
+          "area": 0.1318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/veer/400/new/VCG41N644244840.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5196,
+            "y": 0.2849,
+            "w": 0.4003,
+            "h": 0.3292
+          },
+          "area": 0.1318,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 76",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.125,
+            "y": 0.8545,
+            "w": 0.7485,
+            "h": 0.0402
+          },
+          "area": 0.0301,
+          "text": "同/心/同/行 共/创/未/来",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 9",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0004,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "优秀部门负责人",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 12",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0006,
+            "w": 0.0006,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Recognition and award",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 63",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0009,
+            "w": 0.0006,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 65",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0011,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 66",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0012,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 69",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": -0.0,
+            "y": 0.0009,
+            "w": 0.0006,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 7
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s16",
+      "title_guess": "单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "bottom-left:2,middle-left:2,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 6,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 6,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1056,
+        "image_area": 0.252,
+        "shape_area": 0.4152,
+        "text_blob": "单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 销售部 / 稻小壳 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 销售部 / 稻小壳 单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 销售部 / 稻小壳 优秀员工奖 Recognition and award",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 42",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0771,
+            "y": 0.4563,
+            "w": 0.276,
+            "h": 0.4202
+          },
+          "area": 0.116,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "圆角矩形 45",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3631,
+            "y": 0.4563,
+            "w": 0.276,
+            "h": 0.4202
+          },
+          "area": 0.116,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "圆角矩形 65",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6491,
+            "y": 0.4563,
+            "w": 0.276,
+            "h": 0.4202
+          },
+          "area": 0.116,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1355,
+            "y": 0.3123,
+            "w": 0.1591,
+            "h": 0.2829
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4215,
+            "y": 0.3123,
+            "w": 0.1591,
+            "h": 0.2829
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7075,
+            "y": 0.3123,
+            "w": 0.1591,
+            "h": 0.2829
+          },
+          "area": 0.045,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.146,
+            "y": 0.2482,
+            "w": 0.1381,
+            "h": 0.2827
+          },
+          "area": 0.039,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.432,
+            "y": 0.2482,
+            "w": 0.1381,
+            "h": 0.2827
+          },
+          "area": 0.039,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211324811255.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.718,
+            "y": 0.2482,
+            "w": 0.1381,
+            "h": 0.2827
+          },
+          "area": 0.039,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 21",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0917,
+            "y": 0.7308,
+            "w": 0.2469,
+            "h": 0.1042
+          },
+          "area": 0.0257,
+          "text": "单击此处输入你的正文,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 3,
+          "footer": 5
+        },
+        "image": {
+          "image": 6
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s17",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.1741,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 节目表演 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 4/5 04",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2269,
+            "y": 0.3347,
+            "w": 0.5463,
+            "h": 0.1995
+          },
+          "area": 0.109,
+          "text": "节目表演",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2087,
+            "y": 0.5529,
+            "w": 0.5825,
+            "h": 0.0806
+          },
+          "area": 0.0469,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4607,
+            "y": 0.6779,
+            "w": 0.0786,
+            "h": 0.0492
+          },
+          "area": 0.0039,
+          "text": "4/5",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s18",
+      "title_guess": "节目名称",
+      "layout_job": "two-column",
+      "primary_carrier": "mixed",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "top-left:5,middle-right:2,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1238,
+        "image_area": 0.1973,
+        "shape_area": 0.2635,
+        "text_blob": "节目名称 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 参演人员: 代用名 代用名 代用名 文艺节目表演 Recognition and award",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "圆角矩形 61",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5758,
+            "y": 0.2264,
+            "w": 0.3627,
+            "h": 0.5881
+          },
+          "area": 0.2133,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/version23/VCG41565287105.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5986,
+            "y": 0.2093,
+            "w": 0.3171,
+            "h": 0.6222
+          },
+          "area": 0.1973,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 1",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0866,
+            "y": 0.5581,
+            "w": 0.3812,
+            "h": 0.2744
+          },
+          "area": 0.1046,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 23",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3585,
+            "y": 0.4485,
+            "w": 0.3589,
+            "h": 0.1398
+          },
+          "area": 0.0502,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5156,
+            "y": 0.3456,
+            "w": 0.0555,
+            "h": 0.3456
+          },
+          "area": 0.0192,
+          "text": "节目名称",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "参演人员:",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 25",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "body": 1,
+          "footer": 6
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s19",
+      "title_guess": "参演人员:",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:9,bottom-center:1",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 25,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.1052,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "参演人员: 代用名 代用名 代用名 代用名 代用名 代用名 代用名 代用名 代用名 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 节目名称 文艺节目表演 Recognition and award",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 69",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1086,
+            "y": 0.7432,
+            "w": 0.7828,
+            "h": 0.1344
+          },
+          "area": 0.1052,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "平行四边形 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 87",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "参演人员:",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "圆角矩形 40",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 44",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0006,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 8",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 9",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0006,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 18",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0013,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 20",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0013,
+            "y": 0.0006,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 50",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0007,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 13,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s20",
+      "title_guess": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:8,bottom-center:1,middle-center:1",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1335,
+        "image_area": 0.0,
+        "shape_area": 0.0,
+        "text_blob": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽可能提炼思想的精髓,否则容易造成观者的阅读压力,适得其反。 大合唱 参演人员: 代用名 代用名 代用名 文艺节目表演 Recognition and award",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 19",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.079,
+            "y": 0.5869,
+            "w": 0.5186,
+            "h": 0.1935
+          },
+          "area": 0.1003,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,字字珠玑,但信息却错综复杂,需要用更多的文字来表述;但请您尽",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 5",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2889,
+            "y": 0.3344,
+            "w": 0.2242,
+            "h": 0.148
+          },
+          "area": 0.0332,
+          "text": "大合唱",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "平行四边形 15",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0004,
+            "w": 0.0004,
+            "h": 0.0011
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 16",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0009,
+            "y": 0.0002,
+            "w": 0.0004,
+            "h": 0.0011
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 2",
+          "role": "image",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0003,
+            "w": 0.0003,
+            "h": 0.0012
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "参演人员:",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 25",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0008,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 26",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0008,
+            "w": 0.0001,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "代用名",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 27",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0003,
+            "y": 0.0008,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "body": 1,
+          "label": 1,
+          "footer": 6
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s21",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:5,middle-center:2,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 11,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 11,
+        "connector_count": 1,
+        "text_area": 0.1741,
+        "image_area": 0,
+        "shape_area": 0.0,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 幸运大抽奖 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 5/5 05",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 10",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2269,
+            "y": 0.3347,
+            "w": 0.5463,
+            "h": 0.1995
+          },
+          "area": 0.109,
+          "text": "幸运大抽奖",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 23",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2087,
+            "y": 0.5529,
+            "w": 0.5825,
+            "h": 0.0806
+          },
+          "area": 0.0469,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 52",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4607,
+            "y": 0.6779,
+            "w": 0.0786,
+            "h": 0.0492
+          },
+          "area": 0.0039,
+          "text": "5/5",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 13",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0001,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "插入logo",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 14",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0002,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "Click here to enter your text, and make your points as brief as possible",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 11",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0004,
+            "w": 0.0,
+            "h": 0.0007
+          },
+          "area": 0.0,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "椭圆 20",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0001,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "椭圆 21",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0015,
+            "y": 0.0002,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s22",
+      "title_guess": "幸运大抽奖",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:8,middle-center:1,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.2538,
+        "image_area": 0,
+        "shape_area": 0.0085,
+        "text_blob": "幸运大抽奖 Lucky draw 抽奖规则: 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,请您尽可能提炼思想的精髓,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,请您尽可能提炼思想的精髓,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,请您尽可能提炼思想的精髓,以便观者可以准确理解您 添加关键字 添加关键字 添加关键字 添加关键字",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 13",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0772,
+            "y": 0.4653,
+            "w": 0.5789,
+            "h": 0.3474
+          },
+          "area": 0.2011,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 您的正文已经简明扼要,请您尽可能提炼思想的精髓,以便观者可以准确理解您所传达的信息",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0712,
+            "y": 0.0908,
+            "w": 0.2601,
+            "h": 0.0851
+          },
+          "area": 0.0221,
+          "text": "幸运大抽奖",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 12",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0772,
+            "y": 0.35,
+            "w": 0.2601,
+            "h": 0.0851
+          },
+          "area": 0.0221,
+          "text": "抽奖规则:",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "平行四边形 42",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0627,
+            "y": 0.1407,
+            "w": 0.2419,
+            "h": 0.0351
+          },
+          "area": 0.0085,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 46",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0712,
+            "y": 0.1787,
+            "w": 0.2536,
+            "h": 0.0335
+          },
+          "area": 0.0085,
+          "text": "Lucky draw",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "圆角矩形 29",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 30",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0012,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "添加关键字",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 32",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0007,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 39",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0012,
+            "y": 0.0007,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "添加关键字",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 36",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0009,
+            "w": 0.0002,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s23",
+      "title_guess": "幸运大抽奖",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:4,middle-right:2,middle-center:2",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 25,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.1167,
+        "image_area": 0.2317,
+        "shape_area": 0.2222,
+        "text_blob": "幸运大抽奖 Lucky draw 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 一等奖 01 单击此处输入你的正文,尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 二等奖 02 单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 三等奖 03",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 8",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5812,
+            "y": 0.2576,
+            "w": 0.361,
+            "h": 0.6418
+          },
+          "area": 0.2317,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 29",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6984,
+            "y": 0.0534,
+            "w": 0.2229,
+            "h": 0.8973
+          },
+          "area": 0.2,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 14",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1956,
+            "y": 0.3598,
+            "w": 0.3642,
+            "h": 0.0755
+          },
+          "area": 0.0275,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 18",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1956,
+            "y": 0.5416,
+            "w": 0.3642,
+            "h": 0.0755
+          },
+          "area": 0.0275,
+          "text": "单击此处输入你的正文,尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 16",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1956,
+            "y": 0.7233,
+            "w": 0.3642,
+            "h": 0.0755
+          },
+          "area": 0.0275,
+          "text": "单击此处输入你的正文,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 15",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1956,
+            "y": 0.3165,
+            "w": 0.1501,
+            "h": 0.0537
+          },
+          "area": 0.0081,
+          "text": "一等奖",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 19",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1956,
+            "y": 0.4982,
+            "w": 0.1501,
+            "h": 0.0537
+          },
+          "area": 0.0081,
+          "text": "二等奖",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 17",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1956,
+            "y": 0.68,
+            "w": 0.1501,
+            "h": 0.0537
+          },
+          "area": 0.0081,
+          "text": "三等奖",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 32",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0895,
+            "y": 0.3197,
+            "w": 0.0647,
+            "h": 0.115
+          },
+          "area": 0.0074,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "圆角矩形 33",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0895,
+            "y": 0.5015,
+            "w": 0.0647,
+            "h": 0.115
+          },
+          "area": 0.0074,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 5,
+          "body": 3,
+          "label": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s24",
+      "title_guess": "幸运大抽奖",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,middle-right:2,middle-center:2",
+      "counts": {
+        "text": 8,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.1557,
+        "image_area": 0.2634,
+        "shape_area": 0.0405,
+        "text_blob": "幸运大抽奖 Lucky draw 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 礼品一 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 礼品二 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 礼品三",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG41N861808258.jpg",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6543,
+            "y": 0.2794,
+            "w": 0.2654,
+            "h": 0.3307
+          },
+          "area": 0.0878,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG41N814118316.jpg",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3673,
+            "y": 0.2794,
+            "w": 0.2654,
+            "h": 0.3307
+          },
+          "area": 0.0878,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "http://photo-static-api.fotomore.com/creative/vcg/400/new/VCG211391402421.jpg",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0803,
+            "y": 0.2794,
+            "w": 0.2654,
+            "h": 0.3307
+          },
+          "area": 0.0878,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 79",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0795,
+            "y": 0.6844,
+            "w": 0.2671,
+            "h": 0.1594
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 82",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3665,
+            "y": 0.6844,
+            "w": 0.2671,
+            "h": 0.1594
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 90",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6534,
+            "y": 0.6844,
+            "w": 0.2671,
+            "h": 0.1594
+          },
+          "area": 0.0426,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "圆角矩形 80",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1287,
+            "y": 0.5723,
+            "w": 0.1685,
+            "h": 0.08
+          },
+          "area": 0.0135,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "圆角矩形 83",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4157,
+            "y": 0.5723,
+            "w": 0.1685,
+            "h": 0.08
+          },
+          "area": 0.0135,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "圆角矩形 91",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7027,
+            "y": 0.5723,
+            "w": 0.1685,
+            "h": 0.08
+          },
+          "area": 0.0135,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 81",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1464,
+            "y": 0.5816,
+            "w": 0.1333,
+            "h": 0.07
+          },
+          "area": 0.0093,
+          "text": "礼品一",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 3,
+          "label": 3
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "年会颁奖-08-静态-4260bd43-s25",
+      "title_guess": "插入logo",
+      "layout_job": "process-strip",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-left:6,bottom-right:1,middle-left:1",
+      "counts": {
+        "text": 8,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 1,
+        "text_area": 0.0395,
+        "image_area": 0,
+        "shape_area": 0.0179,
+        "text_blob": "插入logo Click here to enter your text, and make your points as brief as possible 永/热/爱 敢/向/前 向/未/来 赋/新/生 thank you 感谢大家观看 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。 — 不吃香菜公司 —",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "文本框 1",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.9347,
+            "y": 1.1574,
+            "w": 0.3333,
+            "h": 0.0537
+          },
+          "area": 0.0179,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 16",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0441,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "永/热/爱 敢/向/前",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 11",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.9247,
+            "y": 0.2557,
+            "w": 0.0303,
+            "h": 0.4713
+          },
+          "area": 0.0143,
+          "text": "向/未/来 赋/新/生",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 27",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3782,
+            "y": 0.6314,
+            "w": 0.2436,
+            "h": 0.0447
+          },
+          "area": 0.0109,
+          "text": "— 不吃香菜公司 —",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "平行四边形 4",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0004,
+            "y": 0.0007,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "平行四边形 12",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0006,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "平行四边形 18",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0007,
+            "w": 0.0003,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "平行四边形 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.001,
+            "y": 0.0004,
+            "w": 0.0003,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "平行四边形 3",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0012,
+            "y": 0.0004,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "平行四边形 17",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0011,
+            "y": 0.0005,
+            "w": 0.0002,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 6,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "节目单",
+        "奖项页",
+        "致辞页",
+        "结束页"
+      ],
+      "avoid_for": [
+        "科研申报",
+        "技术说明"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 25,
+    "layout_job_counts": {
+      "two-column": 7,
+      "process-strip": 7,
+      "matrix-grid": 3,
+      "table": 2,
+      "kpi-grid": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "flow-diagram": 1,
+      "claim-evidence": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 12,
+      "image": 8,
+      "chart": 2,
+      "mixed": 2,
+      "text": 1
+    },
+    "density_counts": {
+      "medium-high": 19,
+      "high": 4,
+      "medium": 1,
+      "low": 1
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "process-strip",
+      "matrix-grid",
+      "table",
+      "kpi-grid"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "chart"
+    ]
+  }
+}

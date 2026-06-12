@@ -1,0 +1,5043 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:25.972367+00:00",
+  "template_id": "教师说课-10-动态-37065e2b",
+  "template_profile_path": "assets/template-library/profiles/教师说课-10-动态-37065e2b.json",
+  "source_template": {
+    "name": "教师说课(10)—动态.pptx",
+    "category": "教师说课（5套）",
+    "path": "assets/template-library/originals/【锐旗设计】375套PPT集锦+预览图（图片格式）/375套 PPT文件/教师说课（5套）/教师说课(10)—动态.pptx",
+    "source": "【锐旗设计】375套PPT集锦+预览图（图片格式）",
+    "slide_count": 25,
+    "media_count": 37,
+    "image_media_count": 36,
+    "motion_hint": "dynamic",
+    "tags": [
+      "教学设计",
+      "教师说课",
+      "教案展示",
+      "课堂设计",
+      "封面",
+      "教学目标",
+      "教学流程",
+      "课堂活动",
+      "评价反思",
+      "教育",
+      "清晰",
+      "亲和",
+      "结构明确",
+      "课堂图",
+      "流程图",
+      "板书/教具示意",
+      "学生作品",
+      "教学目标短句",
+      "流程分步",
+      "教师话术短句",
+      "动态版",
+      "可动效",
+      "中高",
+      "图片密度高",
+      "图文混合密度高"
+    ]
+  },
+  "template_match": {
+    "family": "教学设计",
+    "scenario": [
+      "教师说课",
+      "教案展示",
+      "课堂设计"
+    ],
+    "best_for": [
+      "说课比赛",
+      "教学展示",
+      "课例分享"
+    ],
+    "avoid": [
+      "纯商务",
+      "强科技风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "教学目标",
+      "教学流程",
+      "课堂活动",
+      "反思"
+    ],
+    "visual": [
+      "教育",
+      "清晰",
+      "亲和",
+      "结构明确"
+    ],
+    "image_strategy": [
+      "课堂图",
+      "流程图",
+      "板书/教具示意",
+      "学生作品"
+    ],
+    "text_strategy": [
+      "教学目标短句",
+      "流程分步",
+      "教师话术短句"
+    ],
+    "density": "中高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "claim-evidence",
+      "image-hero",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "footer",
+      "body",
+      "label",
+      "connector",
+      "image"
+    ],
+    "common_zones": [
+      "middle-left",
+      "middle-center",
+      "top-center",
+      "bottom-center",
+      "unknown",
+      "middle-right"
+    ],
+    "template_text_signature": "教师说课 CONTENTS 说教材 教材地位分析 教材重点 教材难点 说学生 知识基础 能力基础 生活基础 说教学 情景导入 板书设计 课堂小结 说目标 知识与技能 过程与方法 情感、动态、价值观 说教法 教学方法 教学设计 说学法 自主学习 合作交流 主讲人:锐旗",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "教师说课-10-动态-37065e2b-s01",
+      "title_guess": "教师说课",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-center:2,unknown:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 25,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 2,
+        "text_area": 0.2586,
+        "image_area": 0,
+        "shape_area": 0.0147,
+        "text_blob": "主讲人:锐旗 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 教师说课 三年级·语文·上册·第十六课 中国风教师说课通用PPT",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1995,
+            "y": 0.1899,
+            "w": 0.6023,
+            "h": 0.2282
+          },
+          "area": 0.1374,
+          "text": "教师说课",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2089,
+            "y": 0.5153,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2623,
+            "y": 0.4308,
+            "w": 0.4755,
+            "h": 0.0666
+          },
+          "area": 0.0317,
+          "text": "中国风教师说课通用PPT",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2625,
+            "y": 0.1402,
+            "w": 0.4755,
+            "h": 0.0577
+          },
+          "area": 0.0274,
+          "text": "三年级·语文·上册·第十六课",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3869,
+            "y": 0.6072,
+            "w": 0.2319,
+            "h": 0.0634
+          },
+          "area": 0.0147,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4137,
+            "y": 0.612,
+            "w": 0.1786,
+            "h": 0.0537
+          },
+          "area": 0.0096,
+          "text": "主讲人:锐旗",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 15",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 17",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 1,
+          "title": 1,
+          "label": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "教师说课-10-动态-37065e2b-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "toc",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:9,top-center:1",
+      "counts": {
+        "text": 14,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 25,
+        "text_count": 14,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 0,
+        "text_area": 0.1216,
+        "image_area": 0,
+        "shape_area": 0.4542,
+        "text_blob": "壹 说教材 贰 说学生 叁 说教学 肆 说目标 伍 说教法 陆 说学法 CONTENTS 目录",
+        "title_like": 2,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "section_label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3918,
+            "y": 0.0611,
+            "w": 0.2164,
+            "h": 0.1616
+          },
+          "area": 0.035,
+          "text": "目录",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.2972,
+            "w": 0.0738,
+            "h": 0.4483
+          },
+          "area": 0.0331,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.2972,
+            "w": 0.0738,
+            "h": 0.4483
+          },
+          "area": 0.0331,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.2972,
+            "w": 0.0738,
+            "h": 0.4483
+          },
+          "area": 0.0331,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 12,
+          "section_label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "教师说课-10-动态-37065e2b-s03",
+      "title_guess": "说教材",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说教材 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 壹",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说教材",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "壹",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "教师说课-10-动态-37065e2b-s04",
+      "title_guess": "教材地位分析",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:5,top-center:2,middle-center:1",
+      "counts": {
+        "text": 13,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 25,
+        "text_count": 13,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2291,
+        "image_area": 0.1743,
+        "shape_area": 0.2568,
+        "text_blob": "教材地位分析 CLICK TO ADD YOUR CHAPTER TITLE 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 请添加小标题 01 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题 02 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题 03 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0697,
+            "y": 0.255,
+            "w": 0.8518,
+            "h": 0.293
+          },
+          "area": 0.2496,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5731,
+            "y": 0.1198,
+            "w": 0.3465,
+            "h": 0.503
+          },
+          "area": 0.1743,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.4831,
+            "h": 0.1304
+          },
+          "area": 0.063,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "教材地位分析",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2223,
+            "h": 0.1304
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2223,
+            "h": 0.1304
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2188,
+            "h": 0.1304
+          },
+          "area": 0.0285,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.0571,
+            "w": 0.1414,
+            "h": 0.0583
+          },
+          "area": 0.0082,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.0571,
+            "w": 0.1414,
+            "h": 0.0583
+          },
+          "area": 0.0082,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 12
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "教师说课-10-动态-37065e2b-s05",
+      "title_guess": "教材重点",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-right:3,middle-center:2,middle-left:2",
+      "counts": {
+        "text": 12,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 25,
+        "text_count": 12,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.2253,
+        "image_area": 0.1355,
+        "shape_area": 0.1409,
+        "text_blob": "教材重点 CLICK TO ADD YOUR CHAPTER TITLE 20XX年 输入你的标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 20XX年 输入你的标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+        "title_like": 0,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3634,
+            "y": 0.242,
+            "w": 0.2052,
+            "h": 0.6603
+          },
+          "area": 0.1355,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3789,
+            "y": 0.353,
+            "w": 0.2344,
+            "h": 0.4166
+          },
+          "area": 0.0977,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "教材重点",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6779,
+            "y": 0.4328,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6779,
+            "y": 0.5683,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.6779,
+            "y": 0.7008,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1244,
+            "y": 0.4328,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1244,
+            "y": 0.5683,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1244,
+            "y": 0.7008,
+            "w": 0.217,
+            "h": 0.1156
+          },
+          "area": 0.0251,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6601,
+            "y": 0.3224,
+            "w": 0.226,
+            "h": 0.0931
+          },
+          "area": 0.021,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 3,
+          "body": 6
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "教师说课-10-动态-37065e2b-s06",
+      "title_guess": "教材难点",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,middle-left:4,top-center:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 7,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 7,
+        "connector_count": 0,
+        "text_area": 0.1542,
+        "image_area": 0.2397,
+        "shape_area": 0.3317,
+        "text_blob": "教材难点 CLICK TO ADD YOUR CHAPTER TITLE 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3308,
+            "y": 0.3012,
+            "w": 0.6063,
+            "h": 0.4816
+          },
+          "area": 0.292,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0061,
+            "y": 0.227,
+            "w": 0.3672,
+            "h": 0.6528
+          },
+          "area": 0.2397,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "教材难点",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3015,
+            "y": 0.5263,
+            "w": 0.3363,
+            "h": 0.0901
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3015,
+            "y": 0.5263,
+            "w": 0.3363,
+            "h": 0.0901
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3015,
+            "y": 0.5263,
+            "w": 0.3363,
+            "h": 0.0901
+          },
+          "area": 0.0303,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.15,
+            "y": 0.321,
+            "w": 0.1594,
+            "h": 0.066
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.15,
+            "y": 0.321,
+            "w": 0.1594,
+            "h": 0.066
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.15,
+            "y": 0.321,
+            "w": 0.1594,
+            "h": 0.066
+          },
+          "area": 0.0105,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "教师说课-10-动态-37065e2b-s07",
+      "title_guess": "说学生",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说学生 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 贰",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说学生",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "贰",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "教师说课-10-动态-37065e2b-s08",
+      "title_guess": "知识基础",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:2,top-center:2,middle-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 2,
+        "text_area": 0.213,
+        "image_area": 0.3025,
+        "shape_area": 0.0256,
+        "text_blob": "知识基础 CLICK TO ADD YOUR CHAPTER TITLE 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.1625,
+            "w": 0.4125,
+            "h": 0.7334
+          },
+          "area": 0.3025,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1361,
+            "y": 0.3279,
+            "w": 0.4163,
+            "h": 0.0901
+          },
+          "area": 0.0375,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1361,
+            "y": 0.5208,
+            "w": 0.4163,
+            "h": 0.0901
+          },
+          "area": 0.0375,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1361,
+            "y": 0.7138,
+            "w": 0.4163,
+            "h": 0.0901
+          },
+          "area": 0.0375,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "知识基础",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.1361,
+            "y": 0.2795,
+            "w": 0.3427,
+            "h": 0.0583
+          },
+          "area": 0.02,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1361,
+            "y": 0.4724,
+            "w": 0.3427,
+            "h": 0.0583
+          },
+          "area": 0.02,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1361,
+            "y": 0.6653,
+            "w": 0.3427,
+            "h": 0.0583
+          },
+          "area": 0.02,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0629,
+            "y": 0.2901,
+            "w": 0.0655,
+            "h": 0.1165
+          },
+          "area": 0.0076,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 4,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "教师说课-10-动态-37065e2b-s09",
+      "title_guess": "能力基础",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-center:5,middle-left:4,top-center:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 4,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 25,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 4,
+        "connector_count": 0,
+        "text_area": 0.2849,
+        "image_area": 0.2253,
+        "shape_area": 0.4416,
+        "text_blob": "能力基础 CLICK TO ADD YOUR CHAPTER TITLE 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3197,
+            "y": 0.2694,
+            "w": 0.356,
+            "h": 0.6329
+          },
+          "area": 0.2253,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1566,
+            "y": 0.3357,
+            "w": 0.5255,
+            "h": 0.2101
+          },
+          "area": 0.1104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1566,
+            "y": 0.3357,
+            "w": 0.5255,
+            "h": 0.2101
+          },
+          "area": 0.1104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1566,
+            "y": 0.3357,
+            "w": 0.5255,
+            "h": 0.2101
+          },
+          "area": 0.1104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.1566,
+            "y": 0.3357,
+            "w": 0.5255,
+            "h": 0.2101
+          },
+          "area": 0.1104,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1564,
+            "y": 0.3643,
+            "w": 0.2434,
+            "h": 0.1304
+          },
+          "area": 0.0317,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1564,
+            "y": 0.3643,
+            "w": 0.2434,
+            "h": 0.1304
+          },
+          "area": 0.0317,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1564,
+            "y": 0.3643,
+            "w": 0.2434,
+            "h": 0.1304
+          },
+          "area": 0.0317,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1564,
+            "y": 0.3643,
+            "w": 0.2434,
+            "h": 0.1304
+          },
+          "area": 0.0317,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "能力基础",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "教师说课-10-动态-37065e2b-s10",
+      "title_guess": "生活基础",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "text-led",
+      "area_signature": "middle-left:3,bottom-center:2,middle-center:2",
+      "counts": {
+        "text": 9,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 25,
+        "text_count": 9,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2477,
+        "image_area": 0,
+        "shape_area": 0.224,
+        "text_blob": "生活基础 CLICK TO ADD YOUR CHAPTER TITLE 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0632,
+            "y": 0.6784,
+            "w": 0.8738,
+            "h": 0.1461
+          },
+          "area": 0.1277,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0928,
+            "y": 0.7039,
+            "w": 0.8148,
+            "h": 0.0901
+          },
+          "area": 0.0734,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字,以便观者可以准确理解您所传达的信息。单击此处输入你的正文,文字是您思想的提炼。",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1009,
+            "y": 0.5102,
+            "w": 0.2455,
+            "h": 0.1304
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3772,
+            "y": 0.5102,
+            "w": 0.2455,
+            "h": 0.1304
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6536,
+            "y": 0.5102,
+            "w": 0.2455,
+            "h": 0.1304
+          },
+          "area": 0.032,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "生活基础",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1208,
+            "y": 0.419,
+            "w": 0.2057,
+            "h": 0.0794
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3971,
+            "y": 0.419,
+            "w": 0.2057,
+            "h": 0.0794
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6735,
+            "y": 0.419,
+            "w": 0.2057,
+            "h": 0.0794
+          },
+          "area": 0.0163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1447,
+            "y": 0.4184,
+            "w": 0.158,
+            "h": 0.08
+          },
+          "area": 0.0126,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "教师说课-10-动态-37065e2b-s11",
+      "title_guess": "说教学",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说教学 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 叁",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说教学",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "叁",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "教师说课-10-动态-37065e2b-s12",
+      "title_guess": "情景导入",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:7,top-center:2,middle-right:1",
+      "counts": {
+        "text": 11,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 25,
+        "text_count": 11,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.1539,
+        "image_area": 0.3799,
+        "shape_area": 0.1854,
+        "text_blob": "情景导入 CLICK TO ADD YOUR CHAPTER TITLE 01 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 02 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 03 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4807,
+            "y": 0.1209,
+            "w": 0.4623,
+            "h": 0.8218
+          },
+          "area": 0.3799,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1279,
+            "y": 0.3327,
+            "w": 0.3782,
+            "h": 0.1582
+          },
+          "area": 0.0598,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1279,
+            "y": 0.3327,
+            "w": 0.3782,
+            "h": 0.1582
+          },
+          "area": 0.0598,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1279,
+            "y": 0.3327,
+            "w": 0.3782,
+            "h": 0.1582
+          },
+          "area": 0.0598,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "情景导入",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1517,
+            "y": 0.3955,
+            "w": 0.3449,
+            "h": 0.0806
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1517,
+            "y": 0.3955,
+            "w": 0.3449,
+            "h": 0.0806
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1517,
+            "y": 0.3955,
+            "w": 0.3449,
+            "h": 0.0806
+          },
+          "area": 0.0278,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1517,
+            "y": 0.3461,
+            "w": 0.1414,
+            "h": 0.0583
+          },
+          "area": 0.0082,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 7,
+          "body": 3
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "教师说课-10-动态-37065e2b-s13",
+      "title_guess": "板书设计",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:6,top-center:2,top-left:2",
+      "counts": {
+        "text": 8,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 25,
+        "text_count": 8,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.1311,
+        "image_area": 0.2687,
+        "shape_area": 0.0132,
+        "text_blob": "板书设计 CLICK TO ADD YOUR CHAPTER TITLE 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 02 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0621,
+            "y": 0.2596,
+            "w": 0.8772,
+            "h": 0.3063
+          },
+          "area": 0.2687,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2587,
+            "y": 0.3482,
+            "w": 0.2694,
+            "h": 0.1311
+          },
+          "area": 0.0353,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2587,
+            "y": 0.3482,
+            "w": 0.2694,
+            "h": 0.1311
+          },
+          "area": 0.0353,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "板书设计",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2505,
+            "y": 0.2923,
+            "w": 0.1467,
+            "h": 0.0599
+          },
+          "area": 0.0088,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.2505,
+            "y": 0.2923,
+            "w": 0.1467,
+            "h": 0.0599
+          },
+          "area": 0.0088,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4393,
+            "y": 0.583,
+            "w": 0.052,
+            "h": 0.1271
+          },
+          "area": 0.0066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4393,
+            "y": 0.583,
+            "w": 0.052,
+            "h": 0.1271
+          },
+          "area": 0.0066,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4498,
+            "y": 0.6271,
+            "w": 0.0307,
+            "h": 0.0386
+          },
+          "area": 0.0012,
+          "text": "01",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 5,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "教师说课-10-动态-37065e2b-s14",
+      "title_guess": "课堂小结",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-left:8,bottom-center:2",
+      "counts": {
+        "text": 10,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 25,
+        "text_count": 10,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 0,
+        "text_area": 0.2109,
+        "image_area": 0,
+        "shape_area": 0.3323,
+        "text_blob": "课堂小结 CLICK TO ADD YOUR CHAPTER TITLE 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.2111,
+            "w": 0.1547,
+            "h": 0.275
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.2111,
+            "w": 0.1547,
+            "h": 0.275
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.2111,
+            "w": 0.1547,
+            "h": 0.275
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.2111,
+            "w": 0.1547,
+            "h": 0.275
+          },
+          "area": 0.0425,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.3472,
+            "w": 0.1547,
+            "h": 0.2433
+          },
+          "area": 0.0376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.3472,
+            "w": 0.1547,
+            "h": 0.2433
+          },
+          "area": 0.0376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.3472,
+            "w": 0.1547,
+            "h": 0.2433
+          },
+          "area": 0.0376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1562,
+            "y": 0.3472,
+            "w": 0.1547,
+            "h": 0.2433
+          },
+          "area": 0.0376,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2388,
+            "y": 1.1039,
+            "w": 0.2013,
+            "h": 0.1708
+          },
+          "area": 0.0344,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2388,
+            "y": 1.1039,
+            "w": 0.2013,
+            "h": 0.1708
+          },
+          "area": 0.0344,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 9
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "教师说课-10-动态-37065e2b-s15",
+      "title_guess": "说目标",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说目标 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 肆",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说目标",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "肆",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "教师说课-10-动态-37065e2b-s16",
+      "title_guess": "知识与技能",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-right:3,bottom-center:3,top-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 4
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 25,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 4,
+        "text_area": 0.1781,
+        "image_area": 0.3327,
+        "shape_area": 0.046,
+        "text_blob": "知识与技能 CLICK TO ADD YOUR CHAPTER TITLE 此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文; 此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文; 此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文; 此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文; 添加 标题 添加 标题 添加 标题 添加 标题",
+        "title_like": 0,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.028,
+            "y": 0.2234,
+            "w": 0.5472,
+            "h": 0.608
+          },
+          "area": 0.3327,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "知识与技能",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.2918,
+            "w": 0.3913,
+            "h": 0.0773
+          },
+          "area": 0.0302,
+          "text": "此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.4331,
+            "w": 0.3913,
+            "h": 0.0773
+          },
+          "area": 0.0302,
+          "text": "此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.5744,
+            "w": 0.3913,
+            "h": 0.0773
+          },
+          "area": 0.0302,
+          "text": "此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5413,
+            "y": 0.7157,
+            "w": 0.3913,
+            "h": 0.0773
+          },
+          "area": 0.0302,
+          "text": "此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5283,
+            "y": 0.722,
+            "w": 0.0582,
+            "h": 0.1034
+          },
+          "area": 0.006,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5283,
+            "y": 0.722,
+            "w": 0.0582,
+            "h": 0.1034
+          },
+          "area": 0.006,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5283,
+            "y": 0.722,
+            "w": 0.0582,
+            "h": 0.1034
+          },
+          "area": 0.006,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 1,
+          "body": 4
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "教师说课-10-动态-37065e2b-s17",
+      "title_guess": "过程与方法",
+      "layout_job": "two-column",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,bottom-center:3,middle-left:2",
+      "counts": {
+        "text": 11,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 9,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 25,
+        "text_count": 11,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 9,
+        "connector_count": 0,
+        "text_area": 0.189,
+        "image_area": 0.007,
+        "shape_area": 0.2121,
+        "text_blob": "过程与方法 CLICK TO ADD YOUR CHAPTER TITLE 请添加关键字 请添加关键字 请添加关键字 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0826,
+            "y": 0.2042,
+            "w": 0.1469,
+            "h": 0.2611
+          },
+          "area": 0.0384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2979,
+            "y": 0.2042,
+            "w": 0.1469,
+            "h": 0.2611
+          },
+          "area": 0.0384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5133,
+            "y": 0.2042,
+            "w": 0.1469,
+            "h": 0.2611
+          },
+          "area": 0.0384,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2388,
+            "y": 1.1039,
+            "w": 0.2013,
+            "h": 0.1708
+          },
+          "area": 0.0344,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2388,
+            "y": 1.1039,
+            "w": 0.2013,
+            "h": 0.1708
+          },
+          "area": 0.0344,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2388,
+            "y": 1.1039,
+            "w": 0.2013,
+            "h": 0.1708
+          },
+          "area": 0.0344,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "过程与方法",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0911,
+            "y": 0.2192,
+            "w": 0.1299,
+            "h": 0.231
+          },
+          "area": 0.03,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3064,
+            "y": 0.2192,
+            "w": 0.1299,
+            "h": 0.231
+          },
+          "area": 0.03,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5218,
+            "y": 0.2192,
+            "w": 0.1299,
+            "h": 0.231
+          },
+          "area": 0.03,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 10
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "教师说课-10-动态-37065e2b-s18",
+      "title_guess": "情感、动态、价值观",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-left:7,top-center:2,middle-center:1",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 25,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.0624,
+        "image_area": 0.4912,
+        "shape_area": 0.0,
+        "text_blob": "情感、动态、价值观 CLICK TO ADD YOUR CHAPTER TITLE 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.256,
+            "y": 0.1514,
+            "w": 0.5256,
+            "h": 0.9345
+          },
+          "area": 0.4912,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.249,
+            "y": 0.154,
+            "w": 0.5079,
+            "h": 0.1032
+          },
+          "area": 0.0524,
+          "text": "情感、动态、价值观",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0006,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0008,
+            "w": 0.0006,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0002,
+            "y": 0.0006,
+            "w": 0.0005,
+            "h": 0.0002
+          },
+          "area": 0.0,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0005,
+            "w": 0.0006,
+            "h": 0.0004
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0001,
+            "y": 0.0008,
+            "w": 0.0006,
+            "h": 0.0
+          },
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0005,
+            "y": 0.0005,
+            "w": 0.0003,
+            "h": 0.0001
+          },
+          "area": 0.0,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 9
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "教师说课-10-动态-37065e2b-s19",
+      "title_guess": "说教法",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说教法 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 伍",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说教法",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "伍",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 20,
+      "slide_id": "20",
+      "framework_id": "教师说课-10-动态-37065e2b-s20",
+      "title_guess": "教学方法",
+      "layout_job": "image-hero",
+      "primary_carrier": "image",
+      "density": "medium",
+      "framework_signature": "right-text_left-visual",
+      "area_signature": "middle-center:2,top-center:2,bottom-center:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 20,
+        "total_slides": 25,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 0,
+        "text_area": 0.2604,
+        "image_area": 0.4443,
+        "shape_area": 0.0623,
+        "text_blob": "教学方法 CLICK TO ADD YOUR CHAPTER TITLE 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的标题 文字是您思想的提炼 关键词 关键词 关键词 关键词",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": -0.0375,
+            "y": 0.1818,
+            "w": 0.5773,
+            "h": 0.7697
+          },
+          "area": 0.4443,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5497,
+            "y": 0.4013,
+            "w": 0.3814,
+            "h": 0.2516
+          },
+          "area": 0.096,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点 单击此处输入你的正文,文字是您思想的提炼,为了最",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5497,
+            "y": 0.2442,
+            "w": 0.4129,
+            "h": 0.1571
+          },
+          "area": 0.0649,
+          "text": "单击此处输入你的标题 文字是您思想的提炼",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4325,
+            "y": 0.2375,
+            "w": 0.0977,
+            "h": 0.6381
+          },
+          "area": 0.0623,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "教学方法",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4527,
+            "y": 0.3088,
+            "w": 0.0623,
+            "h": 0.4717
+          },
+          "area": 0.0294,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5581,
+            "y": 0.682,
+            "w": 0.143,
+            "h": 0.052
+          },
+          "area": 0.0074,
+          "text": "关键词",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7185,
+            "y": 0.682,
+            "w": 0.143,
+            "h": 0.052
+          },
+          "area": 0.0074,
+          "text": "关键词",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.5581,
+            "y": 0.7787,
+            "w": 0.143,
+            "h": 0.052
+          },
+          "area": 0.0074,
+          "text": "关键词",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 5,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 21,
+      "slide_id": "21",
+      "framework_id": "教师说课-10-动态-37065e2b-s21",
+      "title_guess": "教学设计",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "bottom-center:4,middle-right:2,top-center:2",
+      "counts": {
+        "text": 16,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 5,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 21,
+        "total_slides": 25,
+        "text_count": 16,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 5,
+        "connector_count": 0,
+        "text_area": 0.2545,
+        "image_area": 0.1532,
+        "shape_area": 0.0358,
+        "text_blob": "教学设计 CLICK TO ADD YOUR CHAPTER TITLE 01 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题 02 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题 03 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题 04 单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文; 请添加小标题",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.6536,
+            "y": 0.2577,
+            "w": 0.2737,
+            "h": 0.5599
+          },
+          "area": 0.1532,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0662,
+            "y": 0.3089,
+            "w": 0.5601,
+            "h": 0.0766
+          },
+          "area": 0.0429,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "教学设计",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2223,
+            "h": 0.1304
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2223,
+            "h": 0.1304
+          },
+          "area": 0.029,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2188,
+            "h": 0.1304
+          },
+          "area": 0.0285,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4941,
+            "y": 1.1039,
+            "w": 0.2188,
+            "h": 0.1304
+          },
+          "area": 0.0285,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;单击此处输入你的正文;",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7797,
+            "y": 0.5311,
+            "w": 0.2202,
+            "h": 0.1188
+          },
+          "area": 0.0262,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0673,
+            "y": 0.2508,
+            "w": 0.251,
+            "h": 0.0592
+          },
+          "area": 0.0149,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 1,
+          "footer": 14,
+          "body": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 22,
+      "slide_id": "22",
+      "framework_id": "教师说课-10-动态-37065e2b-s22",
+      "title_guess": "说学法",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:2,middle-left:2,unknown:2",
+      "counts": {
+        "text": 3,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 22,
+        "total_slides": 25,
+        "text_count": 3,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 2,
+        "text_area": 0.1002,
+        "image_area": 0,
+        "shape_area": 0.0686,
+        "text_blob": "说学法 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 陆",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2093,
+            "y": 0.5214,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3753,
+            "y": 0.3431,
+            "w": 0.2494,
+            "h": 0.175
+          },
+          "area": 0.0436,
+          "text": "说学法",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1692,
+            "y": 0.2901,
+            "w": 0.0813,
+            "h": 0.4666
+          },
+          "area": 0.0379,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.1729,
+            "y": 0.3156,
+            "w": 0.0738,
+            "h": 0.4156
+          },
+          "area": 0.0307,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.6116,
+            "y": 0.2009,
+            "w": 0.0433,
+            "h": 0.0942
+          },
+          "area": 0.0041,
+          "text": "陆",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 2,
+          "body": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 23,
+      "slide_id": "23",
+      "framework_id": "教师说课-10-动态-37065e2b-s23",
+      "title_guess": "自主学习",
+      "layout_job": "two-column",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-left:3,middle-center:2,top-center:2",
+      "counts": {
+        "text": 9,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 2,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 23,
+        "total_slides": 25,
+        "text_count": 9,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 2,
+        "connector_count": 0,
+        "text_area": 0.2068,
+        "image_area": 0.2596,
+        "shape_area": 0.0453,
+        "text_blob": "自主学习 CLICK TO ADD YOUR CHAPTER TITLE 请添加小标题 单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; 单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点; CHINESE STYLE 国 风 20XX",
+        "title_like": 0,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0511,
+            "y": 0.248,
+            "w": 0.4296,
+            "h": 0.6043
+          },
+          "area": 0.2596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.5457,
+            "w": 0.3426,
+            "h": 0.1574
+          },
+          "area": 0.0539,
+          "text": "单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.7186,
+            "w": 0.3426,
+            "h": 0.1574
+          },
+          "area": 0.0539,
+          "text": "单击输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;根据需要可酌情增减文字。单击此处输入你的正文,文字是您思想的提炼,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3744,
+            "y": 0.2531,
+            "w": 0.0832,
+            "h": 0.4396
+          },
+          "area": 0.0366,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "自主学习",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0791,
+            "y": 0.4648,
+            "w": 0.2865,
+            "h": 0.0539
+          },
+          "area": 0.0154,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3545,
+            "y": 0.5059,
+            "w": 0.0832,
+            "h": 0.1834
+          },
+          "area": 0.0153,
+          "text": "国",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.4105,
+            "y": 0.6511,
+            "w": 0.0943,
+            "h": 0.1592
+          },
+          "area": 0.015,
+          "text": "风",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7599,
+            "y": 0.332,
+            "w": 0.1386,
+            "h": 0.063
+          },
+          "area": 0.0087,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 3,
+          "footer": 4,
+          "body": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 24,
+      "slide_id": "24",
+      "framework_id": "教师说课-10-动态-37065e2b-s24",
+      "title_guess": "合作交流",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "left-text_right-visual",
+      "area_signature": "middle-left:3,top-center:2,middle-center:2",
+      "counts": {
+        "text": 10,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 24,
+        "total_slides": 25,
+        "text_count": 10,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 0,
+        "text_area": 0.1465,
+        "image_area": 0.5588,
+        "shape_area": 0.007,
+        "text_blob": "合作交流 CLICK TO ADD YOUR CHAPTER TITLE 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点; 请添加小标题 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4172,
+            "y": 0.2165,
+            "w": 0.6163,
+            "h": 0.9067
+          },
+          "area": 0.5588,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3553,
+            "y": 0.154,
+            "w": 0.2953,
+            "h": 0.1032
+          },
+          "area": 0.0305,
+          "text": "合作交流",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0798,
+            "y": 0.3673,
+            "w": 0.1948,
+            "h": 0.1032
+          },
+          "area": 0.0201,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2983,
+            "y": 0.3673,
+            "w": 0.1948,
+            "h": 0.1032
+          },
+          "area": 0.0201,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0798,
+            "y": 0.6456,
+            "w": 0.1948,
+            "h": 0.1032
+          },
+          "area": 0.0201,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2983,
+            "y": 0.6456,
+            "w": 0.1948,
+            "h": 0.1032
+          },
+          "area": 0.0201,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3736,
+            "y": 0.2448,
+            "w": 0.2587,
+            "h": 0.0386
+          },
+          "area": 0.01,
+          "text": "CLICK TO ADD YOUR CHAPTER TITLE",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0789,
+            "y": 0.3245,
+            "w": 0.1591,
+            "h": 0.0404
+          },
+          "area": 0.0064,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2974,
+            "y": 0.3245,
+            "w": 0.1591,
+            "h": 0.0404
+          },
+          "area": 0.0064,
+          "text": "请添加小标题",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0789,
+            "y": 0.6028,
+            "w": 0.1591,
+            "h": 0.0404
+          },
+          "area": 0.0064,
+          "text": "请添加小标题",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 5,
+          "footer": 5
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 25,
+      "slide_id": "25",
+      "framework_id": "教师说课-10-动态-37065e2b-s25",
+      "title_guess": "主讲人:锐旗",
+      "layout_job": "closing-takeaway",
+      "primary_carrier": "diagram-shapes",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:4,top-center:2,unknown:2",
+      "counts": {
+        "text": 5,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 1,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 25,
+        "total_slides": 25,
+        "text_count": 5,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 1,
+        "connector_count": 2,
+        "text_area": 0.2586,
+        "image_area": 0,
+        "shape_area": 0.0147,
+        "text_blob": "主讲人:锐旗 单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼; 感谢聆听 三年级·语文·上册·第十六课 中国风教师说课通用PPT",
+        "title_like": 0,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1995,
+            "y": 0.1899,
+            "w": 0.6023,
+            "h": 0.2282
+          },
+          "area": 0.1374,
+          "text": "感谢聆听",
+          "editable": true
+        },
+        {
+          "index": 2,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2089,
+            "y": 0.5153,
+            "w": 0.5825,
+            "h": 0.0901
+          },
+          "area": 0.0525,
+          "text": "单击此处输入你的正文,文字是您思想的提炼,为了最终演示发布的良好效果,请尽量言简意赅的阐述观点;单击此处输入你的正文,文字是您思想的提炼;",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2623,
+            "y": 0.4308,
+            "w": 0.4755,
+            "h": 0.0666
+          },
+          "area": 0.0317,
+          "text": "中国风教师说课通用PPT",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2625,
+            "y": 0.1402,
+            "w": 0.4755,
+            "h": 0.0577
+          },
+          "area": 0.0274,
+          "text": "三年级·语文·上册·第十六课",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3869,
+            "y": 0.6072,
+            "w": 0.2319,
+            "h": 0.0634
+          },
+          "area": 0.0147,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "觅知网-不倒翁ID:189359941",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4138,
+            "y": 0.612,
+            "w": 0.1786,
+            "h": 0.0537
+          },
+          "area": 0.0096,
+          "text": "主讲人:锐旗",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "直接连接符 20",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "直接连接符 30",
+          "role": "connector",
+          "zone": "unknown",
+          "box": null,
+          "area": 0.0,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 2,
+          "body": 1,
+          "label": 2
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "教学目标",
+        "教学流程",
+        "课堂活动",
+        "反思"
+      ],
+      "avoid_for": [
+        "纯商务",
+        "强科技风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 25,
+    "layout_job_counts": {
+      "two-column": 8,
+      "claim-evidence": 6,
+      "image-hero": 6,
+      "flow-diagram": 2,
+      "cover-statement": 1,
+      "toc": 1,
+      "closing-takeaway": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 17,
+      "image": 8
+    },
+    "density_counts": {
+      "medium-high": 14,
+      "low": 8,
+      "medium": 2,
+      "high": 1
+    },
+    "dominant_layout_jobs": [
+      "two-column",
+      "claim-evidence",
+      "image-hero",
+      "flow-diagram",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image"
+    ]
+  }
+}

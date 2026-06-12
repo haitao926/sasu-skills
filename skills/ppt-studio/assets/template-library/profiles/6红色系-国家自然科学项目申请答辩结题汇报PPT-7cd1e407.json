@@ -1,0 +1,4152 @@
+{
+  "schema_version": "ppt-studio/template-profile-v1",
+  "generated_at": "2026-06-01T01:43:31.360276+00:00",
+  "template_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407",
+  "template_profile_path": "assets/template-library/profiles/6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407.json",
+  "source_template": {
+    "name": "6红色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "category": "国家自然科学申报PPT(7套)",
+    "path": "assets/template-library/originals/国家自然科学申报PPT(7套)/6红色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "source": "国家自然科学申报PPT(7套)",
+    "slide_count": 19,
+    "media_count": 25,
+    "image_media_count": 24,
+    "motion_hint": "pptx",
+    "tags": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报",
+      "封面",
+      "目录",
+      "研究背景",
+      "科学问题",
+      "技术路线",
+      "进度成果",
+      "总结",
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨",
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图",
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释",
+      "红色",
+      "静态版",
+      "原始文件",
+      "高",
+      "图片密度高"
+    ]
+  },
+  "template_match": {
+    "family": "科研申报",
+    "scenario": [
+      "科研申报",
+      "基金答辩",
+      "研究汇报"
+    ],
+    "best_for": [
+      "基金申报",
+      "研究答辩",
+      "课题结题",
+      "学术汇报"
+    ],
+    "avoid": [
+      "儿童活动",
+      "海报展示",
+      "强插画风"
+    ],
+    "recommended_page_jobs": [
+      "封面",
+      "目录",
+      "研究意义",
+      "技术路线",
+      "结果/进度",
+      "总结"
+    ],
+    "visual": [
+      "正式",
+      "蓝白科研",
+      "章节编号",
+      "矩形证据框",
+      "严谨"
+    ],
+    "image_strategy": [
+      "架构图",
+      "流程图",
+      "证据截图",
+      "表格",
+      "研究框架图"
+    ],
+    "text_strategy": [
+      "标题+结论句",
+      "高可编辑正文",
+      "编号章节",
+      "短句解释"
+    ],
+    "density": "高"
+  },
+  "deck_frame": {
+    "aspect_ratio": 1.7778,
+    "slide_size_in": {
+      "w": 13.333,
+      "h": 7.5
+    },
+    "dominant_layout_jobs": [
+      "duo-compare",
+      "matrix-grid",
+      "flow-diagram",
+      "limitations-future",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ],
+    "dominant_density": "medium-high",
+    "common_text_roles": [
+      "decorative-shape",
+      "diagram-block",
+      "image",
+      "title",
+      "footer",
+      "body"
+    ],
+    "common_zones": [
+      "top-center",
+      "middle-center",
+      "bottom-center",
+      "middle-right",
+      "middle-left",
+      "bottom-right"
+    ],
+    "template_text_signature": "申请答辩结题汇报PPT 国家自然科学基金项目科研 CONTENTS 一、立项依据与研究现状 一、立项依据与研究现状 一、立项依据与研究现状 CONTENTS 二、课题分解与研究内容 二、课题分解与研究内容 CONTENTS 三、课题分解与进度安排 三、课题分解与进度安排 三、课题分解与进度安排 CONTENTS 四、项目负责人 四、课题负责人 四、依托平台 CONTENTS 四、预期成果与风险分析 “肝细胞研究与器官修复”重点专项 2022 年度项目汇报",
+    "recommended_reuse_contract": [
+      "保留模板的网格、页边距、标题区和证据区关系",
+      "只替换模板里的占位内容、截图和图表数据，不破坏原始版式语言",
+      "每页先复用模板框架，再在框架内重建编辑文本与证据图"
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "slide_id": "01",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s01",
+      "title_guess": "申请答辩结题汇报PPT 国家自然科学基金项目科研",
+      "layout_job": "cover-statement",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-center:3,bottom-center:3",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 1,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 8,
+        "text_area": 0.4392,
+        "image_area": 1.003,
+        "shape_area": 2.1122,
+        "text_blob": "“干细胞研究与器官修复”重点专项 2025 年度项目汇报 项目负责人:科研答辩 医学技术重点实验室 科研科技大学 科研材料安全研究所 科研大学第三医院基础医学研究所 科研医科大学检验科 科研医科大仪器实验室 科研医学仪器实验室 科研医学中心 科研医科大学检验科 医学技术重点实验室 科研医科疾病检测中心 申请答辩结题汇报PPT 国家自然科学基金项目科研",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 84",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 0.9995,
+            "h": 1.0035
+          },
+          "area": 1.003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 8",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1389,
+            "w": 0.9243,
+            "h": 0.5151
+          },
+          "area": 0.4761,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 83",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1389,
+            "w": 0.9243,
+            "h": 0.5115
+          },
+          "area": 0.4728,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "title",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0562,
+            "y": 0.1963,
+            "w": 0.8875,
+            "h": 0.3097
+          },
+          "area": 0.2749,
+          "text": "申请答辩结题汇报PPT 国家自然科学基金项目科研",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 96",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1285,
+            "y": 0.0097,
+            "w": 0.7214,
+            "h": 0.1164
+          },
+          "area": 0.084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 99",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1484,
+            "y": 0.0387,
+            "w": 0.7214,
+            "h": 0.074
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2337,
+            "y": 0.0504,
+            "w": 0.5325,
+            "h": 0.0539
+          },
+          "area": 0.0287,
+          "text": "“干细胞研究与器官修复”重点专项 2025 年度项目汇报",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3804,
+            "y": 0.6919,
+            "w": 0.2412,
+            "h": 0.0793
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 51",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3324,
+            "y": 0.6825,
+            "w": 0.3388,
+            "h": 0.0539
+          },
+          "area": 0.0183,
+          "text": "科研大学第三医院基础医学研究所",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3841,
+            "y": 0.6979,
+            "w": 0.2278,
+            "h": 0.0673
+          },
+          "area": 0.0153,
+          "text": "项目负责人:科研答辩",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 12,
+          "label": 1,
+          "title": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 2,
+      "slide_id": "02",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s02",
+      "title_guess": "CONTENTS",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-right:3",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 2,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 11,
+        "text_area": 0.1953,
+        "image_area": 0.6329,
+        "shape_area": 1.6029,
+        "text_blob": "CONTENTS 汇报提纲 项目背景与研究内容 01 课题分解与研究内容 02 任务分解与进度安排 03 研发团队与工作基础 04 预期成果与风险分析 05",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3854,
+            "y": 0.0,
+            "w": 0.6146,
+            "h": 0.998
+          },
+          "area": 0.6134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3756,
+            "h": 1.0
+          },
+          "area": 0.3756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3752,
+            "h": 1.0
+          },
+          "area": 0.3752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.0,
+            "w": 0.3057,
+            "h": 1.002
+          },
+          "area": 0.3063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 45",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3861,
+            "y": 0.5784,
+            "w": 0.6139,
+            "h": 0.4197
+          },
+          "area": 0.2577,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.1467,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.3153,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.4764,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.6428,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.812,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 1,
+          "label": 11
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 3,
+      "slide_id": "03",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s03",
+      "title_guess": "一、立项依据与研究现状",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "middle-left:2,bottom-center:2,middle-right:2",
+      "counts": {
+        "text": 11,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 3,
+        "total_slides": 19,
+        "text_count": 11,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 0,
+        "text_area": 0.3855,
+        "image_area": 0.2584,
+        "shape_area": 0.7349,
+        "text_blob": "一、立项依据与研究现状 干细胞、免疫细胞治疗等为代表的细胞治疗新技术发展迅猛,已成为研发的热点 干细胞市场预测 预计2024年全球干细胞市场规模为177.8亿美元 预计到2029年将达到280亿美元 在预测期内复合年增长率为9.52% 42万篇 PubMed收录的论文 15.1% 9分+期刊 4.4% 24分期刊 14款干细胞产品获批上市,6216项干细胞临床试验正在进行中,涉及200种适应症,8大系统疾病 预计预测期内将出现增长 人们对脐带干细胞的认识不断提高,对再生治疗方案的需求不断增长干细胞研究临床试验的批准不断增加,这些因素主要推动了市场的增长",
+        "title_like": 2,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 195",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0363,
+            "y": 0.2297,
+            "w": 0.3838,
+            "h": 0.5504
+          },
+          "area": 0.2112,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 149",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.8056,
+            "w": 0.9273,
+            "h": 0.1718
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 187",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4259,
+            "y": 0.5113,
+            "w": 0.5378,
+            "h": 0.2688
+          },
+          "area": 0.1446,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 177",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4259,
+            "y": 0.2297,
+            "w": 0.5378,
+            "h": 0.2688
+          },
+          "area": 0.1446,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 136",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.201,
+            "y": 0.2472,
+            "w": 0.2107,
+            "h": 0.5106
+          },
+          "area": 0.1076,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 199",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0468,
+            "y": 0.8228,
+            "w": 0.9026,
+            "h": 0.1175
+          },
+          "area": 0.1061,
+          "text": "人们对脐带干细胞的认识不断提高,对再生治疗方案的需求不断增长干细胞研究临床试验的批准不断增加,这些因素主要推动了市场的增长",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 98",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4441,
+            "y": 0.5344,
+            "w": 0.3317,
+            "h": 0.2368
+          },
+          "area": 0.0785,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 167",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4449,
+            "y": 0.2472,
+            "w": 0.3124,
+            "h": 0.2313
+          },
+          "area": 0.0723,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 113",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0378,
+            "y": 0.1372,
+            "w": 0.9245,
+            "h": 0.0736
+          },
+          "area": 0.068,
+          "text": "干细胞、免疫细胞治疗等为代表的细胞治疗新技术发展迅猛,已成为研发的热点",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "一、立项依据与研究现状",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 2,
+          "footer": 1,
+          "label": 6,
+          "body": 2
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 4,
+      "slide_id": "04",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s04",
+      "title_guess": "一、立项依据与研究现状",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "bottom-center:2,top-center:2,middle-right:2",
+      "counts": {
+        "text": 16,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 4,
+        "total_slides": 19,
+        "text_count": 16,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 1,
+        "text_area": 0.5066,
+        "image_area": 0,
+        "shape_area": 0.75,
+        "text_blob": "一、立项依据与研究现状 中国干细胞科技产业发展态势从弱到强、从模糊到清晰、政府支持力度持续上升 首次将细胞研究技术作为重点技术领域写入国家科技战略发展计划 2006年2月 未来干细胞技术的发展方向将更加注重个性化、精准化和实用性 不断探索和拓展干细胞技术的应用领域,为医学领域的发展做出更大的贡献 多项政策出台,干细胞库成为整个产业的基础和核心 2013年3月 国际学术期刊《自然》杂志发表我国于细胞制备技术突破 2022年4月 中国干细胞医疗发展历程 推动干细胞技术研发和转化应用 鼓励支持干细胞治疗领域研究 建立健全干细胞行业标准和规范 加大干细胞技术研发的投入,鼓励和支持企业和科研机构开展干细胞技术研究和应用 加强干细胞技术与其他生物医学技术的融合 加强对干细胞治疗领域的研究和临床试验的支持,以及探索干细胞在各种疾病治疗中的应用 建立和完善干细胞治疗的临床试验体系 制定和完善干细胞行业的标准和规范,包括干细胞的采集、分离、存储、运输和临床应用等方面 加强于细胞行业的监管",
+        "title_like": 1,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 75",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.8056,
+            "w": 0.9273,
+            "h": 0.1718
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 106",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0474,
+            "y": 0.235,
+            "w": 0.2984,
+            "h": 0.5249
+          },
+          "area": 0.1566,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 76",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0468,
+            "y": 0.8228,
+            "w": 0.9026,
+            "h": 0.1175
+          },
+          "area": 0.1061,
+          "text": "未来干细胞技术的发展方向将更加注重个性化、精准化和实用性 不断探索和拓展干细胞技术的应用领域,为医学领域的发展做出更大的贡献",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0474,
+            "y": 0.1436,
+            "w": 0.9051,
+            "h": 0.0673
+          },
+          "area": 0.0609,
+          "text": "中国干细胞科技产业发展态势从弱到强、从模糊到清晰、政府支持力度持续上升",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 132",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.5892,
+            "y": 0.2344,
+            "w": 0.3725,
+            "h": 0.1541
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 133",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5892,
+            "y": 0.4081,
+            "w": 0.3725,
+            "h": 0.1541
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 134",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5892,
+            "y": 0.6001,
+            "w": 0.3725,
+            "h": 0.1541
+          },
+          "area": 0.0574,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "一、立项依据与研究现状",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 153",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.5892,
+            "y": 0.4257,
+            "w": 0.3725,
+            "h": 0.124
+          },
+          "area": 0.0462,
+          "text": "加强对干细胞治疗领域的研究和临床试验的支持,以及探索干细胞在各种疾病治疗中的应用 建立和完善干细胞治疗的临床试验体系",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 159",
+          "role": "body",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5892,
+            "y": 0.6185,
+            "w": 0.3725,
+            "h": 0.124
+          },
+          "area": 0.0462,
+          "text": "制定和完善干细胞行业的标准和规范,包括干细胞的采集、分离、存储、运输和临床应用等方面 加强于细胞行业的监管",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 6,
+          "footer": 3,
+          "label": 6
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 5,
+      "slide_id": "05",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s05",
+      "title_guess": "一、立项依据与研究现状",
+      "layout_job": "claim-evidence",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:3,top-center:3,bottom-center:2",
+      "counts": {
+        "text": 19,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 5,
+        "total_slides": 19,
+        "text_count": 19,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 1,
+        "text_area": 0.3934,
+        "image_area": 0.0528,
+        "shape_area": 0.711,
+        "text_blob": "一、立项依据与研究现状 间充质干细胞目前为干细胞技术研发及应用热点领域,干细胞潜在应用领域广阔 技术创新是干细胞行业发展的核心驱动力,是改变国内中下游产业链薄弱现状的主要途径,全球都在通过多种方式进行干细胞及相关产品研发,积极转化干细胞研究成果。 全能干细胞 多能干细胞 专能干细胞 一个细胞可形成一个完整的生命, 只有从受精卵到桑椹胚时期的细胞 能分化成几乎所有细胞类型,分化形成三胚层中的任何一种细胞 分化成密切相关的细胞谱系细胞,血液系统和免疫系统的细胞 干细胞的特点 多功能分化潜能 良好组织相容性 低免疫原性 自我更新 胚胎干细胞能用于哪些疾病? 糖尿病 血液系统疾病 心脑血管疾病 肝肾损伤",
+        "title_like": 1,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0359,
+            "y": 0.479,
+            "w": 0.9255,
+            "h": 0.3011
+          },
+          "area": 0.2787,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 75",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.8056,
+            "w": 0.9273,
+            "h": 0.1718
+          },
+          "area": 0.1593,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 76",
+          "role": "body",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0468,
+            "y": 0.8228,
+            "w": 0.9026,
+            "h": 0.1175
+          },
+          "area": 0.1061,
+          "text": "技术创新是干细胞行业发展的核心驱动力,是改变国内中下游产业链薄弱现状的主要途径,全球都在通过多种方式进行干细胞及相关产品研发,积极转化干细胞研究成果。",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 10",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0474,
+            "y": 0.1436,
+            "w": 0.9051,
+            "h": 0.0673
+          },
+          "area": 0.0609,
+          "text": "间充质干细胞目前为干细胞技术研发及应用热点领域,干细胞潜在应用领域广阔",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "一、立项依据与研究现状",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "图片 68",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4062,
+            "y": 0.4887,
+            "w": 0.1877,
+            "h": 0.2815
+          },
+          "area": 0.0528,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0363,
+            "y": 0.2355,
+            "w": 0.2768,
+            "h": 0.169
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 13",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.3605,
+            "y": 0.2355,
+            "w": 0.2768,
+            "h": 0.169
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 16",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.6846,
+            "y": 0.2355,
+            "w": 0.2768,
+            "h": 0.169
+          },
+          "area": 0.0468,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "左中括号 21",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.4877,
+            "y": -0.1545,
+            "w": 0.0247,
+            "h": 1.1924
+          },
+          "area": 0.0295,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "body": 4,
+          "footer": 13,
+          "label": 1
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 6,
+      "slide_id": "06",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s06",
+      "title_guess": "CONTENTS",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-right:3",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 6,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 11,
+        "text_area": 0.1953,
+        "image_area": 0.6329,
+        "shape_area": 1.6029,
+        "text_blob": "项目背景与研究内容 01 课题分解与研究内容 02 任务分解与进度安排 03 研发团队与工作基础 04 预期成果与风险分析 05 CONTENTS 汇报提纲",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3854,
+            "y": 0.0,
+            "w": 0.6146,
+            "h": 0.998
+          },
+          "area": 0.6134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3756,
+            "h": 1.0
+          },
+          "area": 0.3756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3752,
+            "h": 1.0
+          },
+          "area": 0.3752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.0,
+            "w": 0.3057,
+            "h": 1.002
+          },
+          "area": 0.3063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 45",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3861,
+            "y": 0.5784,
+            "w": 0.6139,
+            "h": 0.4197
+          },
+          "area": 0.2577,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.1467,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.3153,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.4764,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.6428,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.812,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11,
+          "section_label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 7,
+      "slide_id": "07",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s07",
+      "title_guess": "二、课题分解与研究内容",
+      "layout_job": "research-question",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:3,bottom-center:2,middle-left:2",
+      "counts": {
+        "text": 17,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 13,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 7,
+        "total_slides": 19,
+        "text_count": 17,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 13,
+        "connector_count": 0,
+        "text_area": 0.4577,
+        "image_area": 0,
+        "shape_area": 0.5153,
+        "text_blob": "二、课题分解与研究内容 核心科学问题 关键科学问题 关键技术问题 研究进展 申报单位根据指南支持方向,面向解决重大科学问题和突破关键技术进行一体化设计 形 成 支 撑 发现、分离和扩增神经系统等特异组织干细胞,研究其功能特性及形成组织结构的能力 将干细胞移植到了一名脊髓损伤的患者机体中,这是科学家们全球进行了首例此类临床试验 I.建立 2~3 种合适的动物模型,评估组织干细胞及其形成结构移植后的功能 II.研究特异组织干细胞的功能特性,评价其形成微结构的能力 I. 目前由干细胞产生的β细胞还不成熟,对胰岛素分泌的调节能力较差 II.造血干细胞在人类中仅占不到0.01%比例,并没有方法与其它细胞区分开 从基础研究到应用研究全链条组织项目 依托国家重点实验室等重要科研基地组织项目 干细胞及转化研究",
+        "title_like": 1,
+        "body_like": 6
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 188",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.6752,
+            "w": 0.9243,
+            "h": 0.0942
+          },
+          "area": 0.0871,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 183",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0363,
+            "y": 0.2676,
+            "w": 0.2159,
+            "h": 0.384
+          },
+          "area": 0.0829,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 184",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2725,
+            "y": 0.2676,
+            "w": 0.2159,
+            "h": 0.384
+          },
+          "area": 0.0829,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 185",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5121,
+            "y": 0.2676,
+            "w": 0.2159,
+            "h": 0.384
+          },
+          "area": 0.0829,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形: 圆角 186",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7434,
+            "y": 0.2676,
+            "w": 0.2159,
+            "h": 0.384
+          },
+          "area": 0.0829,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "二、课题分解与研究内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 210",
+          "role": "body",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0467,
+            "y": 0.3202,
+            "w": 0.1952,
+            "h": 0.279
+          },
+          "area": 0.0545,
+          "text": "发现、分离和扩增神经系统等特异组织干细胞,研究其功能特性及形成组织结构的能力",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "文本框 211",
+          "role": "body",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7553,
+            "y": 0.3202,
+            "w": 0.1921,
+            "h": 0.279
+          },
+          "area": 0.0536,
+          "text": "将干细胞移植到了一名脊髓损伤的患者机体中,这是科学家们全球进行了首例此类临床试验",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 189",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.1004,
+            "y": 0.6931,
+            "w": 0.7992,
+            "h": 0.0583
+          },
+          "area": 0.0466,
+          "text": "申报单位根据指南支持方向,面向解决重大科学问题和突破关键技术进行一体化设计",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 216",
+          "role": "body",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2761,
+            "y": 0.296,
+            "w": 0.2086,
+            "h": 0.1398
+          },
+          "area": 0.0292,
+          "text": "I.建立 2~3 种合适的动物模型,评估组织干细胞及其形成结构移植后的功能",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 7,
+          "footer": 3,
+          "body": 5,
+          "claim": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 8,
+      "slide_id": "08",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s08",
+      "title_guess": "二、课题分解与研究内容",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:3,middle-center:2,middle-right:2",
+      "counts": {
+        "text": 28,
+        "image": 0,
+        "chart": 0,
+        "table": 0,
+        "shape": 24,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 8,
+        "total_slides": 19,
+        "text_count": 28,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 24,
+        "connector_count": 0,
+        "text_area": 0.4596,
+        "image_area": 0,
+        "shape_area": 0.8768,
+        "text_blob": "二、课题分解与研究内容 覆盖指南要求全部内容 开展干细胞及转化研究 课题一 技术支撑 结果辅导 化学诱导全能干细胞的方法 确定了一种3个小分子组成的的药物组合,能将小鼠多能干细胞(mPSCs)诱导成TotiSCs并保持稳定 统筹单位:科研科技大学 科研大学 课题二 课题三 调控肠干细胞再生,促进肠型放射病救治 基于肠类器官模型及腹部照射模型 Me6可以通过激活肠干细胞的再生功能 实验证实 干细胞治疗阿尔茨海默病新进展 目前所有阿尔茨海默病治疗方法都是针对症状的,无法控制疾病自然病程,急需新治疗方法 统筹单位:科研医科大学 课题四 MSCs联合可注射水凝胶,改善炎症性肠病 统筹单位:科研大学 IBD的发生可能与感染、免疫、遗传、精神、环境等多种因素有关 IBD的治疗原则取决于病变范围和病变程度,以药物治疗为主 课题五 解密人类胚胎骨骼干细胞起源 骨骼干细胞是一群能够自我更新并分化,发挥关键在骨骼发育作用 对早期人类胚胎骨骼干细胞起源和异质性研究 深入理解人类骨骼发育及损伤修复机制",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 21",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3218,
+            "y": 0.3369,
+            "w": 0.3531,
+            "h": 0.6041
+          },
+          "area": 0.2133,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 48",
+          "role": "decorative-shape",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0872,
+            "y": 0.3369,
+            "w": 0.1926,
+            "h": 0.6041
+          },
+          "area": 0.1163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 50",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7176,
+            "y": 0.3369,
+            "w": 0.1926,
+            "h": 0.6041
+          },
+          "area": 0.1163,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 27",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0888,
+            "y": 0.1481,
+            "w": 0.8213,
+            "h": 0.1409
+          },
+          "area": 0.1157,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 67",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3355,
+            "y": 0.4185,
+            "w": 0.3255,
+            "h": 0.1992
+          },
+          "area": 0.0648,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "二、课题分解与研究内容",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "矩形 90",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3355,
+            "y": 0.6895,
+            "w": 0.3255,
+            "h": 0.1568
+          },
+          "area": 0.051,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "文本框 64",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2067,
+            "y": 0.1993,
+            "w": 0.5025,
+            "h": 0.0863
+          },
+          "area": 0.0434,
+          "text": "确定了一种3个小分子组成的的药物组合,能将小鼠多能干细胞(mPSCs)诱导成TotiSCs并保持稳定",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "文本框 6",
+          "role": "label",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.9158,
+            "y": 0.1515,
+            "w": 0.0505,
+            "h": 0.7928
+          },
+          "area": 0.04,
+          "text": "覆盖指南要求全部内容",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 99",
+          "role": "claim",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3365,
+            "y": 0.7545,
+            "w": 0.3236,
+            "h": 0.0863
+          },
+          "area": 0.0279,
+          "text": "目前所有阿尔茨海默病治疗方法都是针对症状的,无法控制疾病自然病程,急需新治疗方法",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 12,
+          "footer": 13,
+          "body": 1,
+          "claim": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 9,
+      "slide_id": "09",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s09",
+      "title_guess": "CONTENTS",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-right:3",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 9,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 11,
+        "text_area": 0.1953,
+        "image_area": 0.6329,
+        "shape_area": 1.6029,
+        "text_blob": "CONTENTS 汇报提纲 项目背景与研究内容 01 课题分解与研究内容 02 任务分解与进度安排 03 研发团队与工作基础 04 预期成果与风险分析 05",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3854,
+            "y": 0.0,
+            "w": 0.6146,
+            "h": 0.998
+          },
+          "area": 0.6134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3756,
+            "h": 1.0
+          },
+          "area": 0.3756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3752,
+            "h": 1.0
+          },
+          "area": 0.3752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.0,
+            "w": 0.3057,
+            "h": 1.002
+          },
+          "area": 0.3063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 45",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3861,
+            "y": 0.5784,
+            "w": 0.6139,
+            "h": 0.4197
+          },
+          "area": 0.2577,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.1467,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.3153,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.4764,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.6428,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.812,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "section_label": 1,
+          "label": 11
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 10,
+      "slide_id": "10",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s10",
+      "title_guess": "三、课题分解与进度安排",
+      "layout_job": "limitations-future",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:4,middle-center:2,bottom-center:1",
+      "counts": {
+        "text": 16,
+        "image": 3,
+        "chart": 0,
+        "table": 0,
+        "shape": 17,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 10,
+        "total_slides": 19,
+        "text_count": 16,
+        "image_count": 3,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 17,
+        "connector_count": 1,
+        "text_area": 0.3661,
+        "image_area": 0.1275,
+        "shape_area": 1.3775,
+        "text_blob": "三、课题分解与进度安排 课题一:结合原代建系、重编程和胚胎分离等,获得新型多能性干细胞类型 研究目标 建立适合开展细胞倍性调控研究的新型多能干细胞类型 利用这些细胞,开展疾病机制、染色体工程、 基因组稳定性生物学或医学研究 将生物相容性良好的生物材料丝素蛋白与中药有效成分TAN采用冷冻干燥结合丝素蛋白自交联 关节软骨治疗方式 保守治疗 关节注射药物、中医疗法 手术治疗 清创术、细胞移植术 均有一定的局限性,未能有效地实现关节软骨结构 组织工程关节软骨三要素 组织工程和再生医学的发展为骨关节软骨的缺损修复提供了新的期待 软骨再生修复示意图 采用三维软骨组织工程支架修复软骨缺损的研究已取得一系列显著进展,处于临床转化曙光期",
+        "title_like": 1,
+        "body_like": 3
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1481,
+            "w": 0.9243,
+            "h": 0.7925
+          },
+          "area": 0.7325,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 34",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3013,
+            "y": 0.4394,
+            "w": 0.3974,
+            "h": 0.4706
+          },
+          "area": 0.187,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 219",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0559,
+            "y": 0.4394,
+            "w": 0.207,
+            "h": 0.4706
+          },
+          "area": 0.0974,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 239",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7332,
+            "y": 0.4394,
+            "w": 0.207,
+            "h": 0.4706
+          },
+          "area": 0.0974,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "箭头: 五边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1719,
+            "w": 0.8456,
+            "h": 0.0713
+          },
+          "area": 0.0603,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "三、课题分解与进度安排",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "图片 69",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.3147,
+            "y": 0.4602,
+            "w": 0.2205,
+            "h": 0.2161
+          },
+          "area": 0.0477,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0533,
+            "y": 0.1784,
+            "w": 0.8117,
+            "h": 0.0583
+          },
+          "area": 0.0473,
+          "text": "课题一:结合原代建系、重编程和胚胎分离等,获得新型多能性干细胞类型",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "图片 238",
+          "role": "image",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.7455,
+            "y": 0.4526,
+            "w": 0.1737,
+            "h": 0.2617
+          },
+          "area": 0.0455,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2388,
+            "y": 0.2603,
+            "w": 0.7012,
+            "h": 0.0647
+          },
+          "area": 0.0454,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 11,
+          "body": 3,
+          "label": 1
+        },
+        "image": {
+          "image": 3
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 11,
+      "slide_id": "11",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s11",
+      "title_guess": "三、课题分解与进度安排",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "single-hero",
+      "area_signature": "top-center:3,middle-center:2,bottom-center:2",
+      "counts": {
+        "text": 17,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 18,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 11,
+        "total_slides": 19,
+        "text_count": 17,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 18,
+        "connector_count": 1,
+        "text_area": 0.3788,
+        "image_area": 0.136,
+        "shape_area": 1.2802,
+        "text_blob": "三、课题分解与进度安排 课题二:在软骨再生中所用的细胞间具有多系分化潜能的间充质干细胞的应用 研究目标 干细胞协同生物功能性支架修复软骨缺损的机制 MSC是一类具有多种生长潜能、形态功能独特的细胞,有助于关节软骨的修复 富血小板血浆和关节润滑剂透明质酸为载体,联合MSC进行关节腔内注射 用于治疗骨关节炎及其造成的关节软骨损伤最常见的方法是无支架方法 干细胞通过微骨折技术可使软骨下骨出血释放干细胞及生长因子 干细胞种类和来源 间充质干细胞、胚胎干细胞、诱导多功能干细胞是干细胞治疗的主要候选细胞系 A B C A 直接注射 B 联合其他有效成分 C 刺激内源性干细胞自我修复 自身分化形成软骨细胞 旁分泌作用释放活性因子",
+        "title_like": 1,
+        "body_like": 4
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1481,
+            "w": 0.9243,
+            "h": 0.7925
+          },
+          "area": 0.7325,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 118",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.7221,
+            "y": 0.4342,
+            "w": 0.2179,
+            "h": 0.4901
+          },
+          "area": 0.1068,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 20",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0533,
+            "y": 0.4355,
+            "w": 0.3198,
+            "h": 0.2937
+          },
+          "area": 0.0939,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "箭头: 五边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1719,
+            "w": 0.8456,
+            "h": 0.0713
+          },
+          "area": 0.0603,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "三、课题分解与进度安排",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "矩形: 圆角 104",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0527,
+            "y": 0.7536,
+            "w": 0.3224,
+            "h": 0.1707
+          },
+          "area": 0.055,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "矩形: 圆角 64",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.39,
+            "y": 0.608,
+            "w": 0.3198,
+            "h": 0.1531
+          },
+          "area": 0.049,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 79",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.39,
+            "y": 0.4344,
+            "w": 0.3198,
+            "h": 0.1531
+          },
+          "area": 0.049,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0533,
+            "y": 0.1784,
+            "w": 0.8117,
+            "h": 0.0583
+          },
+          "area": 0.0473,
+          "text": "课题二:在软骨再生中所用的细胞间具有多系分化潜能的间充质干细胞的应用",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 84",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.39,
+            "y": 0.7796,
+            "w": 0.3198,
+            "h": 0.1469
+          },
+          "area": 0.047,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 12,
+          "body": 3,
+          "claim": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 12,
+      "slide_id": "12",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s12",
+      "title_guess": "三、课题分解与进度安排",
+      "layout_job": "flow-diagram",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:4,middle-center:3,bottom-left:2",
+      "counts": {
+        "text": 10,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 14,
+        "connector": 2
+      },
+      "metrics": {
+        "slide_index": 12,
+        "total_slides": 19,
+        "text_count": 10,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 14,
+        "connector_count": 2,
+        "text_area": 0.3328,
+        "image_area": 0.1715,
+        "shape_area": 1.0992,
+        "text_blob": "三、课题分解与进度安排 课题三:基于多能干细胞定向分化及成体细胞转分化,生获得性免疫细胞的新策略 研究目标 筛选能够促进多能干细胞向T淋巴细胞、B淋巴细胞、NK 细胞或巨噬细胞 能够体内诱导成体细胞转分化为获得性免疫细胞的关键因子 非小细胞肺癌的PBMC和TIL中T细胞TIGIT表达水平 与健康人外周血单个核细胞相比,非小细胞肺癌患者PBMC中的CD8+ T细胞TIGIT表达水平提高三倍,肿瘤浸润CD8+ T细胞的TIGIT表达水平提高四倍 肿瘤浸润CD8+ T细胞中,仅耗竭性T细胞的TIGIT表达量明显升高 PD-1的表达量变化同步 就意味着TIGIT与PD-1/PD-L1通路对肿瘤浸润CD8+ T细胞有协同抑制作用",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 1",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1481,
+            "w": 0.9243,
+            "h": 0.7925
+          },
+          "area": 0.7325,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "图片 34",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0581,
+            "y": 0.4385,
+            "w": 0.403,
+            "h": 0.2353
+          },
+          "area": 0.0948,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 53",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.5023,
+            "y": 0.4233,
+            "w": 0.2771,
+            "h": 0.2768
+          },
+          "area": 0.0767,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "箭头: 五边形 2",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1719,
+            "w": 0.8456,
+            "h": 0.0713
+          },
+          "area": 0.0603,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "矩形 37",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0579,
+            "y": 0.7827,
+            "w": 0.4032,
+            "h": 0.1479
+          },
+          "area": 0.0596,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "三、课题分解与进度安排",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 51",
+          "role": "body",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0649,
+            "y": 0.7862,
+            "w": 0.3975,
+            "h": 0.1398
+          },
+          "area": 0.0556,
+          "text": "与健康人外周血单个核细胞相比,非小细胞肺癌患者PBMC中的CD8+ T细胞TIGIT表达水平提高三倍,肿瘤浸润CD8+ T细胞的TIGIT表达水平提高四倍",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 4",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0533,
+            "y": 0.1784,
+            "w": 0.8117,
+            "h": 0.0583
+          },
+          "area": 0.0473,
+          "text": "课题三:基于多能干细胞定向分化及成体细胞转分化,生获得性免疫细胞的新策略",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形 23",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2388,
+            "y": 0.2597,
+            "w": 0.7012,
+            "h": 0.0647
+          },
+          "area": 0.0454,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形 24",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.2388,
+            "y": 0.3378,
+            "w": 0.7012,
+            "h": 0.0647
+          },
+          "area": 0.0454,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 7,
+          "body": 1,
+          "label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 13,
+      "slide_id": "13",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s13",
+      "title_guess": "CONTENTS",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-right:3",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 13,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 11,
+        "text_area": 0.1953,
+        "image_area": 0.6329,
+        "shape_area": 1.6029,
+        "text_blob": "项目背景与研究内容 01 课题分解与研究内容 02 任务分解与进度安排 03 研发团队与工作基础 04 预期成果与风险分析 05 CONTENTS 汇报提纲",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3854,
+            "y": 0.0,
+            "w": 0.6146,
+            "h": 0.998
+          },
+          "area": 0.6134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3756,
+            "h": 1.0
+          },
+          "area": 0.3756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3752,
+            "h": 1.0
+          },
+          "area": 0.3752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.0,
+            "w": 0.3057,
+            "h": 1.002
+          },
+          "area": 0.3063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 45",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3861,
+            "y": 0.5784,
+            "w": 0.6139,
+            "h": 0.4197
+          },
+          "area": 0.2577,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.1467,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.3153,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.4764,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.6428,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.812,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11,
+          "section_label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 14,
+      "slide_id": "14",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s14",
+      "title_guess": "四、项目负责人",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "mixed",
+      "density": "high",
+      "framework_signature": "multi-image-grid",
+      "area_signature": "bottom-center:3,top-center:2,bottom-left:2",
+      "counts": {
+        "text": 19,
+        "image": 5,
+        "chart": 0,
+        "table": 0,
+        "shape": 6,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 14,
+        "total_slides": 19,
+        "text_count": 19,
+        "image_count": 5,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 6,
+        "connector_count": 0,
+        "text_area": 0.3785,
+        "image_area": 0.163,
+        "shape_area": 0.5584,
+        "text_blob": "代表项目 四、项目负责人 科研答辩 科研大学教授,博导 中华医学会骨科学分会足踝外组长 医师协会创伤外科医任主任委员 学术兼职 科研医院协会大学附属医院主任委员 科研医师协会肩肘外主任委员 钙离子信号与细胞凋亡 细胞凋亡及凋亡细胞的检测 凋亡的分子机理 一种简单安全提取凋亡细胞DNA的方法 研究方向 “十五” 计划生物技术与现代医学领域专家 特聘教授、博导、入选安全球高被引科学家(2020-2023年度)、中国高被引学者 XXX技术在XX中的运用 一种新型的XX治疗方式 XXX技术在XX中的运用 一种新型的XX治疗方式",
+        "title_like": 1,
+        "body_like": 1
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 99",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.3749,
+            "w": 0.9214,
+            "h": 0.276
+          },
+          "area": 0.2543,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 2",
+          "role": "diagram-block",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.6648,
+            "w": 0.9194,
+            "h": 0.276
+          },
+          "area": 0.2538,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "文本框 158",
+          "role": "body",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1444,
+            "y": 0.2558,
+            "w": 0.7594,
+            "h": 0.1091
+          },
+          "area": 0.0829,
+          "text": "“十五” 计划生物技术与现代医学领域专家 特聘教授、博导、入选安全球高被引科学家(2020-2023年度)、中国高被引学者",
+          "editable": true
+        },
+        {
+          "index": 4,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "四、项目负责人",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "图片 193",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1124,
+            "y": 0.6592,
+            "w": 0.1825,
+            "h": 0.2049
+          },
+          "area": 0.0374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 199",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.1162,
+            "y": 0.6592,
+            "w": 0.1825,
+            "h": 0.2049
+          },
+          "area": 0.0374,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "图片 196",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.316,
+            "y": 0.6592,
+            "w": 0.1821,
+            "h": 0.205
+          },
+          "area": 0.0373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "图片 202",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3333,
+            "y": 0.6592,
+            "w": 0.1821,
+            "h": 0.205
+          },
+          "area": 0.0373,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 6",
+          "role": "decorative-shape",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0407,
+            "y": 0.1428,
+            "w": 0.1009,
+            "h": 0.228
+          },
+          "area": 0.023,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "文本框 36",
+          "role": "label",
+          "zone": "top-left",
+          "box": {
+            "x": 0.0348,
+            "y": 0.1544,
+            "w": 0.2561,
+            "h": 0.0853
+          },
+          "area": 0.0218,
+          "text": "科研答辩",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 4,
+          "title": 1,
+          "footer": 13,
+          "body": 1
+        },
+        "image": {
+          "image": 5
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 15,
+      "slide_id": "15",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s15",
+      "title_guess": "四、课题负责人",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:4,bottom-left:4,bottom-right:1",
+      "counts": {
+        "text": 18,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 21,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 15,
+        "total_slides": 19,
+        "text_count": 18,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 21,
+        "connector_count": 0,
+        "text_area": 0.3719,
+        "image_area": 0.052,
+        "shape_area": 0.8972,
+        "text_blob": "四、课题负责人 成员概况 学术贡献一:建立合适的动物模型,评估组织干细胞及其形成结构移植后的功能 学术贡献二:结合原代建系、重编程和胚胎分离等,获得新型多能性干细胞类型 学术贡献三:主持国家自然科学基金面上、地区项目等项目多项 30人 项目骨干 8人 正高级职称 10人 副高级职称 80% 80后中年人才 项目负责人 课题一负责人:张XX 科研医科大学,教授 课题二负责人:王XX 科研医科大学,教授 课题一负责人:李XX 科研医科大学,教授 课题二负责人:赵XX 科研医科大学,教授",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 119",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4138,
+            "y": 0.4648,
+            "w": 0.5469,
+            "h": 0.4762
+          },
+          "area": 0.2604,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 23",
+          "role": "diagram-block",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0393,
+            "y": 0.1481,
+            "w": 0.9214,
+            "h": 0.2475
+          },
+          "area": 0.228,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 2",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0506,
+            "y": 0.4648,
+            "w": 0.336,
+            "h": 0.4762
+          },
+          "area": 0.16,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 47",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0842,
+            "y": 0.2483,
+            "w": 1.0147,
+            "h": 0.0583
+          },
+          "area": 0.0592,
+          "text": "学术贡献二:结合原代建系、重编程和胚胎分离等,获得新型多能性干细胞类型",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "四、课题负责人",
+          "editable": true
+        },
+        {
+          "index": 6,
+          "name": "文本框 26",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0842,
+            "y": 0.1831,
+            "w": 0.7605,
+            "h": 0.0583
+          },
+          "area": 0.0443,
+          "text": "学术贡献一:建立合适的动物模型,评估组织干细胞及其形成结构移植后的功能",
+          "editable": true
+        },
+        {
+          "index": 7,
+          "name": "文本框 55",
+          "role": "footer",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0842,
+            "y": 0.3135,
+            "w": 0.691,
+            "h": 0.0583
+          },
+          "area": 0.0403,
+          "text": "学术贡献三:主持国家自然科学基金面上、地区项目等项目多项",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 101",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0407,
+            "y": 0.7492,
+            "w": 0.1781,
+            "h": 0.1564
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "矩形: 圆角 110",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0407,
+            "y": 0.7492,
+            "w": 0.1781,
+            "h": 0.1564
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 圆角 113",
+          "role": "decorative-shape",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0407,
+            "y": 0.7492,
+            "w": 0.1781,
+            "h": 0.1564
+          },
+          "area": 0.0279,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "label": 6,
+          "footer": 11
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 16,
+      "slide_id": "16",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s16",
+      "title_guess": "四、依托平台",
+      "layout_job": "matrix-grid",
+      "primary_carrier": "diagram-shapes",
+      "density": "high",
+      "framework_signature": "mixed",
+      "area_signature": "top-center:5,bottom-left:2,bottom-right:1",
+      "counts": {
+        "text": 13,
+        "image": 4,
+        "chart": 0,
+        "table": 0,
+        "shape": 8,
+        "connector": 1
+      },
+      "metrics": {
+        "slide_index": 16,
+        "total_slides": 19,
+        "text_count": 13,
+        "image_count": 4,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 8,
+        "connector_count": 1,
+        "text_area": 0.3267,
+        "image_area": 0.2052,
+        "shape_area": 0.7926,
+        "text_blob": "四、依托平台 一流高校 前期研究成果 组织工程和再生医学的发展为骨关节软骨的缺损修复提供了新的期待 组织工程和再生医学的发展为骨关节软骨的缺损修复提供了新的期待 平台支撑:两家大型企业、一家顶尖权威检测机构 科研农业有限公司 科研医学检测实验室 科研复合材料研究所 学科支撑 医学国家级“双一流” 学科、材料科学排名ESI前10% 科研医科大学 科研大学",
+        "title_like": 1,
+        "body_like": 2
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形: 圆角 82",
+          "role": "diagram-block",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0374,
+            "y": 0.4517,
+            "w": 0.5137,
+            "h": 0.4893
+          },
+          "area": 0.2514,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 140",
+          "role": "diagram-block",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.5617,
+            "y": 0.4517,
+            "w": 0.399,
+            "h": 0.4893
+          },
+          "area": 0.1952,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 122",
+          "role": "decorative-shape",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.2955,
+            "w": 0.9568,
+            "h": 0.1235
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形: 圆角 133",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1467,
+            "w": 0.9568,
+            "h": 0.1235
+          },
+          "area": 0.1182,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "图片 168",
+          "role": "image",
+          "zone": "bottom-left",
+          "box": {
+            "x": 0.0516,
+            "y": 0.5552,
+            "w": 0.2386,
+            "h": 0.3037
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "图片 171",
+          "role": "image",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.2993,
+            "y": 0.5552,
+            "w": 0.2386,
+            "h": 0.3039
+          },
+          "area": 0.0725,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "四、依托平台",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形 137",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0558,
+            "y": 0.2109,
+            "w": 0.8264,
+            "h": 0.0586
+          },
+          "area": 0.0484,
+          "text": "医学国家级“双一流” 学科、材料科学排名ESI前10%",
+          "editable": true
+        },
+        {
+          "index": 9,
+          "name": "矩形: 一个圆顶角，剪去另一个顶角 134",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1458,
+            "w": 0.787,
+            "h": 0.0569
+          },
+          "area": 0.0448,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "矩形: 一个圆顶角，剪去另一个顶角 123",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.2949,
+            "w": 0.7701,
+            "h": 0.0569
+          },
+          "area": 0.0438,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 10,
+          "body": 2
+        },
+        "image": {
+          "image": 4
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 17,
+      "slide_id": "17",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s17",
+      "title_guess": "CONTENTS",
+      "layout_job": "duo-compare",
+      "primary_carrier": "image",
+      "density": "medium-high",
+      "framework_signature": "mixed",
+      "area_signature": "middle-right:3,middle-left:3,bottom-right:3",
+      "counts": {
+        "text": 12,
+        "image": 2,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 11
+      },
+      "metrics": {
+        "slide_index": 17,
+        "total_slides": 19,
+        "text_count": 12,
+        "image_count": 2,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 11,
+        "text_area": 0.1953,
+        "image_area": 0.6329,
+        "shape_area": 1.6029,
+        "text_blob": "项目背景与研究内容 01 课题分解与研究内容 02 任务分解与进度安排 03 研发团队与工作基础 04 预期成果与风险分析 05 CONTENTS 汇报提纲",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "矩形 32",
+          "role": "diagram-block",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.3854,
+            "y": 0.0,
+            "w": 0.6146,
+            "h": 0.998
+          },
+          "area": 0.6134,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形 13",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3756,
+            "h": 1.0
+          },
+          "area": 0.3756,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "图片 9",
+          "role": "image",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.3752,
+            "h": 1.0
+          },
+          "area": 0.3752,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "矩形 8",
+          "role": "diagram-block",
+          "zone": "middle-left",
+          "box": {
+            "x": 0.0804,
+            "y": 0.0,
+            "w": 0.3057,
+            "h": 1.002
+          },
+          "area": 0.3063,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 5,
+          "name": "Picture 45",
+          "role": "image",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.3861,
+            "y": 0.5784,
+            "w": 0.6139,
+            "h": 0.4197
+          },
+          "area": 0.2577,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "top-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.1467,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.3153,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 8,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "middle-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.4764,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.6428,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 10,
+          "name": "PA-圆角矩形 5824",
+          "role": "decorative-shape",
+          "zone": "bottom-right",
+          "box": {
+            "x": 0.4348,
+            "y": 0.812,
+            "w": 0.4618,
+            "h": 0.1212
+          },
+          "area": 0.056,
+          "text": "",
+          "editable": false
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "label": 11,
+          "section_label": 1
+        },
+        "image": {
+          "image": 2
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 18,
+      "slide_id": "18",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s18",
+      "title_guess": "四、预期成果与风险分析",
+      "layout_job": "table",
+      "primary_carrier": "table",
+      "density": "low",
+      "framework_signature": "mixed",
+      "area_signature": "middle-center:1,bottom-center:1,top-center:1",
+      "counts": {
+        "text": 2,
+        "image": 0,
+        "chart": 0,
+        "table": 1,
+        "shape": 0,
+        "connector": 0
+      },
+      "metrics": {
+        "slide_index": 18,
+        "total_slides": 19,
+        "text_count": 2,
+        "image_count": 0,
+        "chart_count": 0,
+        "table_count": 1,
+        "shape_count": 0,
+        "connector_count": 0,
+        "text_area": 0.1288,
+        "image_area": 0,
+        "shape_area": 0,
+        "text_blob": "四、预期成果与风险分析 提前预案、组织高效、风险可控",
+        "title_like": 1,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "Group 21",
+          "role": "table",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0335,
+            "y": 0.2115,
+            "w": 0.9272,
+            "h": 0.6124
+          },
+          "area": 0.5678,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "文本框 2",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.0305,
+            "y": 0.8375,
+            "w": 0.9391,
+            "h": 0.0763
+          },
+          "area": 0.0717,
+          "text": "提前预案、组织高效、风险可控",
+          "editable": true
+        },
+        {
+          "index": 3,
+          "name": "文本框 3",
+          "role": "title",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1971,
+            "y": 0.0133,
+            "w": 0.6058,
+            "h": 0.0942
+          },
+          "area": 0.0571,
+          "text": "四、预期成果与风险分析",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "title": 1,
+          "footer": 1
+        },
+        "image": {}
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    },
+    {
+      "slide_index": 19,
+      "slide_id": "19",
+      "framework_id": "6红色系-国家自然科学项目申请答辩结题汇报PPT-7cd1e407-s19",
+      "title_guess": "“肝细胞研究与器官修复”重点专项 2022 年度项目汇报",
+      "layout_job": "image-hero",
+      "primary_carrier": "diagram-shapes",
+      "density": "medium-high",
+      "framework_signature": "single-hero",
+      "area_signature": "middle-center:4,top-center:3,bottom-center:3",
+      "counts": {
+        "text": 14,
+        "image": 1,
+        "chart": 0,
+        "table": 0,
+        "shape": 10,
+        "connector": 8
+      },
+      "metrics": {
+        "slide_index": 19,
+        "total_slides": 19,
+        "text_count": 14,
+        "image_count": 1,
+        "chart_count": 0,
+        "table_count": 0,
+        "shape_count": 10,
+        "connector_count": 8,
+        "text_area": 0.463,
+        "image_area": 1.003,
+        "shape_area": 2.1122,
+        "text_blob": "“肝细胞研究与器官修复”重点专项 2022 年度项目汇报 项目负责人:科研答辩 科研大学第三医院医学研究所 感谢各位领导专家 敬请批评指正! 医学技术重点实验室 科研科技大学 科研材料安全研究所 科研医科大学检验科 科研医科大仪器实验室 科研医学仪器实验室 科研医学中心 科研医科大学检验科 医学技术重点实验室 科研医科疾病检测中心",
+        "title_like": 0,
+        "body_like": 0
+      },
+      "slots": [
+        {
+          "index": 1,
+          "name": "图片 84",
+          "role": "image",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0,
+            "y": -0.0,
+            "w": 0.9995,
+            "h": 1.0035
+          },
+          "area": 1.003,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 2,
+          "name": "矩形: 圆角 8",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1389,
+            "w": 0.9243,
+            "h": 0.5151
+          },
+          "area": 0.4761,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 3,
+          "name": "矩形: 圆角 83",
+          "role": "diagram-block",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0363,
+            "y": 0.1389,
+            "w": 0.9243,
+            "h": 0.5115
+          },
+          "area": 0.4728,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 4,
+          "name": "文本框 9",
+          "role": "label",
+          "zone": "middle-center",
+          "box": {
+            "x": 0.0562,
+            "y": 0.1963,
+            "w": 0.8875,
+            "h": 0.3366
+          },
+          "area": 0.2987,
+          "text": "感谢各位领导专家 敬请批评指正!",
+          "editable": true
+        },
+        {
+          "index": 5,
+          "name": "矩形 96",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1285,
+            "y": 0.0097,
+            "w": 0.7214,
+            "h": 0.1164
+          },
+          "area": 0.084,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 6,
+          "name": "矩形 99",
+          "role": "decorative-shape",
+          "zone": "top-center",
+          "box": {
+            "x": 0.1484,
+            "y": 0.0387,
+            "w": 0.7214,
+            "h": 0.074
+          },
+          "area": 0.0534,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 7,
+          "name": "文本框 18",
+          "role": "footer",
+          "zone": "top-center",
+          "box": {
+            "x": 0.2337,
+            "y": 0.0504,
+            "w": 0.5325,
+            "h": 0.0539
+          },
+          "area": 0.0287,
+          "text": "“肝细胞研究与器官修复”重点专项 2022 年度项目汇报",
+          "editable": true
+        },
+        {
+          "index": 8,
+          "name": "矩形: 圆角 23",
+          "role": "decorative-shape",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3804,
+            "y": 0.6919,
+            "w": 0.2412,
+            "h": 0.0793
+          },
+          "area": 0.0191,
+          "text": "",
+          "editable": false
+        },
+        {
+          "index": 9,
+          "name": "文本框 51",
+          "role": "footer",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3324,
+            "y": 0.6825,
+            "w": 0.3388,
+            "h": 0.0539
+          },
+          "area": 0.0183,
+          "text": "科研大学第三医院医学研究所",
+          "editable": true
+        },
+        {
+          "index": 10,
+          "name": "文本框 24",
+          "role": "label",
+          "zone": "bottom-center",
+          "box": {
+            "x": 0.3841,
+            "y": 0.6979,
+            "w": 0.2278,
+            "h": 0.0673
+          },
+          "area": 0.0153,
+          "text": "项目负责人:科研答辩",
+          "editable": true
+        }
+      ],
+      "content_roles": {
+        "text": {
+          "footer": 12,
+          "label": 2
+        },
+        "image": {
+          "image": 1
+        }
+      },
+      "reusable_for": [
+        "封面",
+        "目录",
+        "研究意义",
+        "技术路线",
+        "结果/进度",
+        "总结"
+      ],
+      "avoid_for": [
+        "儿童活动",
+        "海报展示",
+        "强插画风"
+      ],
+      "editable_text_policy": [
+        "标题、标签、说明句保留为可编辑文本",
+        "截图和照片保留原图，不压缩不转码",
+        "结构信息写入 JSON，便于后续快速定位同类页面"
+      ]
+    }
+  ],
+  "summary": {
+    "slide_count": 19,
+    "layout_job_counts": {
+      "duo-compare": 5,
+      "matrix-grid": 4,
+      "flow-diagram": 3,
+      "limitations-future": 2,
+      "cover-statement": 1,
+      "claim-evidence": 1,
+      "research-question": 1,
+      "table": 1,
+      "image-hero": 1
+    },
+    "carrier_counts": {
+      "diagram-shapes": 11,
+      "image": 6,
+      "mixed": 1,
+      "table": 1
+    },
+    "density_counts": {
+      "medium-high": 9,
+      "high": 9,
+      "low": 1
+    },
+    "dominant_layout_jobs": [
+      "duo-compare",
+      "matrix-grid",
+      "flow-diagram",
+      "limitations-future",
+      "cover-statement"
+    ],
+    "dominant_primary_carriers": [
+      "diagram-shapes",
+      "image",
+      "mixed"
+    ]
+  }
+}
