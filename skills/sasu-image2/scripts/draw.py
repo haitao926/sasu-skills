@@ -9,7 +9,7 @@ from pathlib import Path
 
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 LOCAL_CONFIG_PATH = SKILL_ROOT / "config.local.json"
-DEFAULT_BASE_URL = "https://api.vectorengine.ai/v1"
+DEFAULT_BASE_URL = "http://10.15.46.72:8010/v1"
 DEFAULT_MODEL = "gpt-image-2"
 DEFAULT_OUTPUT = "outputs/imagegen/sasu-image2.png"
 ALLOWED_SIZES = {
@@ -73,9 +73,10 @@ def load_runtime_defaults():
     local_config = load_local_config()
     model = os.getenv("SASU_IMAGE2_MODEL") or local_config.get("model") or DEFAULT_MODEL
     api_key = os.getenv("SASU_IMAGE2_API_KEY") or local_config.get("api_key")
+    base_url = os.getenv("SASU_IMAGE2_BASE_URL") or local_config.get("base_url") or DEFAULT_BASE_URL
     return {
         "api_key": api_key,
-        "base_url": DEFAULT_BASE_URL,
+        "base_url": base_url,
         "model": model,
     }
 

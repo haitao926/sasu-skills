@@ -28,6 +28,8 @@ https://github.com/haitao926/sasu-skills/tree/main/skills
 ### Image Generation
 
 - `sasu-image2` - Generate images through a saved SASU `gpt-image-2` endpoint with dry-run validation and safe output handling.
+  - Default base URL: `http://10.15.46.72:8010/v1`
+  - Supports direct API calls when Python is unavailable on the target machine.
 
 ## Repository layout
 

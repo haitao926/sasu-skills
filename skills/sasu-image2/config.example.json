@@ -1,4 +1,5 @@
 {
   "api_key": "replace-me",
+  "base_url": "http://10.15.46.72:8010/v1",
   "model": "gpt-image-2"
 }

@@ -9,21 +9,76 @@ Use this skill when the user wants image generation through the saved SASU image
 
 ## Workflow
 
-1. Use the bundled script:
+1. Preferred path: use the bundled wrapper script when Python is available.
 
    ```bash
-   python3 /Users/apple/.codex/skills/sasu-image2/scripts/draw.py \
+   python skills/sasu-image2/scripts/draw.py \
      --prompt "<image description>" \
      --out outputs/imagegen/result.png
    ```
 
+   Windows PowerShell:
+
+   ```powershell
+   py .\skills\sasu-image2\scripts\draw.py `
+     --prompt "<image description>" `
+     --out outputs\imagegen\result.png
+   ```
+
+2. If the other machine cannot run Python, call the image endpoint directly with `curl` or PowerShell. The skill does not require the Python wrapper to use the API.
+
+   `curl` example:
+
+   ```bash
+   curl http://10.15.46.72:8010/v1/images/generations \
+     -H "Authorization: Bearer $SASU_IMAGE2_API_KEY" \
+     -H "Content-Type: application/json" \
+     -d '{
+       "model": "gpt-image-2",
+       "prompt": "A refined poster of orbital geometry on warm paper",
+       "size": "1024x1536",
+       "quality": "high",
+       "n": 1,
+       "output_format": "png"
+     }'
+   ```
+
+   The direct API response contains base64 image data in `data[0].b64_json`. If the machine is on Windows, prefer the PowerShell example below because it both requests the image and writes the PNG file.
+
+   Windows PowerShell example:
+
+   ```powershell
+   $headers = @{
+     Authorization = "Bearer $env:SASU_IMAGE2_API_KEY"
+     "Content-Type" = "application/json"
+   }
+   $body = @{
+     model = "gpt-image-2"
+     prompt = "A refined poster of orbital geometry on warm paper"
+     size = "1024x1536"
+     quality = "high"
+     n = 1
+     output_format = "png"
+   } | ConvertTo-Json
+
+   $response = Invoke-RestMethod `
+     -Uri "http://10.15.46.72:8010/v1/images/generations" `
+     -Method Post `
+     -Headers $headers `
+     -Body $body
+
+   $bytes = [Convert]::FromBase64String($response.data[0].b64_json)
+   [IO.File]::WriteAllBytes(".\\outputs\\imagegen\\result.png", $bytes)
+   ```
+
 2. Defaults:
    - Model: `gpt-image-2`
-   - Base URL: fixed in the script
+   - Base URL: `http://10.15.46.72:8010/v1`
    - API key: loaded from `config.local.json` or `SASU_IMAGE2_API_KEY`
    - Size: `1024x1536`
    - Quality: `high`
    - Output format: PNG
+   - `base_url` can be overridden by `SASU_IMAGE2_BASE_URL` or `config.local.json`
 
 3. Save final images under the current workspace's `outputs/imagegen/` unless the user requests another workspace-local output path.
 
@@ -33,7 +88,9 @@ Use this skill when the user wants image generation through the saved SASU image
 
    ```json
    {
-     "api_key": "your-sasu-key"
+     "api_key": "your-sasu-key",
+     "base_url": "http://10.15.46.72:8010/v1",
+     "model": "gpt-image-2"
    }
    ```
 
@@ -46,7 +103,7 @@ Use this skill when the user wants image generation through the saved SASU image
 ## Options
 
 ```bash
-python3 /Users/apple/.codex/skills/sasu-image2/scripts/draw.py \
+python skills/sasu-image2/scripts/draw.py \
   --prompt "A refined poster of orbital geometry on warm paper" \
   --size 1024x1536 \
   --quality high \
