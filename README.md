@@ -21,6 +21,10 @@ https://github.com/haitao926/sasu-skills/tree/main/skills
 
 ## Included skills
 
+### Identity and Access
+
+- [`school-dingtalk-sso`](skills/school-dingtalk-sso/SKILL.md) helps integrate DingTalk Workbench sign-in, link existing accounts, and map department and role IDs to application permissions.
+
 ### Document Processing
 
 - `mineru-parser` - Parse PDFs and other documents through MinerU Cloud API with OCR and structured output support.
@@ -42,6 +46,9 @@ https://github.com/haitao926/sasu-skills/tree/main/skills
 
 ```text
 skills/
+  school-dingtalk-sso/
+    SKILL.md
+    references.md
   mineru-parser/
     SKILL.md
     parse.py
@@ -71,6 +78,16 @@ Use the repository fields in the `cc-switch` skill repo form:
 - Subdirectory: `skills`
 
 If `cc-switch` accepts a GitHub repository entry, it should discover each folder under `skills/` as an installable skill.
+
+## Installing the DingTalk skill with OpenCode
+
+Run this from the target project:
+
+```bash
+npx skills add haitao926/sasu-skills --skill school-dingtalk-sso -a opencode
+```
+
+Then ask OpenCode to use `school-dingtalk-sso` to connect the project's existing user system to your DingTalk organization. Include the application's public URL, how existing users should be linked, and any department or role rules.
 
 ## Gitea note
 
